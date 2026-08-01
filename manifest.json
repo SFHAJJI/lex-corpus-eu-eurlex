@@ -1,0 +1,34 @@
+{
+  "schema": "lex-corpus/3",
+  "publisher": {
+    "id": "eu-eurlex",
+    "name": "Publications Office of the EU (EUR-Lex / Cellar)",
+    "jurisdiction": "EU",
+    "homepage": "https://eur-lex.europa.eu"
+  },
+  "tier": "A",
+  "attribution": "\u00A9 European Union, 1998-2026. Reuse permitted with attribution under Commission Decision 2011/833/EU. Consolidated texts have no legal effect; only acts published in the Official Journal are authentic.",
+  "source_terms_url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html",
+  "text_included": true,
+  "text_public": true,
+  "modifications": "Metadata converted from source RDF to JSON; bodies stored verbatim as retrieved from the publisher\u0027s dissemination channel; no text altered.",
+  "document_types": [
+    {
+      "code": "REG",
+      "versions": 28
+    },
+    {
+      "code": "DIR",
+      "versions": 18
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "works": 8,
+  "versions": 46,
+  "valid_from_earliest": "2013-06-28",
+  "valid_to_latest": "2026-07-02",
+  "history_begins": "publisher",
+  "ingester_version": "0.1.0"
+}
