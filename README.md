@@ -82,7 +82,7 @@ Decision 2011/833/EU). Bodies stored verbatim as retrieved; no text altered.
 See [NOTICE](NOTICE). Demo + MCP server: https://github.com/SFHAJJI/lex
 
 - Browse: any `works/<slug>/versions/<date>/meta.json`
-- The signed SQLite index (`index-lu-legilux.db`) is published as a release
+- The signed SQLite index (`index-eu-eurlex.db`) is published as a release
   asset — filter-first queries, FTS over titles, ECDSA-P256-signed stamp.
 - MCP server + web demo: https://github.com/SFHAJJI/lex
 
