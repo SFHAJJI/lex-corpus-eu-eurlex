@@ -8,6 +8,18 @@ Office's official dissemination channel (Cellar).
 **8 works · 46 consolidated versions**, including future-dated ones (the CRR
 alone has 22 states through 2026-06-26 — served with a `provisional` marker).
 
+**[Per-article dataset](https://github.com/SFHAJJI/lex-articles)** ·
+**[Live demo](https://law.soufien.lu)** ·
+**[MCP endpoint](https://law.soufien.lu/mcp)** ·
+**[Engine](https://github.com/SFHAJJI/lex)**
+
+## Why a git repository?
+
+`git log` is the legislative history, `git diff` is "what changed between two
+consolidations", and a clone is a complete, tamper-evident copy — every byte
+covered by a sha256 recorded inside the content itself. No API, no account, no
+database server: the format outlives any website built on top of it.
+
 | Work | CELEX | Versions |
 |---|---|---|
 | GDPR | 32016R0679 | 1 |
