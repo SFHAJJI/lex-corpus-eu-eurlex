@@ -35,13 +35,18 @@ works/32013r0575/                       ← CRR
     2013-06-28/
       meta.json                         ← validity, events, observations, sha256
       en.html                           ← verbatim XHTML as retrieved (hash covers this file)
+      en.fmx4/                          ← Formex 4 manifestation, verbatim zip members
+        CL2013R0575EN0000020.0001.xml   ← one sha256 observation per member (format: "fmx4")
     2015-01-18/…                        ← 22 dated states
 ```
 
 `valid_from` is the publisher's consolidation date; `valid_to` derives from the
 next consolidation in the publisher's own sequence. Bodies above 4 MB keep
 metadata + link only (disclosed per-version as `text.available=false`,
-`reason="not-fetched"`).
+`reason="not-fetched"`) — for those versions the Formex manifestation usually
+still fits and carries the full text. Formex is fetched with an identity guard:
+the file's own `INFO.CONSLEG START.DATE` must match the version date, or it is
+not stored.
 
 ## The six intake answers (spec §1.5)
 
