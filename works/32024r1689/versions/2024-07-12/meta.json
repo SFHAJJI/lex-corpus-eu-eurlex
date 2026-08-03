@@ -4,18 +4,25 @@
   "publisher": "eu-eurlex",
   "document_type": "REG",
   "valid_from": "2024-07-12",
+  "valid_to": "2026-07-26",
   "valid_time_source": "publisher",
   "publication_date": "2024-07-12",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-03T15:38:56Z",
+      "detail": "valid_to=2026-07-26"
     }
   ],
   "expressions": [
     {
       "language": "en",
       "valid_from": "2024-07-12",
+      "valid_to": "2026-07-26",
       "valid_time_source": "publisher",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20240712",
       "observations": [],
@@ -35,5 +42,5 @@
   "raw": {
     "celex": "02024R1689-20240712"
   },
-  "record_sha256": "b75bf353c0c091ef1c273cd9150804d5439290c4d0cdb1d20bb9f824f5e0ea93"
+  "record_sha256": "65ec49cc3d776efb15b6025cbc5ab4156bc45c7421bce26448ecc850c26995b4"
 }
