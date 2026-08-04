@@ -1,5 +1,11 @@
 # lex-corpus-eu-eurlex
 
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](LICENSE)
+[![Source](https://img.shields.io/badge/source-EUR--Lex%20Cellar-003399?style=flat-square)](https://eur-lex.europa.eu)
+[![Corpus](https://img.shields.io/badge/corpus-10%20acts%20%C2%B7%2056%20versions-brightgreen?style=flat-square)](https://law.soufien.lu/coverage)
+[![Formats](https://img.shields.io/badge/formats-Formex%204%20%C2%B7%20XHTML-orange?style=flat-square)](README.md)
+[![Live](https://img.shields.io/badge/live-law.soufien.lu-6f42c1?style=flat-square)](https://law.soufien.lu)
+
 **Consolidated EU law with its dates, and its text.** Every consolidated
 version of a flagship set of EU acts, with publisher-asserted validity
 intervals and the verbatim consolidated XHTML as retrieved from the Publications
