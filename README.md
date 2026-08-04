@@ -15,10 +15,15 @@ alone has 22 states through 2026-06-26, served with a `provisional` marker).
 
 ## Why a git repository?
 
-`git log` is the legislative history, `git diff` is "what changed between two
-consolidations", and a clone is a complete, tamper-evident copy, every byte
-covered by a sha256 recorded inside the content itself. No API, no account, no
-database server: the format outlives any website built on top of it.
+A clone is a complete, tamper-evident copy, every byte covered by a sha256
+recorded inside the content itself. No API, no account, no database server: the
+format outlives any website built on top of it.
+
+What git is **not** here is the timeline. A commit records when this corpus
+observed a version, never when the act applied. Both time axes live inside the
+hashed content, in each version's `meta.json`, never in mutable commit
+metadata. The full argument, and what that choice cost, is at
+[law.soufien.lu/decisions](https://law.soufien.lu/decisions).
 
 | Work | CELEX | Versions |
 |---|---|---|

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "lex-corpus-eu-eurlex, verbatim consolidated EU acts"
+message: "If you use this corpus, please cite it, and cite EUR-Lex as the source of the texts."
+type: dataset
+authors:
+  - family-names: Hajji
+    given-names: Soufien
+repository-code: "https://github.com/SFHAJJI/lex-corpus-eu-eurlex"
+url: "https://law.soufien.lu"
+abstract: >-
+  Consolidated versions of ten EU acts (GDPR, CRR, MiFID II, PSD2, SFDR, DORA, NIS2, the AI
+  Act, RED II and the Electricity Market Directive) as verbatim Cellar manifestations
+  (Formex 4 and XHTML), with dated JSON metadata carrying validity intervals, an append-only
+  observation chain and a SHA-256 per record. This is a deliberately small, chosen set, not
+  the consolidated acquis.
+keywords:
+  - legal-data
+  - legislation
+  - european-union
+  - eur-lex
+  - formex
+  - consolidated-legislation
+  - open-data
+license: CC-BY-4.0
