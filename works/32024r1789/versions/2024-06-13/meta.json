@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32024r1789:2024-06-13",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024R1789",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2024-06-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-06-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-06-13",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2024/1789 of the European Parliament and of the Council of 13 June 2024 on the internal markets for renewable gas, natural gas and hydrogen, amending Regulations (EU) No 1227/2011, (EU) 2017/1938, (EU) 2019/942 and (EU) 2022/869 and Decision (EU) 2017/684 and repealing Regulation (EC) No 715/2009 (recast) (Text with EEA relevance)",
+      "title_short": "Regulation (EU) 2024/1789",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1789",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "e7acf3bbe41b8cce66f1d99c25048cb7b6085371d44745c285de053ab62d76c5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1789",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1789"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-06-13",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2024/1789 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 sur les march\u00E9s int\u00E9rieurs du gaz renouvelable, du gaz naturel et de l\u2019hydrog\u00E8ne, modifiant les r\u00E8glements (UE) n\u00B0 1227/2011, (UE) 2017/1938, (UE) 2019/942 et (UE) 2022/869 et la d\u00E9cision (UE) 2017/684 et abrogeant le r\u00E8glement (CE) n\u00B0 715/2009 (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement (UE) 2024/1789 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 sur les march\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1789",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cff80d8d22e569300ca94446b9590cbe34cd23beaf8c1873dff2792fc2d394ce",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1789",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1789"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32024R1789",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "bc97892bb05b1ca42e6486b8077beab827472f48c1d1eb8366673cd5a8ad68a2"
+}

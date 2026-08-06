@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32016r1963:2016-11-09",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32016R1963",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2016-11-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2016-11-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2016-11-09",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2016/1963 of 9 November 2016 amending Implementing Regulation (EU) 2015/2378 as regards standard forms and linguistic arrangements to be used in relation to Council Directives (EU) 2015/2376 and (EU) 2016/881",
+      "title_short": "Commission Implementing Regulation (EU) 2016/1963 of 9 November 2016 amending Implementing\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1963",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "80a2c26e2ddb68463511b028a4d18f32046f4950d2ffb33e5696cab53b3e0057",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1963",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1963"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2016-11-09",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2016/1963 de la Commission du 9 novembre 2016 modifiant le r\u00E8glement (UE) 2015/2378 en ce qui concerne les formulaires types \u00E0 utiliser et le r\u00E9gime linguistique applicable aux fins des directives (UE) 2015/2376 et (UE) 2016/881 du Conseil",
+      "title_short": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2016/1963 de la Commission du 9 novembre 2016 modifiant le r\u00E8gl\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1963",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "48aff5440d3757c90a9b29d39f7bad435f94c062095b3a069b3fc38e934f4749",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1963",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1963"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32016R1963",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "22fbc8f6acd9767261e88b8a9e949a79f631e69e7a69680aeba78058ae8ddb23"
+}

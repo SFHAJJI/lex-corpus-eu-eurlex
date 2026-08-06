@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025r2088:2025-10-08",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R2088",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2025-10-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-10-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-10-08",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)",
+      "title_short": "Regulation (EU) 2025/2088",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2088",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "cd411da915526b2ea5f3d24c2c130293025615607980bb0c573e56098ae84161",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2088",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2088"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-10-08",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2025/2088 du Parlement europ\u00E9en et du Conseil du 8 octobre 2025 modifiant les r\u00E8glements (UE) n\u00B0 1092/2010, (UE) n\u00B0 1093/2010, (UE) n\u00B0 1094/2010, (UE) n\u00B0 1095/2010, (UE) n\u00B0 806/2014, (UE) 2021/523 et (UE) 2024/1620 en ce qui concerne certaines obligations de d\u00E9claration dans les domaines des services financiers et du soutien \u00E0 l\u2019investissement (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement (UE) 2025/2088 du Parlement europ\u00E9en et du Conseil du 8 octobre 2025 modifiant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2088",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cd8a0fee2d62a2bd92071484822f66e70681e642edb932d37564ae692e6820d3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2088",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2088"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R2088",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "d517fbc978237cb4319d77d925024052471d564035a75dc05a23ac92f4890529"
+}

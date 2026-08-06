@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32019l0001:2018-12-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L0001",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2018-12-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2018-12-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2018-12-11",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2019/1 of the European Parliament and of the Council of 11 December 2018 to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market (Text with EEA relevance.)",
+      "title_short": "Directive (EU) 2019/1",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0001",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "922346617b76dc09f75de93f3d255c1564bc5b05483bc83deb90e9d56f09a071",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0001",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0001"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2018-12-11",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/1 du Parlement europ\u00E9en et du Conseil du 11 d\u00E9cembre 2018 visant \u00E0 doter les autorit\u00E9s de concurrence des \u00C9tats membres des moyens de mettre en \u0153uvre plus efficacement les r\u00E8gles de concurrence et \u00E0 garantir le bon fonctionnement du march\u00E9 int\u00E9rieur (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
+      "title_short": "Directive (UE) 2019/1 du Parlement europ\u00E9en et du Conseil du 11 d\u00E9cembre 2018 visant \u00E0 dot\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0001",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "11aa7502b8a216c03cc7a92495bd854579696cac4f20b49b1019ad5fb084a457",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0001",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0001"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32019L0001",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "competition",
+    "scope_reasons": "domain:competition:seed"
+  },
+  "record_sha256": "1fc16dc769587f78bb8dfbacaf463c735ea15b1d5265f9ca3d6ad60e87279c01"
+}

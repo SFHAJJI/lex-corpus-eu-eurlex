@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32026r0296:2026-02-09",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0296",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2026-02-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2026-02-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-02-09",
+      "valid_time_source": "publisher",
+      "title": "Commission Delegated Regulation (EU) 2026/296 of 9\u00A0February 2026 supplementing Regulation (EU)\u00A02024/1781 of the European Parliament and of the Council by setting out derogations from the prohibition of destruction of unsold consumer products",
+      "title_short": "Commission Delegated Regulation (EU) 2026/296 of 9\u00A0February 2026 supplementing Regulation (EU)\u00A02024/1781",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0296",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "d87ef2fb4b375b8b13d841547bf0ff31a0a88805bbc959979132b7335ceaa7a0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0296",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0296"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-02-09",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2026/296 de la Commission du 9\u00A0f\u00E9vrier 2026 compl\u00E9tant le r\u00E8glement (UE)\u00A02024/1781 du Parlement europ\u00E9en et du Conseil en \u00E9tablissant des d\u00E9rogations \u00E0 l\u2019interdiction de destruction des produits de consommation invendus",
+      "title_short": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2026/296 de la Commission du 9\u00A0f\u00E9vrier 2026 compl\u00E9tant le r\u00E8glement\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0296",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "85b9e90c846d730ac0cb1f89220c7ef22fcd89e2d50cbea8787ce88c231eb412",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0296",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0296"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R0296",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "e31733e7748052f167a3d8c711f0f330446f18790308be37b1b2866867d91509"
+}

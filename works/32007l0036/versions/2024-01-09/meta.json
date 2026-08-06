@@ -1,0 +1,108 @@
+{
+  "lex_id": "eu-eurlex:32007l0036:2024-01-09",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32007L0036",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2024-01-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-01-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-01-09",
+      "valid_time_source": "publisher",
+      "title": "Directive 2007/36/EC of the European Parliament and of the Council of 11\u00A0July 2007 on the exercise of certain rights of shareholders in listed companies",
+      "title_short": "Directive 2007/36/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007L0036-20240109",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "e501d3167acb55339399401a3f83af5821ebad19b84d2154da3e78cfb8761c78",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007L0036-20240109",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "en.fmx4/CL2007L0036EN0040010.0001.doc.xml",
+          "sha256": "e133f5b88328b5205f166d919f520981fcd29b2c07e76ba316fbe8fd928676de",
+          "source_uri": "https://publications.europa.eu/resource/cellar/d52030d7-c57b-11ee-95d9-01aa75ed71a1.0006.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL2007L0036EN0040010.0001.xml",
+          "sha256": "c9199d828570e828fabce491991662d5e3246f8129a71dd6b040456786888c8c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/d52030d7-c57b-11ee-95d9-01aa75ed71a1.0006.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007L0036-20240109"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-01-09",
+      "valid_time_source": "publisher",
+      "title": "Directive 2007/36/CE du Parlement europ\u00E9en et du Conseil du 11\u00A0juillet 2007 concernant l\u2019exercice de certains droits des actionnaires de soci\u00E9t\u00E9s cot\u00E9es",
+      "title_short": "Directive 2007/36/CE du Parlement europ\u00E9en et du Conseil du 11\u00A0juillet 2007 concernant l\u2019e\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02007L0036-20240109",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "41e7a4c40a9eb248ff50ced908395d851a8453ffaa94876cce730e76f29dfec4",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02007L0036-20240109",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2007L0036FR0040010.0001.doc.xml",
+          "sha256": "902701b592ec4db72bbcf0445a10b0b2a7f58fd6a6c4d3d834efabb16c40270e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/d52030d7-c57b-11ee-95d9-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2007L0036FR0040010.0001.xml",
+          "sha256": "9ed20d0b73544e9f103a41e0277192c9f729bf0192113f8d73ed572d743e2a59",
+          "source_uri": "https://publications.europa.eu/resource/cellar/d52030d7-c57b-11ee-95d9-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02007L0036-20240109"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32007L0036"
+    }
+  ],
+  "raw": {
+    "celex": "02007L0036-20240109",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:seed"
+  },
+  "record_sha256": "b042e2f6a096543ada74776ceeb18d9409faf0dcec99a0a59e7b1aabac58f1fc"
+}

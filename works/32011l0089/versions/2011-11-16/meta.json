@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32011l0089:2011-11-16",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32011L0089",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2011-11-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2011-11-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2011-11-16",
+      "valid_time_source": "publisher",
+      "title": "Directive 2011/89/EU of the European Parliament and of the Council of 16\u00A0November 2011 amending Directives 98/78/EC, 2002/87/EC, 2006/48/EC and 2009/138/EC as regards the supplementary supervision of financial entities in a financial conglomerate  Text with EEA relevance",
+      "title_short": "Directive 2011/89/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0089",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "1a5b88dbac884cf566c56845da77836914a5e2e8d2939341c0a6ebd3d994c830",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0089",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0089"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2011-11-16",
+      "valid_time_source": "publisher",
+      "title": "Directive 2011/89/UE du Parlement europ\u00E9en et du Conseil du 16\u00A0novembre 2011 modifiant les directives 98/78/CE, 2002/87/CE, 2006/48/CE et 2009/138/CE en ce qui concerne la surveillance compl\u00E9mentaire des entit\u00E9s financi\u00E8res des conglom\u00E9rats financiers  Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE",
+      "title_short": "Directive 2011/89/UE du Parlement europ\u00E9en et du Conseil du 16\u00A0novembre 2011 modifiant les\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0089",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0f6e027b277350faf0353bd7a22432d18121f18fa6ed55748033c0a88c176fe5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0089",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0089"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32011L0089",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "466e9e6493f232feb57967b4c600b8232b59dc9734731d71d8296ae19a046eaf"
+}

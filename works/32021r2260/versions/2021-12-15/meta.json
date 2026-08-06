@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32021r2260:2021-12-15",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32021R2260",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2021-12-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2021-12-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2021-12-15",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2021/2260 of the European Parliament and of the Council of 15\u00A0December 2021 amending Regulation (EU) 2015/848 on insolvency proceedings to replace its Annexes A and B",
+      "title_short": "Regulation (EU) 2021/2260",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2260",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "71274b9301c59e485582bab5f509a8909d6b5219d645ce42136a39cbd8d6c34d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2260",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2260"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2021-12-15",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2021/2260 du Parlement europ\u00E9en et du Conseil du 15\u00A0d\u00E9cembre 2021 portant modification du r\u00E8glement (UE) 2015/848 relatif aux proc\u00E9dures d\u2019insolvabilit\u00E9 afin de remplacer ses annexes\u00A0A et\u00A0B",
+      "title_short": "R\u00E8glement (UE) 2021/2260 du Parlement europ\u00E9en et du Conseil du 15\u00A0d\u00E9cembre 2021 portant m\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R2260",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "18ded64f72af78d92453f9c60ccb477c053f661710c6ca08a9b18fc0425a114c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R2260",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R2260"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32021R2260",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "84b2c678aa52c5d2353f0f3e96d4f32d611d78134f93560a421f8ba52e619922"
+}

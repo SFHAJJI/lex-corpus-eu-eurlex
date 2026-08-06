@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241209-1317 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2017087FR.01014801.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">31.3.2017   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 87/148</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-148-1">
+            RÈGLEMENT DÉLÉGUÉ (UE) 2017/574 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 7 juin 2016
+         </p>
+            <p class="oj-doc-ti">complétant la directive 2014/65/UE du Parlement européen et du Conseil eu égard aux normes techniques de réglementation pour le niveau de précision des horloges professionnelles</p>
+            <p class="oj-doc-ti">(Texte présentant de l'intérêt pour l'EEE)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l'Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE <a id="ntc1-L_2017087FR.01014801-E0001" href="#ntr1-L_2017087FR.01014801-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 50, paragraphe 2, troisième alinéa,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">La synchronisation des horloges a une incidence directe sur de nombreux domaines. Elle contribue notamment à faire en sorte que les données nécessaires à la transparence post-négociation puissent aisément faire partie d'un système consolidé de publication fiable. Elle est également indispensable pour la surveillance des ordres sur les plates-formes et la détection des cas d'abus de marché et permet une comparaison plus claire entre la transaction et les conditions du marché prévalant au moment de son exécution.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le nombre d'ordres reçus chaque seconde par une plate-forme de négociation peut être très élevé, nettement supérieur au nombre de transactions exécutées. Cela peut aller jusqu'à plusieurs milliers d'ordres par seconde en fonction de la plate-forme de négociation, du type de membres ou participants ou de clients d'une plate-forme spécifique, ainsi que de la volatilité et de la liquidité des instruments financiers. En conséquence, une granularité temporelle d'une seconde ne serait pas suffisante pour garantir la surveillance efficace de certains types d'activités de négociation pour détecter des manipulations de marché. Il convient donc de fixer des exigences minimales de granularité pour l'enregistrement de la date et de l'heure d'événements méritant d'être signalés par les opérateurs des plates-formes de négociation et leurs membres ou participants.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les autorités compétentes doivent être en mesure de reconstituer l'ensemble des évènements liés à un ordre tout au long de la durée de vie de chaque ordre selon une séquence chronologique précise. Les autorités compétentes doivent être en mesure de reconstituer ces événements sur plusieurs plates-formes de négociation à un niveau consolidé pour pouvoir procéder à une surveillance efficace entre plates-formes en matière d'abus de marché. Il est donc nécessaire de définir une date de référence commune et des règles en matière d'écart maximal par rapport à cette date de référence commune afin de faire en sorte que tous les opérateurs des plates-formes de négociation et leurs membres ou participants enregistrent la date et l'heure sur la base de la même horloge et selon des normes uniformes. Il convient également de prévoir un horodatage précis afin de permettre aux autorités compétentes de faire la distinction entre différents événements méritant d'être signalés qui, autrement, pourraient sembler avoir eu lieu au même moment.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il existe toutefois des modèles de négociation pour lesquels une plus grande précision pourrait ne pas être pertinente ou réalisable. Les systèmes de négociation à la criée ou de demande de cotation qui nécessitent, pour les transactions, une intervention humaine ou qui ne permettent pas le trading algorithmique, ou les systèmes qui sont utilisés pour conclure des transactions négociées devraient être soumis à des normes de précision différentes. Les plates-formes de négociation qui exploitent ces systèmes de négociation ne sont généralement pas sensibles au volume élevé d'évènements susceptibles de se produire au cours de la même seconde, de sorte qu'il n'y a pas lieu d'imposer une granularité plus fine à l'horodatage de ces événements étant donné qu'il est moins probable que plusieurs événements se produisent en même temps. En outre, les transactions sur ces plates-formes de négociation peuvent être approuvées au moyen de méthodes manuelles, ce qui peut prendre du temps. Sur ces plates-formes de négociation, il existe également un décalage inhérent entre le moment où la transaction est exécutée et le moment où elle est enregistrée dans le système de négociation, de sorte que l'application d'exigences de précision plus strictes n'entraînerait pas nécessairement un enregistrement plus judicieux et plus précis par l'opérateur de la plate-forme de négociation, ses membres ou participants.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les autorités compétentes doivent comprendre comment les plates-formes de négociation et leurs membres ou participants garantissent leur traçabilité au temps universel coordonné (TUC). Cela s'explique par la complexité des différents systèmes et le nombre de méthodes alternatives pouvant être utilisées pour la synchronisation avec le TUC. La dérive d'horloge pouvant être influencée par de nombreux éléments différents, il convient également de déterminer un niveau d'acceptation pour l'écart maximal par rapport au TUC.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Dans un souci de cohérence et afin de garantir le bon fonctionnement des marchés financiers, il convient que les dispositions du présent règlement et les dispositions nationales correspondantes transposant la directive 2014/65/UE s'appliquent à compter de la même date.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le présent règlement se fonde sur les projets de normes techniques de réglementation soumis à la Commission par l'Autorité européenne des marchés financiers (AEMF).</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L'AEMF a procédé à des consultations publiques sur les projets de normes techniques de réglementation sur lesquels se fonde le présent règlement, analysé les coûts et avantages potentiels qu'ils impliquent et sollicité l'avis du groupe des parties intéressées au secteur financier institué par l'article 37 du règlement (UE) n<span class="oj-super">o</span> 1095/2010 du Parlement européen et du Conseil <a id="ntc2-L_2017087FR.01014801-E0002" href="#ntr2-L_2017087FR.01014801-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e146-148-1" class="oj-ti-art">Article premier</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Date de référence</p>
+               </div>
+               <p class="oj-normal">Les opérateurs des plates-formes de négociation et leurs membres ou participants synchronisent les horloges professionnelles utilisées pour enregistrer la date et l'heure de tout événement méritant d'être signalé avec le temps universel coordonné (UTC) établi et géré par les laboratoires de temps énumérés dans le dernier rapport annuel du Bureau international des poids et mesures sur les activités du temps. Les opérateurs des plates-formes de négociation et leurs membres ou participants peuvent aussi synchroniser les horloges professionnelles utilisées pour enregistrer la date et l'heure de tout événement méritant d'être signalé avec le TUC diffusé par un système à satellites, à condition que tout décalage par rapport au TUC soit comptabilisé et supprimé de l'horodatage.</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e153-148-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Niveau de précision pour les opérateurs des plates-formes de négociation</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   Les opérateurs des plates-formes de négociation veillent à ce que leurs horloges professionnelles respectent les niveaux de précision indiqués dans le tableau 1 de l'annexe selon le temps d'attente de passerelle à passerelle (<span class="oj-italic">gateway to gateway latency</span>) de chacun de leurs systèmes de négociation.</p>
+                  <p class="oj-normal">Le temps d'attente de passerelle à passerelle est le temps mesuré à partir du moment où un message est reçu par une plate-forme externe du système de la plate-forme de négociation, envoyé au moyen du protocole de soumission de l'ordre, traité par le moteur d'appariement, puis renvoyé jusqu'à ce qu'un accusé de réception soit envoyé à partir de la passerelle.</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   Par dérogation au paragraphe 1, les opérateurs des plates-formes de négociation qui exploitent un système de négociation à la criée, un système de demande de cotation qui nécessite, pour les transactions, une intervention humaine ou qui ne permet pas le trading algorithmique, ou un système qui formalise les transactions négociées conformément à l'article 4, paragraphe 1, point b), du règlement (UE) n<span class="oj-super">o</span> 600/2014 du Parlement européen et du Conseil <a id="ntc3-L_2017087FR.01014801-E0003" href="#ntr3-L_2017087FR.01014801-E0003"
+                        >(<span class="oj-super oj-note-tag">3</span>)</a>, veillent à ce que leurs horloges professionnelles ne divergent pas de plus d'une seconde du TUC visé à l'article 1<span class="oj-super">er</span> du présent règlement. L'opérateur de la plate-forme de négociation veille à ce que les heures soient enregistrées avec une granularité d'au moins une seconde.</p>
+               </div>
+               <div id="002.003">
+                  <p class="oj-normal">3.   Les opérateurs des plates-formes de négociation qui exploitent plusieurs types de systèmes de négociation veillent à ce que chaque système respecte le niveau de précision applicable audit système conformément aux paragraphes 1 et 2.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e200-148-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Niveau de précision pour les membres ou participants d'une plate-forme de négociation</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   Les membres ou participants des plates-formes de négociation veillent à ce que leurs horloges professionnelles utilisées pour enregistrer l'heure d'événements méritant d'être signalés respectent le niveau de précision indiqué au tableau 2 de l'annexe.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   Les membres ou participants des plates-formes de négociation qui exercent plusieurs types d'activités de négociation veillent à ce que les systèmes qu'ils utilisent pour enregistrer des événements méritant d'être signalés respectent le niveau de précision applicable à chacune de ces activités de négociation conformément aux exigences énoncées dans le tableau 2 de l'annexe.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e215-148-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Respect des exigences en matière d'écart maximal</p>
+               </div>
+               <p class="oj-normal">Les opérateurs des plates-formes de négociation et leurs membres ou participants mettent en place un système de traçabilité au TUC. Ils sont en mesure de démontrer la traçabilité au TUC en informant sur la conception, le fonctionnement et les spécifications du système. Ils sont en mesure de déterminer le moment précis où l'horodatage est appliqué et de démontrer que l'endroit du système où l'horodatage est appliqué ne change pas. Ils évaluent au moins une fois par an la conformité du système de traçabilité avec le présent règlement.</p>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e222-148-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Entrée en vigueur et application</p>
+               </div>
+               <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l'Union européenne</span>.</p>
+               <p class="oj-normal">Il est applicable à partir du 3 janvier 2018.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 7 juin 2016.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Le président</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2017087FR.01014801-E0001" href="#ntc1-L_2017087FR.01014801-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >JO L 173 du 12.6.2014, p. 349</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2017087FR.01014801-E0002" href="#ntc2-L_2017087FR.01014801-E0002"
+               >(<span class="oj-super">2</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 84</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2017087FR.01014801-E0003" href="#ntc3-L_2017087FR.01014801-E0003"
+               >(<span class="oj-super">3</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) n<span class="oj-super">o</span> 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >JO L 173 du 12.6.2014, p. 84</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2017087FR.01015101">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e32-151-1">ANNEXE</p>
+            <p class="oj-ti-tbl" id="d1e38-151-1-table">
+               <span class="oj-italic">Tableau 1</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Niveau de précision pour les opérateurs des plates-formes de négociation</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="43%"/>
+               <col width="30%"/>
+               <col width="27%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Temps d'attente de passerelle à passerelle (<span class="oj-italic">gateway-to-gateway latency</span>) du système de négociation</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Écart maximal par rapport au TUC</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Granularité de l'horodatage</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">&gt; 1 milliseconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 milliseconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 milliseconde ou mieux</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">≤ 1 milliseconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">100 microsecondes</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 microseconde ou mieux</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <p class="oj-ti-tbl" id="d1e73-151-1-table">
+               <span class="oj-italic">Tableau 2</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Niveau de précision pour les membres ou participants d'une plate-forme de négociation</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="25%"/>
+               <col width="27%"/>
+               <col width="25%"/>
+               <col width="23%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Type d'activité de négociation</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Description</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Écart maximal par rapport au TUC</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Granularité de l'horodatage</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activité utilisant la technique de trading algorithmique à haute fréquence</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Technique de trading algorithmique à haute fréquence</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">100 microsecondes</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 microseconde ou mieux</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activité sur les systèmes de négociation à la criée</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Systèmes de négociation à la criée tels que définis à l'article 5, paragraphe 5, du règlement délégué (UE) 2017/583 de la Commission<a id="ntc1-L_2017087FR.01015101-E0001" href="#ntr1-L_2017087FR.01015101-E0001"
+                              > (<span class="oj-super oj-note-tag">1</span>)</a>
+                        </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 seconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 seconde ou mieux</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activité sur les systèmes de demande de cotation qui nécessitent, pour les transactions, une intervention humaine ou qui ne permettent pas le trading algorithmique</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Systèmes de demande de cotation tels que définis à l'article 5, paragraphe 4, du règlement délégué (UE) 2017/583</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 seconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 seconde ou mieux</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Conclusion de transactions négociées</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Transaction négociée telle que définie à l'article 4, paragraphe 1, point b), du règlement (UE) n<span class="oj-super">o</span> 600/2014.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 seconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 seconde ou mieux</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Toute autre activité de négociation</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Toutes les autres activités de négociation non couvertes par le présent tableau.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 milliseconde</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 milliseconde ou mieux</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <hr class="oj-note"/>
+            <p class="oj-note">
+               <a id="ntr1-L_2017087FR.01015101-E0001" href="#ntc1-L_2017087FR.01015101-E0001"
+                  >(<span class="oj-super">1</span>)</a>  Règlement délégué (UE) 2017/583 de la Commission du 14 juillet 2016 complétant le règlement (UE) n<span class="oj-super">o</span> 600/2014 du Parlement européen et du Conseil concernant les marchés d'instruments financiers par des normes techniques de réglementation relatives aux obligations de transparence applicables aux plates-formes de négociation et aux entreprises d'investissement pour les obligations, produits financiers structurés, quotas d'émission et instruments dérivés (voir page 229 du présent Journal officiel).</p>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32010l0073:2010-11-24",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32010L0073",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2010-11-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2010-11-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2010-11-24",
+      "valid_time_source": "publisher",
+      "title": "Directive 2010/73/EU of the European Parliament and of the Council of 24\u00A0November 2010 amending Directives 2003/71/EC on the prospectus to be published when securities are offered to the public or admitted to trading and 2004/109/EC on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market  Text with EEA relevance",
+      "title_short": "Directive 2010/73/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0073",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "769bbfc1549bf8890428d4fdca4e4503f4a240ea4be281c9f1566c47e073a576",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0073",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0073"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2010-11-24",
+      "valid_time_source": "publisher",
+      "title": "Directive 2010/73/UE du Parlement europ\u00E9en et du Conseil du 24\u00A0novembre 2010 modifiant la directive 2003/71/CE concernant le prospectus \u00E0 publier en cas d\u2019offre au public de valeurs mobili\u00E8res ou en vue de l\u2019admission de valeurs mobili\u00E8res \u00E0 la n\u00E9gociation et la directive 2004/109/CE sur l\u2019harmonisation des obligations de transparence concernant l\u2019information sur les \u00E9metteurs dont les valeurs mobili\u00E8res sont admises \u00E0 la n\u00E9gociation sur un march\u00E9 r\u00E9glement\u00E9  Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE",
+      "title_short": "Directive 2010/73/UE du Parlement europ\u00E9en et du Conseil du 24\u00A0novembre 2010 modifiant la \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010L0073",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b56b0efe4458a45c7fce793618e8e93752c158a1090e528d6154d754cd4af5a8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010L0073",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010L0073"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32010L0073",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "134969f4414cf42a5dc668c5b4f3d9a13367465e879bee21d0a64c7f1997ea52"
+}

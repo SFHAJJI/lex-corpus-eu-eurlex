@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32007l0063:2007-11-13",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32007L0063",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2007-11-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2007-11-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2007-11-13",
+      "valid_time_source": "publisher",
+      "title": "Directive 2007/63/EC of the European Parliament and of the Council of 13 November 2007 amending Council Directives 78/855/EEC and 82/891/EEC as regards the requirement of an independent expert\u2019s report on the occasion of merger or division of public limited liability companies",
+      "title_short": "Directive 2007/63/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0063",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "bc74e95e7168999f7260f22ca6b514226d18e3850852e1d6b0c31790556b2692",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0063",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0063"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2007-11-13",
+      "valid_time_source": "publisher",
+      "title": "Directive 2007/63/CE du Parlement europ\u00E9en et du Conseil du 13 novembre 2007 modifiant les directives 78/855/CEE et 82/891/CEE du Conseil pour ce qui est de l\u2019exigence d\u2019un rapport d\u2019expert ind\u00E9pendant \u00E0 r\u00E9aliser \u00E0 l\u2019occasion des fusions ou des scissions des soci\u00E9t\u00E9s anonymes",
+      "title_short": "Directive 2007/63/CE du Parlement europ\u00E9en et du Conseil du 13 novembre 2007 modifiant les\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0063",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8fabffff835482fc9563c6a50f98ffa79506e038fc91f34944a66cb339b2315f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0063",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0063"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32007L0063",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "779eefdabd74603a0f593f4c748d3158fc651a400180d4416fd389cb61f0dc24"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32009r0280:2009-04-06",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32009R0280",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2009-04-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2009-04-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2009-04-06",
+      "valid_time_source": "publisher",
+      "title": "Commission Regulation (EC) No\u00A0280/2009 of 6\u00A0April 2009 amending Annexes I, II, III and IV to Council Regulation (EC) No\u00A044/2001 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters",
+      "title_short": "Commission Regulation (EC) No\u00A0280/2009 of 6\u00A0April 2009 amending Annexes I, II, III and IV \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0280",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "9d3086cb32f5047f3f1c222244b3db48e4cf27c84fc714830660c357fa192f7f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0280",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0280"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2009-04-06",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (CE) n o \u00A0280/2009 de la Commission du 6\u00A0avril 2009 modifiant les annexes\u00A0I, II, III et IV du r\u00E8glement (CE) n o \u00A044/2001 concernant la comp\u00E9tence judiciaire, la reconnaissance et l\u2019ex\u00E9cution des d\u00E9cisions en mati\u00E8re civile et commerciale",
+      "title_short": "R\u00E8glement (CE) n o \u00A0280/2009 de la Commission du 6\u00A0avril 2009 modifiant les annexes\u00A0I, II,\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009R0280",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "22f54e5000a6d6c8ee7d87a156ec0320f4a837fa9e8067d525e3050f720f1d28",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009R0280",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009R0280"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32009R0280",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "8f26b4bccfec7b419f093e334f6bd52bb0a20e95247f930b5ad9574afb64dffc"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32009l0111:2009-09-16",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32009L0111",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2009-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2009-09-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2009-09-16",
+      "valid_time_source": "publisher",
+      "title": "Directive 2009/111/EC of the European Parliament and of the Council of 16 September 2009 amending Directives 2006/48/EC, 2006/49/EC and 2007/64/EC as regards banks affiliated to central institutions, certain own funds items, large exposures, supervisory arrangements, and crisis management (Text with EEA relevance)",
+      "title_short": "Directive 2009/111/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0111",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "7ddaa8583cf52552695233459772588620052a2e0f767c4b525ae7bd68f4dc5f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0111",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0111"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2009-09-16",
+      "valid_time_source": "publisher",
+      "title": "Directive 2009/111/CE du Parlement europ\u00E9en et du Conseil du 16 septembre 2009 modifiant les directives 2006/48/CE, 2006/49/CE et 2007/64/CE en ce qui concerne les banques affili\u00E9es \u00E0 des institutions centrales, certains \u00E9l\u00E9ments des fonds propres, les grands risques, les dispositions en mati\u00E8re de surveillance et la gestion des crises (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "Directive 2009/111/CE du Parlement europ\u00E9en et du Conseil du 16 septembre 2009 modifiant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0111",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b7cb87aa210ff14f99793785fa202467b76ea6c40f6633f776ce8de03bb4c689",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0111",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0111"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32009L0111",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "edc02e8b091110f31d8ae81dfbb00629d9e581e4870faf493c1d326b8a913367"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32026r0905:2026-04-24",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0905",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2026-04-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2026-04-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-04-24",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2026/905 of 24\u00A0April 2026 supplementing Regulation (EU)\u00A02016/1011 of the European Parliament and of the Council by establishing a list of spot foreign exchange benchmarks exempt from its application",
+      "title_short": "Commission Implementing Regulation (EU) 2026/905 of 24\u00A0April 2026 supplementing Regulation (EU)\u00A02016/1011",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c16f8efb3086b922c8fbb5b55afe994f91bb925668823b0d45bc926b45eab572",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-04-24",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/905 de la Commission du 24\u00A0avril 2026 compl\u00E9tant le r\u00E8glement (UE)\u00A02016/1011 du Parlement europ\u00E9en et du Conseil en \u00E9tablissant une liste des indices de r\u00E9f\u00E9rence de taux de change au comptant exempt\u00E9s de son application",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/905 de la Commission du 24\u00A0avril 2026 compl\u00E9tant le r\u00E8glem\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1264a1ee2cd74a36b5346a5cc9289713d077c4897a27175a58bbde0ebe65774b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R0905",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "a5f17e1dcfd53eadcdb739baf05ac54c83a07fdd06d677b36423bbf9f271accf"
+}

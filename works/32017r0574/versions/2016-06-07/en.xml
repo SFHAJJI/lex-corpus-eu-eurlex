@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241209-1255 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2017087EN.01014801.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">31.3.2017   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 87/148</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-148-1">
+            COMMISSION DELEGATED REGULATION (EU) 2017/574</p>
+            <p class="oj-doc-ti">of 7 June 2016
+         </p>
+            <p class="oj-doc-ti">supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards for the level of accuracy of business clocks</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU <a id="ntc1-L_2017087EN.01014801-E0001" href="#ntr1-L_2017087EN.01014801-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular the third subparagraph of Article 50(2) thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Clock synchronisation has a direct impact in many areas. In particular it contributes to ensuring that post-trade transparency data can readily be part of a reliable consolidated tape. It is also essential for conducting cross-venue monitoring of orders and detecting instances of market abuse and allows for a clearer comparison between the transaction and the market conditions prevailing at the time of their execution.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The number of orders received every second by a trading venue can be very high, much higher than that of executed transactions. This may extend to several thousands of orders per second depending on the trading venue, the type of members or participants or clients of a given trading venue, and the financial instruments' volatility and liquidity. As a result, a time granularity of one second would not be sufficient for the purposes of effective market manipulation surveillance of certain types of trading activities. Therefore, it is necessary to establish minimum granularity requirements for recording the date and time of reportable events by operators of trading venues and their members or participants.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Competent authorities need to be able to reconstruct all events relating to an order throughout the lifetime of each order in an accurate time sequence. Competent authorities need to be able to reconstruct these events over multiple trading venues on a consolidated level to be able to conduct effective cross-venue monitoring on market abuse. It is therefore necessary to establish a common reference time and rules on maximum divergence from the common reference time to ensure that all operators of trading venues and their members or participants are recording the date and time based on the same time source and in accordance with consistent standards. It is also necessary to provide for accurate time stamping to allow competent authorities to distinguish between different reportable events which may otherwise appear to have taken place at the same time.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">There are however, trading models for which increased accuracy might not be relevant or feasible. Voice trading systems or request for quote systems where the response requires human intervention or does not allow algorithmic trading, or systems which are used for concluding negotiated transactions should be subject to different accuracy standards. Trading venues operating those trading systems are not typically susceptible to the high volume of events that can happen within the same second, meaning that it is not necessary to impose a finer granularity to time stamping of those events since it is less likely that there would be multiple events occurring at the same time. In addition, trades on those trading venues may be agreed using manual methods which can take time to agree. In those trading venues there is also an inherent delay between the moment when the trade is executed and the moment when the trade is recorded in the trading system, meaning that applying more stringent accuracy requirements would not necessarily lead to more meaningful and accurate record keeping by the operator of the trading venue, its members or participants.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Competent authorities need to understand how trading venues and their members or participants are ensuring their traceability to Coordinated Universal Time (UTC). This is because of the complexity of the different systems and the number of alternative methods that can be used to synchronise to UTC. Given that clock drift can be affected by many different elements, it is also appropriate to determine an acceptance level for the maximum divergence from UTC.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For reasons of consistency and in order to ensure the smooth functioning of the financial markets, it is necessary that the provisions laid down in this Regulation and the related national provisions transposing Directive 2014/65/EU apply from the same date.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation is based on the draft regulatory technical standards submitted by the European Securities and Markets Authority (ESMA) to the Commission.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">ESMA has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Securities and Markets Stakeholder Group established by Article 37 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council <a id="ntc2-L_2017087EN.01014801-E0002" href="#ntr2-L_2017087EN.01014801-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e135-148-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Reference time</p>
+               </div>
+               <p class="oj-normal">Operators of trading venues and their members or participants shall synchronise the business clocks they use to record the date and time of any reportable event with the Coordinated Universal Time (UTC) issued and maintained by the timing centres listed in the latest Bureau international des poids et mesures Annual Report on Time Activities. Operators of trading venues and their members or participants may also synchronise the business clocks they use to record the date and time of any reportable event with UTC disseminated by a satellite system, provided that any offset from UTC is accounted for and removed from the timestamp.</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e142-148-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Level of accuracy for operators of trading venues</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   Operators of trading venues shall ensure that their business clocks adhere to the levels of accuracy specified in Table 1 of the Annex according to the gateway to gateway latency of each of their trading systems.</p>
+                  <p class="oj-normal">Gateway to gateway latency shall be the time measured from the moment a message is received by an outer gateway of the trading venue's system, sent through the order submission protocol, processed by the matching engine, and then sent back until an acknowledgement is sent from the gateway.</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   By derogation from paragraph 1, operators of trading venues that operate a voice trading system, request for quote system where the response requires human intervention or does not allow algorithmic trading, or a system that formalises negotiated transactions in accordance with Article 4(1)(b) of Regulation (EU) No 600/2014 of the European Parliament and of the Council <a id="ntc3-L_2017087EN.01014801-E0003" href="#ntr3-L_2017087EN.01014801-E0003"
+                        >(<span class="oj-super oj-note-tag">3</span>)</a> shall ensure that their business clocks do not diverge by more than one second from UTC referred to in Article 1 of this Regulation. The operator of the trading venue shall ensure that times are recorded to at least a one second granularity.</p>
+               </div>
+               <div id="002.003">
+                  <p class="oj-normal">3.   Operators of trading venues that operate multiple types of trading systems shall ensure that each system adheres to the level of accuracy applicable to that system in accordance with paragraphs 1 and 2.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e174-148-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Level of accuracy for members or participants of a trading venue</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   Members or participants of trading venues shall ensure that their business clocks used to record the time of reportable events adhere to the level of accuracy specified in Table 2 of the Annex.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   Members or participants of trading venues that engage in multiple types of trading activities shall ensure that the systems that they use to record reportable events adhere to the level of accuracy applicable to each of these trading activities in accordance with the requirements set out in Table 2 of the Annex.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e189-148-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Compliance with the maximum divergence requirements</p>
+               </div>
+               <p class="oj-normal">Operators of trading venues and their members or participants shall establish a system of traceability to UTC. They shall be able to demonstrate traceability to UTC by documenting the system design, functioning and specifications. They shall be able to identify the exact point at which a timestamp is applied and demonstrate that the point within the system where the timestamp is applied remains consistent. They shall conduct a review of the compliance of the traceability system with this Regulation at least once a year.</p>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e196-148-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Entry into force and application</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+               <p class="oj-normal">It shall apply from 3 January 2018.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 7 June 2016.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2017087EN.01014801-E0001" href="#ntc1-L_2017087EN.01014801-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >OJ L 173, 12.6.2014, p. 349</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2017087EN.01014801-E0002" href="#ntc2-L_2017087EN.01014801-E0002"
+               >(<span class="oj-super">2</span>)</a>  Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >OJ L 331, 15.12.2010, p. 84</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2017087EN.01014801-E0003" href="#ntc3-L_2017087EN.01014801-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >OJ L 173, 12.6.2014, p. 84</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2017087EN.01015101">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e32-151-1">ANNEX</p>
+            <p class="oj-ti-tbl" id="d1e38-151-1-table">
+               <span class="oj-italic">Table 1</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Level of accuracy for operators of trading venues</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="44%"/>
+               <col width="29%"/>
+               <col width="27%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Gateway-to-gateway latency time of the trading system</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Maximum divergence from UTC</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Granularity of the timestamp</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">&gt; 1 millisecond</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 millisecond</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 millisecond or better</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">≤ 1 millisecond</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">100 microseconds</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 microsecond or better</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <p class="oj-ti-tbl" id="d1e70-151-1-table">
+               <span class="oj-italic">Table 2</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Level of accuracy for members or participants of a trading venue</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="21%"/>
+               <col width="38%"/>
+               <col width="21%"/>
+               <col width="20%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Type of trading activity</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Description</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Maximum divergence from UTC</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Granularity of the timestamp</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activity using high frequency algorithmic trading technique</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">High frequency algorithmic trading technique.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">100 microseconds</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 microsecond or better</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activity on voice trading systems</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Voice trading systems as defined in Article 5(5) of Commission Delegated Regulation (EU) 2017/583<a id="ntc1-L_2017087EN.01015101-E0001" href="#ntr1-L_2017087EN.01015101-E0001"
+                              > (<span class="oj-super oj-note-tag">1</span>)</a>
+                        </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 second</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 second or better</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activity on request for quote systems where the response requires human intervention or where the system does not allow algorithmic trading</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Request for quotes systems as defined in Article 5(4) of Delegated Regulation (EU) 2017/583</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 second</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 second or better</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Activity of concluding negotiated transactions</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Negotiated transaction as set out in Article 4(1)(b) of Regulation (EU) No 600/2014.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 second</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 second or better</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Any other trading activity</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">All other trading activity not covered by this table.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 millisecond</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1 millisecond or better</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <hr class="oj-note"/>
+            <p class="oj-note">
+               <a id="ntr1-L_2017087EN.01015101-E0001" href="#ntc1-L_2017087EN.01015101-E0001"
+                  >(<span class="oj-super">1</span>)</a>  Commission Delegated Regulation (EU) 2017/583 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of bonds, structured finance products, emission allowances and derivatives (see page 229 of this Official Journal).</p>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

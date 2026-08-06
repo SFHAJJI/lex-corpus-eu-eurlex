@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32021r1042:2021-06-18",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32021R1042",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2021-06-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2021-06-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2021-06-18",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2021/1042 of 18\u00A0June 2021 laying down rules for the application of Directive (EU) 2017/1132 of the European Parliament and of the Council as regards technical specifications and procedures for the system of interconnection of registers and repealing Commission Implementing Regulation (EU) 2020/2244 (Text with EEA relevance)",
+      "title_short": "Commission Implementing Regulation (EU) 2021/1042 of 18\u00A0June 2021 laying down rules for the application of Directive (EU) 2017/1132",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1042",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "be1d70d2929e9a381c4d4f3cdfd5732d215f7aee531494d128b452aee7ba997a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1042",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1042"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2021-06-18",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2021/1042 de la Commission du 18\u00A0juin 2021 fixant les modalit\u00E9s d\u2019application de la directive (UE) 2017/1132 du Parlement europ\u00E9en et du Conseil \u00E9tablissant les sp\u00E9cifications techniques et les proc\u00E9dures n\u00E9cessaires au syst\u00E8me d\u2019interconnexion des registres et abrogeant le r\u00E8glement d\u2019ex\u00E9cution (UE) 2020/2244 de la Commission (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2021/1042 de la Commission du 18\u00A0juin 2021 fixant les modalit\u00E9s\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1042",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "512697088132fd4b54ab4d618f100fb8257818ff61d95fd4403d12ffee6c5184",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1042",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1042"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32021R1042",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "0b708d8094bb3f716f782283b8900b9bd683467c6d17d45ffe877fe39809e1d4"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32019l1023:2019-06-20",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L1023",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2019-06-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2019-06-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2019-06-20",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2019/1023 of the European Parliament and of the Council of 20 June 2019 on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (Directive on restructuring and insolvency) (Text with EEA relevance.)",
+      "title_short": "Directive (EU) 2019/1023",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1023",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "65a0cecc734262183bc7055c932a7e741523cd18752bd13ea4f7173824e331b1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1023",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1023"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2019-06-20",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/1023 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 relative aux cadres de restructuration pr\u00E9ventive, \u00E0 la remise de dettes et aux d\u00E9ch\u00E9ances, et aux mesures \u00E0 prendre pour augmenter l\u0027efficacit\u00E9 des proc\u00E9dures en mati\u00E8re de restructuration, d\u0027insolvabilit\u00E9 et de remise de dettes, et modifiant la directive (UE) 2017/1132 (directive sur la restructuration et l\u0027insolvabilit\u00E9) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
+      "title_short": "Directive (UE) 2019/1023 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 relative aux \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1023",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d73fefbee329fb2343d2a826c8a22ba0c02d68a0db4c98b70e69f5cebaaeaf8a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1023",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1023"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32019L1023",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "56193afc748c14219f5d45a23fea07ed1dad6386479034d1150da776bdd87324"
+}

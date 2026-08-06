@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20250313-0823 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202500416FR.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel <br/>de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+                  <p class="oj-hd-coll">Série L</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2025/416</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">14.3.2025</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            RÈGLEMENT DÉLÉGUÉ (UE) 2025/416 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 29 novembre 2024
+         </p>
+            <p class="oj-doc-ti">complétant le règlement (UE) 2023/1114 du Parlement européen et du Conseil par des normes techniques de réglementation précisant le contenu et le format des enregistrements de carnets d’ordres pour les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs</p>
+            <p class="oj-doc-ti">(Texte présentant de l’intérêt pour l’EEE)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l’Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) n<span class="oj-super">o</span> 1093/2010 et (UE) n<span class="oj-super">o</span> 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937 <a id="ntc1-L_202500416FR.000101-E0001" href="#ntr1-L_202500416FR.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 76, paragraphe 16, troisième alinéa,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de permettre aux autorités compétentes de compiler, comparer et analyser de manière efficace et efficiente les données d’ordres, les prestataires de services sur crypto-actifs qui exploitent des plates-formes de crypto-actifs devraient conserver un enregistrement des données pertinentes relatives à tous les ordres (enregistrements des carnets d’ordres) conformément au présent règlement. Ils devraient enregistrer ces données sous un format électronique JSON, lisible par machine, mis au point conformément à la méthode définie par la norme ISO 20022. Un carnet d’ordres doit être considéré comme un recueil structuré des ordres d’achat et de vente portant sur un crypto-actif donné.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour pouvoir veiller comme il se doit à l’intégrité et à la stabilité des marchés de crypto-actifs, les autorités compétentes ont besoin d’informations fiables, cohérentes et normalisées sur les crypto-actifs qui y sont négociés. Ces informations doivent leur permettre d’identifier individuellement tout crypto-actif négocié conformément aux principes institués à l’échelle internationale. En outre, les autorités compétentes doivent pouvoir en extraire les principales caractéristiques, y compris technologiques, des crypto-actifs. Les prestataires de services sur crypto-actifs devraient donc utiliser un identifiant d’actif approprié pour identifier les crypto-actifs dans les enregistrements d’ordres et de transactions qu’ils fournissent aux autorités compétentes. Pour atteindre cet objectif, le règlement délégué de la Commission instituant des normes techniques adopté en vertu de l’article 68, paragraphe 10, premier alinéa, point b), prévoit l’utilisation du code d’identification de jeton numérique (DTI, pour Digital Token Identifier) géré par la Digital Token Identifier Foundation, ou d’autres identifiants éligibles, pour identifier les crypto-actifs faisant l’objet d’un ordre ou d’une transaction dont l’enregistrement doit être conservé par le prestataire de services sur crypto-actifs. Compte tenu de ces considérations, et pour garantir une approche prudentielle cohérente, il convient que le présent règlement prévoie de soumettre l’utilisation d’identifiants d’actifs aux mêmes conditions que celles prévues dans le règlement délégué de la Commission instituant des normes techniques adopté en vertu de l’article 68, paragraphe 10, premier alinéa, point b).</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les abus de marché, notamment les manipulations de marché, peuvent être commis par divers moyens, parmi lesquels le trading algorithmique. Afin d’assurer une surveillance efficace des marchés, il conviendrait donc que lorsque des décisions d’investissement sont prises par une personne autre que le client ou par un algorithme informatique, cette personne ou cet algorithme soit identifié(e), dans les enregistrements des ordres et des transactions, par un identifiant unique, fiable et cohérent. Lorsqu’une décision d’investissement est prise par plusieurs personnes, le prestataire de services sur crypto-actifs devrait indiquer, dans ses enregistrements, la personne qui assume la responsabilité principale de la décision.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour que chaque personne physique mentionnée dans les enregistrements des ordres puisse être identifiée sans équivoque par l’utilisation systématique d’un seul et même identifiant robuste, il conviendrait de la désigner par la concaténation du code de son pays de nationalité et d’un identifiant que ce pays lui a attribué. En l’absence d’un tel identifiant, il conviendrait de désigner ces personnes par un identifiant composé de la concaténation de leur date de naissance et de leur nom. L’identifiant utilisé pour identifier les personnes physiques doit être choisi parmi les différents identifiants indiqués à l’annexe II du règlement délégué (UE) 2017/590 de la Commission <a id="ntc2-L_202500416FR.000101-E0002" href="#ntr2-L_202500416FR.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, et selon leur ordre de priorité.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il peut arriver que les personnes physiques qui doivent être identifiées à des fins d’enregistrement soient résidentes d’un pays autre que celui dont elles ont la nationalité. Étant donné que plusieurs des obligations imposées par le règlement (UE) 2023/1114 dépendent du pays de résidence des personnes physiques, la collecte de cette information dans le cadre du présent règlement est importante pour assurer une surveillance efficace des transactions et des ordres par les autorités compétentes.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il est nécessaire que les prestataires de services sur crypto-actifs collectent certaines données à caractère personnel en vue de l’identification de leurs clients, ou d’autres personnes physiques concernées par les ordres sur crypto-actifs, car ces données sont essentielles pour que les autorités compétentes puissent exercer une surveillance efficace, notamment en ce qui concerne les abus de marché. Conformément au principe de minimisation des données énoncé dans le règlement (UE) 2016/679 du Parlement européen et du Conseil <a id="ntc3-L_202500416FR.000101-E0003" href="#ntr3-L_202500416FR.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>, les prestataires de services sur crypto-actifs ne doivent conserver que les informations nécessaires et suffisantes pour que l’autorité compétente puisse procéder à une évaluation complète du respect, par ces prestataires, des exigences du règlement (UE) 2023/1114 et surveiller les activités de négociation résultant d’ordres sur crypto-actifs. Lorsqu’ils traitent des données à caractère personnel figurant dans les enregistrements, les prestataires de services sur crypto-actifs et les autorités compétentes doivent se conformer aux dispositions pertinentes du règlement (UE) 2016/679.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour faciliter la surveillance des marchés et assurer la comparabilité des enregistrements, il conviendrait que les clients qui sont des entités juridiques soient désignés par un identifiant satisfaisant aux critères adoptés au niveau international pour la mise au point de systèmes d’identification robustes aux fins de la surveillance des marchés financiers. Afin que l’approche suivie en matière de surveillance soit cohérente, notamment au regard des identifiants d’entité prévus dans le règlement délégué de la Commission instituant des normes techniques adopté en vertu de l’article 68, paragraphe 10, premier alinéa, point b), il convient de soumettre l’utilisation d’identifiants d’actifs au titre du présent règlement aux mêmes conditions que celles prévues dans ledit règlement délégué.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Savoir qui choisit la plate-forme de négociation de crypto-actifs à qui confier l’exécution d’ordres ou le prestataire de services sur crypto-actifs à qui transmettre des ordres, ou qui définit les autres conditions éventuellement attachées à l’exécution d’ordres, peut être directement utile pour détecter des abus de marché. Afin que la surveillance des marchés puisse être efficace, les enregistrements des ordres devraient indiquer la personne, ou l’algorithme informatique, qui effectue ces activités au sein du prestataire de services sur crypto-actifs. Si ces activités font intervenir à la fois une personne et un algorithme informatique, ou bien plusieurs personnes ou algorithmes, le prestataire de services sur crypto-actifs doit déterminer, de manière cohérente dans le temps et selon des critères prédéfinis, quelle personne ou algorithme assume la responsabilité première de ces activités.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Conformément au principe de minimisation des données, le prestataire de services sur crypto-actifs ne doit conserver que les informations nécessaires et suffisantes pour que l’autorité compétente puisse procéder à une évaluation complète du respect, par ces prestataires, des exigences applicables du règlement (UE) 2023/1114 et des dispositions de ce dernier sur l’abus de marché. Lorsqu’ils traitent des données à caractère personnel figurant dans les enregistrements, les prestataires de services sur crypto-actifs et les autorités compétentes doivent se conformer aux dispositions pertinentes du règlement (UE) 2016/679.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le Contrôleur européen de la protection des données a été consulté conformément à l’article 42, paragraphe 1, du règlement (UE) 2018/1725 du Parlement européen et du Conseil <a id="ntc4-L_202500416FR.000101-E0004" href="#ntr4-L_202500416FR.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> et a rendu un avis le 28 août 2024.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le présent règlement se fonde sur le projet de normes techniques de réglementation soumis à la Commission par l’Autorité européenne des marchés financiers (AEMF).</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’AEMF a procédé à des consultations publiques ouvertes sur le projet de normes techniques de réglementation sur lequel se fonde le présent règlement, analysé ses coûts et ses avantages potentiels et sollicité l’avis du groupe des parties intéressées au secteur financier institué par l’article 37 du règlement (UE) n<span class="oj-super">o</span> 1095/2010 du Parlement européen et du Conseil <a id="ntc5-L_202500416FR.000101-E0005" href="#ntr5-L_202500416FR.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e237-1-1" class="oj-ti-art">Article premier</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Contenu, normes et format à respecter pour les données relatives aux ordres sur crypto-actifs</p>
+               </div>
+               <div id="001.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs tiennent à la disposition de l’autorité compétente les informations, visées aux articles 2 à 15, sur chaque ordre portant sur des crypto-actifs qui est affiché par l’intermédiaire de leurs systèmes, ou lui donnent accès à ces informations, selon le format indiqué dans les tableaux 2 et 3 de l’annexe, dans la mesure où elles concernent l’ordre en question.</p>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   Les données visées au paragraphe 1 sont présentées dans un format JSON suivant la méthode définie par la norme ISO 20022.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e252-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Identification des parties concernées par l’ordre</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   Pour tous les ordres sur crypto-actifs, les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs conservent des enregistrements permettant d’identifier tous les acteurs suivants:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">tout participant de la plate-forme de négociation de crypto-actifs qui est une entité juridique et qui soumet un ordre à cette plate-forme, tel qu’identifié conformément à l’article 4 et au champ 1 du tableau 2 de l’annexe;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">tout participant de la plate-forme de négociation de crypto-actifs qui est une personne physique et qui soumet un ordre à cette plate-forme, tel qu’identifié conformément au champ 2 du tableau 2 de l’annexe;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">tout client pour le compte duquel le participant de la plate-forme de négociation de crypto-actifs visé au point a) ou b) soumet l’ordre à cette plate-forme, tel qu’identifié conformément au champ 3 du tableau 2 de l’annexe;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">la personne ou l’algorithme informatique qui, au sein du participant à la plate-forme de négociation de crypto-actifs visé au point a) ou b), est responsable de la décision d’investissement liée à l’ordre, tel(le) qu’identifié(e) conformément au champ 4 du tableau 2 de l’annexe;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">la personne ou l’algorithme informatique qui, au sein du participant à la plate-forme de négociation de crypto-actifs visé au point a) ou b), est responsable de l’exécution de l’ordre, tel(le) qu’identifié(e) conformément au champ 5 du tableau 2 de l’annexe.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">Aux fins du point d), lorsque la décision d’investissement est prise par plusieurs personnes, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs conservent un enregistrement de la personne qui assume la responsabilité principale de cette décision. Un prestataire de services sur crypto-actifs qui exploite une plate-forme de négociation de crypto-actifs n’identifie cette personne ou cet algorithme informatique que si la décision d’investissement est prise soit pour le compte du participant, soit pour le compte d’un client qui lui a confié un mandat discrétionnaire à cet effet.</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   Si un participant d’une plate-forme de négociation de crypto-actifs a l’intention d’attribuer un ordre à un client après avoir soumis cet ordre à cette plate-forme, mais qu’il n’a pas encore procédé à cette attribution au moment de soumettre l’ordre, ce client est identifié comme indiqué dans le champ 3 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="002.003">
+                  <p class="oj-normal">3.   Si plusieurs ordres de clients différents sont soumis ensemble à la plate-forme de négociation de crypto-actifs sous la forme d’un ordre groupé, les informations visées dans le champ 3 du tableau 2 de l’annexe sont enregistrées pour chaque client.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e306-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Désignation à utiliser pour identifier des personnes physiques</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   Le prestataire de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs identifie les personnes physiques dans ses enregistrements de carnets d’ordres à l’aide de la désignation issue de la concaténation du code ISO 3166-1 alpha-2 précisé dans la norme ISO 3166 et de l’identifiant national de client, indiqués à l’annexe II du règlement délégué (UE) 2017/590, correspondant à la nationalité de chaque personne. Le code pays à deux lettres doit correspondre à la nationalité de la personne physique.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   L’identifiant national de client visé au paragraphe 1 est attribué conformément à l’ordre des priorités prévu à l’annexe II du règlement délégué (UE) 2017/590, l’identifiant ayant le plus haut degré de priorité parmi ceux de la personne concernée devant être utilisé, que celui-ci soit déjà connu ou non du prestataire de services sur crypto-actifs exploitant la plate-forme de négociation de crypto-actifs.</p>
+               </div>
+               <div id="003.003">
+                  <p class="oj-normal">3.   Dans le cas d’une personne physique possédant la nationalité de plusieurs pays de l’espace économique européen (EEE), il convient d’utiliser le code pays de la première nationalité selon l’ordre alphabétique des codes ISO 3166-1 alpha-2 concernés et l’identifiant de cette nationalité attribué conformément au paragraphe 2. Lorsqu’une personne physique possède la nationalité d’un pays non-EEE, il convient d’utiliser l’identifiant ayant le plus haut degré de priorité parmi ceux prévus dans le champ «Tous les autres pays» de l’annexe II du règlement délégué (UE) 2017/590. Lorsqu’une personne physique possède la nationalité d’un pays de l’EEE et d’un pays non-EEE, il convient d’utiliser le code pays de la nationalité de l’EEE, et l’identifiant de plus haut degré de priorité de cette nationalité attribué conformément au paragraphe 2.</p>
+               </div>
+               <div id="003.004">
+                  <p class="oj-normal">4.   Lorsqu’une personne physique est résidente d’un pays autre que celui dont elle possède la nationalité, le prestataire de services sur crypto-actifs qui exploite la plate-forme de négociation de crypto-actifs l’identifie aussi d’après son pays de résidence, comme indiqué dans le champ 50 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="003.005">
+                  <p class="oj-normal">5.   Il convient d’exclure les préfixes de noms et d’ajouter le signe «#» aux prénoms et aux noms de famille de moins de cinq caractères. Tous les caractères sont à inscrire en capitales. L’utilisation d’apostrophes, d’accents, de traits d’union, de signes de ponctuation ou d’espaces est interdite.</p>
+               </div>
+               <div id="003.006">
+                  <p class="oj-normal">6.   Lorsque l’identifiant attribué conformément au paragraphe 2 correspond à la mention CONCAT, le prestataire de services sur crypto-actifs qui exploite la plate-forme de négociation de crypto-actifs identifie la personne physique par la concaténation des éléments suivants, dans l’ordre indiqué:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">la date de naissance de la personne au format AAAAMMJJ;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les cinq premiers caractères de son prénom;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les cinq premiers caractères de son nom de famille.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e369-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Identifiants pour les entités juridiques et les crypto-actifs</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs identifient chaque entité juridique dans leurs enregistrements de carnets d’ordres à l’aide de l’identifiant d’entité prévu par l’article 14 du règlement délégué de la Commission définissant des normes techniques adopté en application de l’article 68, paragraphe 10, premier alinéa, point b).</p>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs identifient les crypto-actifs dans leurs enregistrements de carnets d’ordres à l’aide des identifiants d’actifs prévus par l’article 15 du règlement délégué de la Commission définissant des normes techniques adopté en application de l’article 68, paragraphe 10, premier alinéa, point b).</p>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   Lorsqu’il utilise l’identifiant d’entité juridique LEI pour identifier des entités juridiques, conformément au paragraphe 1, le prestataire de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs veille à ce que la longueur et la composition du code LEI repris dans ses enregistrements de carnets d’ordres soient conformes à la norme ISO 17442 et à ce que ce code LEI figure dans la base de données internationale des codes LEI gérée par le Comité de surveillance réglementaire des identifiants d’entités juridiques, et corresponde bien à l’entité concernée.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e389-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Types de négociations auxquels se livrent les participants de la plate-forme de négociation de crypto-actifs</p>
+               </div>
+               <p class="oj-normal">La qualité en laquelle le participant de la plate-forme de négociation de crypto-actifs soumet un ordre est enregistrée comme indiqué dans le champ 7 du tableau 2 de l’annexe.</p>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e396-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Enregistrement de la date et de l’heure</p>
+               </div>
+               <div id="006.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent la date et l’heure de la survenance de chaque événement mentionné dans le champ 20 du tableau 2 de l’annexe, comme indiqué dans le champ 8 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="006.002">
+                  <p class="oj-normal">2.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent la date et l’heure de chaque élément d’information mentionné dans les champs 47, 48 et 49 du tableau 2 de l’annexe, comme indiqué dans le champ 8 du tableau 2 de l’annexe.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e411-1-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Durée de validité des ordres et restrictions attachées aux ordres</p>
+               </div>
+               <div id="007.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent les durées de validité des ordres, et les restrictions attachées à ceux-ci, qui sont visées dans les champs 9 et 10 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="007.002">
+                  <p class="oj-normal">2.   Pour chaque période de validité, les dates et heures délimitant la période sont enregistrées comme indiqué dans le champ 11 du tableau 2 de l’annexe.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e426-1-1" class="oj-ti-art">Article 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Priorité et numéro de séquence</p>
+               </div>
+               <div id="008.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent des systèmes de négociation basés sur la priorité prix-visibilité-temps enregistrent l’horodatage de la priorité pour tous les ordres, comme indiqué dans le champ 12 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="008.002">
+                  <p class="oj-normal">2.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent des systèmes de négociation basés sur la priorité taille-temps enregistrent les quantités qui déterminent la priorité accordée aux ordres, comme indiqué dans le champ 13 du tableau 2 de l’annexe, ainsi que l’horodatage de la priorité visé au paragraphe 1.</p>
+               </div>
+               <div id="008.003">
+                  <p class="oj-normal">3.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent une combinaison associant la priorité prix-visibilité-temps et la priorité taille-temps, et qui affichent les ordres dans leur carnet d’ordres selon la priorité temps, enregistrent l’horodatage de la priorité pour tous les ordres, comme indiqué dans le champ 12 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="008.004">
+                  <p class="oj-normal">4.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent une combinaison associant la priorité prix-visibilité-temps et la priorité taille-temps, et qui affichent les ordres dans leur carnet d’ordres selon la priorité taille-temps, enregistrent les quantités qui déterminent la priorité accordée aux ordres, comme indiqué dans le champ 13 du tableau 2 de l’annexe, ainsi que l’horodatage de la priorité visé au paragraphe 1.</p>
+               </div>
+               <div id="008.005">
+                  <p class="oj-normal">5.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs attribuent à chaque événement un numéro de séquence, comme indiqué dans le champ 14 du tableau 2 de l’annexe, qu’ils enregistrent.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p id="d1e456-1-1" class="oj-ti-art">Article 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="oj-sti-art">Codes d’identification des ordres sur crypto-actifs</p>
+               </div>
+               <div id="009.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs attribuent à chaque ordre un code d’identification individuel, comme indiqué dans le champ 19 du tableau 2 de l’annexe, qu’ils enregistrent. Ce code d’identification est propre à:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">un carnet d’ordres;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">une séance; et</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">un crypto-actif.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">Ce code est valable depuis la réception de l’ordre par l’exploitant de la plate-forme de négociation de crypto-actifs jusqu’à sa suppression du carnet d’ordres. Il s’applique aux ordres rejetés, quel que soit le motif du rejet.</p>
+               </div>
+               <div id="009.002">
+                  <p class="oj-normal">2.   L’exploitant de la plate-forme de négociation de crypto-actifs enregistre les informations pertinentes, visées dans le champ 31 du tableau 2 de l’annexe, relatives aux ordres de stratégie avec fonctionnalité implicite (<span class="oj-italic">strategy orders with implied functionality</span>, ou «SOIF») qui sont diffusés auprès du public. Le statut de l’ordre mentionné dans ce champ indique s’il s’agit d’un ordre implicite.</p>
+               </div>
+               <div id="009.003">
+                  <p class="oj-normal">3.   Lors de l’exécution d’un ordre de stratégie avec fonctionnalité implicite, les informations le concernant sont enregistrées par l’exploitant de la plate-forme de négociation de crypto-actifs comme indiqué dans les champs pertinents du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="009.004">
+                  <p class="oj-normal">4.   Lors de l’exécution d’un ordre de stratégie avec fonctionnalité implicite, un code d’identification des ordres liés à la stratégie est indiqué, le même code étant attribué à tous les ordres liés à la stratégie en question. Le code d’identification des ordres liés à une stratégie prend la forme précisée dans le champ 44 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="009.005">
+                  <p class="oj-normal">5.   Les ordres permettant une stratégie de routage qui sont soumis à une plate-forme de négociation de crypto-actifs sont identifiés par cette plate-forme comme étant des «ordres acheminés», comme indiqué dans le champ 31 du tableau 2 de l’annexe, lorsqu’ils sont redirigés vers une autre plate-forme. Les ordres permettant une stratégie de routage qui sont soumis à une plate-forme de négociation de crypto-actifs conservent le même code d’identification pendant toute leur durée de vie, que leur solde éventuel soit ou non réinscrit dans le carnet d’ordres.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p id="d1e519-1-1" class="oj-ti-art">Article 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="oj-sti-art">Événements affectant les ordres sur crypto-actifs</p>
+               </div>
+               <p class="oj-normal">Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent les informations visées dans le champ 20 du tableau 2 de l’annexe en ce qui concerne tous les nouveaux ordres.</p>
+            </div>
+            <div class="eli-subdivision" id="art_11">
+               <p id="d1e526-1-1" class="oj-ti-art">Article 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="oj-sti-art">Type d’ordre sur crypto-actifs</p>
+               </div>
+               <div id="011.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent selon leurs propres spécifications le type d’ordres auquel appartient chaque ordre qu’ils reçoivent, comme indiqué dans le champ 21 du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="011.002">
+                  <p class="oj-normal">2.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs classent chaque ordre reçu soit en tant qu’ordre à cours limité, soit en tant qu’ordre stop, comme indiqué dans le champ 22 du tableau 2 de l’annexe.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_12">
+               <p id="d1e542-1-1" class="oj-ti-art">Article 12</p>
+               <div class="eli-title" id="art_12.tit_1">
+                  <p class="oj-sti-art">Cours relatifs aux ordres</p>
+               </div>
+               <p class="oj-normal">Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent toutes les informations sur les cours qui concernent chaque ordre, comme indiqué dans la section I du tableau 2 de l’annexe.</p>
+            </div>
+            <div class="eli-subdivision" id="art_13">
+               <p id="d1e549-1-1" class="oj-ti-art">Article 13</p>
+               <div class="eli-title" id="art_13.tit_1">
+                  <p class="oj-sti-art">Instructions des ordres</p>
+               </div>
+               <p class="oj-normal">Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent toutes les instructions reçues pour chaque ordre comme indiqué dans la section J du tableau 2 de l’annexe.</p>
+            </div>
+            <div class="eli-subdivision" id="art_14">
+               <p id="d1e556-1-1" class="oj-ti-art">Article 14</p>
+               <div class="eli-title" id="art_14.tit_1">
+                  <p class="oj-sti-art">Code d’identification de la transaction</p>
+               </div>
+               <p class="oj-normal">Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs attribuent à chaque transaction résultant de l’exécution totale ou partielle d’un ordre un code d’identification de transaction individuel, comme indiqué dans le champ 46 du tableau 2 et, selon le cas, dans le champ 1 du tableau 3 de l’annexe, et l’enregistrent.</p>
+            </div>
+            <div class="eli-subdivision" id="art_15">
+               <p id="d1e563-1-1" class="oj-ti-art">Article 15</p>
+               <div class="eli-title" id="art_15.tit_1">
+                  <p class="oj-sti-art">Phases de négociation et cours et volumes de fixing indicatifs</p>
+               </div>
+               <div id="015.001">
+                  <p class="oj-normal">1.   Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent les phases de négociation, ainsi que les cours et volumes de fixing indicatifs, comme indiqué dans la section K du tableau 2 de l’annexe.</p>
+               </div>
+               <div id="015.002">
+                  <p class="oj-normal">2.   Lorsque les autorités compétentes demandent des informations visées à la section K, il y a lieu de considérer que les informations visées dans les champs 8 et 14 à 17 du tableau 2 de l’annexe doivent figurer dans la réponse à cette demande.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_16">
+               <p id="d1e578-1-1" class="oj-ti-art">Article 16</p>
+               <div class="eli-title" id="art_16.tit_1">
+                  <p class="oj-sti-art">Entrée en vigueur</p>
+               </div>
+               <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l’Union européenne.</span>
+               </p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 29 novembre 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">La présidente</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202500416FR.000101-E0001" href="#ntc1-L_202500416FR.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2023_150_R_TOC"
+               >JO L 150 du 9.6.2023, p. 40</a>, ELI: <a href="http://data.europa.eu/eli/reg/2023/1114/oj" >http://data.europa.eu/eli/reg/2023/1114/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202500416FR.000101-E0002" href="#ntc2-L_202500416FR.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Règlement délégué (UE) 2017/590 de la Commission du 28 juillet 2016 complétant le règlement (UE) n<span class="oj-super">o</span> 600/2014 du Parlement européen et du Conseil par des normes techniques de réglementation pour la déclaration de transactions aux autorités compétentes (<a href="http://publications.europa.eu/resource/oj/JOL_2017_087_R_TOC"
+               >JO L 87 du 31.3.2017, p. 449</a>, ELI: <a href="http://data.europa.eu/eli/reg_del/2017/590/oj" >http://data.europa.eu/eli/reg_del/2017/590/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202500416FR.000101-E0003" href="#ntc3-L_202500416FR.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >JO L 119 du 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202500416FR.000101-E0004" href="#ntc4-L_202500416FR.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions, organes et organismes de l’Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n<span class="oj-super">o</span> 45/2001 et la décision n<span class="oj-super">o</span> 1247/2002/CE (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >JO L 295 du 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202500416FR.000101-E0005" href="#ntc5-L_202500416FR.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 84</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1095/oj" >http://data.europa.eu/eli/reg/2010/1095/oj</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202500416FR.000901.fmx">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e35-9-1">ANNEXE</p>
+            <p class="oj-ti-tbl" id="d1e41-9-1-table">
+               <span class="oj-italic">Tableau 1</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Légende du tableau 2 et du tableau 3</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="26%"/>
+               <col width="23%"/>
+               <col width="51%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Symbole</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Type de donnée</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Définition</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-n}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Jusqu’à n caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Texte libre.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{CFI_CODE}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">6 caractères</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code ISO 10962 CFI.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{COUNTRYCODE_2}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">2 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code pays à 2 lettres suivant la norme ISO 3166-1 alpha-2.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{CURRENCYCODE_3}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">3 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code monnaie à 3 lettres suivant la norme ISO 4217.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATE_TIME_FORMAT}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Format de date et heure ISO 8601</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date et heure selon le format suivant:</p>
+                        <p class="oj-tbl-txt">AAAA-MM-JJThh:mm:ss.ddddddZ, où:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«AAAA» correspond à l’année,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«MM» au mois,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«JJ» au jour,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«T» — signifie que la lettre «T» doit être utilisée pour introduire l’heure,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«hh» correspond aux heures,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«mm» aux minutes,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«ss.dddddd» aux secondes et aux fractions de secondes,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«Z» correspond au temps universel coordonné (TUC).</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-tbl-txt">Dates et heures doivent être déclarées en TUC.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATEFORMAT}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Format de date ISO 8601</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Les dates doivent respecter le format: AAAA-MM-JJ.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-n/m}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Nombre décimal de maximum n chiffres au total, dont m chiffres tout au plus peuvent être des décimales</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Champ numérique pouvant contenir des valeurs positives ou négatives.</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">utiliser comme séparateur décimal le signe «.» (point),</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">faire précéder les valeurs négatives du signe «–» (moins); indiquer des valeurs arrondies et non tronquées.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DTI}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">9 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code DTI ISO 24165 attribué à un actif numérique fongible qui utilise la technologie des registres distribués pour son émission, son stockage, son échange, l’enregistrement de ses propriétaires ou la validation des transactions dont il fait l’objet et qui n’est pas une monnaie (ISO 4217), tel que décrit dans la norme ISO 24165 — DTI.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DTI_SHORT_NAME}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">n caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code DTI abrégé enregistré conformément aux éléments de données pour l’enregistrement du DTI publiés dans la norme ISO 24165-2.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{INTEGER-n}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Nombre entier de n chiffres au maximum</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Champ numérique pouvant contenir des entiers positifs ou négatifs.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ISIN}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">12 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code ISIN défini suivant la norme ISO 6166.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{LEI}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">20 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant d’entité juridique défini suivant la norme ISO 17442.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{MIC}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">4 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant de marché défini suivant la norme ISO 10383.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{NATIONAL_ID}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">35 caractères alphanumériques</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant défini conformément à l’article 3 du présent règlement et à l’annexe II du règlement délégué (UE) 2017/590.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <p class="oj-ti-tbl" id="d1e232-9-1-table">
+               <span class="oj-italic">Tableau 2</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="12%"/>
+               <col width="17%"/>
+               <col width="35%"/>
+               <col width="35%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Numéro du champ</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Nom du champ</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Description du champ</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Informations du carnet d’ordres</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section A — Identification des parties concernées</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identification de l’entité qui a soumis l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant d’entité juridique LEI du participant de la plate-forme de négociation exploitée par le prestataire de services sur crypto-actifs, ou un identifiant équivalent, prévu par l’article 4.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{LEI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">2</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identification de la personne physique qui a soumis l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identité du participant de la plate-forme de négociation exploitée par le prestataire de services sur crypto-actifs. Ce champ ne concerne que les personnes physiques.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{NATIONAL_ID}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code d’identification du client</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code utilisé pour identifier le client du participant de la plate-forme de négociation de crypto-actifs.</p>
+                        <p class="oj-tbl-txt">Lorsque le client est une entité juridique, il convient d’utiliser son code LEI, ou un autre identifiant prévu par l’article 4 ({ALPHANUM-20}).</p>
+                        <p class="oj-tbl-txt">Lorsque le client n’est pas une entité juridique, il convient d’utiliser le code {NATIONAL_ID}.</p>
+                        <p class="oj-tbl-txt">Dans le cas d’attributions en attente, il convient d’utiliser le code signalétique PNAL.</p>
+                        <p class="oj-tbl-txt">Il convient de n’utiliser le code signalétique «NOAP» pour remplir ce champ que si le participant de la plate-forme de négociation exploitée par le prestataire de services sur crypto-actifs a un intérêt direct à acheter ou à vendre.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{LEI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                        <p class="oj-tbl-txt">{NATIONAL_ID}</p>
+                        <p class="oj-tbl-txt">«PNAL»</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">4</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Responsabilité de la décision d’investissement au sein du prestataire de services sur crypto-actifs</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code utilisé pour identifier, au sein du prestataire de services sur crypto-actifs, la personne ou l’algorithme informatique responsable de la décision d’investissement.</p>
+                        <p class="oj-tbl-txt">Lorsqu’une personne physique au sein du prestataire de services sur crypto-actifs est responsable de la décision d’investissement, elle est identifiée par son identifiant {NATIONAL_ID}.</p>
+                        <p class="oj-tbl-txt">Lorsqu’un algorithme déterminant automatiquement les différents paramètres des ordres est responsable de la décision d’investissement, ce champ est à remplir avec le code assigné conformément à l’article 2.</p>
+                        <p class="oj-tbl-txt">Ce champ est laissé vide lorsque ce n’est pas une personne ou un algorithme informatique au sein du prestataire de services sur crypto-actifs qui a pris la décision d’investissement.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{NATIONAL_ID} — Personnes physiques</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-50} — Algorithmes</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">5</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Responsabilité de l’exécution au sein de l’entreprise</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code utilisé pour identifier, au sein du prestataire de services sur crypto-actifs, la personne ou l’algorithme informatique responsable de l’exécution de la transaction résultant de l’ordre. Ne rien indiquer si l’entité exécutante est une personne physique.</p>
+                        <p class="oj-tbl-txt">Lorsqu’une personne physique est responsable de l’exécution de la transaction, elle est identifiée par son identifiant {NATIONAL_ID}.</p>
+                        <p class="oj-tbl-txt">Lorsque le responsable de l’exécution de la transaction est un algorithme déterminant automatiquement les différents paramètres des ordres, comme le fait d’initier ou non un ordre, ou son moment, le cours et la quantité concernés, ce champ est à remplir avec le code assigné par le prestataire de services sur crypto-actifs conformément à l’article 4.</p>
+                        <p class="oj-tbl-txt">Lorsque l’exécution de la transaction fait intervenir plusieurs personnes, ou à la fois des personnes et des algorithmes, le prestataire de services sur crypto-actifs détermine quelle personne ou quel algorithme en assume la responsabilité première et indique dans ce champ l’identité de cette personne ou de cet algorithme.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{NATIONAL_ID} — Personnes physiques</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-50} — Algorithmes</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">6</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Courtier non exécutant</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le code utilisé pour identifier un participant à une plate-forme de négociation de crypto-actifs qui a transmis un ordre pour le compte et au nom d’un autre participant de cette plate-forme.</p>
+                        <p class="oj-tbl-txt">Si ce champ n’est pas pertinent, il convient d’y indiquer «NOAP».</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">LEI</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section B — Type de négociation et apport de liquidité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">7</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Type de négociation</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indique si le prestataire de services sur crypto-actifs qui effectue la transaction se livre à une négociation par appariement avec interposition du compte propre ou s’il échange des crypto-actifs contre des fonds.</p>
+                        <p class="oj-tbl-txt">Lorsque la soumission de l’ordre n’est pas le résultat d’une négociation par appariement avec interposition du compte propre ou d’un échange de crypto-actifs contre des fonds, il convient d’indiquer dans ce champ (par la mention «tout autre type de négociation») que la transaction a été effectuée par le prestataire de services sur crypto-actifs en une autre qualité.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«DEAL» — Échange de crypto-actifs contre des fonds</p>
+                        <p class="oj-tbl-txt">«MTCH» — Négociation par appariement avec interposition du compte propre</p>
+                        <p class="oj-tbl-txt">«AOTC» — Tout autre type de négociation</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section C — Date et heure</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">8</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date et heure</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">La date et l’heure de chaque événement répertorié dans les sections G et K du présent tableau.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATE_TIME_FORMAT}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section D — Durée de validité et restrictions attachées aux ordres</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">9</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Durée de validité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Good-For-Day (Validité jour): l’ordre expire à la fin de la séance de négociation au cours de laquelle il a été inscrit dans le carnet d’ordres.</p>
+                        <p class="oj-tbl-txt">Good-Till-Cancelled (Validité jusqu’à révocation): l’ordre reste actif dans le carnet d’ordres et est exécutable tant qu’il n’a pas été annulé.</p>
+                        <p class="oj-tbl-txt">Good-Till-Time (Validité jusqu’à une certaine heure): l’ordre expire au plus tard à une certaine heure pendant la séance de négociation en cours.</p>
+                        <p class="oj-tbl-txt">Good-Till-Date (Validité jusqu’à une certaine date): l’ordre expire à une certaine date, en fin de séance.</p>
+                        <p class="oj-tbl-txt">Good-Till-Specified Date and Time (Validité jusqu’à une certaine date à une certaine heure): l’ordre expire à une certaine date et à une certaine heure.</p>
+                        <p class="oj-tbl-txt">Good After Time (Validité après une certaine heure): l’ordre ne devient actif qu’après une certaine heure pendant la séance de négociation en cours.</p>
+                        <p class="oj-tbl-txt">Good After Date (Validité après une certaine date): l’ordre ne devient actif qu’à une certaine date, au début de la séance.</p>
+                        <p class="oj-tbl-txt">Good After Specified Date and Time (Validité après une certaine date à une certaine heure): l’ordre ne devient actif qu’à partir d’une certaine date à une certaine heure.</p>
+                        <p class="oj-tbl-txt">Immediate-Or-Cancel (Exécution immédiate ou annulation): l’ordre est exécuté dès son inscription dans le carnet d’ordres (à hauteur de la quantité pour laquelle l’exécution est possible) et la portion non exécutée (le cas échéant) est retirée du carnet d’ordres.</p>
+                        <p class="oj-tbl-txt">Fill-Or-Kill (Ordre pour exécution intégrale immédiate ou annulation): l’ordre est exécuté dès son inscription dans le carnet d’ordres mais uniquement si l’exécution peut être intégrale; si l’exécution n’est que partiellement possible, il est automatiquement rejeté et ne peut donc pas être exécuté.</p>
+                        <p class="oj-tbl-txt">Autre: toute autre indication propre à certains modèles économiques, à certaines plates-formes de négociation ou à certains systèmes.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«DAVY» — Good-For-Day</p>
+                        <p class="oj-tbl-txt">«GTCV» — Good-Till-Cancelled</p>
+                        <p class="oj-tbl-txt">«GTTV» — Good-Till-Time</p>
+                        <p class="oj-tbl-txt">«GTDV» — Good-Till-Date</p>
+                        <p class="oj-tbl-txt">«GTSV» — Good-Till-Specified Date and Time</p>
+                        <p class="oj-tbl-txt">«GATV» — Good After Time</p>
+                        <p class="oj-tbl-txt">«GADV» — Good After Date</p>
+                        <p class="oj-tbl-txt">«GASV» — Good After Specified Date and Time</p>
+                        <p class="oj-tbl-txt">«IOCV» — Immediate-Or-Cancel</p>
+                        <p class="oj-tbl-txt">«FOKV» — Fill-Or-Kill</p>
+                        <p class="oj-tbl-txt">ou</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-4} caractères qui ne sont pas encore utilisés pour le propre classement de la plate-forme de négociation de crypto-actifs.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">10</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Restrictions attachées aux ordres</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Good For Closing Price Crossing Session (Valable pour la phase de négociation au cours de clôture): l’ordre remplit les conditions pour la phase de négociation au cours de clôture.</p>
+                        <p class="oj-tbl-txt">Valid For Auction (Valable pour le fixing): l’ordre n’est actif et ne peut être exécuté que lors de phases de fixing (qui peuvent être prédéfinies par le client du prestataire de services sur crypto-actifs qui a soumis l’ordre, par exemple fixing d’ouverture et de clôture et/ou fixing intrajournalier).</p>
+                        <p class="oj-tbl-txt">Valid For Continuous Trading only (Valable uniquement pour la négociation en continu): l’ordre n’est actif que pendant la phase de négociation en continu.</p>
+                        <p class="oj-tbl-txt">Autre: toute autre indication propre à certains modèles économiques, à certaines plates-formes de négociation ou à certains systèmes.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«SESR» — Good For Closing Price Crossing Session</p>
+                        <p class="oj-tbl-txt">«VFAR» — Valid For Auction</p>
+                        <p class="oj-tbl-txt">«VFCR» — Valid For Continuous Trading only</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-4} caractères qui ne sont pas encore utilisés pour le propre classement de la plate-forme de négociation de crypto-actifs.</p>
+                        <p class="oj-tbl-txt">Si l’ordre relève de plusieurs codes signalétiques, il convient de les indiquer dans ce champ en les séparant par des virgules.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">11</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Heure et durée de validité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Il convient d’indiquer dans ce champ l’horodatage du moment à partir duquel l’ordre devient actif, ou du moment à partir duquel il est retiré du carnet d’ordres.</p>
+                        <p class="oj-tbl-txt">Good-For-Day (Validité jour): la date d’entrée, l’horodatage indiquant juste avant minuit.</p>
+                        <p class="oj-tbl-txt">Good-Till-Time (Validité jusqu’à une certaine heure): la date d’entrée et l’heure précisée dans l’ordre.</p>
+                        <p class="oj-tbl-txt">Good-Till-Date (Validité jusqu’à une certaine date): la date d’expiration prévue, l’horodatage indiquant juste avant minuit.</p>
+                        <p class="oj-tbl-txt">Good-Till-Specified Date and Time (Validité jusqu’à une certaine date à une certaine heure): la date et l’heure prévues de l’expiration.</p>
+                        <p class="oj-tbl-txt">Good After Time (Validité après une certaine heure): la date d’entrée et l’heure à partir de laquelle il est prévu que l’ordre devienne actif.</p>
+                        <p class="oj-tbl-txt">Good After Date (Validité après une certaine date): la date prévue, l’horodatage indiquant juste après minuit.</p>
+                        <p class="oj-tbl-txt">Good After Specified Date and Time (Validité après une certaine date à une certaine heure): la date et l’heure à partir desquelles il est prévu que l’ordre devienne actif.</p>
+                        <p class="oj-tbl-txt">Good till Cancel (Validité jusqu’à révocation): la date et l’heure ultimes où l’ordre sera automatiquement retiré par procédure de marché.</p>
+                        <p class="oj-tbl-txt">Autre: horodatage pour tout autre type de validité.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATE_TIME_FORMAT}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section E — Priorité et numéro de séquence</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">12</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Horodatage de la priorité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Ce champ doit être mis à jour à chaque fois que la priorité d’un ordre change.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATE_TIME_FORMAT}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">13</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Priorité taille</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Pour les plates-formes de négociation de crypto-actifs qui utilisent la priorité taille-temps, il convient d’indiquer dans ce champ un nombre positif correspondant à la quantité.</p>
+                        <p class="oj-tbl-txt">Ce champ doit être mis à jour à chaque fois que la priorité de l’ordre change.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Jusqu’à 20 caractères numériques positifs.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">14</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Numéro de séquence</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Chaque événement mentionné dans la section G est identifié à l’aide de nombres entiers positifs, par ordre croissant.</p>
+                        <p class="oj-tbl-txt">Le numéro de séquence est propre à chaque type d’événement, constant pour tous les événements, horodaté par l’exploitant de la plate-forme de négociation de crypto-actifs, et persistant pendant toute la journée où l’événement se produit.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{INTEGER-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section F — Identification de l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">15</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code MIC de segment (segment MIC)</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identification de la plate-forme de négociation de crypto-actifs sur laquelle l’ordre a été soumis.</p>
+                        <p class="oj-tbl-txt">Si la plateforme de négociation de crypto-actifs utilise des codes MIC de segment, indiquer le code MIC de segment.</p>
+                        <p class="oj-tbl-txt">Si la plateforme de négociation de crypto-actifs n’utilise pas de codes MIC de segment, indiquer le code MIC d’exploitation (operating MIC).</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{MIC}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">16</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code du carnet d’ordres</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le code alphanumérique que la plate-forme de négociation de crypto-actifs attribue spécifiquement à chaque carnet d’ordres.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">17</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code d’identification du crypto-actif</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant unique et univoque du crypto-actif, conforme à l’article 4.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DTI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">18</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date de réception</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date de réception de l’ordre initial.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATEFORMAT}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">19</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code d’identification de l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code alphanumérique que l’exploitant de la plate-forme de négociation de crypto-actifs attribue spécifiquement à chaque ordre.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section G — Événements affectant l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">20</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Nouvel ordre, modification de l’ordre, annulation de l’ordre, rejet de l’ordre, exécution partielle ou totale de l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Nouvel ordre: soumission d’un nouvel ordre au prestataire de services sur crypto-actifs qui exploite la plate-forme de négociation de crypto-actifs.</p>
+                        <p class="oj-tbl-txt">Déclenché: ordre qui devient exécutable ou, selon le cas, non-exécutable, lorsqu’une certaine condition se réalise.</p>
+                        <p class="oj-tbl-txt">Remplacé par le participant de la plate-forme de négociation de crypto-actifs: cas où un participant ou un client de la plate-forme de négociation de crypto-actifs décide, de sa propre initiative, de modifier une ou plusieurs caractéristiques d’un ordre qu’il a précédemment introduit dans le carnet d’ordres.</p>
+                        <p class="oj-tbl-txt">Remplacé par procédure de marché (automatique): cas où une ou plusieurs caractéristiques d’un ordre sont modifiées par les systèmes informatiques de l’exploitant de la plate-forme de négociation. C’est notamment le cas lorsque les caractéristiques actuelles d’un ordre indexé (<span class="oj-italic">peg order</span>) ou d’un ordre à seuil de déclenchement suiveur (<span class="oj-italic">trailing stop order</span>) sont modifiées afin de rendre compte de la situation de l’ordre dans le carnet d’ordres.</p>
+                        <p class="oj-tbl-txt">Remplacé par procédure de marché (intervention humaine): cas où une ou plusieurs caractéristiques d’un ordre sont modifiées par le personnel de l’exploitant de la plate-forme de négociation de crypto-actifs. Cela inclut les cas où un participant de la plate-forme de négociation de crypto-actifs demande l’annulation en urgence d’ordres en raison d’incidents informatiques.</p>
+                        <p class="oj-tbl-txt">Changement de statut à l’initiative du participant de la plate-forme de négociation de crypto-actifs. Cela inclut l’activation et la désactivation.</p>
+                        <p class="oj-tbl-txt">Changement de statut dû aux procédures de marché.</p>
+                        <p class="oj-tbl-txt">Annulé à l’initiative du participant de la plate-forme de négociation de crypto-actifs: cas où un participant ou client décide de sa propre initiative d’annuler l’ordre qu’il a précédemment placé.</p>
+                        <p class="oj-tbl-txt">Annulé par procédure de marché.</p>
+                        <p class="oj-tbl-txt">Ordre rejeté: ordre reçu mais rejeté par l’exploitant de la plate-forme de négociation de crypto-actifs.</p>
+                        <p class="oj-tbl-txt">Ordre expiré: ordre retiré du carnet d’ordres à la fin de sa période de validité.</p>
+                        <p class="oj-tbl-txt">Partiellement exécuté: ordre qui n’a pas été intégralement exécuté, de sorte qu’il reste un solde à exécuter.</p>
+                        <p class="oj-tbl-txt">Intégralement exécuté: ordre pour lequel il n’y a plus de solde à exécuter.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«NEWO» — Nouvel ordre</p>
+                        <p class="oj-tbl-txt">«TRIG» — Déclenché</p>
+                        <p class="oj-tbl-txt">«REME» — Remplacé par le membre ou le participant de la plate-forme de négociation de crypto-actifs</p>
+                        <p class="oj-tbl-txt">«REMA» — Remplacé par procédure de marché (automatique)</p>
+                        <p class="oj-tbl-txt">«REMH» — Remplacé par procédure de marché (intervention humaine)</p>
+                        <p class="oj-tbl-txt">«CHME» — Changement de statut à l’initiative du participant de la plate-forme de négociation de crypto-actifs</p>
+                        <p class="oj-tbl-txt">«CHMO» — Changement de statut dû aux procédures de marché</p>
+                        <p class="oj-tbl-txt">«CAME» — Annulé à l’initiative du participant de la plate-forme de négociation de crypto-actifs</p>
+                        <p class="oj-tbl-txt">«CAMO» — Annulé par procédure de marché</p>
+                        <p class="oj-tbl-txt">«REMO» — Ordre rejeté</p>
+                        <p class="oj-tbl-txt">«EXPI» — Ordre expiré</p>
+                        <p class="oj-tbl-txt">«PARF» — Partiellement exécuté</p>
+                        <p class="oj-tbl-txt">«FILL» — Intégralement exécuté</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-4} caractères qui ne sont pas encore utilisés pour le propre classement de la plate-forme de négociation de crypto-actifs.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section H — type d’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">21</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Type d’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifie le type d’ordre soumis à la plate-forme de négociation selon les spécifications de celle-ci.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">22</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Classement des types d’ordres</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Classement de l’ordre selon deux types génériques d’ordres. Ordre à cours limité: cas où l’ordre est exécutable; et</p>
+                        <p class="oj-tbl-txt">Ordre stop: cas où l’ordre ne devient exécutable que si un certain événement de prix se réalise.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Les lettres «LMTO» pour ordre à cours limité ou les lettres «STOP» pour ordre stop.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section I — Cours</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">23</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Cours limité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le prix maximal auquel un ordre d’achat peut être exécuté ou le prix minimal auquel un ordre de vente peut être exécuté.</p>
+                        <p class="oj-tbl-txt">L’écart de prix pour un ordre de stratégie (<span class="oj-italic">strategy order</span>). Il peut être positif ou négatif.</p>
+                        <p class="oj-tbl-txt">Si ce champ n’est pas pertinent, il convient d’y indiquer «NOAP».</p>
+                        <p class="oj-tbl-txt">Si le prix est indiqué sous forme monétaire, il est donné dans l’unité monétaire majeure.</p>
+                        <p class="oj-tbl-txt">Si le crypto-actif est négocié sur la base d’une paire de devises, le prix exprime la quantité de devise de cotation par unité de devise de base.</p>
+                        <p class="oj-tbl-txt">Si le prix est exprimé en sous-composantes du crypto-actif, il doit néanmoins être enregistré sous la forme décimale du prix exprimé en unités de ce crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/13} si le prix est exprimé en valeur monétaire.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-11/10} si le prix est exprimé sous la forme d’un pourcentage ou d’un rendement.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si le prix est exprimé en points de base.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">24</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Cours limité supplémentaire</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Toute autre limite de prix pouvant s’appliquer à l’ordre. Si ce champ n’est pas pertinent, il convient d’y indiquer «NOAP».</p>
+                        <p class="oj-tbl-txt">Si le prix est indiqué sous forme monétaire, il est donné dans l’unité monétaire majeure.</p>
+                        <p class="oj-tbl-txt">Si le crypto-actif est négocié sur la base d’une paire de devises, le prix exprime la quantité de devise de cotation par unité de devise de base.</p>
+                        <p class="oj-tbl-txt">Si le prix est exprimé en sous-composantes du crypto-actif, il doit néanmoins être enregistré sous la forme décimale du prix exprimé en unités de ce crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/13} si le prix est exprimé en valeur monétaire.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-11/10} si le prix est exprimé sous la forme d’un pourcentage ou d’un rendement.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si le prix est exprimé en points de base.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">25</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Cours de déclenchement (Stop price)</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le prix qui doit être atteint pour que l’ordre devienne actif.</p>
+                        <p class="oj-tbl-txt">Pour les ordres stop déclenchés par des événements indépendants du cours du crypto-actif, il convient d’indiquer dans ce champ un cours de déclenchement égal à zéro.</p>
+                        <p class="oj-tbl-txt">Si ce champ n’est pas pertinent, il convient d’y indiquer «NOAP».</p>
+                        <p class="oj-tbl-txt">Si le prix est indiqué sous forme monétaire, il est donné dans l’unité monétaire majeure.</p>
+                        <p class="oj-tbl-txt">Si le crypto-actif est négocié sur la base d’une paire de devises, le prix exprime la quantité de devise de cotation par unité de devise de base.</p>
+                        <p class="oj-tbl-txt">Si le prix est exprimé en sous-composantes du crypto-actif, il doit néanmoins être enregistré sous la forme décimale du prix exprimé en unités de ce crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/13} si le prix est exprimé en valeur monétaire.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-11/10} si le prix est exprimé sous la forme d’un pourcentage ou d’un rendement.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si le prix est exprimé en points de base.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">26</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Cours limité ordre indexé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le prix maximal auquel un ordre d’achat indexé peut être exécuté ou le prix minimal auquel un ordre de vente indexé peut être exécuté.</p>
+                        <p class="oj-tbl-txt">Si ce champ n’est pas pertinent, il convient d’y indiquer «NOAP».</p>
+                        <p class="oj-tbl-txt">Si le prix est indiqué sous forme monétaire, il est donné dans l’unité monétaire majeure.</p>
+                        <p class="oj-tbl-txt">Si le crypto-actif est négocié sur la base d’une paire de devises, le prix exprime la quantité de devise de cotation par unité de devise de base.</p>
+                        <p class="oj-tbl-txt">Si le prix est exprimé en sous-composantes du crypto-actif, il doit néanmoins être enregistré sous la forme décimale du prix exprimé en unités de ce crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/13} si le prix est exprimé en valeur monétaire.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-11/10} si le prix est exprimé sous la forme d’un pourcentage ou d’un rendement.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si le prix est exprimé en points de base.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">27</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Prix de transaction</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Prix d’exécution de la transaction, hors commissions, autres frais et intérêts courus, le cas échéant.</p>
+                        <p class="oj-tbl-txt">Si le prix est sans objet, il convient d’indiquer dans ce champ le sigle «NOAP».</p>
+                        <p class="oj-tbl-txt">Si le prix est indiqué sous forme monétaire, il est donné dans l’unité monétaire majeure.</p>
+                        <p class="oj-tbl-txt">Si le crypto-actif est négocié sur la base d’une paire de devises, le prix exprime la quantité de devise de cotation par unité de devise de base.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/13} si le prix est exprimé en valeur monétaire.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-11/10} si le prix est exprimé sous la forme d’un pourcentage ou d’un rendement.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si le prix est exprimé en points de base.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">28</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Monnaie du cours</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Monnaie dans laquelle est exprimé le cours du crypto-actif lié à l’ordre (si le prix est exprimé en valeur monétaire).</p>
+                        <p class="oj-tbl-txt">Si le crypto-actif se négocie en monnaie électronique/jetons de monnaie électronique, il convient d’indiquer l’identifiant de jeton numérique visé par l’article 4.</p>
+                        <p class="oj-tbl-txt">Si le cours du crypto-actif est exprimé en termes monétaires et dans une paire de devises, il convient d’indiquer la paire de devises en question. Le premier code monnaie est celui de la devise de base, le second celui de la devise de cotation. La devise de cotation détermine le prix d’une unité dans la devise de base. Pour représenter la monnaie fiat et le crypto-actif dans la paire de devises, il convient d’utiliser, pour la monnaie fiat, le code monnaie ISO et, pour le crypto-actif, le code DTI abrégé enregistré conformément aux éléments de données de la norme ISO 24165-2 pour l’enregistrement du DTI, ou l’autre identifiant équivalent visé par l’article 4.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{CURRENCYCODE_3}</p>
+                        <p class="oj-tbl-txt">{DTI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                        <p class="oj-tbl-txt">{CURRENCYCODE_3} est le code à utiliser pour les monnaies fiat dans une paire de devises.</p>
+                        <p class="oj-tbl-txt">{DTI_SHORT_NAME} est le code à utiliser pour les crypto-actifs dans une paire de devises.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">29</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Expression du prix</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indique la manière dont le prix est exprimé: en valeur monétaire, en pourcentage, en taux de rendement, en points de base ou en crypto-actifs.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«MONE» — Valeur monétaire</p>
+                        <p class="oj-tbl-txt">«PERC» — Pourcentage</p>
+                        <p class="oj-tbl-txt">«YIEL» — Rendement</p>
+                        <p class="oj-tbl-txt">«BAPO» — Points de base</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section J — Instructions de l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">30</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indicateur achat-vente</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Pour indiquer s’il s’agit d’un ordre d’achat ou d’un ordre de vente.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«BUYI» — achat</p>
+                        <p class="oj-tbl-txt">«SELL» — vente</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">31</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Statut de l’ordre</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Pour identifier les ordres qui sont actifs/inactifs/suspendus, fermes/indicatifs (attribué uniquement aux offres de prix ou «quotes»)/implicites/réacheminés.</p>
+                        <p class="oj-tbl-txt">Actif — ordres exécutables autres que les offres de prix.</p>
+                        <p class="oj-tbl-txt">Inactif — ordres non exécutables autres que les offres de prix.</p>
+                        <p class="oj-tbl-txt">Fermes/indicatifs — attribué uniquement aux offres de prix. Les offres de prix sont dites indicatives lorsqu’elles sont visibles mais ne peuvent pas être exécutées. Sur certaines plates-formes de négociation de crypto-actifs, cela inclut les bons de souscription d’actions (<span class="oj-italic">warrants</span>). Les offres de prix fermes peuvent être exécutées.</p>
+                        <p class="oj-tbl-txt">Implicites — Utilisé pour les ordres de stratégie (strategy orders) qui résultent de la fonction «implied in» ou «implied out».</p>
+                        <p class="oj-tbl-txt">Acheminé — Utilisé pour les ordres qui sont acheminés par la plate-forme de négociation de crypto-actifs vers d’autres plates-formes.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«ACTI» — actif</p>
+                        <p class="oj-tbl-txt">ou</p>
+                        <p class="oj-tbl-txt">«INAC» — inactif</p>
+                        <p class="oj-tbl-txt">ou</p>
+                        <p class="oj-tbl-txt">«FIRM» — offres de prix fermes</p>
+                        <p class="oj-tbl-txt">ou</p>
+                        <p class="oj-tbl-txt">«INDI» — offres de prix indicatives</p>
+                        <p class="oj-tbl-txt">ou</p>
+                        <p class="oj-tbl-txt">«IMPL» — ordres de stratégie implicites</p>
+                        <p class="oj-tbl-txt">ou</p>
+                        <p class="oj-tbl-txt">«ROUT» — ordres acheminés.</p>
+                        <p class="oj-tbl-txt">Si plusieurs statuts s’appliquent, il convient de les indiquer dans ce champ à l’aide de plusieurs codes signalétiques séparés par des virgules.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">32</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Expression de la quantité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indique la manière dont la quantité est exprimée: en nombre d’unités, en valeur nominale, en valeur monétaire ou en unités de crypto-actifs.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«UNIT» — Nombre d’unités</p>
+                        <p class="oj-tbl-txt">«NOML» — Valeur nominale</p>
+                        <p class="oj-tbl-txt">«MONE» — Valeur monétaire</p>
+                        <p class="oj-tbl-txt">«{CRYP}» — Valeur en crypto-actifs</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">33</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Monnaie de la quantité</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Monnaie dans laquelle la quantité est exprimée. Elle correspond aux unités du crypto-actif, même si la transaction est libellée en sous-composantes de celui-ci.</p>
+                        <p class="oj-tbl-txt">Ce champ ne doit être rempli que si la quantité est exprimée en valeur monétaire ou nominale ou en unités de crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{CURRENCYCODE_3}</p>
+                        <p class="oj-tbl-txt">{DTI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">34</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Quantité initiale</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Nombre d’unités du crypto-actif dans l’ordre. Si l’ordre porte sur une fraction du crypto-actif, il convient d’indiquer la quantité d’unités de ce crypto-actif sous forme décimale.</p>
+                        <p class="oj-tbl-txt">Valeur nominale ou monétaire du crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">35</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Quantité résiduelle</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">La quantité totale qui reste dans le carnet d’ordres après une exécution partielle ou dans le cas de tout autre événement affectant l’ordre.</p>
+                        <p class="oj-tbl-txt">En cas d’ordre partiellement exécuté, il s’agit du solde non exécuté. Lors de l’entrée de l’ordre, elle sera égale à la quantité initiale.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">36</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Quantité affichée</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">La quantité qui est visible (par opposition à la quantité cachée) dans l’ordre.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">37</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Quantité exécutée</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Lorsqu’il y a exécution partielle ou intégrale, il convient d’indiquer dans ce champ la quantité exécutée.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">38</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Quantité acceptable minimale (QAM)</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">La quantité acceptable minimale pour qu’un ordre soit exécuté, qui peut correspondre à plusieurs exécutions partielles et ne s’applique en principe qu’aux types d’ordres non persistants.</p>
+                        <p class="oj-tbl-txt">Si ce champ n’est pas pertinent, il convient d’y indiquer «NOAP».</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">39</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Taille exécutable minimale (TEM)</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">La taille minimale de toute exécution individuelle potentielle.</p>
+                        <p class="oj-tbl-txt">Ce champ est laissé vide lorsqu’il n’est pas pertinent.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">40</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">TEM seulement pour la première exécution</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indique si la taille exécutable minimale ne concerne que la première exécution.</p>
+                        <p class="oj-tbl-txt">Ce champ peut être laissé vide si le champ 39 est laissé vide.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«true»</p>
+                        <p class="oj-tbl-txt">«false»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">41</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indicateur passif seulement</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indique si l’ordre est transmis à la plate-forme de négociation de crypto-actifs avec une caractéristique/un code signalétique faisant qu’il ne sera pas exécuté immédiatement contre un éventuel ordre visible de sens contraire.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«true»</p>
+                        <p class="oj-tbl-txt">«false»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">42</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indicateur passif ou agressif</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">En cas d’exécution partielle ou intégrale d’un ordre, indique si cet ordre était déjà présent dans le carnet d’ordres et apportait de la liquidité (passif) ou si l’ordre a déclenché la transaction et a donc consommé de la liquidité (agressif).</p>
+                        <p class="oj-tbl-txt">Ce champ est laissé vide s’il n’est pas pertinent.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«PASV» — passif ou</p>
+                        <p class="oj-tbl-txt">«AGRE» — agressif.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">43</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Prévention de l’auto-exécution</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indique si l’ordre a été placé avec un critère de prévention de l’auto-exécution empêchant qu’il soit exécuté contre un ordre de sens opposé dans le carnet d’ordres placé par le même participant.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«true»</p>
+                        <p class="oj-tbl-txt">«false»</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">44</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identification des ordres liés à une stratégie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le code alphanumérique qui sert à relier tous les ordres liés s’inscrivant dans une même stratégie au sens de l’article 9, paragraphe 2.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">45</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Stratégie de routage</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">La stratégie de routage applicable selon les spécifications de la plate-forme de négociation de crypto-actifs.</p>
+                        <p class="oj-tbl-txt">Ce champ est laissé vide s’il n’est pas pertinent.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">46</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code d’identification de la transaction</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code alphanumérique attribué à la transaction par la plate-forme de négociation de crypto-actifs conformément à l’article 14.</p>
+                        <p class="oj-tbl-txt">Ce code est unique, cohérent et persistant pour chaque MIC de segment selon ISO10383 et pour chaque séance. Les éléments composant le code d’identification de transaction ne révèlent pas l’identité des contreparties à la transaction à laquelle il est attribué. Pour les ordres transmis à des plates-formes de négociation de crypto-actifs telles que celles visées par l’article 12 du règlement délégué de la Commission instituant des normes techniques adopté en vertu de l’article 68, paragraphe 10, premier alinéa, point b), qui sont des entités fournissant des services sur crypto-actifs en dehors de l’Union, ces informations sont enregistrées à chaque fois qu’il est possible de les récupérer.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-52}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="3" >
+                        <p class="oj-tbl-txt">Section K — phases de négociation, cours et volume de fixing indicatifs</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">47</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Phases de négociation</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le nom de chacune des différentes phases de négociation au cours desquelles un ordre est présent dans le carnet d’ordres, y compris les interruptions de négociation, les coupe-circuit et les suspensions.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">48</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Cours de fixing indicatif</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le cours auquel le fixing devrait conduire pour le crypto-actif faisant l’objet d’un ou plusieurs ordres.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale.</p>
+                        <p class="oj-tbl-txt">Lorsque le prix est indiqué sous forme monétaire, il est donné dans l’unité monétaire majeure.</p>
+                        <p class="oj-tbl-txt">{DECIMAL-11/10} si le prix est exprimé sous la forme d’un pourcentage ou d’un rendement.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">49</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Volume de fixing indicatif</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le volume (nombre d’unités du crypto-actif) qui pourrait être exécuté au cours de fixing indicatif indiqué si le fixing prenait fin à ce moment précis.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-18/17} si la quantité est exprimée en nombre d’unités</p>
+                        <p class="oj-tbl-txt">{DECIMAL-18/5} si la quantité est exprimée en valeur monétaire ou nominale</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="19%"/>
+               <col width="19%"/>
+               <col width="28%"/>
+               <col width="35%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="4" >
+                        <p class="oj-tbl-txt">Section L — Pays de résidence des personnes physiques</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">50</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Indication du pays de résidence</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Champ à remplir si la personne physique réside dans un pays autre que celui dont elle possède la nationalité, comme prévu à l’article 3, paragraphe 4.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{COUNTRYCODE_2}</p>
+                        <p class="oj-tbl-txt">«NOAP»</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <p class="oj-ti-tbl" id="d1e1437-9-1-table">
+               <span class="oj-italic">Tableau 3</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Données relatives aux transactions sur chaîne</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="9%"/>
+               <col width="22%"/>
+               <col width="27%"/>
+               <col width="42%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Numéro du champ</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Champ</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Informations à enregistrer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Informations à fournir à l’autorité compétente</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Hachage de transaction</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant permettant d’identifier de manière unique une transaction donnée effectuée sur le réseau.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-140}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">2</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Adresses de portefeuilles</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code permettant d’identifier de manière unique le portefeuille, appartenant à l’acheteur/au vendeur, vers lequel est transféré le crypto-actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-140}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Adresses de contrats intelligents</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code permettant d’identifier de manière unique l’adresse du contrat intelligent.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-140}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">4</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Horodatage</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Horodatage de la création du bloc.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATE_TIME_FORMAT}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">5</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Quantité/Offre actuelle totale</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Rapport entre la quantité transférée et le flottant actuel de l’actif.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">6</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">ID du jeton</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant de jeton numérique DTI ou autre identifiant équivalent prévu par l’article 4.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DTI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">7</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Frais de réseau</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Frais demandés pour couvrir les coûts de création d’un nouveau bloc.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">8</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Limite de frais</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Montant maximal de «frais de réseau» qu’un utilisateur opérant sur chaîne est prêt à payer pour l’exécution d’une transaction donnée.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">9</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">
+                           <span class="oj-italic">Volume de données («DataSize»)</span>
+                        </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">En lien avec les «frais de réseau» et la «limite de frais», une transaction sur chaîne peut contenir, dans un champ de <span class="oj-italic">données</span> spécifique, des «pièces jointes» qui influent sur le montant des frais de réseau requis pour traiter la transaction.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">10</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«To»</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant unique de l’acheteur habituellement généré par le protocole DLT à partir des adresses de portefeuilles de l’acheteur.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-140}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">11</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">«From»</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifiant unique du vendeur habituellement généré par le protocole DLT à partir des adresses de portefeuilles du vendeur.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-140}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">12</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Devise</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code monnaies</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{CURRENCYCODE_3}</p>
+                        <p class="oj-tbl-txt">{DTI}</p>
+                        <p class="oj-tbl-txt">{ALPHANUM-20}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">13</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Numéro d’enregistrement de la transaction</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Numéro d’identification unique, indiqué dans le champ 2, attribué à l’entreprise exécutante pour chaque enregistrement, afin qu’un lien puisse être établi entre les déclarations de transactions sur chaîne et les déclarations des transactions hors chaîne.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-140}</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_del/2025/416/oj</p>
+      <p class="oj-normal">ISSN 1977-0693 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

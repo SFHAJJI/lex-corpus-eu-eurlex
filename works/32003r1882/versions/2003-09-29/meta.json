@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32003r1882:2003-09-29",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32003R1882",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2003-09-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2003-09-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2003-09-29",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EC) No 1882/2003 of the European Parliament and of the Council of 29 September 2003 adapting to Council Decision 1999/468/EC the provisions relating to committees which assist the Commission in the exercise of its implementing powers laid down in instruments subject to the procedure referred to in Article 251 of the EC Treaty",
+      "title_short": "Regulation (EC) No 1882/2003",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R1882",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "12d10bb24997ae30c6f4ae74fc5b9a9026a41cfd4a2d72fc4a91c20a983bcbee",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R1882",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R1882"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2003-09-29",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (CE) n\u00B0\u00A01882/2003 du Parlement europ\u00E9en et du Conseil du 29 septembre 2003 portant adaptation \u00E0 la d\u00E9cision 1999/468/CE du Conseil des dispositions relatives aux comit\u00E9s assistant la Commission dans l\u0027exercice de ses comp\u00E9tences d\u0027ex\u00E9cution pr\u00E9vues dans des actes soumis \u00E0 la proc\u00E9dure vis\u00E9e \u00E0 l\u0027article 251 du trait\u00E9 CE",
+      "title_short": "R\u00E8glement (CE) n\u00B0\u00A01882/2003 du Parlement europ\u00E9en et du Conseil du 29 septembre 2003 porta\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003R1882",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "1a09adf3137a3872ee148a76a4a417d61c2a45e69dca3b419739ca8fccb082b1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003R1882",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003R1882"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32003R1882",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "ac9edf85ae4c1efc68f1f575183031cdaf2f1a08f1d86990da3241e68529e62c"
+}

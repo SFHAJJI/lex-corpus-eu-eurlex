@@ -1,0 +1,111 @@
+{
+  "lex_id": "eu-eurlex:32004l0018:2010-01-01",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32004L0018",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2010-01-01",
+  "valid_to": "2011-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2010-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2010-01-01",
+      "valid_to": "2011-12-31",
+      "valid_time_source": "publisher",
+      "title": "Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts",
+      "title_short": "Directive 2004/18/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004L0018-20100101",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "522658b26213b90edf0b0534e876ceb26f888256028757183794d4a786b17963",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004L0018-20100101",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "en.fmx4/CL2004L0018EN0100010.0001.doc.xml",
+          "sha256": "5c520c3b5c46de3d226bc9399bc8b836c02487e4948f503b483d07935796d5be",
+          "source_uri": "https://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0006.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL2004L0018EN0100010.0001.xml",
+          "sha256": "996602289a764d7b7674238c739c685a01baab56af3b514b381e6d4910df9223",
+          "source_uri": "https://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0006.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004L0018-20100101"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2010-01-01",
+      "valid_to": "2011-12-31",
+      "valid_time_source": "publisher",
+      "title": "Directive 2004/18/CE du Parlement europ\u00E9en et du Conseil du 31 mars 2004 relative \u00E0 la coordination des proc\u00E9dures de passation des march\u00E9s publics de travaux, de fournitures et de services",
+      "title_short": "Directive 2004/18/CE du Parlement europ\u00E9en et du Conseil du 31 mars 2004 relative \u00E0 la coo\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02004L0018-20100101",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e7c68d005d85a5c42b5d310bb0922845526f8d7667468cbe780c4a206ce5b3fd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02004L0018-20100101",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2004L0018FR0100010.0001.doc.xml",
+          "sha256": "f1a0b28085b072323cc2e1468939287164898a6a43c31d081accbf91bec29790",
+          "source_uri": "https://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0010.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2004L0018FR0100010.0001.xml",
+          "sha256": "1c5af9a573997f0d38da891c283e0c8b8246579b3a78710f84f592c67c9243c4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0010.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02004L0018-20100101"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32004L0018"
+    }
+  ],
+  "raw": {
+    "celex": "02004L0018-20100101",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "published",
+    "domains": "procurement-and-ip",
+    "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "d1c4e0dd4bab784d6e5f6fe21f6f419f6102404786aa32c3a3e57d71a38a795e"
+}

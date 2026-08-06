@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241203-0856 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202402980EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2024/2980</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">4.12.2024</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e42-1-1">
+            COMMISSION IMPLEMENTING REGULATION (EU) 2024/2980</p>
+            <p class="oj-doc-ti">of 28 November 2024
+         </p>
+            <p class="oj-doc-ti">laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards notifications to the Commission concerning the European Digital Identity Wallet ecosystem</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC <a id="ntc1-L_202402980EN.000101-E0001" href="#ntr1-L_202402980EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 5a(23) thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Digital Identity Framework established by Regulation (EU) No 910/2014 is a crucial component in the establishment of a secure and interoperable digital identity ecosystem across the Union. With the European Digital Identity Wallets (‘wallets’) being the cornerstone of the framework, it aims at facilitating access to services across Member States, while ensuring the protection of personal data and privacy.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc2-L_202402980EN.000101-E0002" href="#ntr2-L_202402980EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, or Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc3-L_202402980EN.000101-E0003" href="#ntr3-L_202402980EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> and, where relevant, Directive 2002/58/EC of the European Parliament and of the Council <a id="ntc4-L_202402980EN.000101-E0004" href="#ntr4-L_202402980EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> apply to all personal data processing activities under this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 5a(23) of Regulation (EU) No 910/2014 mandates the Commission, where necessary, to establish relevant specifications and procedures. This is achieved by means of four Implementing Regulations, dealing with protocols and interfaces: Commission Implementing Regulation (EU) 2024/2982 <a id="ntc5-L_202402980EN.000101-E0005" href="#ntr5-L_202402980EN.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, integrity and core functionalities: Commission Implementing Regulation (EU) 2024/2979 <a id="ntc6-L_202402980EN.000101-E0006" href="#ntr6-L_202402980EN.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>, person identification data and electronic attestation of attributes: Commission Implementing Regulation (EU) 2024/2977 <a id="ntc7-L_202402980EN.000101-E0007" href="#ntr7-L_202402980EN.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>, as well as the notifications to the Commission: Commission Implementing Regulation (EU) 2024/2980 <a id="ntc8-L_202402980EN.000101-E0008" href="#ntr8-L_202402980EN.000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a>. This Regulation lays down the relevant requirements for Member States’ notifications of trusted entities that establish trustworthiness of the European Digital Identity Framework.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission regularly assesses new technologies, practices, standards or technical specifications. To ensure the highest level of harmonisation among Member States for the development and certification of the wallets, the technical specifications set out in this Regulation rely on the work carried out on the basis of Commission Recommendation (EU) 2021/946 of 3 June 2021 on a common Union Toolbox for a coordinated approach towards a European Digital Framework <a id="ntc9-L_202402980EN.000101-E0009" href="#ntr9-L_202402980EN.000101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a> and in particular the architecture and reference framework. In accordance with Recital 75 of Regulation (EU) 2024/1183 of the European Parliament and of the Council <a id="ntc10-L_202402980EN.000101-E0010" href="#ntr10-L_202402980EN.000101-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a>, the Commission should review and update this Implementing Regulation, if necessary, to keep it in line with global developments, the architecture and reference framework, and to follow the best practices on the internal market.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To meet the objective of establishing a transparent and reliable source of information for authenticating entities in the European Digital Identity Wallet ecosystem, such as wallet providers, providers of person identification data and wallet-relying parties, Member States should notify the required information to the electronic system provided by the Commission. In line with the approach taken by Commission Implementing Decision (EU) 2015/1984 <a id="ntc11-L_202402980EN.000101-E0011" href="#ntr11-L_202402980EN.000101-E0011"
+                                 >(<span class="oj-super oj-note-tag">11</span>)</a> defining the circumstances, formats and procedures of notification with respect to electronic identification schemes applicable to electronic identification means, information should be provided by the Member States to the Commission in English. In this manner, descriptions of electronic identification schemes are available in English for all such schemes, irrespective of whether they relate to electronic identification means or to wallets.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For the same objective of establishing information sources that enable the authentication of entities in the European Digital Identity Wallet ecosystem, the Commission should establish an infrastructure to make the information available to the public in a secure, human-readable, clear, and easily accessible manner, as well as in an electronically signed or sealed form suitable for automated processing, including by offering an application programming interface.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725, and delivered its opinion on 30 September 2024.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 48 of Regulation (EU) No 910/2014,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e249-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Subject matter and scope</p>
+               </div>
+               <p class="oj-normal">This Regulation establishes obligations in relation to notifications that enable the validation of:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the electronic registers used by a Member State to publish information on wallet-relying parties registered in that Member State in accordance with Article 5b(5) of Regulation (EU) No 910/2014 (‘registers of wallet-relying parties’), the location of the registers of wallet-relying parties, and the identification of the registrars of wallet-relying parties;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the identity of the registered wallet-relying parties;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the authenticity and validity of wallet units;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the identification of the wallet providers;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the authenticity of person identification data;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the identification of the providers of person identification data;</p>
+                           <p class="oj-normal">to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the architecture and reference framework.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e300-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Definitions</p>
+               </div>
+               <p class="oj-normal">For the purpose of this Regulation, the following definitions apply:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet provider’ means a natural or legal person who provides wallet solutions;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘register of wallet-relying parties’ means an electronic register used by a Member State to make information on wallet-relying parties registered in that Member State publicly available as set out in Article 5b(5) of Regulation (EU) No 910/2014;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘registrar of wallet-relying parties’ means the body responsible for establishing and maintaining the list of registered wallet-relying parties established in their territory who has been designated by a Member State;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet user’ means a user who is in control of the wallet unit;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e436-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Notification system</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   The Commission shall make available to Member States a secure electronic notification system, no later than twelve months after the publication of this Regulation in the <span class="oj-italic">Official Journal of the European Union</span>, enabling Member States to notify the information on the bodies and mechanisms referred to in Article 5a(18) of Regulation (EU) No 910/2014.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   The secure electronic notification system shall comply with the technical requirements laid down in Annex I.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e454-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Notifications by Member States</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   Member States shall submit, through the secure electronic notification system referred to in Article 3(1), at least the information specified in Annex II.</p>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   Member States shall make the notifications at least in English. Member States shall not be obliged to translate any document supporting the notifications where this would create an unreasonable administrative or financial burden.</p>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   The Commission may request additional information or clarifications from the Member States for the purpose of verifying the completeness and consistency of the notified information.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e474-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Publications by the Commission</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   The Commission shall establish, maintain and publish a list compiling the information notified by Member States on registrars of wallet-relying parties and registers of wallet-relying parties as referred to in Annex II section 1.</p>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   The Commission shall establish, maintain and publish a list compiling the information notified by Member States on wallet providers, providers of person identification data and providers of wallet-relying party access certificates, as referred to in Annex II sections 2, 3 and 4.</p>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   The Commission shall ensure the lists referred to in paragraphs 1 and 2 of this Article can be accessed:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">in both electronically signed or sealed form suitable for automated processing and through a human readable website available in at least English;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">without the need to register or to be authenticated to obtain or read the lists;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">securely by using state of the art transport layer encryption.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.004">
+                  <p class="oj-normal">4.   In addition to the publications of the lists referred to in paragraphs 1 and 2, the Commission shall publish:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the technical specifications the Commission uses for the structure of the lists;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the details of the URL where the lists are published;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the certificates to be used to verify the signature or seal on the lists;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the details on mechanisms used to validate changes to the location referred to in point (b) or to the certificates referred to in point (c).</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e545-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 28 November 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202402980EN.000101-E0001" href="#ntc1-L_202402980EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >OJ L 257, 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202402980EN.000101-E0002" href="#ntc2-L_202402980EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >OJ L 119, 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202402980EN.000101-E0003" href="#ntc3-L_202402980EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >OJ L 295, 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202402980EN.000101-E0004" href="#ntc4-L_202402980EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >OJ L 201, 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202402980EN.000101-E0005" href="#ntc5-L_202402980EN.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Commission Implementing Regulation (EU) 2024/2982 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards protocols and interfaces to be supported by the European Digital Identity Framework (<a href="https://data.europa.eu/eli/reg_impl/2024/2982/oj" >OJ L, 2024/2982, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2982/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202402980EN.000101-E0006" href="#ntc6-L_202402980EN.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Commission Implementing Regulation (EU) 2024/2979 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets (<a href="https://data.europa.eu/eli/reg_impl/2024/2979/oj" >OJ L, 2024/2979, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2979/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202402980EN.000101-E0007" href="#ntc7-L_202402980EN.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Commission Implementing Regulation (EU) 2024/2977 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets (<a href="https://data.europa.eu/eli/reg_impl/2024/2977/oj" >OJ L, 2024/2977, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2977/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_202402980EN.000101-E0008" href="#ntc8-L_202402980EN.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  Commission Implementing Regulation (EU) 2024/2980 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards notifications to the Commission concerning the European Digital Identity Wallet ecosystem (<a href="https://data.europa.eu/eli/reg_impl/2024/2980/oj" >OJ L, 2024/2980, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2980/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr9-L_202402980EN.000101-E0009" href="#ntc9-L_202402980EN.000101-E0009"
+               >(<span class="oj-super">9</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2021_210_R_TOC"
+               >OJ L 210, 14.6.2021, p. 51</a>, ELI: <a href="http://data.europa.eu/eli/reco/2021/946/oj" >http://data.europa.eu/eli/reco/2021/946/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr10-L_202402980EN.000101-E0010" href="#ntc10-L_202402980EN.000101-E0010"
+               >(<span class="oj-super">10</span>)</a>  Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework (<a href="https://data.europa.eu/eli/reg/2024/1183/oj" >OJ L, 2024/1183, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1183/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr11-L_202402980EN.000101-E0011" href="#ntc11-L_202402980EN.000101-E0011"
+               >(<span class="oj-super">11</span>)</a>  Commission Implementing Decision (EU) 2015/1984 of 3 November 2015 defining the circumstances, formats and procedures of notification pursuant to Article 9(5) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (<a href="http://publications.europa.eu/resource/oj/JOL_2015_289_R_TOC"
+               >OJ L 289, 5.11.2015, p. 18</a>, ELI: <a href="http://data.europa.eu/eli/dec_impl/2015/1984/oj" >http://data.europa.eu/eli/dec_impl/2015/1984/oj</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402980EN.000601.fmx">
+         <div class="eli-container" id="anx_I">
+            <p class="oj-doc-ti" id="d1e35-6-1">ANNEX I</p>
+            <p class="oj-doc-ti">REQUIREMENTS FOR THE COMMISSION’S NOTIFICATIONS SYSTEM</p>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">1.   </p>
+               <p style="display: inline;">
+                  <span>The interface of the secure electronic notifications system shall be at least in English.</span>
+               </p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">2.   </p>
+               <span>The secure electronic notifications system provided by the Commission shall be designed to:</span>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">allow the Member States to submit the same information only once, by re-using prior submitted information where appropriate;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">enable the submission of information via both machine processable interfaces and human usable interfaces;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">support appropriate access controls and access control management, delegating to the Member States the power to grant access to competent representatives as regards the notifications;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">support notifications of the information specified in Annex II;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(e)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">allow Member States to view notified information;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(f)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">acknowledge receipt of notifications of information by electronic means;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(g)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">retain, and allow Member States to view, a historical record of any changes in any notified information.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402980EN.000701.fmx">
+         <div class="eli-container" id="anx_II">
+            <p class="oj-doc-ti" id="d1e35-7-1">ANNEX II</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">REQUIREMENTS FOR MEMBER STATES’ NOTIFICATIONS</span>
+            </p>
+            <p class="oj-ti-grseq-1" id="d1e45-7-1">1.   <span class="oj-bold">Notifications of information on registrars and registers</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Member States shall provide the following information to the Commission on their registrars and registers:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the name of the register;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">at least one URL where the register is available for access, which shall use state of the art transport layer encryption;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the name of the registrar that is responsible for that register;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the registration number of the registrar;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the Member State in which the registrar is established;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the contact email and contact phone number of the registrar, for matters related to the register;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the URL of a webpage for additional information about the registrar and the register;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(h)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the URL of the webpage where the registration policy that applies to the register and related information are located;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">one or more certificates compliant with IETF RFC 3647 which can be used to verify the signature or seal created by the registrar on the register data and for which the certified identity data include the name of the registrar, and where applicable, the registration number of the registrar, as provided in points (c) and (d), respectively.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">That information referred to in point (1) shall be provided per register and registrar.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e123-7-1">2.   <span class="oj-bold">Notifications of information on wallet providers and on the mechanisms by which to validate the authenticity and validity of wallet units</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Member States shall provide the following information to the Commission on wallet providers:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the name of the wallet provider;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the registration number of the wallet provider;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the name of the body responsible for the provision of the wallet solution;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the Member State in which the wallet provider is established;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the contact email and contact phone number of the wallet provider, for matters related to the wallet solutions it provides;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the URL of the webpage for additional information about the wallet provider and the wallet solution;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the URL of the webpage where the policies, terms and conditions of the wallet provider that apply to the provision and use of the wallet solution it provides are located;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(h)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">one or more certificates compliant with IETF RFC 3647 that can be used to authenticate and validate the components of the wallet unit the wallet provides, and for which the certified identity data includes the name, and where applicable, the registration number of the wallet provider, as specified in points (a) and (b), respectively;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for each wallet solution provided by the wallet provider, the name and the reference number of the wallet solution it provides, as the Commission shall publish this information in the <span class="oj-italic">Official Journal of the European Union</span> pursuant to Article 5d of Regulation (EU) No 910/2014.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">That information referred to in point (1) shall be provided per provider.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e204-7-1">3.   <span class="oj-bold">Notifications of information on providers of person identification data and on the mechanisms enabling the authentication and validation of person identification data</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Member States shall provide the following information to the Commission on providers of person identification data:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the name of the provider of person identification data;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, a registration number of the provider of person identification data;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the name of the body responsible for ensuring that the person identification data is associated with the wallet unit;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the Member State in which the provider of person identification data is established;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the contact email and contact phone number of the provider of person identification data, for matters related to the person identification data it provides;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the URL of the webpage that contains additional information about the person identification data provider;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the URL of the webpage that contains the policies, terms and conditions of the provider of person identification data that apply to the provision and use of the person identification data it provides;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(h)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">one or more certificates compliant with IETF RFC 3647 that can be used to verify the signature or seal created by the provider of person identification data on the person identification data it provides, and for which the certified identity data include the name, and where applicable, the registration number of the person identification data provider, as specified in points (a) and (b), respectively.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">That information referred to in point (1) shall be provided per provider.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e276-7-1">4.   <span class="oj-bold">Notifications of information on providers of wallet-relying party access certificates</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Member States shall provide the following information to the Commission on providers of wallet-relying party access certificates:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the name of the provider of wallet-relying party access certificates;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, a registration number of the provider of wallet-relying party access certificates;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the Member State in which the provider of wallet-relying party access certificates is established;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the contact email and contact phone number of the provider of wallet-relying party access certificates, for matters related to the access certificates it provides to wallet-relying parties;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where applicable, the URL of the webpage of the provider of wallet-relying party access certificates that contains additional information about the provider and the access certificates it provides to wallet-relying parties;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the URL of the webpage that contains the policies, terms and conditions that apply to the provision and use of the access certificates it provides to wallet-relying parties;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">one or more certificates compliant with IETF RFC 3647 that can be used to verify the signature or seal created by the provider of wallet-relying party access certificates on the access certificate it provides to wallet-relying parties, with, where applicable, the information required to distinguish wallet-relying party access certificates from other certificates.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">The information referred to in point (1) shall be provided per provider of wallet-relying party access certificates.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2024/2980/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

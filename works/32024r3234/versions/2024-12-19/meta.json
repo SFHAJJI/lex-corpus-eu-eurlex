@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32024r3234:2024-12-19",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024R3234",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2024-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-12-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-12-19",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2024/3234 of the European Parliament and of the Council of 19 December 2024 amending Regulation (EU) 2023/1115 as regards provisions relating to the date of application",
+      "title_short": "Regulation (EU) 2024/3234",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R3234",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "16fbf4deed26a264fd89daac18c657f01fe9ead90be23de777ba486885732a63",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R3234",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R3234"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-12-19",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2024/3234 du Parlement europ\u00E9en et du Conseil du 19 d\u00E9cembre 2024 modifiant le r\u00E8glement (UE) 2023/1115 en ce qui concerne les dispositions relatives \u00E0 la date d\u2019application",
+      "title_short": "R\u00E8glement (UE) 2024/3234 du Parlement europ\u00E9en et du Conseil du 19 d\u00E9cembre 2024 modifiant\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R3234",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7ca0126eb54f4b0969ccff1d12db296a982f213cf8b54abd3832e2ec631e6fbe",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R3234",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R3234"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32024R3234",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "a0b95fbf1f039ced5426f6547e545ad5222ed8a1865784b481e55aa22a6921be"
+}

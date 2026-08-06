@@ -6,11 +6,24 @@
   "valid_from": "2018-12-21",
   "valid_to": "2022-06-06",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2018-12-21",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-03T15:38:56Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -91,6 +104,84 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018L2001-20181221"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2018-12-21",
+      "valid_to": "2022-06-06",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2018/2001 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 11\u00A0d\u00E9cembre 2018 relative \u00E0\u00A0la\u00A0promotion de\u00A0l\u0027utilisation de\u00A0l\u0027\u00E9nergie produite \u00E0\u00A0partir de\u00A0sources renouvelables (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "RED II \u2014 Directive (UE) 2018/2001 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 11\u00A0d\u00E9cembre 2018 relative \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02018L2001-20181221",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "164e0fd5455b2b9aa9c8ac15b01a4fb53a71b71f24204a5f7b5ce9649f730b4f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02018L2001-20181221",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2018L2001FR0000050.0001.doc.xml",
+          "sha256": "3e120ee02fd620bde1f6f7bd6c028f0781b8484e8487a9b1503666d6da4402b8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2018L2001FR0000050.0001.xml",
+          "sha256": "fd8896c0fd4e339e8cb46bc880ed0894b130139a7eda1491c365333183ca34e4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020311FR.01001201.tif",
+          "sha256": "ed47f9b4700b16add491ad7a0d211cfba08822c0fd79920073cce5f2502a87e2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020311FR.01001202.tif",
+          "sha256": "63cd636ccb4bca060e4fa4c5487e2c8c89d0b9066a4764de1529f1bb74175d84",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020311FR.01001301.tif",
+          "sha256": "2a95dbf1f62bcdb232ee78647aa975acf388659c3f433442a8f9b7c85154a5f1",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020311FR.01001602.tif",
+          "sha256": "e22cd3a99efd54e3ab06a438441c53a9bc5f4e4d9d94c593b27ca5cb5bf24945",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020311FR.01001604.tif",
+          "sha256": "88969872bf255be778300c7ec323297ca0c897a5e8668ec07ff486ec24931349",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02018L2001-20181221"
+      }
     }
   ],
   "relations": [
@@ -100,7 +191,13 @@
     }
   ],
   "raw": {
-    "celex": "02018L2001-20181221"
+    "celex": "02018L2001-20181221",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "DIR",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "3dc3708bdf208b36193641db4a735a59133e9fbe5ffcf58afa76793bcb0fad09"
+  "record_sha256": "d5ed68a34921949ac3c3c0c81eed572a2ca5fd3a272b0b7e6a89e1247e117ead"
 }

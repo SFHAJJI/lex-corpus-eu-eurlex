@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32018r0946:2018-07-04",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32018R0946",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2018-07-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2018-07-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2018-07-04",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2018/946 of the European Parliament and of the Council of 4 July 2018 replacing Annexes A and B to Regulation (EU) 2015/848 on insolvency proceedings",
+      "title_short": "Regulation (EU) 2018/946",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0946",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "a11c26174dd48c0d64963dc6fe259b248d40255ff06cd4ebbf884ed4a0379df8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0946",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0946"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2018-07-04",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2018/946 du Parlement europ\u00E9en et du Conseil du 4 juillet 2018 rempla\u00E7ant les annexes A et B du r\u00E8glement (UE) 2015/848 relatif aux proc\u00E9dures d\u0027insolvabilit\u00E9",
+      "title_short": "R\u00E8glement (UE) 2018/946 du Parlement europ\u00E9en et du Conseil du 4 juillet 2018 rempla\u00E7ant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0946",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d98d962fc7a345b7ef2410d5c01cbfdbf078a54bf0c73ba98598b5e0e14b40ef",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0946",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0946"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32018R0946",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "09c97088fc38718115b8a83b4a171c8beeb34d22ea50efd820f9e1b18e17a9dc"
+}

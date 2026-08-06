@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20250321-0728 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202500421EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2025/421</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">24.3.2025</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            COMMISSION DELEGATED REGULATION (EU) 2025/421</p>
+            <p class="oj-doc-ti">of 16 December 2024
+         </p>
+            <p class="oj-doc-ti">supplementing Regulation (EU) 2023/1114 of the European Parliament and of the Council with regard to regulatory technical standards specifying the data necessary for the classification of crypto-asset white papers and the practical arrangements to ensure that such data is machine-readable</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets and amending Regulation (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 <a id="ntc1-L_202500421EN.000101-E0001" href="#ntr1-L_202500421EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 109(8), third subparagraph, thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In accordance with Regulation (EU) 2023/1114, the register of crypto-asset white papers, of issuers of asset-referenced tokens and e-money tokens, and of crypto-asset service providers (‘register’) established in accordance with Article 109 of Regulation (EU) 2023/1114 is to contain information allowing the register to facilitate the accessibility of white papers classified on the basis of the types of crypto-assets set out in that Regulation. The data necessary for the classification of crypto-asset white papers should support national competent authorities in their task of verifying that the requirements of Regulation (EU) 2023/1114 are applied consistently.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure the most efficient operation of the register, competent authorities should submit the data to the European Securities and Markets Authority (ESMA) in the same format as the white paper. Furthermore, to minimise costs, ESMA and competent authorities should be able to derive the relevant data for the classification of white papers in the register from the information disclosed in crypto-asset white papers. To minimise the changes in the data required as of the date of application of Article 110 of Regulation (EU) 2023/1114, the data used to classify crypto-asset white papers should comprise the data that competent authorities will provide to the European Single Access Point (ESAP) in accordance with Article 5(1), point (e), of Regulation (EU) 2023/2859 of the European Parliament and of the Council <a id="ntc2-L_202500421EN.000101-E0002" href="#ntr2-L_202500421EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure efficient processing of data, legal persons drawing up the crypto-asset white paper and identified therein by an ISO 17442 legal entity identifier (LEI) should ensure that such LEI is valid and duly renewed. Where the person drawing up the white paper does not have a LEI, the register should contain an identifier that ensures similar characteristics for the purposes of the register.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Crypto-assets that are not financial instruments cannot at present be described by using the ISO Classification of Financial Instruments (CFI) code. A standard universal method of classification is being developed. However, this method of classification will not be finalised before the application of this Regulation. Hence, to identify the crypto-asset white papers consistently in the register referred to in Article 109(1) of Regulation (EU) 2023/1114, an international standard identifier for digital tokens, the Functionally Fungible Group Digital Token Identifier (FFG DTI) should be used. Furthermore, to identify the crypto-assets and to allow users to retrieve the main characteristics of the crypto-assets, including their technology-specific features, and to group tokens issued on several blockchains that are pertaining to the same crypto-asset white paper, the ISO 24165 Digital Token Identifiers (DTI) should be used. The FFG DTI and the DTI are appropriate for the purposes of the register since they respect the principles of uniqueness, neutrality, reliability, open source, scalability, accessibility on a cost-recovery basis and they are offered under an appropriate governance framework.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Since this Regulation concerns the classification of crypto asset white papers and is therefore linked to Commission Implementing Regulation (EU) 2024/2984 <a id="ntc3-L_202500421EN.000101-E0003" href="#ntr3-L_202500421EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> which concerns standard forms, formats and templates for the white paper, it is necessary to align the dates of application of the two Regulations. The deferred application is also necessary to enable persons drawing up crypto-asset white papers and competent authorities to adapt to the requirements laid down in this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation is based on the draft regulatory technical standards submitted to the Commission by ESMA.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">ESMA has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the advice of the Securities and Markets Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council <a id="ntc4-L_202500421EN.000101-E0004" href="#ntr4-L_202500421EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e162-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Data for the classification of crypto-asset white papers</p>
+               </div>
+               <div id="001.001">
+                  <p class="oj-normal">1.   The data necessary for the classification of crypto-asset white papers is set out the Annex.</p>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   The data set out in the Annex shall be provided in a common format in accordance with the ISO 20022 standard.</p>
+               </div>
+               <div id="001.003">
+                  <p class="oj-normal">3.   By way of derogation from paragraph 2 of this Article, where the data set out in the Annex is included in the crypto-asset white paper referred to in Article 6, Article 19 or Article 51 of Regulation (EU) 2023/1114, the data set out in the Annex to this Regulation may be provided in the same machine-readable format in which the crypto-asset white paper was prepared in accordance with Implementing Regulation (EU) 2024/2984.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e182-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Legal Entity Identifiers</p>
+               </div>
+               <p class="oj-normal">When using the ISO 17442 Legal Entity Identifier, persons drawing up a crypto-asset white paper referred to in Articles 6, Article 19 or Article 51 of Regulation (EU) 2023/1114 shall ensure that the identifier is:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">valid and issued in accordance with the terms of any of the Local Operating Units of the Global Legal Entity Identifier System;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">included in the Global Legal Entity Identifier database maintained by the Central Operating Unit appointed by the Regulatory Oversight Committee.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e203-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Identification of the crypto-asset and the related white paper</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   When the ISO 24165 Digital Token Identifier is provided, the crypto-asset white paper shall be identified with a valid identifier of type 3 pertaining to the group of crypto-assets to which the white paper relates.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   When the ISO 24165 Digital Token Identifier is provided, the crypto-asset or crypto-assets to which the crypto-asset white paper relates shall be individually identified with a valid identifier assigned to each of the crypto-assets to which the white paper relates.</p>
+               </div>
+               <div id="003.003">
+                  <p class="oj-normal">3.   When the ISO 24165 Digital Token Identifier is not available, the crypto-asset white paper shall identify the crypto-assets to which the crypto-asset white paper relates, by using a digital token identifier approved by ESMA at Union level, which meets all of the following characteristics:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">unique;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">neutral;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">reliable;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">open source;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">scalable;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">accessible;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(g)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">available at a reasonable cost basis; and</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(h)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">is subject to an appropriate governance framework.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e273-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Entry into force and application</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+               <p class="oj-normal">This Regulation shall apply from 23 December 2025.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 16 December 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202500421EN.000101-E0001" href="#ntc1-L_202500421EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2023_150_R_TOC"
+               >OJ L 150, 9.6.2023, p. 40</a>, ELI: <a href="http://data.europa.eu/eli/reg/2023/1114/oj" >http://data.europa.eu/eli/reg/2023/1114/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202500421EN.000101-E0002" href="#ntc2-L_202500421EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (<a href="https://data.europa.eu/eli/reg/2023/2859/oj" >OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202500421EN.000101-E0003" href="#ntc3-L_202500421EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Commission Implementing Regulation (EU) 2024/2984 of 29 November 2024 laying down implementing technical standards for the application of Regulation (EU) 2023/1114 of the European Parliament and of the Council with regards to forms, formats and templates for the crypto-asset white papers (<a href="https://data.europa.eu/eli/reg_impl/2024/2984/oj" >OJ L, 2024/2984, 3.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2984/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202500421EN.000101-E0004" href="#ntc4-L_202500421EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >OJ L 331, 15.12.2010, p. 84</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1095/oj" >http://data.europa.eu/eli/reg/2010/1095/oj</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202500421EN.000401.fmx">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e35-4-1">ANNEX</p>
+            <p class="oj-doc-ti">Data necessary for the classification of crypto-asset white papers in the register referred to in Article 109 of Regulation (EU) 2023/1114</p>
+            <p id="d1e44-4-1" class="oj-ti-grseq-1">
+               <span class="oj-bold">Legend</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="25%"/>
+               <col width="19%"/>
+               <col width="56%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">SYMBOL</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">DATA TYPE</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">DEFINITION</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-n}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Up to n alphanumerical characters</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free text field.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATE_TIME_FORMAT}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">ISO 8601 date and time format</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date and time in the following format:</p>
+                        <p class="oj-tbl-txt">YYYY-MM-DDThh:mm:ss.ddddddZ.</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘YYYY’ is the year,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘MM’ is the month,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘DD’ is the day,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘T’ – means that the letter ‘T’ shall be used,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘hh’ is the hour,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘mm’ is the minute,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">‘ss.dddddd’ is the second and its fraction of a second,</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Z is UTC time.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-tbl-txt">Dates and times shall be recorded in UTC.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DATEFORMAT}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">ISO 8601 date format</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Dates shall be formatted in the following format: YYYY-MM-DD.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DECIMAL-n/m}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Decimal number of up to n digits in total of which up to m digits can be fraction digits</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Numerical field for both positive and negative values.</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">decimal separator is ‘.’ (full stop),</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">negative numbers are prefixed with ‘-’ (minus); Values are rounded and not truncated.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{DTI}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">9 alphanumerical characters</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Digital Token Identifier as defined in ISO 24165 standard</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{FFG DTI}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">9 alphanumerical characters</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code to identify a group of equivalent Digital Token Identifiers as defined in ISO 24165 standard type 3</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{INTEGER-n}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Integer number of up to n digits in total</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Numerical field for both positive and negative integer values.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{LEI}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">20 alphanumerical characters</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal entity identifier as defined in ISO 17442</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{MIC}</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">4 alphanumerical characters</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Market identifier as defined in ISO 10383</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="11%"/>
+               <col width="25%"/>
+               <col width="29%"/>
+               <col width="35%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Number</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Field</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Content</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Form and standards</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Type of crypto-asset white paper</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">The type of crypto-asset white paper notified.</p>
+                        <p class="oj-tbl-txt">Where the crypto-asset white paper concerns asset-referenced tokens, the code ‘ARTW’ shall be used.</p>
+                        <p class="oj-tbl-txt">Where the crypto-asset white paper concerns e-money tokens, the code ‘EMTW’ shall be used.</p>
+                        <p class="oj-tbl-txt">Where the crypto-asset white paper concerns crypto-assets other than asset-referenced tokens and e-money tokens the code ‘OTHR’ shall be used.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Choice from list of predefined values:</p>
+                        <p class="oj-tbl-txt">‘ARTW’</p>
+                        <p class="oj-tbl-txt">‘EMTW’</p>
+                        <p class="oj-tbl-txt">‘OTHR’</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">2</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Name of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Name of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal form of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal form</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">ISO standard 20275 ‘Financial Services – Entity Legal Forms (ELF)’</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">4</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal entity identifier of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal entity identifier of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{LEI}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">5</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Other identifier of the issuer required pursuant to applicable national law, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Other identifier of the issuer required pursuant to applicable national law, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">6</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal entity identifier of the entity that drew up the crypto-asset white paper, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Legal entity identifier of the entity that drew up the crypto-asset white paper, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{LEI}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">7</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Other identifier of the entity that drew up the crypto-asset white paper required pursuant to applicable national law, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Other identifier of the entity that drew up the crypto-asset white paper required pursuant to applicable national law</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">8</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identifier of operator of the trading platform</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Segment market identifier code (MIC) for the trading platform operated by the crypto-asset service provider (CASP), where available, otherwise operating MIC</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{MIC}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">9</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Commercial name or trading name of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Commercial name or trading name of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">10</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Physical address of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Physical address of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">11</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Telephone number of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Telephone number of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">12</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Email of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Email of the issuer, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">13</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Website of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Website of the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">14</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Home Member State</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Home Member State as defined in Article 3, point (33), of Regulation (EU) 2023/1114</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Closed list of EU Member States</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">15</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Host Member States</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Host Member State as defined in Article 3, point (34), of Regulation (EU) 2023/1114.</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Closed list of EU Member States</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">16</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Starting date of offer to the public or admission to trading</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Starting date or, if not available at the time of the notification by the competent authority, the intended starting date of offer to the public or admission to trading</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">YYYY-MM-DD</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">17</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Any other services provided by the issuer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Any other services provided by the issuer not covered by Regulation (EU) 2023/1114, with a reference to the applicable Union or national legal acts regulating that service, where applicable</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Free alphanumerical text</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">18</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">The date of authorisation, where applicable</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">The date of authorisation by the competent authority, where applicable</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">YYYY-MM-DD</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">19</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">The date of withdrawal of authorisation, where applicable</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">The date of withdrawal of authorisation by the competent authority, where applicable</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">YYYY-MM-DD</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">20</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Publication date</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Effective or intended publication date of the crypto-asset white paper or of the modified crypto-asset white paper, as applicable</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">YYYY-MM-DD</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">21</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date and time of notification</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Date and time of the latest notification of the white paper to the competent authority</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">YYYY-MM-DD Thh:mm:ss.ddddddZ.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">22</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Language or languages of the crypto-asset white paper</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Language or languages in which the crypto-asset white paper is drafted.</p>
+                        <p class="oj-tbl-txt">Where multiple languages have been used, this field shall be reported as many times as necessary</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Closed list of EU languages</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">23</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Record identifier</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Unique identifier of the uploaded record, assigned by the sending competent authority</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-500}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">24</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Data file reference</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Reference code needed to link the data file with corresponding metadata file</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{ALPHANUM-500}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">25</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">The type of submission</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Type of submission</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">NEWT = New</p>
+                        <p class="oj-tbl-txt">MODI = Modify</p>
+                        <p class="oj-tbl-txt">EROR = Error</p>
+                        <p class="oj-tbl-txt">CORR = Correction</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">26</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Version</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Version of the dataset (data and metadata)</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">{INTEGER-50}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">27</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Digital Token Identifier used to uniquely identify the crypto-asset or each of the several crypto assets to which the white paper relates, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code used to uniquely identify the crypto-asset or each of the several crypto assets to which the crypto-asset white paper relates, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">ISO 24165 Digital Token Identifier {DTI}</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">28</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Functionally Fungible Group Digital Token Identifier, where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Code used to uniquely identify the functionally fungible group to which the digital asset belongs (i.e. common to each of the several assets to which the crypto-asset white paper relates), i.e. code used to identify the white paper ISO 24165 DTI of type = 3 (i.e. functionally fungible group), where available</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">ISO 24165 [FFG DTI]</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">29</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Personal data flag</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Flag indicating if the submitted crypto-asset white paper contains personal data</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">‘true’ – Yes</p>
+                        <p class="oj-tbl-txt">‘false’ – No</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_del/2025/421/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20240819-2020 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2021204FR.01000701.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">10.6.2021   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel de l’Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 204/7</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e46-7-1">
+            RÈGLEMENT DÉLÉGUÉ (UE) 2021/931 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 1<span class="oj-super">er</span> mars 2021
+         </p>
+            <p class="oj-doc-ti">complétant le règlement (UE) n<span class="oj-super">o</span> 575/2013 du Parlement européen et du Conseil par des normes techniques de réglementation précisant la méthode pour identifier les opérations sur dérivés présentant un ou plusieurs déterminants de risque significatifs aux fins de l’article 277, paragraphe 5, la formule de calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt et la méthode pour déterminer si une opération constitue une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans la catégorie de risque donnée conformément à l’article 279 <span class="oj-italic">bis</span>, paragraphe 3, points a) et b), dans le cadre de l’approche standard du risque de crédit de contrepartie</p>
+            <p class="oj-doc-ti">(Texte présentant de l’intérêt pour l’EEE)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l’Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) n<span class="oj-super">o</span> 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d’investissement et modifiant le règlement (UE) n<span class="oj-super">o</span> 648/2012 <a id="ntc1-L_2021204FR.01000701-E0001" href="#ntr1-L_2021204FR.01000701-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 277, paragraphe 5, troisième alinéa, et son article 279 <span class="oj-italic">bis</span>, paragraphe 3, troisième alinéa,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les établissements devraient identifier les déterminants de risque d’une opération sur dérivé en déterminant les facteurs de risque dont dépendent les flux de trésorerie de cette opération. Afin de suivre une approche harmonisée pour cette identification, les établissements devraient examiner au moins les facteurs de risque énumérés à la troisième partie, titre IV, chapitre 1 <span class="oj-italic">bis</span>, section 3, du règlement (UE) n<span class="oj-super">o</span> 575/2013.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">La méthode d’identification des opérations sur dérivés ne présentant qu’un seul déterminant de risque significatif, aux fins de l’affectation de ces opérations sur dérivés à la catégorie de risque qui leur correspond, devrait être simple dans tous les cas où la nature et les flux de trésorerie de l’opération sur dérivé permettent de discerner immédiatement ce seul et unique déterminant de risque significatif.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les contrats d’échanges de taux d’intérêt dans des devises différentes sont utilisés par les établissements pour couvrir le risque de change découlant de financements ou d’investissements en monnaies étrangères. Ces opérations sont principalement tributaires des déterminants de risque de change, mais elles peuvent également être tributaires d’autres déterminants de risque, tels que les déterminants de risque de taux d’intérêt. Cependant, puisque les données historiques du marché montrent que l’effet de ces autres déterminants de risque est très souvent négligeable pour ce type spécifique d’opérations, il devrait suffire qu’une opération soit de ce type pour qu’elle soit identifiée comme opération sur dérivé ne présentant qu’un seul déterminant de risque significatif.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Indépendamment de la nature et des flux de trésorerie d’une opération sur dérivé, les taux d’intérêt utilisés pour actualiser les flux de trésorerie de l’opération (ci-après le «taux d’actualisation») ne devraient pas être considérés comme un déterminant de risque significatif. Exiger des établissements qu’ils tiennent compte du taux d’actualisation dans la méthode d’identification des opérations sur dérivés ne présentant qu’un seul déterminant de risque significatif serait contraignant et disproportionné, l’expérience empirique montrant que ce déterminant de risque a généralement un effet plus limité sur la valeur des opérations sur dérivés que les autres déterminants de risque dont dérivent leurs flux de trésorerie.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour les opérations sur dérivés qui présentent plusieurs déterminants de risque, les établissements devraient tenir compte des sensibilités et de la volatilité du sous-jacent pour identifier les déterminants de risque qui sont significatifs dans chaque catégorie de risque et déterminer lequel d’entre eux est le plus significatif.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour les opérations sur dérivés qui présentent plusieurs déterminants de risque relevant de différentes catégories de risque, il est parfois impossible de déterminer lesquels de ces déterminants de risque sont significatifs, même en tenant compte des sensibilités et de la volatilité du sous-jacent de l’opération. Dans de tels cas, les établissements devraient suivre une approche subsidiaire simple et prudente consistant à considérer tous les déterminants de risque comme significatifs et, en conséquence, à affecter l’opération sur dérivé aux catégories de risque correspondant à ces déterminants de risque sur la base des déterminants de risque les plus significatifs dans chaque catégorie de risque.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">La méthode d’identification des opérations sur dérivés ne présentant qu’un seul déterminant de risque significatif ne devrait être appliquée qu’au début de l’opération sur dérivés, pour les opérations identifiées d’emblée comme ne présentant qu’un seul déterminant de risque, puisque ce déterminant de risque unique constitue une caractéristique fondamentale de ces opérations et n’est donc pas appelé à changer. Lorsque des opérations sur dérivés ont été identifiées dès le début comme présentant plusieurs déterminants de risque significatifs, le processus d’identification de ces déterminants de risque et du plus significatif d’entre eux devrait être mis en œuvre une fois par trimestre afin que tout changement relatif à ces opérations puisse être dûment pris en compte pour l’affectation de celles-ci aux catégories de risque pertinentes.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’article 279 <span class="oj-italic">bis</span>, paragraphe 3, point a), du règlement (UE) n<span class="oj-super">o</span> 575/2013 exige que la formule à utiliser pour le calcul du delta prudentiel des options d’achat et de vente, lorsqu’elles sont affectées à la catégorie du risque de taux d’intérêt, qui est compatible avec des conditions de marché dans lesquelles les taux d’intérêt peuvent être négatifs soit définie conformément à l’évolution de la réglementation internationale. Le 22 mars 2018, le Comité de Bâle sur le contrôle bancaire (CBCB) a publié un document sur les questions fréquemment posées sur l’utilisation de l’approche standard de Bâle III pour mesurer les expositions au risque de crédit de contrepartie <a id="ntc2-L_2021204FR.01000701-E0002" href="#ntr2-L_2021204FR.01000701-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, dans lequel est expliqué que le delta prudentiel des options de taux d’intérêt en cas d’environnement de taux d’intérêt négatifs devrait être déterminé selon une formule spécifique, dans laquelle une variable d’ajustement lambda (λ) est appliquée au taux d’intérêt au comptant ou à terme et au prix d’exercice de l’option utilisés dans cette formule pour faire en sorte que ce taux d’intérêt au comptant ou à terme et que ce prix d’exercice soient positifs.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le λ appliqué pour rendre positifs le taux d’intérêt au comptant ou à terme et le prix d’exercice de l’option devrait être suffisamment grand pour permettre aux établissements de calculer le delta prudentiel d’une opération selon la formule établie à l’article 279 <span class="oj-italic">bis</span>, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, mais suffisamment faible pour ne pas introduire inutilement de biais dans le résultat du calcul du delta prudentiel.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">La volatilité prudentielle, qui est l’un des paramètres de calcul du delta prudentiel, devrait être déterminée à la lumière de la formule spécifique de calcul du delta prudentiel pour les options de vente et d’achat dans la catégorie du risque de taux d’intérêt. À cet égard, la valeur de la volatilité prudentielle des options de vente et d’achat dans la catégorie du risque de taux d’intérêt, telle que définie dans les normes internationales adoptées par le CBCB, est réputée pouvoir être utilisée dans le cadre du droit de l’Union.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour permettre aux établissements de déterminer si une opération constitue une position longue ou une position courte sur le déterminant de risque principal, sur un déterminant de risque significatif ou sur le déterminant de risque le plus significatif d’une catégorie de risque donnée, il convient de préciser quelles informations sur l’opération ils devraient utiliser à cet effet. Afin d’éviter d’imposer inutilement une charge aux établissements, ceux-ci devraient être autorisés à utiliser les mêmes informations que pour l’identification des déterminants de risque significatifs.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le présent règlement se fonde sur les projets de normes techniques de réglementation soumis à la Commission par l’Autorité bancaire européenne.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’Autorité bancaire européenne a procédé à des consultations publiques ouvertes sur les projets de normes techniques de réglementation sur lesquels se fonde le présent règlement, analysé les coûts et avantages potentiels qu’ils impliquent et sollicité l’avis du groupe des parties intéressées au secteur bancaire institué conformément à l’article 37 du règlement (UE) n<span class="oj-super">o</span> 1093/2010 du Parlement européen et du Conseil <a id="ntc3-L_2021204FR.01000701-E0003" href="#ntr3-L_2021204FR.01000701-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_1">
+               <p id="d1e236-7-1" class="oj-ti-section-1">CHAPITRE 1</p>
+               <div class="eli-title" id="cpt_1.tit_1">
+                  <p id="L_2021204FR.01000701-d-001" class="oj-ti-section-2">
+                     <span class="oj-bold">Méthode pour l’identification des opérations ne présentant qu’un seul déterminant de risque significatif, pour l’identification des opérations présentant plusieurs déterminants de risque significatifs et pour l’identification du plus significatif de ces déterminants de risque</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e244-7-1" class="oj-ti-art">Article premier</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Méthode d’identification des déterminants de risque d’une opération sur dérivé</p>
+                  </div>
+                  <div id="001.001">
+                     <p class="oj-normal">1.   Aux fins de l’identification des opérations ne présentant qu’un seul déterminant de risque significatif et des opérations présentant plusieurs déterminants de risque significatifs, les établissements identifient, au début de chaque opération, tous les déterminants de risque de l’opération en déterminant de quels facteurs de risque dépendent les flux de trésorerie de cette dernière, compte tenu au minimum de tous les facteurs de risque visés aux articles 325 <span class="oj-italic">terdecies</span> à 325 <span class="oj-italic">octodecies</span> du règlement (UE) n<span class="oj-super">o</span> 575/2013. Les facteurs de risque identifiés par les établissements sont les déterminants de risque de l’opération.</p>
+                  </div>
+                  <div id="001.002">
+                     <p class="oj-normal">2.   Les établissements ne considèrent pas comme des déterminants de risque d’une opération les facteurs de risque de taux d’intérêt utilisés pour actualiser les flux de trésorerie de l’opération.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e268-7-1" class="oj-ti-art">Article 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">Méthode d’identification des opérations ne présentant qu’un seul déterminant de risque significatif</p>
+                  </div>
+                  <div id="002.001">
+                     <p class="oj-normal">1.   Après avoir identifié tous les déterminants de risque d’une opération conformément à l’article 1<span class="oj-super">er</span>, les établissements identifient, au début de chaque opération, les opérations ne présentant qu’un seul déterminant de risque significatif, en appliquant les critères suivants:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">lorsque les flux de trésorerie de l’opération dépendent exclusivement d’un seul déterminant de risque appartenant à l’une des catégories de risque visées à l’article 277, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, les établissements identifient ce déterminant de risque comme étant le seul déterminant de risque significatif de cette opération;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">lorsque les flux de trésorerie de l’opération dépendent de plusieurs déterminants de risque et que les établissements n’ont identifié qu’un seul de ces déterminants comme étant significatif, soit selon la méthode prévue à l’article 4, paragraphe 3, soit selon la méthode prévue à l’article 4, paragraphe 4, les établissements identifient ce déterminant de risque comme étant le seul déterminant de risque significatif de cette opération.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="002.002">
+                     <p class="oj-normal">2.   Par dérogation au paragraphe 1, pour les contrats d’échange de taux d’intérêt dans des devises différentes visés à l’annexe II, point 2 a), du règlement (UE) n<span class="oj-super">o</span> 575/2013, les établissements peuvent identifier le déterminant de risque de change comme étant le seul déterminant de risque significatif de l’opération.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e306-7-1" class="oj-ti-art">Article 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Méthode d’identification des opérations présentant plusieurs déterminants de risque significatifs</p>
+                  </div>
+                  <p class="oj-normal">Aux fins de l’article 277, paragraphe 3, du règlement (UE) n<span class="oj-super">o</span> 575/2013, les établissements identifient toutes les opérations autres que celles visées à l’article 2 comme étant des opérations présentant plusieurs déterminants de risque significatifs.</p>
+               </div>
+               <div class="eli-subdivision" id="art_4">
+                  <p id="d1e316-7-1" class="oj-ti-art">Article 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="oj-sti-art">Méthode d’identification des déterminants de risque significatifs et du plus significatif d’entre eux</p>
+                  </div>
+                  <div id="004.001">
+                     <p class="oj-normal">1.   Après avoir identifié tous les déterminants de risque d’une opération conformément à l’article 1<span class="oj-super">er</span>, et lorsque les flux de trésorerie de la transaction dépendent de plusieurs déterminants de risque, les établissements identifient les déterminants de risque significatifs, et le plus significatif d’entre eux, en appliquant la méthode qui convient parmi celles prévues aux paragraphes 2, 3 et 4.</p>
+                  </div>
+                  <div id="004.002">
+                     <p class="oj-normal">2.   Les établissements suivent les étapes suivantes au début de l’opération:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils considèrent tous les déterminants de risque de l’opération identifiés conformément à la procédure visée à l’article 1<span class="oj-super">er</span> comme étant des déterminants de risque significatifs;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">pour chaque catégorie de risque correspondant à ces déterminants de risque significatifs, ils identifient comme étant le déterminant de risque le plus significatif le déterminant de risque qui correspond à la plus élevée des majorations pour catégorie de risque visées aux articles 280 <span class="oj-italic">bis</span> à 280 <span class="oj-italic">septies</span> du règlement (UE) n<span class="oj-super">o</span> 575/2013.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="004.003">
+                     <p class="oj-normal">3.   Les établissements suivent les étapes suivantes au début de l’opération, puis au moins une fois par trimestre:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils calculent les sensibilités au risque delta conformément à l’article 325 <span class="oj-italic">novodecies</span> du règlement (UE) n<span class="oj-super">o</span> 575/2013 pour chaque déterminant de risque identifié conformément à l’article 1<span class="oj-super">er</span> du présent règlement;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils calculent les sensibilités pondérées conformément à la formule prévue à l’article 325 <span class="oj-italic">septies</span>, paragraphe 6, dudit règlement sur la base des sensibilités calculées conformément au point a);</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">pour chacune des catégories de risque visées à l’article 277, paragraphe 1, dudit règlement, ils calculent les exigences de fonds propres par catégorie de risque pour le risque de marché conformément à la formule prévue à l’article 325 <span class="oj-italic">septies</span>, paragraphe 8, dudit règlement, sur la base de toutes les sensibilités pondérées visées au point b) des déterminants de risque qui ont été affectés à cette catégorie de risque;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Ils classent de la plus grande à la plus petite en termes absolus toutes les exigences de fonds propres par catégorie de risque pour le risque de marché visées au point c), afin d’obtenir une séquence monotone croissante d’entrées où l’entrée <span class="oj-italic">a<span class="oj-sub">1</span>
+                                    </span> est le terme absolu le plus grand, <span class="oj-italic">a<span class="oj-sub">2</span>
+                                    </span> est le deuxième plus grand terme, et ainsi de suite;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils vérifient, pour chaque entrée <span class="oj-italic">a<span class="oj-sub">i</span>
+                                    </span> calculée et classée conformément au point d) et dans l’ordre résultant de ce classement, si la condition suivante est remplie:</p>
+                                 <p class="oj-normal">
+                                    <figure>
+                                       <img src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAyADIAAD/4QxDaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IjMuMS03MDEiPgo8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgo8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiAgeG1sbnM6cGRmPSJodHRwOi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvIj4KPHBkZjpQcm9kdWNlcj5NaWNyb3NvZnTCriBXb3JkIHBvdXIgTWljcm9zb2Z0wqAzNjU8L3BkZjpQcm9kdWNlcj48L3JkZjpEZXNjcmlwdGlvbj4KPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+CjxkYzpjcmVhdG9yPjxyZGY6U2VxPjxyZGY6bGk+TGl2YSBIYXJpbmpha2EgUmF6YWZpbmRyYWphbzwvcmRmOmxpPjwvcmRmOlNlcT48L2RjOmNyZWF0b3I+PC9yZGY6RGVzY3JpcHRpb24+CjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgo8eG1wOkNyZWF0b3JUb29sPk1pY3Jvc29mdMKuIFdvcmQgcG91ciBNaWNyb3NvZnTCoDM2NTwveG1wOkNyZWF0b3JUb29sPjx4bXA6Q3JlYXRlRGF0ZT4yMDIxLTA2LTAzVDEzOjAzOjI5KzAzOjAwPC94bXA6Q3JlYXRlRGF0ZT48eG1wOk1vZGlmeURhdGU+MjAyMS0wNi0wM1QxMzowMzoyOSswMzowMDwveG1wOk1vZGlmeURhdGU+PC9yZGY6RGVzY3JpcHRpb24+CjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyI+Cjx4bXBNTTpEb2N1bWVudElEPnV1aWQ6OTU2RjI4NDEtQTRFNi00MzhGLTlBMEUtQzc3NTkyQkVGQUFFPC94bXBNTTpEb2N1bWVudElEPjx4bXBNTTpJbnN0YW5jZUlEPnV1aWQ6OTU2RjI4NDEtQTRFNi00MzhGLTlBMEUtQzc3NTkyQkVGQUFFPC94bXBNTTpJbnN0YW5jZUlEPjwvcmRmOkRlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKPC9yZGY6UkRGPjwveDp4bXBtZXRhPjw/eHBhY2tldCBlbmQ9InciPz7/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABYAMwDASIAAhEBAxEB/8QAHAABAAIDAQEBAAAAAAAAAAAAAAYHBAUIAQMC/8QAQRAAAQMEAQIDBAgEAwYHAAAAAQIDBAAFBhEHEiETMUEIFiJRFBUyV2FxltIjQoGRFyRSJSYzNkNydJOVobGz0f/EABkBAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAC8RAAEDAgQEBgICAwEAAAAAAAEAAhEDIRIxQVEEYXGBIjKRobHwUtETwSNCcuH/2gAMAwEAAhEDEQA/AOkeb2s5Vg0p/ALv9XXhoJLf+Wad69uJ3/xfhGk9X96oHgfIuX+UrcpTPOqbZc2Wy5Ig+6sZ0tDxFIT8ekg70D28t11wQCCD61yPzjhMviTkOPy3jkZ+ZCEpLk9kbWW2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"
+                                            height="44"
+                                            width="102"
+                                            alt="Image 1"
+                                            class="oj-img"/>
+                                    </figure>
+                                 </p>
+                                 <p class="oj-normal">où:</p>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal"> </p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">
+                                                <span class="oj-italic">i =</span> l’indice qui représente les catégories de risques visées à l’article 277, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, classées conformément au point d) et dans l’ordre résultant de ce classement;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal"> </p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">
+                                                <span class="oj-italic">Y</span>% = 60 %;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">f)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils considèrent comme significatifs:</p>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">i)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">les déterminants de risque correspondant aux catégories de risque pour lesquelles la condition énoncée au point e) du présent paragraphe est remplie;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">ii)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">les déterminants de risque qui correspondent à la première catégorie de risque pour laquelle cette condition n’est pas remplie;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">g)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">pour chacune des catégories de risque correspondant à des déterminants de risque qui ne sont pas significatifs au sens du point f), ils vérifient si la condition suivante est remplie par l’entrée <span class="oj-italic">a<span class="oj-sub">i</span>
+                                    </span> correspondante:</p>
+                                 <p class="oj-normal">
+                                    <figure>
+                                       <img src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAyADIAAD/4QxDaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IjMuMS03MDEiPgo8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgo8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiAgeG1sbnM6cGRmPSJodHRwOi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvIj4KPHBkZjpQcm9kdWNlcj5NaWNyb3NvZnTCriBXb3JkIHBvdXIgTWljcm9zb2Z0wqAzNjU8L3BkZjpQcm9kdWNlcj48L3JkZjpEZXNjcmlwdGlvbj4KPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+CjxkYzpjcmVhdG9yPjxyZGY6U2VxPjxyZGY6bGk+TGl2YSBIYXJpbmpha2EgUmF6YWZpbmRyYWphbzwvcmRmOmxpPjwvcmRmOlNlcT48L2RjOmNyZWF0b3I+PC9yZGY6RGVzY3JpcHRpb24+CjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgo8eG1wOkNyZWF0b3JUb29sPk1pY3Jvc29mdMKuIFdvcmQgcG91ciBNaWNyb3NvZnTCoDM2NTwveG1wOkNyZWF0b3JUb29sPjx4bXA6Q3JlYXRlRGF0ZT4yMDIxLTA2LTAzVDEzOjAzOjUxKzAzOjAwPC94bXA6Q3JlYXRlRGF0ZT48eG1wOk1vZGlmeURhdGU+MjAyMS0wNi0wM1QxMzowMzo1MSswMzowMDwveG1wOk1vZGlmeURhdGU+PC9yZGY6RGVzY3JpcHRpb24+CjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyI+Cjx4bXBNTTpEb2N1bWVudElEPnV1aWQ6QzQxODZDQjAtREIzQi00N0M0LTgxRDUtNzBFRDdGMjZGM0U4PC94bXBNTTpEb2N1bWVudElEPjx4bXBNTTpJbnN0YW5jZUlEPnV1aWQ6QzQxODZDQjAtREIzQi00N0M0LTgxRDUtNzBFRDdGMjZGM0U4PC94bXBNTTpJbnN0YW5jZUlEPjwvcmRmOkRlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKPC9yZGY6UkRGPjwveDp4bXBtZXRhPjw/eHBhY2tldCBlbmQ9InciPz7/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABJAMwDASIAAhEBAxEB/8QAHAABAQADAQEBAQAAAAAAAAAAAAcFBggEAgEJ/8QARxAAAQIFAwIBCAYFCAsAAAAAAQIDAAQFBhEHEiETMUEIFBciUWeW4xUWMmFxgSM3QpGzCRgkM1J1odE1NlRVV2JygpOVtP/EABkBAQEBAQEBAAAAAAAAAAAAAAADAgQBBf/EAC4RAAEDAgUCBQQCAwAAAAAAAAEAAhEDIRIxQVFhBHEigZGh8DKxwdETUhRy4f/aAAwDAQACEQMRAD8A7LhCEESEIQRCcAn2RztfBqGrurMzp+69ttKlLWmps7UnqzCMLb9b1Vp9UkeqSPbHQ7yStpaAcFSSI5xkGr90+1WuyckLErFwyVcny+xNSYbShn1AgFW85OO/HhGG4f524xIAJGxMWn73tIWyXCk4sN7dwJEkeW11htRdKrPtK+rZtOwpEUpFwGZ+kZXquvec9BCXG/WdUdm3co8EZzzmOp20pbaCRwAI5YqVG1Wpmt1PvmpWtOXGgdQIRTWEM9D9B0jv3HB3ZBH4GKTqxck9QbHk6Dd9CnrkNWZmG5+ZpJTLIZQlSSPtHI4UBx/ZMUY5w6djSblxsTqXEAegB2l1iRliGurmPpDRfcAYi7TQxvDRMWVgHPaEYy1ZaWlbfk25Nt1plTKFpQ4vcpIKRwT4xk4OEGFlpJElIQhHi0kIQgiQhCCJCEIIkIQgiQhCCJCEIIkIQgiQiMen73Oau/DnzIen73Oau/DnzIIrPCIx6fvc5q78OfMh6fvc5q78OfMgis8MD2CIx6fvc5q78OfMh6fvc5q78OfMgis+B7BEM8p2duWnXFZ0/R7Vq9xyEu5Mrn5enyanlFOG9qSQDtzzjPfBj2en73Oau/DnzIen73Oau/DnzIyWy5pOhn59+DdUpvwEyJkEeoI/Kqdpuzj9BlXp5lTDq20q6Sm9imwQCEEe0dj94jKRGPT97nNXfhz5kPT97nNXfhz5kUc7ESVFowgBWeERj0/e5zV34c+ZD0/e5zV34c+ZGVpWeERj0/e5zV34c+ZGasjV/wCs9zylD9Gmo1F853/02q0XoSrW1BV6695xnGBxySBBFTTnHERyraw16hXWKHUNNbpmZPrJ6taalimTZaUrla1EYCUJ5USewzFjjzVXzH6MmvpPzfzHoq8584x0ung7t+eNuM5zxiMmWnFpstCCIWJti9bTuR0y9DuOj1GaQje7Lys62843jAO5KSSMEgH7zGfjnTU1zSESfTsdypirdfMwnTMy30jtwrcXQ363T3bd2f2unGw+T59ceq7j6z/Vvnd9c+r9Lb9vqbf2Nvfd45xiKUwKgJFo9Pmym+acA3n1VqjUNYrjnbV07qdcp2zzqX6XT3pCh6zqUng9+FGNvjx1qVpk5TXWKxLykxJHBcbmUJU2cHIyFcdwPziNVuJhExzturUnBrwSJvluoNTntf3LWduCr35Z9DlmSou+f0RbXTSDjcoqIwD7YzPk7V7VW5ZadrF51OlmnJdWyw21TFMKXscwXAonBSpPI/EGMbP1p7Wi7kW/Q1PJsuUSl2emmiQ1OpUClbIWkqbWUqwSkjjxi3yVMlafRU02QZbZaQ100JSkJHbGcARbHDXVQ2J+kcb3304uoYMqRNx9R/H79N1ErivXUu46vcc5YVUpVPpNumZYmWpunmZXMPMKJUELScDckpASeRg+2KDo5fC7vtdUxPNhmekUNtTxO1KS70wVkJH2RnPB7RJrFuSh2KzqXQbnqknTajPVapz0nLzD6GlzLa8JR00rIKyopIGBg47x5LPqVXtm0amzIs7qjc041OSjG1XV8yWMOO7QQfVSrO4ZSPGFKP43Nb4vC0g7uJg3/Gi1XtWAyAcQf9Q2Z/6q1bFz3DcWpFRl5B6XbtylqXLu5Y3qmHClKkLQ4DgJGSCD3iixzjbNX1LYNQoGlUpaj8jQnhJz07Xm31PzrmNyXErZOFjacFRAOfuin6W6kyN02NT67UlMyM1MdQOMKIbKNrikD1SokZCQe/jGqdM1G4WXIA7mZM9tuIU6tVtImpUsCY4Fsu+p5nZa3cnlH6d0C5Xben0XB9ItYy03SXFFWUhfHieCI+f5x1j/AO6Ly+Hn/wDKNd8qvT2o9WW1Ns50SVfpW4uOocDZdDnTZGVHPZG4ce2KJoTqTJ6kWXJ1htpTE04hanWgFbU7XVIGCeT9nP5xLpwalMyfG36hxo4cH2NlauRTqNj6XZHnVvcZ8i68un2t9lXtcTtApArDU+2hK1NzlPWxgKOB9qPq9NRap9PqtWwaTL1m4WUdd9E6tTEqhkKUhX6YZHUC9nqd8Enwj0Tum1LldQp2/wCVmnmZ52WaZU0lA2kNk4OTzzmIzYlq1+vTN/12mapXLbyZS4aglcrKNNdNRSUqKvW5J5A/IRlrwcx9LZd6kDy+WWgwjEReSA3zF5XTVuu1R+iSbtalpeVqK2UGZZYdLjaHCkbkpUe4ByAY98Tnyfa5U61aE8mqz79Qep9RckUzb/8AWPpbQjC1AcAnJJA45ijReq3C6Pl7qFF2JkpCEImqJCEIIkI+S4gHG9Ofxj6BB7EHEESEIQRD2iDV2xG6teH0vV9aKrIy4eT1qGmqtmUdbSo5QtBXgpWMhQI8SIvJGRiJ3UtD9J6jPOzs7YlGfmHlFTjimjlRJySeYzEPDvnpktT4C1ei2ZLSi3JoztEas2nzy2+m7NSolmnXBkE7lJwTkgE/eI2un12i1B7oyFWkJpzGdjMyhasfgCY0T0A6O/8AD6if+JX+cZm0NKtPbSqoqlt2nTKZOhBQH2GyFbTwRkmKAg/UpxAstzjnvyp9SXZOXXY9Nk7iaXM488qEhIvKXLhJbcR01J4Vu5SeeBmOhIEfj++Ivp44Bym4347bq1N/8ZJGeh2O/l91zFKawWTZ2nU/SbGtm5BPhDjksg267LIU4og8lAGO3eLhpIam5ZUtMVZ6ZdmphRfPnClFSAvCgn1ucDOMH2Rtm0ff++P2Og1C4vc65dHtP7XOKYaGtbYNn3j9LS9RLfsBqQm7quW1KDUJmRl1uJfmqe068dgUvakqG4nOSAPExp+l9tzVT8+vCoyzaGXWHPoJn7XRk3kbkoAIy0ANo2DgY+6KpX6HSa7KIlKxIMTrDbgdQh1OQFgEBQ+/BP749cpLsyko1KyzaWmGUBttCeyUgYAH5RFrQJ3yHEiD5nLtyquMx787Dtr7ZKEaEV+k0Sfven1edZkJhqqoSUTDiWt36Ecp3EZH3xg9HLaq9V06ps/LS21p0vbQ9lC+HljlJGR2ixXVpNp1dFUVU7gtGmVGcV3efQSo/wCMbfISctISiJSUZSyw3nahPYc5jp6DqHdJUFePEGhg2gRJ7mG9r5rl67ph1VI0QYaXYuZvbt4jfsv2dcYalHFzCgloD1iY5R8mixpj0x1e77OeVI2Q+0yZRWzf52EHa4jDiuojDgWckeHHEbH5Q+plm1i4m9Najc8hTZBZP0q4+o7OEtvNZKRuTyB2IzkZ4jeqTrfolTJBqRkr7ojTDQISkOrOMnJ5Iz3MQ6V4Bd1A1BaORq4+dm+Z1aT01xLP8fkE+WQHN5O1hnMVcdom166F6XXjXFVq4raM5PqTtLonphvI3FXZCwO6j4eMataWs0teWtj1AtetNT9CZl2HC4ylKkLUoqCgCU7s5x4x7G7gvem691GnVa5mHLSYojlTLfmiEplwmYxhS9u4lLYOecfnHjBiLHkRIJBOka8Tp7wvcUB7QZiJA1mD5xP6VYt+kU+g0WUo9Kl/N5GTZQww1vKtiEJCUjKiSeAOScx7o1q1L9tG6+sLbr0lVFsrW2tMuvJC0gEp5HcZH741C5dT7xpddm6fJaOXZVZdhwobnJd1gNvD+0nJzj8Y05xxeLM37rLWgAhuiqkIl1q6mXfV67L0+f0fuqkS7u7fOTLrJbbwkkZwc8kAfiY13yiNSr6tmlVti3LVrMmiTltzddCWFy4JCDv2qycJJKTkd4ybFo/sY9wPz+pW2NxkgafPnvZXOJ35QF5TtnWOHaUvZValMfR8gvAOyYcbX01YUCk4UkcHA9pjbLKnJmoWrTZ2cc6sw9KtLcXtAyooSScDjuTE38p+16/XaFQZ+3pJ6oTNIrUvUFSrKQXHUtJcO1OeASSBz7Yx1LcPhdlIBjabr3pXNf4uDE7xZahIaE2U9Yq7zviRVULsm5dVSenfOHmtkwprqn1G3Nhw4FK4GPDGOI23yUpKZ+oKrgnXzMzFaLc2t8gJ6h27Sdo4HbtgRomo8rq7qRZknL0636razUgUdaQnmGnXJpSG1ZUlSewVvCQD4gxueg8teItKn0+uUedtuj0unOSkxT55CCuaUQSHELTylKRkEE55i9NxDq8WFoGkXM+wAi97gZqLpLaUySczrtG+s7WEK0pUlRICgSPYY/Y5l04TSdPLg1OvaUkHZimNzUmqWZadVlSVFaOFLOO6/H2RdNOLnqF1UFFTqFsVK3lqziXnVIUv7Sh+yf8AlB/MR4GyBGeFpPGISO/yy04hriNJIB3iJ7QbHnVbNCEIyvUhCEESEIQRIQhBEhCEESEIQRQyseStpVVqk7UJ5muOzDuN61VRZJwAByRnsI8n80XSD/ZK1/7NX+UX6EeNaGgAZL1zi4lxzKl2mWh9gaZ1KZrFusT7b7raUOKmJsugAKyMAjjmIrdNUvZ24rquyRdlkWuxU5qi1Zp2W3veaJUVvOJc/YTsxjxB5xHWNX/0a/8A9Ecz1H9RurX981b/AOcxCrVcC95vgaIGl3QZVqNNpAH9nZ62FirDofO2bUrIln7LMq5LJQlC3WwFKS700ZClYBKsFOT4xi7moWuMxXpx6g3tacpTFuEyzMxRluOIR4BSs8n740vyB/1Ou/3ir+AzHRMfQ6ukGViAVwdJULqZndSy1KFrbLV6XeuK9LVnaYnd12ZajrbcV6pxhWePWwfyjXPK4va0pDTqvW5O16RYrD8g421KLUeotR2KAAx7CD+cXbwj+f38oB+tJH4H+CzHz+pqkOpMjNw9gXfdq7+maAX1NQPyB+V2Nord9s3LZ0g3QK1KVFctKtpeDKidhCUgg5Ht4jeyM945O/k7/wDVio/9/wDEjrGPodSwNeI1APqJXz+ldLCNiR6GEwPYIxl0JmTbtQbkWVOzC5ZxLaUjkqKCB/jiMnA9jHK9uJpauppgyuR29I7rt236NfshS6xUbiUz1arRS8VpedV6gAaUemNoUVYOe3HOI6csaoz9VtuWnqlRJmhzDm7dJTG3qNYURzt45AB49sZhX9VH239gRQOhpYBabcCAIHFvvusOGJ+M5683J/P22X7CEIytJCEIIkIQgiQhCCJCEIIkIQgi/9k="
+                                            height="36.5"
+                                            width="102"
+                                            alt="Image 2"
+                                            class="oj-img"/>
+                                    </figure>
+                                 </p>
+                                 <p class="oj-normal">où:</p>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal"> </p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">
+                                                <span class="oj-italic">i =</span> l’indice qui représente les catégories de risques visées à l’article 277, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, classées conformément au point d) et dans l’ordre résultant de ce classement, et qui correspondent aux déterminants de risque qui ne sont pas significatifs au sens du point f);</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal"> </p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">
+                                                <span class="oj-italic">Z</span>% = 30 %;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">h)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">outre les déterminants de risque significatifs identifiés conformément au point f), ils considèrent également comme étant des déterminants de risque significatifs les déterminants de risque qui correspondent aux catégories de risque pour lesquelles la condition énoncée au point g) est remplie;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">i)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">pour chacune des catégories de risque visées aux points f) et h), ils considèrent comme étant le déterminant de risque le plus significatif pour cette catégorie de risque le déterminant de risque correspondant à la valeur absolue la plus élevée des sensibilités pondérées visées au point b).</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="004.004">
+                     <p class="oj-normal">4.   Les établissements qui remplissent les conditions énoncées à l’article 94, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, ou qui sont exemptés d’exigence de déclaration conformément à l’article 325 <span class="oj-italic">bis</span>, paragraphe 1, dudit règlement, peuvent identifier le déterminant de risque le plus significatif en suivant les étapes suivantes au début de l’opération, puis au moins une fois par trimestre:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">pour chaque déterminant de risque identifié conformément à l’article 1<span class="oj-super">er</span>, ils calculent les majorations pour catégorie de risque prévues aux articles 280 <span class="oj-italic">bis</span> à 280 <span class="oj-italic">septies</span> du règlement (UE) n<span class="oj-super">o</span> 575/2013 qui lui sont applicables. Lorsque plusieurs déterminants de risque identifiés conformément à l’article 1<span class="oj-super">er</span> ont été affectés à la même catégorie de risque, les établissements retiennent, aux fins de l’application du point b), le déterminant de risque qui, dans cette catégorie de risque, correspond à la majoration pour catégorie de risque la plus élevée dans ladite catégorie;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils suivent les étapes prévues au paragraphe 3, points d) à h), en basant les entrées utilisées à ces étapes sur les majorations pour catégorie de risque calculées conformément au point a) du présent paragraphe;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils identifient comme déterminants de risque les plus significatifs dans les catégories de risque concernées les déterminants de risque significatifs identifiés selon la méthode visée au point b).</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_2">
+               <p id="d1e553-7-1" class="oj-ti-section-1">CHAPITRE 2</p>
+               <div class="eli-title" id="cpt_2.tit_1">
+                  <p id="L_2021204FR.01000701-d-002" class="oj-ti-section-2">
+                     <span class="oj-bold">Formule à utiliser pour le calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, volatilité prudentielle adaptée à cette formule, et méthode pour déterminer si une opération est une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risque donnée</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p id="d1e561-7-1" class="oj-ti-art">Article 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="oj-sti-art">Formule de calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, et volatilité prudentielle adaptée à cette formule</p>
+                  </div>
+                  <div id="005.001">
+                     <p class="oj-normal">1.   Les établissements calculent comme suit le delta prudentiel (δ) des options d’achat et de vente, lorsqu’elles sont affectées à la catégorie du risque de taux d’intérêt, qui est compatible avec des conditions de marché dans lesquelles les taux d’intérêt peuvent être négatifs:</p>
+                     <p class="oj-normal">
+                        <figure>
+                           <img src="data:image/jpg;base64,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"
+                                height="48.5"
+                                width="267"
+                                alt="Image 3"
+                                class="oj-img"/>
+                        </figure>
+                     </p>
+                     <p class="oj-normal">où:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <figure>
+                                       <img src="data:image/jpg;base64,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"
+                                            height="24.5"
+                                            width="222"
+                                            alt="Image 4"
+                                            class="oj-img"/>
+                                    </figure>
+                                 </p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <figure>
+                                       <img src="data:image/jpg;base64,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"
+                                            height="24.5"
+                                            width="344.5"
+                                            alt="Image 5"
+                                            class="oj-img"/>
+                                    </figure>
+                                 </p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">N</span>(<span class="oj-italic">x</span>) = la fonction de répartition d’une variable aléatoire suivant une loi normale centrée réduite, exprimant la probabilité qu’une variable aléatoire normale de moyenne zéro et de variance un soit inférieure ou égale à x;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">P</span> = le prix au comptant ou à terme de l’instrument sous-jacent à l’option;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">K</span> = le prix d’exercice de l’option;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">λ</span> = la date d’expiration de l’option, exprimée en années selon la convention applicable de jour ouvré;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">λ</span> = la variable d’ajustement adéquate pour ramener <span class="oj-italic">P</span> et <span class="oj-italic">K</span> en territoire positif, déterminée conformément au paragraphe 2;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">σ</span> = la volatilité prudentielle de l’option, déterminée conformément au paragraphe 3.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="005.002">
+                     <p class="oj-normal">2.   Aux fins du paragraphe 1, les établissements calculent la variable d’ajustement (λ) pour toute option d’achat ou de vente comme suit:</p>
+                     <p class="oj-normal">
+                        <span class="oj-italic">λ<span class="oj-sub">j</span>
+                        </span>=max(<span class="oj-italic">threshold</span> - min(<span class="oj-italic">P<span class="oj-sub">j</span>
+                        </span>,<span class="oj-italic">K<span class="oj-sub">j</span>
+                        </span>),0)</p>
+                     <p class="oj-normal">où:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">P<span class="oj-sub">j</span>
+                                    </span> = le prix au comptant ou à terme de l’instrument sous-jacent à l’option <span class="oj-italic">j</span>;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">K<span class="oj-sub">j</span>
+                                    </span> = le prix d’exercice de l’option <span class="oj-italic">j</span>;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal"> </p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Seuil = 0.10%</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="005.003">
+                     <p class="oj-normal">3.   Aux fins du paragraphe 1, les établissements déterminent la volatilité prudentielle de l’option en fonction de la catégorie de risque de l’opération et de la nature de l’instrument sous-jacent de l’option, conformément au tableau suivant:</p>
+                     <p class="oj-ti-tbl" id="d1e680-7-1-table">
+                        <span class="oj-italic">Tableau</span>
+                     </p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                        <col width="36%"/>
+                        <col width="31%"/>
+                        <col width="33%"/>
+                        <tbody>
+                           <tr class="oj-table">
+                              <td valign="top" class="oj-table"  >
+                                 <p class="oj-tbl-hdr">Catégorie de risque</p>
+                              </td>
+                              <td valign="top" class="oj-table"  >
+                                 <p class="oj-tbl-hdr">Instrument sous-jacent</p>
+                              </td>
+                              <td valign="top" class="oj-table"  >
+                                 <p class="oj-tbl-hdr">Volatilité prudentielle</p>
+                              </td>
+                           </tr>
+                           <tr class="oj-table">
+                              <td valign="top" class="oj-table"  >
+                                 <p class="oj-tbl-txt">Taux d’intérêt</p>
+                              </td>
+                              <td valign="top" class="oj-table"  >
+                                 <p class="oj-tbl-txt">Tous</p>
+                              </td>
+                              <td valign="top" class="oj-table"  >
+                                 <p class="oj-tbl-txt">50 %</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p id="d1e700-7-1" class="oj-ti-art">Article 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="oj-sti-art">Méthodes pour déterminer si une opération constitue une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risques donnée</p>
+                  </div>
+                  <p class="oj-normal">Les établissements appliquent l’une des méthodes suivantes pour déterminer si une opération constitue une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans une catégorie de risques donnée:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ils calculent les sensibilités au risque delta de ces déterminants de risque conformément à l’article 325 <span class="oj-italic">novodecies</span> du règlement (UE) n<span class="oj-super">o</span> 575/2013 et identifient l’opération comme une position longue sur un déterminant de risque, si la sensibilité au risque delta correspondante est positive, ou comme une position courte, si la sensibilité au risque delta correspondante est négative;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ils évaluent la dépendance de la structure des flux de trésorerie de l’opération vis-à-vis de ce déterminant de risque, ou l’objectif de couverture de l’opération eu égard à ce déterminant de risque, et identifient l’opération comme une position longue ou courte sur la base de cette évaluation.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p id="d1e727-7-1" class="oj-ti-art">Article 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="oj-sti-art">Entrée en vigueur</p>
+                  </div>
+                  <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l’Union européenne.</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 1<span class="oj-super">er</span> mars 2021.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">La présidente</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2021204FR.01000701-E0001" href="#ntc1-L_2021204FR.01000701-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >JO L 176 du 27.6.2013, p. 1</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2021204FR.01000701-E0002" href="#ntc2-L_2021204FR.01000701-E0002"
+               >(<span class="oj-super">2</span>)</a>  
+            <span class="oj-italic">Frequently asked questions on the Basel III standardised approach for measuring counterparty credit risk exposures</span>, 22 mars 2018.</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2021204FR.01000701-E0003" href="#ntc3-L_2021204FR.01000701-E0003"
+               >(<span class="oj-super">3</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/78/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 12</a>).</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

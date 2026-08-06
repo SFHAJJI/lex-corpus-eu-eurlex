@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32026r0046:2025-12-03",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0046",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2025-12-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-12-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-12-03",
+      "valid_time_source": "publisher",
+      "title": "Commission Delegated Regulation (EU) 2026/46 of 3\u00A0December 2025 amending Delegated Regulation (EU)\u00A02016/1675 to add Russia to the list of high-risk third countries with strategic deficiencies",
+      "title_short": "Commission Delegated Regulation (EU) 2026/46 of 3\u00A0December 2025 amending Delegated Regulat\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0046",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "30621c78fbc05630f5a6740e314acf8a7dace753aae5ae4685b78df2ffab4ee3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0046",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0046"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-12-03",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2026/46 de la Commission du 3\u00A0d\u00E9cembre 2025 modifiant le r\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE)\u00A02016/1675 afin d\u2019ajouter la Russie \u00E0 la liste des pays tiers \u00E0 haut risque pr\u00E9sentant des carences strat\u00E9giques",
+      "title_short": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2026/46 de la Commission du 3\u00A0d\u00E9cembre 2025 modifiant le r\u00E8glement \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0046",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f99e93337352420a943b3895e520c1abb19a1cf96c67948cda71dfadece8354e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0046",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0046"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R0046",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "e66b892977960188e60d0224e5227e96c08143826a5918ab98b84dcc7faafb1a"
+}

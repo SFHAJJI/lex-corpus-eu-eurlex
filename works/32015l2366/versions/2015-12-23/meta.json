@@ -6,11 +6,24 @@
   "valid_from": "2015-12-23",
   "valid_to": "2024-04-07",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2015-12-23",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -51,6 +64,44 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L2366-20151223"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2015-12-23",
+      "valid_to": "2024-04-07",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2015/2366 du Parlement europ\u00E9en et du Conseil du 25 novembre 2015 concernant les services de paiement dans le march\u00E9 int\u00E9rieur, modifiant les directives 2002/65/CE, 2009/110/CE et 2013/36/UE et le r\u00E8glement (UE) n o 1093/2010, et abrogeant la directive 2007/64/CE (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE) ",
+      "title_short": "PSD2 \u2014 Directive (UE) 2015/2366 du Parlement europ\u00E9en et du Conseil du 25 novembre 2015 concernan\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015L2366-20151223",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a7f5474fffc023de262fa2b5dfdb734d39eb6e1a4470acfc49fcf8d65f88f76a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015L2366-20151223",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2015L2366FR0000050.0001.doc.xml",
+          "sha256": "7267fca0124082792916040652f7d050f91382e1f4b95e97b511934c4e7545e6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4f1c6ee8-bdb3-4e55-a477-0bb9379bf566.0021.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2015L2366FR0000050.0001.xml",
+          "sha256": "66ed42e0905b12de2bf3cc1f61bcbacb26fd857c819718c1afdb329756835758",
+          "source_uri": "https://publications.europa.eu/resource/cellar/4f1c6ee8-bdb3-4e55-a477-0bb9379bf566.0021.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015L2366-20151223"
+      }
     }
   ],
   "relations": [
@@ -60,7 +111,13 @@
     }
   ],
   "raw": {
-    "celex": "02015L2366-20151223"
+    "celex": "02015L2366-20151223",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "DIR",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,domain:financial-services:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:seed,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "91ad802ce1857efd8099d921ed261f8fde79761b7cd46880b6e5c20c845ace0a"
+  "record_sha256": "4911d95df618e841681dd3f090ed4157beb9a044be15e6e66ff605b3e697d39b"
 }

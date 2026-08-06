@@ -6,11 +6,24 @@
   "valid_from": "2020-07-12",
   "valid_to": "2024-01-08",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2020-07-12",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -51,6 +64,44 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2088-20200712"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2020-07-12",
+      "valid_to": "2024-01-08",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2019/2088 du Parlement Europ\u00E9en et du Conseil du 27\u00A0novembre 2019 sur la publication d\u2019informations en mati\u00E8re de durabilit\u00E9 dans le secteur des services financiers (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "SFDR \u2014 R\u00E8glement (UE) 2019/2088 du Parlement Europ\u00E9en et du Conseil du 27\u00A0novembre 2019 sur la pu\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R2088-20200712",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "b6bb18c297200fb2d5294f26a839c9baabd7183314ffad04ea434d823bf1e7ca",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R2088-20200712",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2019R2088FR0010010.0001.doc.xml",
+          "sha256": "6a0645700e816c6cce1481ef0f00a1269f00316cd6031fc5226bed6cd5971da1",
+          "source_uri": "https://publications.europa.eu/resource/cellar/55b6a4d3-c5ef-11ea-b3a4-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2019R2088FR0010010.0001.xml",
+          "sha256": "1f53b253de622b55b97586b216f129db8dbaa2aa9216629ae85c5890a27ddf07",
+          "source_uri": "https://publications.europa.eu/resource/cellar/55b6a4d3-c5ef-11ea-b3a4-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R2088-20200712"
+      }
     }
   ],
   "relations": [
@@ -60,7 +111,13 @@
     }
   ],
   "raw": {
-    "celex": "02019R2088-20200712"
+    "celex": "02019R2088-20200712",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "consumer-environment,wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:seed,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "adcbc2036f37fd85d5b1f00caec1458abfa6e983954b16ee45ccf505a3e1be39"
+  "record_sha256": "6f9616b5814d964d5fd7bf4ac525d98ec0b22bc9f572888c6b93884d12d2acca"
 }

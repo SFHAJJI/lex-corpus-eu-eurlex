@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025r0304:2024-10-31",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R0304",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2024-10-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-10-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-10-31",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2025/304 of 31\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114 of the European Parliament and of the Council with regard to standard forms, templates and procedures for the notification by certain financial entities of their intention to provide crypto-asset services",
+      "title_short": "Commission Implementing Regulation (EU) 2025/304 of 31\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0304",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "aa3895a77b2ec3d1175b67128afb863e194dd71e39e387b77e8a89570d140298",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0304",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0304"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-10-31",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2025/304 de la Commission du 31\u00A0octobre 2024 d\u00E9finissant, pour l\u2019application du r\u00E8glement (UE)\u00A02023/1114 du Parlement europ\u00E9en et du Conseil, des normes techniques d\u2019ex\u00E9cution \u00E9tablissant des formulaires, mod\u00E8les et proc\u00E9dures normalis\u00E9s pour la notification, par certaines entit\u00E9s financi\u00E8res, de leur intention de fournir des services sur crypto-actifs",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2025/304 de la Commission du 31\u00A0octobre 2024 d\u00E9finissant, pour \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0304",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2506a8331b22ab06f0f9933a77e6674bf8ba801d5b75321932ed61882d130c79",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0304",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0304"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R0304",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "5edd0858dc4c229cb5f436359e3351488e37eb4b7ce47db0b675c4c7768f6b17"
+}

@@ -1,0 +1,85 @@
+{
+  "lex_id": "eu-eurlex:32019l1152:2019-07-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L1152",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2019-07-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2019-07-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2019-07-11",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 2019 on transparent and predictable working conditions in the European Union",
+      "title_short": "Directive (EU) 2019/1152",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1152-20190711",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1152-20190711"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2019-07-11",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/1152 du Parlement europ\u00E9en et du Conseil du 20\u00A0juin 2019 relative \u00E0 des conditions de travail transparentes et pr\u00E9visibles dans l\u2019Union europ\u00E9enne",
+      "title_short": "Directive (UE) 2019/1152 du Parlement europ\u00E9en et du Conseil du 20\u00A0juin 2019 relative \u00E0 de\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L1152-20190711",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "62cd89de6b2e1f1e366303f30d40eaca34ee5f44434e026606c4259a48626977",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L1152-20190711",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2019L1152FR0000020.0001.doc.xml",
+          "sha256": "58dc8c6bd8189ba0528cfb7793a097de41eee39948c59bac4f9725b5117b0e91",
+          "source_uri": "https://publications.europa.eu/resource/cellar/0520884a-3228-11ea-ba6e-01aa75ed71a1.0002.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2019L1152FR0000020.0001.xml",
+          "sha256": "4fca19dacd36604ff013ebf9957bd6e2f0124f92a4ae4c0d2e589d81d499d9db",
+          "source_uri": "https://publications.europa.eu/resource/cellar/0520884a-3228-11ea-ba6e-01aa75ed71a1.0002.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L1152-20190711"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32019L1152"
+    }
+  ],
+  "raw": {
+    "celex": "02019L1152-20190711",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "employment",
+    "scope_reasons": "domain:employment:seed"
+  },
+  "record_sha256": "c24954220dbdd949d32198c1af6a849b59313bcff23868f88c1a415b4f080ef3"
+}

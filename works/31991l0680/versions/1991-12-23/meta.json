@@ -1,0 +1,79 @@
+{
+  "lex_id": "eu-eurlex:31991l0680:1991-12-23",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31991L0680",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1991-12-23",
+  "valid_to": "2009-11-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "1991-12-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1991-12-23",
+      "valid_to": "2009-11-29",
+      "valid_time_source": "publisher",
+      "title": "Council Directive of 16 December 1991 supplementing the common system of value added tax and amending Directive 77/388/EEC with a view to the abolition of fiscal frontiers (91/680/EEC)",
+      "title_short": "Council Directive of 16 December 1991 supplementing the common system of value added tax a\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991L0680-19911223",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "8088f76c8d54834f44d5e8a49953d09b932fdb6fe8ecf65953844b787c5808f7",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991L0680-19911223",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991L0680-19911223"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1991-12-23",
+      "valid_to": "2009-11-29",
+      "valid_time_source": "publisher",
+      "title": "Directive du Conseil du 16 d\u00E9cembre 1991 compl\u00E9tant le syst\u00E8me commun de la taxe sur la valeur ajout\u00E9e et modifiant, en vue de l\u0027abolition des fronti\u00E8res fiscales, la directive 77/388/CEE (91/680/CEE)",
+      "title_short": "Directive du Conseil du 16 d\u00E9cembre 1991 compl\u00E9tant le syst\u00E8me commun de la taxe sur la va\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991L0680-19911223",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cbc3a45856e713b8e5c46cff6a347cedba69589500eb90e9e8c9bb75376579f6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991L0680-19911223",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991L0680-19911223"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31991L0680"
+    }
+  ],
+  "raw": {
+    "celex": "01991L0680-19911223",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "0c721aefd8b9049603ecd7f93620a57f7590c06542e1188e9090571d080fc001"
+}

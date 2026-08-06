@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.18.0 # generated_on:20260721-1313 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202601730FR.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel <br/>de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+                  <p class="oj-hd-coll">Série L</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2026/1730</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">22.7.2026</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e42-1-1">
+            RÈGLEMENT D’EXÉCUTION (UE) 2026/1730 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 15 juillet 2026
+         </p>
+            <p class="oj-doc-ti">modifiant le règlement d’exécution (UE) 2025/848 en ce qui concerne les normes et spécifications applicables</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l’Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE <a id="ntc1-L_202601730FR.000101-E0001" href="#ntr1-L_202601730FR.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 5 <span class="oj-italic">ter</span>, paragraphe 11,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de garantir le niveau d’harmonisation le plus élevé possible entre les États membres pour le développement des portefeuilles européens d’identité numérique, les spécifications techniques applicables aux portefeuilles s’appuient sur les travaux réalisés sur la base de la recommandation (UE) 2021/946 de la Commission <a id="ntc2-L_202601730FR.000101-E0002" href="#ntr2-L_202601730FR.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> et, en particulier, sur l’architecture et le cadre de référence. Étant donné que l’architecture et le cadre de référence ont considérablement évolué depuis l’adoption du règlement d’exécution (UE) 2025/848 de la Commission <a id="ntc3-L_202601730FR.000101-E0003" href="#ntr3-L_202601730FR.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>, il convient à présent de modifier ledit règlement d’exécution afin de l’aligner sur les nouvelles normes, spécifications et procédures. En outre, afin de favoriser l’interopérabilité entre les registres des parties utilisatrices de portefeuille, les spécifications techniques pertinentes applicables à un format commun et à une interface de programmation d’application (API) commune pour les informations relatives à l’enregistrement des parties utilisatrices de portefeuille ont été élaborées dans le cadre de l’architecture et du cadre de référence.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Conformément aux objectifs du règlement (UE) n<span class="oj-super">o</span> 910/2014, un certain nombre de normes ont été sélectionnées pour satisfaire aux exigences applicables à l’enregistrement des parties utilisatrices de portefeuille. Ces normes devraient tenir compte des pratiques établies et être largement reconnues dans les secteurs concernés. Si nécessaire, ces normes devraient être adaptées ou complétées afin de garantir un niveau élevé de sécurité et de fiabilité dans l’enregistrement et l’identification des parties utilisatrices de portefeuille, tout en facilitant l’interopérabilité transfrontière et le bon fonctionnement du marché intérieur. Conformément à cet objectif, le présent règlement met à jour les normes techniques et les exigences en matière d’information applicables à l’enregistrement du lien entre les intermédiaires et les parties utilisatrices de portefeuille pour le compte desquelles ils agissent et harmonise les profils de certificat pour les certificats régis par le présent règlement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de permettre à l’unité de portefeuille de confirmer que les données demandées par une partie utilisatrice de portefeuille relèvent du champ d’application de l’utilisation prévue enregistrée, les fournisseurs de certificats d’enregistrement de partie utilisatrice de portefeuille devraient délivrer les certificats d’enregistrement de partie utilisatrice de portefeuille de manière automatisée et sans retard injustifié après l’enregistrement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le règlement (UE) 2016/679 du Parlement européen et du Conseil <a id="ntc4-L_202601730FR.000101-E0004" href="#ntr4-L_202601730FR.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> et, le cas échéant, la directive 2002/58/CE du Parlement européen et du Conseil <a id="ntc5-L_202601730FR.000101-E0005" href="#ntr5-L_202601730FR.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a> s’appliquent à toutes les activités de traitement de données à caractère personnel au titre du présent règlement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le Contrôleur européen de la protection des données a été consulté conformément à l’article 42, paragraphe 1, du règlement (UE) 2018/1725 du Parlement européen et du Conseil <a id="ntc6-L_202601730FR.000101-E0006" href="#ntr6-L_202601730FR.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a> et a rendu son avis le 17 avril 2026 <a id="ntc7-L_202601730FR.000101-E0007" href="#ntr7-L_202601730FR.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les mesures prévues par le présent règlement sont conformes à l’avis du comité établi par l’article 48 du règlement (UE) n<span class="oj-super">o</span> 910/2014,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e212-1-1" class="oj-ti-art">Article premier</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Modification du règlement d’exécution (UE) 2025/848</p>
+               </div>
+               <p class="oj-normal">Le règlement d’exécution (UE) 2025/848 est modifié comme suit:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">À l’article 6, paragraphe 3, le point a) est remplacé par le texte suivant:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">«a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">l’exactitude, la validité, l’authenticité et l’intégrité des informations requises en vertu de l’annexe I, points 1 à 6 et 11 à 16;».</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">À l’article 6, paragraphe 3, le point c) est supprimé.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">À l’article 6, le paragraphe 3 <span class="oj-italic">bis</span> suivant est inséré:</p>
+                           <div id="006.003A">
+                              <p class="oj-normal">«3 <span class="oj-italic">bis.</span>   Les bureaux d’enregistrement recueillent les informations visées à l’annexe I, points 7 à 10, de manière automatisée uniquement à des fins de transparence et, sans préjudice de l’article 5 <span class="oj-italic">ter</span>, paragraphe 4, du règlement (UE) n<span class="oj-super">o</span> 910/2014, n’appliquent aucune procédure d’autorisation préalable à ces informations.»</p>
+                           </div>.</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’article 8 est modifié comme suit:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">le paragraphe 1 est remplacé par le texte suivant:</p>
+                                       <div id="008.001">
+                                          <p class="oj-normal">«1.   Les États membres autorisent au moins une autorité de certification à délivrer des certificats d’enregistrement de partie utilisatrice de portefeuille. Les États membres veillent à ce que les fournisseurs de certificats d’enregistrement de partie utilisatrice de portefeuille délivrent ces certificats de manière automatisée et sans retard injustifié après l’enregistrement.»</p>
+                                       </div>;</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">le paragraphe 2 est remplacé par le texte suivant:</p>
+                                       <div id="008.002">
+                                          <p class="oj-normal">«2.   Les États membres:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">a)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">imposent aux fournisseurs de certificats d’enregistrement de partie utilisatrice de portefeuille l’obligation de délivrer lesdits certificats aux seules parties utilisatrices de portefeuille enregistrées;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">b)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">veillent à ce que chaque utilisation prévue soit exprimée dans les certificats d’enregistrement de partie utilisatrice de portefeuille;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">c)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">veillent à ce que les certificats d’enregistrement de partie utilisatrice de portefeuille comportent une politique d’accès générale, dont l’harmonisation syntaxique et sémantique est assurée dans l’ensemble de l’Union, informant les utilisateurs que la partie utilisatrice de portefeuille est uniquement autorisée à demander les données spécifiées dans les certificats d’enregistrement pour l’utilisation prévue enregistrée dans lesdits certificats;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">d)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">veillent à ce que les fournisseurs de solutions de portefeuille établis dans cet État membre se conforment à la politique d’accès générale en informant les utilisateurs lorsqu’une partie utilisatrice de portefeuille demande des données qui ne figurent pas dans les certificats d’enregistrement;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">e)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">mettent en œuvre les certificats d’enregistrement de partie utilisatrice de portefeuille en assurant leur harmonisation syntaxique et sémantique et dans le respect des exigences énoncées à l’annexe V;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">f)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">mettent en œuvre des politiques en matière de certificats et des énoncés des pratiques de certification spécifiques pour les certificats d’enregistrement de partie utilisatrice de portefeuille, conformément aux exigences énoncées à l’annexe V;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">g)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">veillent à ce que les parties utilisatrices de portefeuille fournissent un URL pour la politique en matière de protection de la vie privée concernant l’utilisation prévue.»</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </div>.</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’annexe I est modifiée conformément à l’annexe I du présent règlement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’annexe IV est modifiée conformément à l’annexe II du présent règlement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’annexe V est modifiée conformément à l’annexe III du présent règlement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e365-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Entrée en vigueur</p>
+               </div>
+               <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l’Union européenne</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 15 juillet 2026.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">La présidente</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202601730FR.000101-E0001" href="#ntc1-L_202601730FR.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >JO L 257 du 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202601730FR.000101-E0002" href="#ntc2-L_202601730FR.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Recommandation (UE) 2021/946 de la Commission du 3 juin 2021 concernant une boîte à outils commune de l’Union pour une approche coordonnée en vue d’un cadre européen relatif à une identité numérique (<a href="http://publications.europa.eu/resource/oj/JOL_2021_210_R_TOC"
+               >JO L 210 du 14.6.2021, p. 51</a>, ELI: <a href="http://data.europa.eu/eli/reg/2021/946/oj" >http://data.europa.eu/eli/reg/2021/946/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202601730FR.000101-E0003" href="#ntc3-L_202601730FR.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Règlement d’exécution (UE) 2025/848 de la Commission du 6 mai 2025 portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil en ce qui concerne l’enregistrement des parties utilisatrices de portefeuilles (<a href="https://data.europa.eu/eli/reg_impl/2025/848/oj" >JO L, 2025/848, 7.5.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/848/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202601730FR.000101-E0004" href="#ntc4-L_202601730FR.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Règlement (UE) 2016/679 du Parlement et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >JO L 119 du 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202601730FR.000101-E0005" href="#ntc5-L_202601730FR.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >JO L 201 du 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj)" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202601730FR.000101-E0006" href="#ntc6-L_202601730FR.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions, organes et organismes de l’Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n<span class="oj-super">o</span> 45/2001 et la décision n<span class="oj-super">o</span> 1247/2002/CE (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >JO L 295 du 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202601730FR.000101-E0007" href="#ntc7-L_202601730FR.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  
+            <a href="https://www.edps.europa.eu/data-protection/our-work/publications/formal-comments/2026-04-17-edps-daft-regulation-amending-regulation-eu-2025848-regards-applicable-standards-and-specifications_en"
+               >EDPS Formal comments on the draft Implementing Regulation amending Implementing Regulation (EU) 2025/848 as regards applicable standards and specifications.</a> [Commentaires formels du CEPD sur le projet de règlement d’exécution modifiant le règlement d’exécution (UE) 2025/848 en ce qui concerne les normes et spécifications applicables]. | <a href="https://www.edps.europa.eu/data-protection/our-work/publications/formal-comments/2026-04-17-edps-daft-regulation-amending-regulation-eu-2025848-regards-applicable-standards-and-specifications_en"
+               >Contrôleur européen de la protection des données</a>.</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202601730FR.000401.fmx">
+         <div class="eli-container" id="anx_I">
+            <p class="oj-doc-ti" id="d1e35-4-1">ANNEXE I</p>
+            <p class="oj-normal">À l’annexe I du règlement d’exécution (UE) 2025/848, le point suivant est ajouté:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">«16.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Le cas échéant, un lien d’association avec la partie utilisatrice de portefeuille qui recourt à l’intermédiaire auquel le certificat d’accès de partie utilisatrice de portefeuille a été délivré et qui agit pour le compte de la partie utilisatrice qui a l’intention de se fier au portefeuille.».</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202601730FR.000501.fmx">
+         <div class="eli-container" id="anx_II">
+            <p class="oj-doc-ti" id="d1e35-5-1">ANNEXE II</p>
+            <p class="oj-normal">L’annexe IV du règlement d’exécution (UE) 2025/848 est modifiée comme suit:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">au point 3, le premier alinéa est modifié comme suit:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le texte «sont, le cas échéant, au moins conformes aux exigences de la politique de certification normalisée énoncées dans la norme ETSI EN 319 411-1 version 1.4.1 (2023-10)» est remplacé par le texte «sont, le cas échéant, conformes à la norme ETSI TS 119 411-8 V1.1.1 (2025-10)»;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">le point 3, k), est modifié comme suit:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">le troisième tiret est remplacé par le texte suivant:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">«—</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">les informations visées à l’annexe I, points 1, 2, 3, 5, 6 et 7, a), b) et c), et 16;»;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">le quatrième tiret suivant est ajouté:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">«—</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">une référence au registre national des parties utilisatrices de portefeuille dans lequel la partie utilisatrice est enregistrée.».</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202601730FR.000601.fmx">
+         <div class="eli-container" id="anx_III">
+            <p class="oj-doc-ti" id="d1e35-6-1">ANNEXE III</p>
+            <p class="oj-normal">L’annexe V du règlement d’exécution (UE) 2025/848 est modifiée comme suit:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">au point 3, le premier alinéa est modifié comme suit:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">le texte «sont au moins conformes aux exigences de la politique de certification normalisée énoncées dans la norme ETSI EN 319 411-1 version 1.4.1 (2023-10)» est remplacé par le texte «sont conformes à la norme ETSI TS 119 475 V1.2.1 (2026-03)»;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">le point 3, j), est modifié comme suit:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">le cinquième tiret est remplacé par le texte suivant:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">«—</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">inclure une politique d’accès générale au sens de l’article 8, paragraphe 2, point c).».</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2026/1730/oj</p>
+      <p class="oj-normal">ISSN 1977-0693 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

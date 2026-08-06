@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32008l0020:2008-03-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32008L0020",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2008-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2008-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/20/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2005/60/EC on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing, as regards the implementing powers conferred on the Commission (Text with EEA relevance)",
+      "title_short": "Directive 2008/20/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0020",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "e1ba976be10168dfb7cc0704f4745f23808863bfdc3d094ba864ee5fd8ef564a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0020",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0020"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/20/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la directive 2005/60/CE relative \u00E0 la pr\u00E9vention de l\u0027utilisation du syst\u00E8me financier aux fins du blanchiment de capitaux et du financement du terrorisme, en ce qui concerne les comp\u00E9tences d\u0027ex\u00E9cution conf\u00E9r\u00E9es \u00E0 la Commission (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive 2008/20/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la dire\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0020",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "71285a854dbeee8751aaadd4c1d257947a0413b7a8d622a6ac9ee884446cc80a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0020",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0020"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32008L0020",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "16aa738aaee6caff6445c83ff888261bb669303d4a7ca4e87e044dac71102d93"
+}

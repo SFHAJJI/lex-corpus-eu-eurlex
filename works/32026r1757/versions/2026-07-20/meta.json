@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32026r1757:2026-07-20",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R1757",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2026-07-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2026-07-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-07-20",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2026/1757 of 20\u00A0July 2026 laying down implementing technical standards for the application of Directive\u00A02013/36/EU of the European Parliament and of the Council with regard to third country branches reporting",
+      "title_short": "Commission Implementing Regulation (EU) 2026/1757 of 20\u00A0July 2026 laying down implementing technical standards for the application of Directive\u00A02013/36/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1757",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "b6660ffe1c69dbec537e47c2179efdc69609401c4edae889150d138d786dd0f4",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1757",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1757"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-07-20",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/1757 de la Commission du 20\u00A0juillet 2026 d\u00E9finissant des normes techniques d\u2019ex\u00E9cution pour l\u2019application de la directive\u00A02013/36/UE du Parlement europ\u00E9en et du Conseil en ce qui concerne les d\u00E9clarations des succursales de pays tiers",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/1757 de la Commission du 20\u00A0juillet 2026 d\u00E9finissant des n\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R1757",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f41a19f9df4953f77ae8d398dae1a5b6826ae5f07d78df5b50f06aa76730a78b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R1757",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R1757"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R1757",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "ee1013fae7bb859aaafe19552eeaff35e51fe619172f0506688e003017acbde4"
+}

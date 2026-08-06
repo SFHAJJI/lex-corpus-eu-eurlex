@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32020r0972:2020-07-02",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32020R0972",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2020-07-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2020-07-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2020-07-02",
+      "valid_time_source": "publisher",
+      "title": "Commission Regulation (EU) 2020/972 of 2 July 2020 amending Regulation (EU) No 1407/2013 as regards its prolongation and amending Regulation (EU) No 651/2014 as regards its prolongation and relevant adjustments (Text with EEA relevance)",
+      "title_short": "Commission Regulation (EU) 2020/972 of 2 July 2020 amending Regulation (EU) No 1407/2013 a\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0972",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "30ce64490b8e788d717cdf87f328766d383d765e1d5dfd1b562afac616ef4667",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0972",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0972"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2020-07-02",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2020/972 de la Commission du 2 juillet 2020 modifiant le r\u00E8glement (UE) no 1407/2013 en ce qui concerne sa prolongation et modifiant le r\u00E8glement (UE) no 651/2014 en ce qui concerne sa prolongation et les adaptations \u00E0 y apporter (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement (UE) 2020/972 de la Commission du 2 juillet 2020 modifiant le r\u00E8glement (UE) no \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R0972",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8eeff6923d231ce0fed14335563c9c6df6dbc4cfbf5667c298ce1a4fe5fc386b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R0972",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R0972"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32020R0972",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "competition",
+    "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "ac27a4e794feffe2f0a7c293eeb9358f677ed6a732681692887e460721bf45e8"
+}

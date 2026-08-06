@@ -1,0 +1,2606 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241011-0225 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2018069EN.01002301.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">13.3.2018   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 69/23</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-23-1">
+            COMMISSION DELEGATED REGULATION (EU) 2018/389</p>
+            <p class="oj-doc-ti">of 27 November 2017
+         </p>
+            <p class="oj-doc-ti">supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for strong customer authentication and common and secure open standards of communication</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC <a id="ntc1-L_2018069EN.01002301-E0001" href="#ntr1-L_2018069EN.01002301-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular the second subparagraph of Article 98(4) thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Payment services offered electronically should be carried out in a secure manner, adopting technologies able to guarantee the safe authentication of the user and to reduce, to the maximum extent possible, the risk of fraud. The authentication procedure should include, in general, transaction monitoring mechanisms to detect attempts to use a payment service user's personalised security credentials that were lost, stolen, or misappropriated and should also ensure that the payment service user is the legitimate user and therefore is giving consent for the transfer of funds and access to its account information through a normal use of the personalised security credentials. Furthermore, it is necessary to specify the requirements of the strong customer authentication that should be applied each time a payer accesses its payment account online, initiates an electronic payment transaction or carries out any action through a remote channel which may imply a risk of payment fraud or other abuse, by requiring the generation of an authentication code which should be resistant against the risk of being forged in its entirety or by disclosure of any of the elements upon which the code was generated.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">As fraud methods are constantly changing, the requirements of strong customer authentication should allow for innovation in the technical solutions addressing the emergence of new threats to the security of electronic payments. To ensure that the requirements to be laid down are effectively implemented on a continuous basis, it is also appropriate to require that the security measures for the application of strong customer authentication and its exemptions, the measures to protect confidentiality and integrity of the personalised security credentials, and the measures establishing common and secure open standards of communication are documented, periodically tested, evaluated and audited by auditors with expertise in IT security and payments and operationally independent. In order to allow competent authorities to monitor the quality of the review of these measures, such reviews should be made available to them upon their request.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">As electronic remote payment transactions are subject to a higher risk of fraud, it is necessary to introduce additional requirements for the strong customer authentication of such transactions, ensuring that the elements dynamically link the transaction to an amount and a payee specified by the payer when initiating the transaction.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Dynamic linking is possible through the generation of authentication codes which is subject to a set of strict security requirements. To remain technologically neutral a specific technology for the implementation of authentication codes should not be required. Therefore authentication codes should be based on solutions such as generating and validating one-time passwords, digital signatures or other cryptographically underpinned validity assertions using keys or cryptographic material stored in the authentication elements, as long as the security requirements are fulfilled.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">It is necessary to lay down specific requirements for the situation where the final amount is not known at the moment the payer initiates an electronic remote payment transaction, in order to ensure that the strong customer authentication is specific to the maximum amount that the payer has given consent for as referred to in Directive (EU) 2015/2366.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure the application of strong customer authentication, it is also necessary to require adequate security features for the elements of strong customer authentication categorised as ‘knowledge’ (something only the user knows), such as length or complexity, for the elements categorised as ‘possession’ (something only the user possesses), such as algorithm specifications, key length and information entropy, and for the devices and software that read elements categorised as ‘inherence’ (something the user is) such as algorithm specifications, biometric sensor and template protection features, in particular to mitigate the risk that those elements are uncovered, disclosed to and used by unauthorised parties. It is also necessary to lay down the requirements to ensure that those elements are independent, so that the breach of one does not compromise the reliability of the others, in particular when any of these elements are used through a multi-purpose device,namely a device such as a tablet or a mobile phone which can be used both for giving the instruction to make the payment and in the authentication process.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The requirements of strong customer authentication apply to payments initiated by the payer, regardless of whether the payer is a natural person or a legal entity.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Due to their very nature, payments made through the use of an anonymous payment instruments are not subject to the obligation of strong customer authentication. Where the anonymity of such instruments is lifted on contractual or legislative grounds, payments are subject to the security requirements that follow from Directive (EU) 2015/2366 and this Regulatory Technical Standard.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In accordance with Directive (EU) 2015/2366, exemptions to the principle of strong customer authentication have been defined based on the level of risk, amount, recurrence and the payment channel used for the execution of the payment transaction.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Actions which imply access to the balance and the recent transactions of a payment account without disclosure of sensitive payment data, recurring payments to the same payees which have been previously set up or confirmed by the payer through the use of strong customer authentication, and payments to and from the same natural or legal person with accounts with the same payment service provider, pose a low level of risk, thus allowing payment service providers not to apply strong customer authentication. This leaves aside that in accordance with Articles 65, 66 and 67 Directive (EU) 2015/2366, payment initiation service providers, payment service providers issuing card-based payment instruments and account information service providers should only seek and obtain the necessary and essential information from the account servicing payment service provider for the provision of a given payment service with the consent of the payment service user. Such consent can be given individually for each request of information or for each payment to be initiated or, for account information service providers, as a mandate for designated payment accounts and associated payment transactions as established in the contractual agreement with the payment service user.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Exemptions for low-value contactless payments at points of sale, which also take into account a maximum number of consecutive transactions or a certain fixed maximum value of consecutive transactions without applying strong customer authentication, allow for the development of user-friendly and low-risk payment services and should therefore be provided for. It is also appropriate to establish an exemption for the case of electronic payment transactions initiated at unattended terminals where the use of strong customer authentication may not always be easy to apply due to operational reasons (e.g. to avoid queues and potential accidents at toll gates or for other safety or security risks).</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Similar to the exemption for low-value contactless payments at the point of sale, a proper balance needs to be struck between the interest in enhanced security in remote payments and the needs of user-friendliness and accessibility of payments in the area of e-commerce. In line with those principles, thresholds below which no strong customer authentication needs to be applied should be set in a prudent manner, to cover only online purchases of low value. The thresholds for online purchases should be set more prudently, considering that the fact that the person is not physically present when making the purchase is posing a slightly higher security risk.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The requirements of strong customer authentication apply to payments initiated by the payer, regardless of whether the payer is a natural person or a legal entity. Many corporate payments are initiated through dedicated processes or protocols which guarantee the high levels of payment security that Directive (EU) 2015/2366 aims to achieve through strong customer authentication. Where the competent authorities establish that those payment processes and protocols that are only made available to payers who are not consumers achieve the objectives of Directive (EU) 2015/2366 in terms of security, payment service providers may, in relation to those processes or protocols, be exempted from the strong customer authentication requirements.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In the case of real-time transaction risk analysis that categorise a payment transaction as low risk, it is also appropriate to introduce an exemption for the payment service provider that intends not to apply strong customer authentication through the adoption of effective and risk-based requirements which ensure the safety of the payment service user's funds and personal data. Those risk-based requirements should combine the scores of the risk analysis, confirming that no abnormal spending or behavioural pattern of the payer has been identified, taking into account other risk factors including information on the location of the payer and of the payee with monetary thresholds based on fraud rates calculated for remote payments. Where, on the basis of the real-time transaction risk analysis, a payment cannot be qualified as posing a low level of risk, the payment service provider should revert to strong customer authentication. The maximum value of such risk-based exemption should be set in a manner ensuring a very low corresponding fraud rate, also by comparison to the fraud rates of all the payment transactions of the payment service provider, including those authenticated through strong customer authentication, within a certain period of time and on a rolling basis.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For the purpose of ensuring an effective enforcement, payment service providers that wish to benefit from the exemptions from strong customer authentication should regularly monitor and make available to competent authorities and to the European Banking Authority (EBA), upon their request, for each payment transaction type, the value of fraudulent or unauthorised payment transactions and the observed fraud rates for all their payment transactions, whether authenticated through strong customer authentication or executed under a relevant exemption.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The collection of this new historical evidence on the fraud rates of electronic payment transactions will also contribute to an effective review by the EBA of the thresholds for an exemption to strong customer authentication based on a real-time transaction risk analysis. The EBA should review and submit draft updates to the Commission of these regulatory technical standards, where appropriate, by submitting new draft thresholds and corresponding fraud rates with the aim of enhancing the security of remote electronic payments, in accordance with Article 98(5) of Directive (EU) 2015/2366 and with Article 10 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council <a id="ntc2-L_2018069EN.01002301-E0002" href="#ntr2-L_2018069EN.01002301-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Payment service providers that make use of any of the exemptions to be provided for should be allowed at any time to choose to apply strong customer authentication to the actions and to the payment transactions referred to in those provisions.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The measures that protect the confidentiality and integrity of personalised security credentials, as well as authentication devices and software, should limit the risks relating to fraud through unauthorised or fraudulent use of payment instruments and unauthorised access to payment accounts. To this end it is necessary to introduce requirements on the secure creation and delivery of the personalised security credentials and their association with the payment service user, and to provide conditions for the renewal and deactivation of those credentials.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_19">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure effective and secure communication between the relevant actors in the context of account information services, payment initiation services and confirmation on the availabilty of funds, it is necessary to specify the requirements of common and secure open standards of communication to be met by all relevant payment service providers. Directive (EU) 2015/2366 provides for the access and use of payment account information by account information service providers. This regulation therefore does not change the rules of access to accounts other than payment accounts.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_20">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Each account servicing payment service provider with payment accounts that are accessible online should offer at least one access interface enabling secure communication with account information service providers, payment initiation service providers and payment service providers issuing card-based payment instruments. The interface should enable the account information service providers, payment initiation service providers and payment service providers issuing card-based payment instruments to identify themselves to the account servicing payment service provider. It should also allow account information service providers and payment initiation service providers to rely on the authentication procedures provided by the account servicing payment service provider to the payment service user. To ensure technology and business-model neutrality, the account servicing payment service providers should be free to decide whether to offer an interface that is dedicated to the communication with account information service providers, payment initiation service providers, and payment service providers issuing card-based payment instruments, or to allow, for that communication, the use of the interface for the identification and communication with the account servicing payment service providers' payment service users.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_21">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(21)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to allow account information service providers, payment initiation service providers, and payment service providers issuing card-based payment instruments to develop their technical solutions, the technical specification of the interface should be adequately documented and made publicly available. Moreover, the account servicing payment service provider should offer a facility enabling the payment service providers to test the technical solutions at least 6 months prior to the application date of these regulatory standards or, if the launch takes place after the application date of these standards, prior to the date on which the interface will be launched to the market. To ensure the interoperability of different technological communication solutions, the interface should use standards of communication which are developed by international or European standardisation organisations.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_22">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(22)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The quality of the services provided by account information service providers and payment initiation service providers will be dependent on the proper functioning of the interfaces put in place or adapted by account servicing payment service providers. It is therefore important that in case of non-compliance of such interfaces with the provisions included in these standards, measures are taken to guarantee business continuity for the benefit of the users of those services. It is the responsibility of national competent authorities to ensure that account information service providers and payment intitation service providers are not blocked or obstructed in the provision of their services.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_23">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(23)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Where access to payment accounts is offered by means of a dedicated interface, in order to ensure the right of payment service users to make use of payment initiation service providers and of services enabling access to account information, as provided for in Directive (EU) 2015/2366, it is necessary to require that dedicated interfaces have the same level of availability and performance as the interface available to the payment service user. Account servicing payment service providers should also define transparent key performance indicators and service level targets for the availability and performance of dedicated interfaces that are at least as stringent as those for the interface used for their payment service users. Those interfaces should be tested by the payment service providers who will use them, and should be stress-tested and monitored by competent authorities.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_24">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(24)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure that payment service providers who rely on the dedicated interface can continue to provide their services in case of problems of availability or inadequate performance, it is necessary to provide, subject to strict conditions, a fallback mechanism that will allow such providers to use the interface that the account servicing payment service provider maintains for the identification of, and communication with, its own payment service users. Certain account servicing payment service providers will be exempted from having to provide such a fallback mechanism through their customer facing interfaces where their competent authorities establish that the dedicated interfaces comply with specific conditions that ensure unhampered competition. In the event that the exempted dedicated interfaces fail to comply with the required conditions, the granted exemptions shall be revoked by the relevant competent authorities.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_25">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(25)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to allow competent authorities to effectively supervise and monitor the implementation and management of the communication interfaces, the account servicing payment service providers should make a summary of the relevant documentation available on their website, and provide, upon request, the competent authorities with documentation of the solutions in case of emergencies. The account servicing payment service providers should also make publicly available the statistics on the availability and performance of that interface.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_26">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(26)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to safeguard the confidentiality and the integrity of data, it is necessary to ensure the security of communication sessions between account servicing payment service providers, account information service providers, payment initiation service providers and payment service providers issuing card-based payment instruments. It is in particular necessary to require that secure encryption is applied between account information service providers, payment initiation service providers, payment service providers issuing card-based payment instruments and account servicing payment service providers when exchanging data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_27">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(27)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To improve user confidence and ensure strong customer authentication, the use of electronic identification means and trust services as set out in Regulation (EU) No 910/2014 of the European Parliament and of the Council <a id="ntc3-L_2018069EN.01002301-E0003" href="#ntr3-L_2018069EN.01002301-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> should be taken into account, in particular with regard to notified electronic identification schemes</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_28">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(28)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure aligned application dates, this Regulation should be applicable from the same date as of which Member States have to ensure application of the security measures referred to in Articles 65, 66, 67 and 97 of Directive (EU) 2015/2366.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_29">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(29)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation is based on the draft regulatory technical standards submitted by the European Banking Authority (EBA) to the Commission.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_30">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(30)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">EBA has conducted open and transparent public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_I">
+               <p id="d1e293-23-1" class="oj-ti-section-1">CHAPTER I</p>
+               <div class="eli-title" id="cpt_I.tit_1">
+                  <p id="L_2018069EN.01002301-d-001" class="oj-ti-section-2">
+                     <span class="oj-bold">GENERAL PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e301-23-1" class="oj-ti-art">Article 1</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Subject matter</p>
+                  </div>
+                  <p class="oj-normal">This Regulation establishes the requirements to be complied with by payment service providers for the purpose of implementing security measures which enable them to do the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">apply the procedure of strong customer authentication in accordance with Article 97 of Directive (EU) 2015/2366;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">exempt the application of the security requirements of strong customer authentication, subject to specified and limited conditions based on the level of risk, the amount and the recurrence of the payment transaction and of the payment channel used for its execution;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">protect the confidentiality and the integrity of the payment service user's personalised security credentials;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">establish common and secure open standards for the communication between account servicing payment service providers, payment initiation service providers, account information service providers, payers, payees and other payment service providers in relation to the provision and use of payment services in application of Title IV of Directive (EU) 2015/2366.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e334-23-1" class="oj-ti-art">Article 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">General authentication requirements</p>
+                  </div>
+                  <div id="002.001">
+                     <p class="oj-normal">1.   Payment service providers shall have transaction monitoring mechanisms in place that enable them to detect unauthorised or fraudulent payment transactions for the purpose of the implementation of the security measures referred to in points (a) and (b) of Article 1.</p>
+                     <p class="oj-normal">Those mechanisms shall be based on the analysis of payment transactions taking into account elements which are typical of the payment service user in the circumstances of a normal use of the personalised security credentials.</p>
+                  </div>
+                  <div id="002.002">
+                     <p class="oj-normal">2.   Payment service providers shall ensure that the transaction monitoring mechanisms take into account, at a minimum, each of the following risk-based factors:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">lists of compromised or stolen authentication elements;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the amount of each payment transaction;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">known fraud scenarios in the provision of payment services;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">signs of malware infection in any sessions of the authentication procedure;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">in case the access device or the software is provided by the payment service provider, a log of the use of the access device or the software provided to the payment service user and the abnormal use of the access device or the software.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e383-23-1" class="oj-ti-art">Article 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Review of the security measures</p>
+                  </div>
+                  <div id="003.001">
+                     <p class="oj-normal">1.   The implementation of the security measures referred to in Article 1 shall be documented, periodically tested, evaluated and audited in accordance with the applicable legal framework of the payment service provider by auditors with expertise in IT security and payments and operationally independent within or from the payment service provider.</p>
+                  </div>
+                  <div id="003.002">
+                     <p class="oj-normal">2.   The period between the audits referred to in paragraph 1 shall be determined taking into account the relevant accounting and statutory audit framework applicable to the payment service provider.</p>
+                     <p class="oj-normal">However, payment service providers that make use of the exemption referred to in Article 18 shall be subject to an audit of the methodology, the model and the reported fraud rates at a minimum on a yearly basis. The auditor performing this audit shall have expertise in IT security and payments and be operationally independent within or from the payment service provider. During the first year of making use of the exemption under Article 18 and at least every 3 years thereafter, or more frequently at the competent authority's request, this audit shall be carried out by an independent and qualified external auditor.</p>
+                  </div>
+                  <div id="003.003">
+                     <p class="oj-normal">3.   This audit shall present an evaluation and report on the compliance of the payment service provider's security measures with the requirements set out in this Regulation.</p>
+                     <p class="oj-normal">The entire report shall be made available to competent authorities upon their request.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_II">
+               <p id="d1e408-23-1" class="oj-ti-section-1">CHAPTER II</p>
+               <div class="eli-title" id="cpt_II.tit_1">
+                  <p id="L_2018069EN.01002301-d-002" class="oj-ti-section-2">
+                     <span class="oj-bold">SECURITY MEASURES FOR THE APPLICATION OF STRONG CUSTOMER AUTHENTICATION</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_4">
+                  <p id="d1e416-23-1" class="oj-ti-art">Article 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="oj-sti-art">Authentication code</p>
+                  </div>
+                  <div id="004.001">
+                     <p class="oj-normal">1.   Where payment service providers apply strong customer authentication in accordance with Article 97(1) of Directive (EU) 2015/2366, the authentication shall be based on two or more elements which are categorised as knowledge, possession and inherence and shall result in the generation of an authentication code.</p>
+                     <p class="oj-normal">The authentication code shall be only accepted once by the payment service provider when the payer uses the authentication code to access its payment account online, to initiate an electronic payment transaction or to carry out any action through a remote channel which may imply a risk of payment fraud or other abuses.</p>
+                  </div>
+                  <div id="004.002">
+                     <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall adopt security measures ensuring that each of the following requirements is met:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">no information on any of the elements referred to in paragraph 1 can be derived from the disclosure of the authentication code;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">it is not possible to generate a new authentication code based on the knowledge of any other authentication code previously generated;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the authentication code cannot be forged.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="004.003">
+                     <p class="oj-normal">3.   Payment service providers shall ensure that the authentication by means of generating an authentication code includes each of the following measures:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">where the authentication for remote access, remote electronic payments and any other actions through a remote channel which may imply a risk of payment fraud or other abuses has failed to generate an authentication code for the purposes of paragraph 1, it shall not be possible to identify which of the elements referred to in that paragraph was incorrect;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the number of failed authentication attempts that can take place consecutively, after which the actions referred to in Article 97(1) of Directive (EU) 2015/2366 shall be temporarily or permanently blocked, shall not exceed five within a given period of time;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the communication sessions are protected against the capture of authentication data transmitted during the authentication and against manipulation by unauthorised parties in accordance with the requirements in Chapter V;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the maximum time without activity by the payer after being authenticated for accessing its payment account online shall not exceed 5 minutes.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="004.004">
+                     <p class="oj-normal">4.   Where the block referred to in paragraph 3(b) is temporary, the duration of that block and the number of retries shall be established based on the characteristics of the service provided to the payer and all the relevant risks involved, taking into account, at a minimum, the factors referred to in Article 2(2).</p>
+                     <p class="oj-normal">The payer shall be alerted before the block is made permanent.</p>
+                     <p class="oj-normal">Where the block has been made permanent, a secure procedure shall be established allowing the payer to regain use of the blocked electronic payment instruments.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p id="d1e493-23-1" class="oj-ti-art">Article 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="oj-sti-art">Dynamic linking</p>
+                  </div>
+                  <div id="005.001">
+                     <p class="oj-normal">1.   Where payment service providers apply strong customer authentication in accordance with Article 97(2) of Directive (EU) 2015/2366, in addition to the requirements of Article 4 of this Regulation, they shall also adopt security measures that meet each of the following requirements:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the payer is made aware of the amount of the payment transaction and of the payee;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the authentication code generated is specific to the amount of the payment transaction and the payee agreed to by the payer when initiating the transaction;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the authentication code accepted by the payment service provider corresponds to the original specific amount of the payment transaction and to the identity of the payee agreed to by the payer;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">any change to the amount or the payee results in the invalidation of the authentication code generated.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="005.002">
+                     <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall adopt security measures which ensure the confidentiality, authenticity and integrity of each of the following:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the amount of the transaction and the payee throughout all of the phases of the authentication;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the information displayed to the payer throughout all of the phases of the authentication including the generation, transmission and use of the authentication code.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="005.003">
+                     <p class="oj-normal">3.   For the purpose of paragraph 1(b) and where payment service providers apply strong customer authentication in accordance with Article 97(2) of Directive (EU) 2015/2366 the following requirements for the authentication code shall apply:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">in relation to a card-based payment transaction for which the payer has given consent to the exact amount of the funds to be blocked pursuant to Article 75(1) of that Directive, the authentication code shall be specific to the amount that the payer has given consent to be blocked and agreed to by the payer when initiating the transaction;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">in relation to payment transactions for which the payer has given consent to execute a batch of remote electronic payment transactions to one or several payees, the authentication code shall be specific to the total amount of the batch of payment transactions and to the specified payees.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p id="d1e567-23-1" class="oj-ti-art">Article 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="oj-sti-art">Requirements of the elements categorised as knowledge</p>
+                  </div>
+                  <div id="006.001">
+                     <p class="oj-normal">1.   Payment service providers shall adopt measures to mitigate the risk that the elements of strong customer authentication categorised as knowledge are uncovered by, or disclosed to, unauthorised parties.</p>
+                  </div>
+                  <div id="006.002">
+                     <p class="oj-normal">2.   The use by the payer of those elements shall be subject to mitigation measures in order to prevent their disclosure to unauthorised parties.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p id="d1e582-23-1" class="oj-ti-art">Article 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="oj-sti-art">Requirements of the elements categorised as possession</p>
+                  </div>
+                  <div id="007.001">
+                     <p class="oj-normal">1.   Payment service providers shall adopt measures to mitigate the risk that the elements of strong customer authentication categorised as possession are used by unauthorised parties.</p>
+                  </div>
+                  <div id="007.002">
+                     <p class="oj-normal">2.   The use by the payer of those elements shall be subject to measures designed to prevent replication of the elements.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p id="d1e597-23-1" class="oj-ti-art">Article 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="oj-sti-art">Requirements of devices and software linked to elements categorised as inherence</p>
+                  </div>
+                  <div id="008.001">
+                     <p class="oj-normal">1.   Payment service providers shall adopt measures to mitigate the risk that the authentication elements categorised as inherence and read by access devices and software provided to the payer are uncovered by unauthorised parties. At a minimum, the payment service providers shall ensure that those access devices and software have a very low probability of an unauthorised party being authenticated as the payer.</p>
+                  </div>
+                  <div id="008.002">
+                     <p class="oj-normal">2.   The use by the payer of those elements shall be subject to measures ensuring that those devices and the software guarantee resistance against unauthorised use of the elements through access to the devices and the software.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_9">
+                  <p id="d1e612-23-1" class="oj-ti-art">Article 9</p>
+                  <div class="eli-title" id="art_9.tit_1">
+                     <p class="oj-sti-art">Independence of the elements</p>
+                  </div>
+                  <div id="009.001">
+                     <p class="oj-normal">1.   Payment service providers shall ensure that the use of the elements of strong customer authentication referred to in Articles 6, 7 and 8 is subject to measures which ensure that, in terms of technology, algorithms and parameters, the breach of one of the elements does not compromise the reliability of the other elements.</p>
+                  </div>
+                  <div id="009.002">
+                     <p class="oj-normal">2.   Payment service providers shall adopt security measures, where any of the elements of strong customer authentication or the authentication code itself is used through a multi-purpose device, to mitigate the risk which would result from that multi-purpose device being compromised.</p>
+                  </div>
+                  <div id="009.003">
+                     <p class="oj-normal">3.   For the purposes of paragraph 2, the mitigating measures shall include each of the following:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the use of separated secure execution environments through the software installed inside the multi-purpose device;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">mechanisms to ensure that the software or device has not been altered by the payer or by a third party;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">where alterations have taken place, mechanisms to mitigate the consequences thereof.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III">
+               <p id="d1e653-23-1" class="oj-ti-section-1">CHAPTER III</p>
+               <div class="eli-title" id="cpt_III.tit_1">
+                  <p id="L_2018069EN.01002301-d-003" class="oj-ti-section-2">
+                     <span class="oj-bold">EXEMPTIONS FROM STRONG CUSTOMER AUTHENTICATION</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_10">
+                  <p id="d1e661-23-1" class="oj-ti-art">Article 10</p>
+                  <div class="eli-title" id="art_10.tit_1">
+                     <p class="oj-sti-art">Payment account information</p>
+                  </div>
+                  <div id="010.001">
+                     <p class="oj-normal">1.   Payment service providers shall be allowed not to apply strong customer authentication, subject to compliance with the requirements laid down in Article 2 and to paragraph 2 of this Article and, where a payment service user is limited to accessing either or both of the following items online without disclosure of sensitive payment data:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the balance of one or more designated payment accounts;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the payment transactions executed in the last 90 days through one or more designated payment accounts.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="010.002">
+                     <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall not be exempted from the application of strong customer authentication where either of the following condition is met:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the payment service user is accessing online the information specified in paragraph 1 for the first time;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">more than 90 days have elapsed since the last time the payment service user accessed online the information specified in paragraph 1(b) and strong customer authentication was applied.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_11">
+                  <p id="d1e704-23-1" class="oj-ti-art">Article 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="oj-sti-art">Contactless payments at point of sale</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall be allowed not to apply strong customer authentication, subject to compliance with the requirements laid down in Article 2, where the payer initiates a contactless electronic payment transaction provided that the following conditions are met:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the individual amount of the contactless electronic payment transaction does not exceed EUR 50; and</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the cumulative amount of previous contactless electronic payment transactions initiated by means of a payment instrument with a contactless functionality from the date of the last application of strong customer authentication does not exceed EUR 150; or</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the number of consecutive contactless electronic payment transactions initiated via the payment instrument offering a contactless functionality since the last application of strong customer authentication does not exceed five.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_12">
+                  <p id="d1e731-23-1" class="oj-ti-art">Article 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="oj-sti-art">Unattended terminals for transport fares and parking fees</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall be allowed not to apply strong customer authentication, subject to compliance with the requirements laid down in Article 2, where the payer initiates an electronic payment transaction at an unattended payment terminal for the purpose of paying a transport fare or a parking fee.</p>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p id="d1e738-23-1" class="oj-ti-art">Article 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="oj-sti-art">Trusted beneficiaries</p>
+                  </div>
+                  <div id="013.001">
+                     <p class="oj-normal">1.   Payment service providers shall apply strong customer authentication where a payer creates or amends a list of trusted beneficiaries through the payer's account servicing payment service provider.</p>
+                  </div>
+                  <div id="013.002">
+                     <p class="oj-normal">2.   Payment service providers shall be allowed not to apply strong customer authentication, subject to compliance with the general authentication requirements, where the payer initiates a payment transaction and the payee is included in a list of trusted beneficiaries previously created by the payer.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_14">
+                  <p id="d1e753-23-1" class="oj-ti-art">Article 14</p>
+                  <div class="eli-title" id="art_14.tit_1">
+                     <p class="oj-sti-art">Recurring transactions</p>
+                  </div>
+                  <div id="014.001">
+                     <p class="oj-normal">1.   Payment service providers shall apply strong customer authentication when a payer creates, amends, or initiates for the first time, a series of recurring transactions with the same amount and with the same payee.</p>
+                  </div>
+                  <div id="014.002">
+                     <p class="oj-normal">2.   Payment service providers shall be allowed not to apply strong customer authentication, subject to compliance with the general authentication requirements, for the initiation of all subsequent payment transactions included in the series of payment transactions referred to in paragraph 1.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_15">
+                  <p id="d1e768-23-1" class="oj-ti-art">Article 15</p>
+                  <div class="eli-title" id="art_15.tit_1">
+                     <p class="oj-sti-art">Credit transfers between accounts held by the same natural or legal person</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall be allowed not to apply strong customer authentication, subject to compliance with the requirements laid down in Article 2, where the payer initiates a credit transfer in circumstances where the payer and the payee are the same natural or legal person and both payment accounts are held by the same account servicing payment service provider.</p>
+               </div>
+               <div class="eli-subdivision" id="art_16">
+                  <p id="d1e775-23-1" class="oj-ti-art">Article 16</p>
+                  <div class="eli-title" id="art_16.tit_1">
+                     <p class="oj-sti-art">Low-value transactions</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall be allowed not to apply strong customer authentication, where the payer initiates a remote electronic payment transaction provided that the following conditions are met:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the amount of the remote electronic payment transaction does not exceed EUR 30; and</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the cumulative amount of previous remote electronic payment transactions initiated by the payer since the last application of strong customer authentication does not exceed EUR 100; or</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the number of previous remote electronic payment transactions initiated by the payer since the last application of strong customer authentication does not exceed five consecutive individual remote electronic payment transactions.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_17">
+                  <p id="d1e802-23-1" class="oj-ti-art">Article 17</p>
+                  <div class="eli-title" id="art_17.tit_1">
+                     <p class="oj-sti-art">Secure corporate payment processes and protocols</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall be allowed not to apply strong customer authentication, in respect of legal persons initiating electronic payment transactions through the use of dedicated payment processes or protocols that are only made available to payers who are not consumers, where the competent authorities are satisfied that those processes or protocols guarantee at least equivalent levels of security to those provided for by Directive (EU) 2015/2366.</p>
+               </div>
+               <div class="eli-subdivision" id="art_18">
+                  <p id="d1e809-23-1" class="oj-ti-art">Article 18</p>
+                  <div class="eli-title" id="art_18.tit_1">
+                     <p class="oj-sti-art">Transaction risk analysis</p>
+                  </div>
+                  <div id="018.001">
+                     <p class="oj-normal">1.   Payment service providers shall be allowed not to apply strong customer authentication where the payer initiates a remote electronic payment transaction identified by the payment service provider as posing a low level of risk according to the transaction monitoring mechanisms referred to in Article 2 and in paragraph 2(c) of this Article.</p>
+                  </div>
+                  <div id="018.002">
+                     <p class="oj-normal">2.   An electronic payment transaction referred to in paragraph 1 shall be considered as posing a low level of risk where all the following conditions are met:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the fraud rate for that type of transaction, reported by the payment service provider and calculated in accordance with Article 19, is equivalent to or below the reference fraud rates specified in the table set out in the Annex for ‘remote electronic card-based payments’ and ‘remote electronic credit transfers’ respectively;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the amount of the transaction does not exceed the relevant exemption threshold value (‘ETV’) specified in the table set out in the Annex;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">payment service providers as a result of performing a real time risk analysis have not identified any of the following:</p>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(i)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">abnormal spending or behavioural pattern of the payer;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(ii)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">unusual information about the payer's device/software access;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(iii)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">malware infection in any session of the authentication procedure;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(iv)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">known fraud scenario in the provision of payment services;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(v)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">abnormal location of the payer;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(vi)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">high-risk location of the payee.</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="018.003">
+                     <p class="oj-normal">3.   Payment service providers that intend to exempt electronic remote payment transactions from strong customer authentication on the ground that they pose a low risk shall take into account at a minimum, the following risk-based factors:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the previous spending patterns of the individual payment service user;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the payment transaction history of each of the payment service provider's payment service users;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the location of the payer and of the payee at the time of the payment transaction in cases where the access device or the software is provided by the payment service provider;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the identification of abnormal payment patterns of the payment service user in relation to the user's payment transaction history.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <p class="oj-normal">The assessment made by a payment service provider shall combine all those risk-based factors into a risk scoring for each individual transaction to determine whether a specific payment should be allowed without strong customer authentication.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_19">
+                  <p id="d1e927-23-1" class="oj-ti-art">Article 19</p>
+                  <div class="eli-title" id="art_19.tit_1">
+                     <p class="oj-sti-art">Calculation of fraud rates</p>
+                  </div>
+                  <div id="019.001">
+                     <p class="oj-normal">1.   For each type of transaction referred to in the table set out in the Annex, the payment service provider shall ensure that the overall fraud rates covering both payment transactions authenticated through strong customer authentication and those executed under any of the exemptions referred to in Articles 13 to 18 are equivalent to, or lower than, the reference fraud rate for the same type of payment transaction indicated in the table set out in the Annex.</p>
+                     <p class="oj-normal">The overall fraud rate for each type of transaction shall be calculated as the total value of unauthorised or fraudulent remote transactions, whether the funds have been recovered or not, divided by the total value of all remote transactions for the same type of transactions, whether authenticated with the application of strong customer authentication or executed under any exemption referred to in Articles 13 to 18 on a rolling quarterly basis (90 days).</p>
+                  </div>
+                  <div id="019.002">
+                     <p class="oj-normal">2.   The calculation of the fraud rates and resulting figures shall be assessed by the audit review referred to in Article 3(2), which shall ensure that they are complete and accurate.</p>
+                  </div>
+                  <div id="019.003">
+                     <p class="oj-normal">3.   The methodology and any model, used by the payment service provider to calculate the fraud rates, as well as the fraud rates themselves, shall be adequately documented and made fully available to competent authorities and to EBA, with prior notification to the relevant competent authority(ies), upon their request.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_20">
+                  <p id="d1e950-23-1" class="oj-ti-art">Article 20</p>
+                  <div class="eli-title" id="art_20.tit_1">
+                     <p class="oj-sti-art">Cessation of exemptions based on transaction risk analysis</p>
+                  </div>
+                  <div id="020.001">
+                     <p class="oj-normal">1.   Payment service providers that make use of the exemption referred to in Article 18 shall immediately report to the competent authorities where one of their monitored fraud rates, for any type of payment transactions indicated in the table set out in the Annex, exceeds the applicable reference fraud rate and shall provide to the competent authorities a description of the measures that they intend to adopt to restore compliance of their monitored fraud rate with the applicable reference fraud rates.</p>
+                  </div>
+                  <div id="020.002">
+                     <p class="oj-normal">2.   Payment service providers shall immediately cease to make use of the exemption referred to in Article 18 for any type of payment transactions indicated in the table set out in the Annex in the specific exemption threshold range where their monitored fraud rate exceeds for two consecutive quarters the reference fraud rate applicable for that payment instrument or type of payment transaction in that exemption threshold range.</p>
+                  </div>
+                  <div id="020.003">
+                     <p class="oj-normal">3.   Following the cessation of the exemption referred to in Article 18 in accordance with paragraph 2 of this Article, payment service providers shall not use that exemption again, until their calculated fraud rate equals to, or is below, the reference fraud rates applicable for that type of payment transaction in that exemption threshold range for one quarter.</p>
+                  </div>
+                  <div id="020.004">
+                     <p class="oj-normal">4.   Where payment service providers intend to make use again of the exemption referred to in Article 18, they shall notify the competent authorities in a reasonable timeframe and shall before making use again of the exemption, provide evidence of the restoration of compliance of their monitored fraud rate with the applicable reference fraud rate for that exemption threshold range in accordance with paragraph 3 of this Article.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_21">
+                  <p id="d1e975-23-1" class="oj-ti-art">Article 21</p>
+                  <div class="eli-title" id="art_21.tit_1">
+                     <p class="oj-sti-art">Monitoring</p>
+                  </div>
+                  <div id="021.001">
+                     <p class="oj-normal">1.   In order to make use of the exemptions set out in Articles 10 to 18, payment service providers shall record and monitor the following data for each type of payment transactions, with a breakdown for both remote and non-remote payment transactions, at least on a quarterly basis:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the total value of unauthorised or fraudulent payment transactions in accordance with Article 64(2) of Directive (EU) 2015/2366, the total value of all payment transactions and the resulting fraud rate, including a breakdown of payment transactions initiated through strong customer authentication and under each of the exemptions;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the average transaction value, including a breakdown of payment transactions initiated through strong customer authentication and under each of the exemptions;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the number of payment transactions where each of the exemptions was applied and their percentage in respect of the total number of payment transactions.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="021.002">
+                     <p class="oj-normal">2.   Payment service providers shall make the results of the monitoring in accordance with paragraph 1 available to competent authorities and to EBA, with prior notification to the relevant competent authority(ies), upon their request.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_IV">
+               <p id="d1e1011-23-1" class="oj-ti-section-1">CHAPTER IV</p>
+               <div class="eli-title" id="cpt_IV.tit_1">
+                  <p id="L_2018069EN.01002301-d-004" class="oj-ti-section-2">
+                     <span class="oj-bold">CONFIDENTIALITY AND INTEGRITY OF THE PAYMENT SERVICE USERS' PERSONALISED SECURITY CREDENTIALS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_22">
+                  <p id="d1e1019-23-1" class="oj-ti-art">Article 22</p>
+                  <div class="eli-title" id="art_22.tit_1">
+                     <p class="oj-sti-art">General requirements</p>
+                  </div>
+                  <div id="022.001">
+                     <p class="oj-normal">1.   Payment service providers shall ensure the confidentiality and integrity of the personalised security credentials of the payment service user, including authentication codes, during all phases of the authentication.</p>
+                  </div>
+                  <div id="022.002">
+                     <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall ensure that each of the following requirements is met:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">personalised security credentials are masked when displayed and are not readable in their full extent when input by the payment service user during the authentication;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">personalised security credentials in data format, as well as cryptographic materials related to the encryption of the personalised security credentials are not stored in plain text;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">secret cryptographic material is protected from unauthorised disclosure.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="022.003">
+                     <p class="oj-normal">3.   Payment service providers shall fully document the process related to the management of cryptographic material used to encrypt or otherwise render unreadable the personalised security credentials.</p>
+                  </div>
+                  <div id="022.004">
+                     <p class="oj-normal">4.   Payment service providers shall ensure that the processing and routing of personalised security credentials and of the authentication codes generated in accordance with Chapter II take place in secure environments in accordance with strong and widely recognised industry standards.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_23">
+                  <p id="d1e1064-23-1" class="oj-ti-art">Article 23</p>
+                  <div class="eli-title" id="art_23.tit_1">
+                     <p class="oj-sti-art">Creation and transmission of credentials</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall ensure that the creation of personalised security credentials is performed in a secure environment.</p>
+                  <p class="oj-normal">They shall mitigate the risks of unauthorised use of the personalised security credentials and of the authentication devices and software following their loss, theft or copying before their delivery to the payer.</p>
+               </div>
+               <div class="eli-subdivision" id="art_24">
+                  <p id="d1e1073-23-1" class="oj-ti-art">Article 24</p>
+                  <div class="eli-title" id="art_24.tit_1">
+                     <p class="oj-sti-art">Association with the payment service user</p>
+                  </div>
+                  <div id="024.001">
+                     <p class="oj-normal">1.   Payment service providers shall ensure that only the payment service user is associated, in a secure manner, with the personalised security credentials, the authentication devices and the software.</p>
+                  </div>
+                  <div id="024.002">
+                     <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall ensure that each of the following requirements is met:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the association of the payment service user's identity with personalised security credentials, authentication devices and software is carried out in secure environments under the payment service provider's responsibility comprising at least the payment service provider's premises, the internet environment provided by the payment service provider or other similar secure websites used by the payment service provider and its automated teller machine services, and taking into account risks associated with devices and underlying components used during the association process that are not under the responsibility of the payment service provider;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the association by means of a remote channel of the payment service user's identity with the personalised security credentials and with authentication devices or software is performed using strong customer authentication.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_25">
+                  <p id="d1e1102-23-1" class="oj-ti-art">Article 25</p>
+                  <div class="eli-title" id="art_25.tit_1">
+                     <p class="oj-sti-art">Delivery of credentials, authentication devices and software</p>
+                  </div>
+                  <div id="025.001">
+                     <p class="oj-normal">1.   Payment service providers shall ensure that the delivery of personalised security credentials, authentication devices and software to the payment service user is carried out in a secure manner designed to address the risks related to their unauthorised use due to their loss, theft or copying.</p>
+                  </div>
+                  <div id="025.002">
+                     <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall at least apply each of the following measures:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">effective and secure delivery mechanisms ensuring that the personalised security credentials, authentication devices and software are delivered to the legitimate payment service user;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">mechanisms that allow the payment service provider to verify the authenticity of the authentication software delivered to the payment services user by means of the internet;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">arrangements ensuring that, where the delivery of personalised security credentials is executed outside the premises of the payment service provider or through a remote channel:</p>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(i)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">no unauthorised party can obtain more than one feature of the personalised security credentials, the authentication devices or software when delivered through the same channel;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(ii)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">the delivered personalised security credentials, authentication devices or software require activation before usage;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">arrangements ensuring that, in cases where the personalised security credentials, the authentication devices or software have to be activated before their first use, the activation shall take place in a secure environment in accordance with the association procedures referred to in Article 24.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_26">
+                  <p id="d1e1157-23-1" class="oj-ti-art">Article 26</p>
+                  <div class="eli-title" id="art_26.tit_1">
+                     <p class="oj-sti-art">Renewal of personalised security credentials</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall ensure that the renewal or re-activation of personalised security credentials adhere to the procedures for the creation, association and delivery of the credentials and of the authentication devices in accordance with Articles 23, 24 and 25.</p>
+               </div>
+               <div class="eli-subdivision" id="art_27">
+                  <p id="d1e1164-23-1" class="oj-ti-art">Article 27</p>
+                  <div class="eli-title" id="art_27.tit_1">
+                     <p class="oj-sti-art">Destruction, deactivation and revocation</p>
+                  </div>
+                  <p class="oj-normal">Payment service providers shall ensure that they have effective processes in place to apply each of the following security measures:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the secure destruction, deactivation or revocation of the personalised security credentials, authentication devices and software;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where the payment service provider distributes reusable authentication devices and software, the secure re-use of a device or software is established, documented and implemented before making it available to another payment services user;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the deactivation or revocation of information related to personalised security credentials stored in the payment service provider's systems and databases and, where relevant, in public repositories.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div id="cpt_V">
+               <p id="d1e1192-23-1" class="oj-ti-section-1">CHAPTER V</p>
+               <div class="eli-title" id="cpt_V.tit_1">
+                  <p id="L_2018069EN.01002301-d-005" class="oj-ti-section-2">
+                     <span class="oj-bold">COMMON AND SECURE OPEN STANDARDS OF COMMUNICATION</span>
+                  </p>
+               </div>
+               <div id="cpt_V.sct_1">
+                  <p id="d1e1201-23-1" class="oj-ti-section-1">
+                     <span class="oj-expanded">Section 1</span>
+                  </p>
+                  <div class="eli-title" id="cpt_V.sct_1.tit_1">
+                     <p id="L_2018069EN.01002301-d-006" class="oj-ti-section-2">
+                        <span class="oj-bold">
+                           <span class="oj-expanded">General requirements for communication</span>
+                        </span>
+                     </p>
+                  </div>
+                  <div class="eli-subdivision" id="art_28">
+                     <p id="d1e1211-23-1" class="oj-ti-art">Article 28</p>
+                     <div class="eli-title" id="art_28.tit_1">
+                        <p class="oj-sti-art">Requirements for identification</p>
+                     </div>
+                     <div id="028.001">
+                        <p class="oj-normal">1.   Payment service providers shall ensure secure identification when communicating between the payer's device and the payee's acceptance devices for electronic payments, including but not limited to payment terminals.</p>
+                     </div>
+                     <div id="028.002">
+                        <p class="oj-normal">2.   Payment service providers shall ensure that the risks of misdirection of communication to unauthorised parties in mobile applications and other payment services users' interfaces offering electronic payment services are effectively mitigated.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_29">
+                     <p id="d1e1226-23-1" class="oj-ti-art">Article 29</p>
+                     <div class="eli-title" id="art_29.tit_1">
+                        <p class="oj-sti-art">Traceability</p>
+                     </div>
+                     <div id="029.001">
+                        <p class="oj-normal">1.   Payment service providers shall have processes in place which ensure that all payment transactions and other interactions with the payment services user, with other payment service providers and with other entities, including merchants, in the context of the provision of the payment service are traceable, ensuring knowledge <span class="oj-italic">ex post</span> of all events relevant to the electronic transaction in all the various stages.</p>
+                     </div>
+                     <div id="029.002">
+                        <p class="oj-normal">2.   For the purpose of paragraph 1, payment service providers shall ensure that any communication session established with the payment services user, other payment service providers and other entities, including merchants, relies on each of the following:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a unique identifier of the session;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">security mechanisms for the detailed logging of the transaction, including transaction number, timestamps and all relevant transaction data;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">timestamps which shall be based on a unified time-reference system and which shall be synchronised according to an official time signal.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_V.sct_2">
+                  <p id="d1e1265-23-1" class="oj-ti-section-1">
+                     <span class="oj-expanded">Section 2</span>
+                  </p>
+                  <div class="eli-title" id="cpt_V.sct_2.tit_1">
+                     <p id="L_2018069EN.01002301-d-007" class="oj-ti-section-2">
+                        <span class="oj-bold">
+                           <span class="oj-expanded">Specific requirements for the common and secure open standards of communication</span>
+                        </span>
+                     </p>
+                  </div>
+                  <div class="eli-subdivision" id="art_30">
+                     <p id="d1e1275-23-1" class="oj-ti-art">Article 30</p>
+                     <div class="eli-title" id="art_30.tit_1">
+                        <p class="oj-sti-art">General obligations for access interfaces</p>
+                     </div>
+                     <div id="030.001">
+                        <p class="oj-normal">1.   Account servicing payment service providers that offer to a payer a payment account that is accessible online shall have in place at least one interface which meets each of the following requirements:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">account information service providers, payment initiation service providers and payment service providers issuing card-based payment instruments are able to identify themselves towards the account servicing payment service provider;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">account information service providers are able to communicate securely to request and receive information on one or more designated payment accounts and associated payment transactions;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">payment initiation service providers are able to communicate securely to initiate a payment order from the payer's payment account and receive all information on the initiation of the payment transaction and all information accessible to the account servicing payment service providers regarding the execution of the payment transaction.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="030.002">
+                        <p class="oj-normal">2.   For the purposes of authentication of the payment service user, the interface referred to in paragraph 1 shall allow account information service providers and payment initiation service providers to rely on all the authentication procedures provided by the account servicing payment service provider to the payment service user.</p>
+                        <p class="oj-normal">The interface shall at least meet all of the following requirements:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a payment initiation service provider or an account information service provider shall be able to instruct the account servicing payment service provider to start the authentication based on the consent of the payment service user;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">communication sessions between the account servicing payment service provider, the account information service provider, the payment initiation service provider and any payment service user concerned shall be established and maintained throughout the authentication;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the integrity and confidentiality of the personalised security credentials and of authentication codes transmitted by or through the payment initiation service provider or the account information service provider shall be ensured.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="030.003">
+                        <p class="oj-normal">3.   Account servicing payment service providers shall ensure that their interfaces follow standards of communication which are issued by international or European standardisation organisations.</p>
+                        <p class="oj-normal">Account servicing payment service providers shall also ensure that the technical specification of any of the interfaces is documented specifying a set of routines, protocols, and tools needed by payment initiation service providers, account information service providers and payment service providers issuing card-based payment instruments for allowing their software and applications to interoperate with the systems of the account servicing payment service providers.</p>
+                        <p class="oj-normal">Account servicing payment service providers shall at a minimum, and no less than 6 months before the application date referred to in Article 38(2), or before the target date for the market launch of the access interface when the launch takes place after the date referred to in Article 38(2), make the documentation available, at no charge, upon request by authorised payment initiation service providers, account information service providers and payment service providers issuing card-based payment instruments or payment service providers that have applied to their competent authorities for the relevant authorisation, and shall make a summary of the documentation publicly available on their website.</p>
+                     </div>
+                     <div id="030.004">
+                        <p class="oj-normal">4.   In addition to paragraph 3, account servicing payment service providers shall ensure that, except for emergency situations, any change to the technical specification of their interface is made available to authorised payment initiation service providers, account information service providers and payment service providers issuing card-based payment instruments, or payment service providers that have applied to their competent authorities for the relevant authorisation, in advance as soon as possible and not less than 3 months before the change is implemented.</p>
+                        <p class="oj-normal">Payment service providers shall document emergency situations where changes were implemented and make the documentation available to competent authorities on request.</p>
+                     </div>
+                     <div id="030.005">
+                        <p class="oj-normal">5.   Account servicing payment service providers shall make available a testing facility, including support, for connection and functional testing to enable authorised payment initiation service providers, payment service providers issuing card-based payment instruments and account information service providers, or payment service providers that have applied for the relevant authorisation, to test their software and applications used for offering a payment service to users. This testing facility should be made available no later than 6 months before the application date referred to in Article 38(2) or before the target date for the market launch of the access interface when the launch takes place after the date referred to in Article 38(2).</p>
+                        <p class="oj-normal">However, no sensitive information shall be shared through the testing facility.</p>
+                     </div>
+                     <div id="030.006">
+                        <p class="oj-normal">6.   Competent authorities shall ensure that account servicing payment service providers comply at all times with the obligations included in these standards in relation to the interface(s) that they put in place. In the event that an account servicing payment services provider fails to comply with the requirements for interfaces laid down in these standards, competent authorities shall ensure that the provision of payment initiation services and account information services is not prevented or disrupted to the extent that the respective providers of such services comply with the conditions defined under Article 33(5).</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_31">
+                     <p id="d1e1360-23-1" class="oj-ti-art">Article 31</p>
+                     <div class="eli-title" id="art_31.tit_1">
+                        <p class="oj-sti-art">Access interface options</p>
+                     </div>
+                     <p class="oj-normal">Account servicing payment service providers shall establish the interface(s) referred to in Article 30 by means of a dedicated interface or by allowing the use by the payment service providers referred to in Article 30(1) of the interfaces used for authentication and communication with the account servicing payment service provider's payment services users.</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_32">
+                     <p id="d1e1367-23-1" class="oj-ti-art">Article 32</p>
+                     <div class="eli-title" id="art_32.tit_1">
+                        <p class="oj-sti-art">Obligations for a dedicated interface</p>
+                     </div>
+                     <div id="032.001">
+                        <p class="oj-normal">1.   Subject to compliance with Article 30 and 31, account servicing payment service providers that have put in place a dedicated interface shall ensure that the dedicated interface offers at all times the same level of availability and performance, including support, as the interfaces made available to the payment service user for directly accessing its payment account online.</p>
+                     </div>
+                     <div id="032.002">
+                        <p class="oj-normal">2.   Account servicing payment service providers that have put in place a dedicated interface shall define transparent key performance indicators and service level targets, at least as stringent as those set for the interface used by their payment service users both in terms of availability and of data provided in accordance with Article 36. Those interfaces, indicators and targets shall be monitored by the competent authorities and stress-tested.</p>
+                     </div>
+                     <div id="032.003">
+                        <p class="oj-normal">3.   Account servicing payment service providers that have put in place a dedicated interface shall ensure that this interface does not create obstacles to the provision of payment initiation and account information services. Such obstacles, may include, among others, preventing the use by payment service providers referred to in Article 30(1) of the credentials issued by account servicing payment service providers to their customers, imposing redirection to the account servicing payment service provider's authentication or other functions, requiring additional authorisations and registrations in addition to those provided for in Articles 11, 14 and 15 of Directive (EU) 2015/2366, or requiring additional checks of the consent given by payment service users to providers of payment initiation and account information services.</p>
+                     </div>
+                     <div id="032.004">
+                        <p class="oj-normal">4.   For the purpose of paragraphs 1 and 2, account servicing payment service providers shall monitor the availability and performance of the dedicated interface. Account servicing payment service providers shall publish on their website quarterly statistics on the availability and performance of the dedicated interface and of the interface used by its payment service users.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_33">
+                     <p id="d1e1392-23-1" class="oj-ti-art">Article 33</p>
+                     <div class="eli-title" id="art_33.tit_1">
+                        <p class="oj-sti-art">Contingency measures for a dedicated interface</p>
+                     </div>
+                     <div id="033.001">
+                        <p class="oj-normal">1.   Account servicing payment service providers shall include, in the design of the dedicated interface, a strategy and plans for contingency measures for the event that the interface does not perform in compliance with Article 32, that there is unplanned unavailability of the interface and that there is a systems breakdown. Unplanned unavailability or a systems breakdown may be presumed to have arisen when five consecutive requests for access to information for the provision of payment initiation services or account information services are not replied to within 30 seconds.</p>
+                     </div>
+                     <div id="033.002">
+                        <p class="oj-normal">2.   Contingency measures shall include communication plans to inform payment service providers making use of the dedicated interface of measures to restore the system and a description of the immediately available alternative options payment service providers may have during this time.</p>
+                     </div>
+                     <div id="033.003">
+                        <p class="oj-normal">3.   Both the account servicing payment service provider and the payment service providers referred to in Article 30(1) shall report problems with dedicated interfaces as described in paragraph 1 to their respective competent national authorities without delay.</p>
+                     </div>
+                     <div id="033.004">
+                        <p class="oj-normal">4.   As part of a contingency mechanism, payment service providers referred to in Article 30(1) shall be allowed to make use of the interfaces made available to the payment service users for the authentication and communication with their account servicing payment service provider, until the dedicated interface is restored to the level of availability and performance provided for in Article 32.</p>
+                     </div>
+                     <div id="033.005">
+                        <p class="oj-normal">5.   For this purpose, account servicing payment service providers shall ensure that the payment service providers referred to in Article 30(1) can be identified and can rely on the authentication procedures provided by the account servicing payment service provider to the payment service user. Where the payment service providers referred to in Article 30(1) make use of the interface referred to in paragraph 4 they shall:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">take the necessary measures to ensure that they do not access, store or process data for purposes other than for the provision of the service as requested by the payment service user;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">continue to comply with the obligations following from Article 66(3) and Article 67(2) of Directive (EU) 2015/2366 respectively;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">log the data that are accessed through the interface operated by the account servicing payment service provider for its payment service users, and provide, upon request and without undue delay, the log files to their competent national authority;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">duly justify to their competent national authority, upon request and without undue delay, the use of the interface made available to the payment service users for directly accessing its payment account online;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">inform the account servicing payment service provider accordingly.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="033.006">
+                        <p class="oj-normal">6.   Competent authorities, after consulting EBA to ensure a consistent application of the following conditions, shall exempt the account servicing payment service providers that have opted for a dedicated interface from the obligation to set up the contingency mechanism described under paragraph 4 where the dedicated interface meets all of the following conditions:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">it complies with all the obligations for dedicated interfaces as set out in Article 32;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">it has been designed and tested in accordance with Article 30(5) to the satisfaction of the payment service providers referred to therein;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">it has been widely used for at least 3 months by payment service providers to offer account information services, payment initiation services and to provide confirmation on the availability of funds for card-based payments;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">any problem related to the dedicated interface has been resolved without undue delay.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="033.007">
+                        <p class="oj-normal">7.   Competent authorities shall revoke the exemption referred to in paragraph 6 where the conditions (a) and (d) are not met by the account servicing payment service providers for more than 2 consecutive calendar weeks. Competent authorities shall inform EBA of this revocation and shall ensure that the account servicing payment service provider establishes, within the shortest possible time and at the latest within 2 months, the contingency mechanism referred to in paragraph 4.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_34">
+                     <p id="d1e1490-23-1" class="oj-ti-art">Article 34</p>
+                     <div class="eli-title" id="art_34.tit_1">
+                        <p class="oj-sti-art">Certificates</p>
+                     </div>
+                     <div id="034.001">
+                        <p class="oj-normal">1.   For the purpose of identification, as referred to in Article 30(1)(a), payment service providers shall rely on qualified certificates for electronic seals as referred to in Article 3(30) of Regulation (EU) No 910/2014 or for website authentication as referred to in Article 3(39) of that Regulation.</p>
+                     </div>
+                     <div id="034.002">
+                        <p class="oj-normal">2.   For the purpose of this Regulation, the registration number as referred to in the official records in accordance with Annex III (c) or Annex IV (c) to Regulation (EU) No 910/2014 shall be the authorisation number of the payment service provider issuing card-based payment instruments, the account information service providers and payment initiation service providers, including account servicing payment service providers providing such services, available in the public register of the home Member State pursuant to Article 14 of Directive (EU) 2015/2366 or resulting from the notifications of every authorisation granted under Article 8 of Directive 2013/36/EU of the European Parliament and of the Council <a id="ntc4-L_2018069EN.01002301-E0004" href="#ntr4-L_2018069EN.01002301-E0004"
+                              >(<span class="oj-super oj-note-tag">4</span>)</a> in accordance with Article 20 of that Directive.</p>
+                     </div>
+                     <div id="034.003">
+                        <p class="oj-normal">3.   For the purposes of this Regulation, qualified certificates for electronic seals or for website authentication referred to in paragraph 1 shall include, in a language customary in the sphere of international finance, additional specific attributes in relation to each of the following:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the role of the payment service provider, which maybe one or more of the following:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(i)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">account servicing;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(ii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">payment initiation;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(iii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">account information;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(iv)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">issuing of card-based payment instruments;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the name of the competent authorities where the payment service provider is registered.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="034.004">
+                        <p class="oj-normal">4.   The attributes referred to in paragraph 3 shall not affect the interoperability and recognition of qualified certificates for electronic seals or website authentication.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_35">
+                     <p id="d1e1565-23-1" class="oj-ti-art">Article 35</p>
+                     <div class="eli-title" id="art_35.tit_1">
+                        <p class="oj-sti-art">Security of communication session</p>
+                     </div>
+                     <div id="035.001">
+                        <p class="oj-normal">1.   Account servicing payment service providers, payment service providers issuing card-based payment instruments, account information service providers and payment initiation service providers shall ensure that, when exchanging data by means of the internet, secure encryption is applied between the communicating parties throughout the respective communication session in order to safeguard the confidentiality and the integrity of the data, using strong and widely recognised encryption techniques.</p>
+                     </div>
+                     <div id="035.002">
+                        <p class="oj-normal">2.   Payment service providers issuing card-based payment instruments, account information service providers and payment initiation service providers shall keep the access sessions offered by account servicing payment service providers as short as possible and they shall actively terminate any such session as soon as the requested action has been completed.</p>
+                     </div>
+                     <div id="035.003">
+                        <p class="oj-normal">3.   When maintaining parallel network sessions with the account servicing payment service provider, account information service providers and payment initiation service providers shall ensure that those sessions are securely linked to relevant sessions established with the payment service user(s) in order to prevent the possibility that any message or information communicated between them could be misrouted.</p>
+                     </div>
+                     <div id="035.004">
+                        <p class="oj-normal">4.   Account information service providers, payment initiation service providers and payment service providers issuing card-based payment instruments with the account servicing payment service provider shall contain unambiguous references to each of the following items:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the payment service user or users and the corresponding communication session in order to distinguish several requests from the same payment service user or users;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for payment initiation services, the uniquely identified payment transaction initiated;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for confirmation on the availability of funds, the uniquely identified request related to the amount necessary for the execution of the card-based payment transaction.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="035.005">
+                        <p class="oj-normal">5.   Account servicing payment service providers, account information service providers, payment initiation service providers and payment service providers issuing card-based payment instruments shall ensure that where they communicate personalised security credentials and authentication codes, these are not readable, directly or indirectly, by any staff at any time.</p>
+                        <p class="oj-normal">In case of loss of confidentiality of personalised security credentials under their sphere of competence, those providers shall inform without undue delay the payment services user associated with them and the issuer of the personalised security credentials.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_36">
+                     <p id="d1e1617-23-1" class="oj-ti-art">Article 36</p>
+                     <div class="eli-title" id="art_36.tit_1">
+                        <p class="oj-sti-art">Data exchanges</p>
+                     </div>
+                     <div id="036.001">
+                        <p class="oj-normal">1.   Account servicing payment service providers shall comply with each of the following requirements:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">they shall provide account information service providers with the same information from designated payment accounts and associated payment transactions made available to the payment service user when directly requesting access to the account information, provided that this information does not include sensitive payment data;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">they shall, immediately after receipt of the payment order, provide payment initiation service providers with the same information on the initiation and execution of the payment transaction provided or made available to the payment service user when the transaction is initiated directly by the latter;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">they shall, upon request, immediately provide payment service providers with a confirmation in a simple ‘yes’ or ‘no’ format, whether the amount necessary for the execution of a payment transaction is available on the payment account of the payer.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="036.002">
+                        <p class="oj-normal">2.   In case of an unexpected event or error occurring during the process of identification, authentication, or the exchange of the data elements, the account servicing payment service provider shall send a notification message to the payment initiation service provider or the account information service provider and the payment service provider issuing card-based payment instruments which explains the reason for the unexpected event or error.</p>
+                        <p class="oj-normal">Where the account servicing payment service provider offers a dedicated interface in accordance with Article 32, the interface shall provide for notification messages concerning unexpected events or errors to be communicated by any payment service provider that detects the event or error to the other payment service providers participating in the communication session.</p>
+                     </div>
+                     <div id="036.003">
+                        <p class="oj-normal">3.   Account information service providers shall have in place suitable and effective mechanisms that prevent access to information other than from designated payment accounts and associated payment transactions, in accordance with the user's explicit consent.</p>
+                     </div>
+                     <div id="036.004">
+                        <p class="oj-normal">4.   Payment initiation service providers shall provide account servicing payment service providers with the same information as requested from the payment service user when initiating the payment transaction directly.</p>
+                     </div>
+                     <div id="036.005">
+                        <p class="oj-normal">5.   Account information service providers shall be able to access information from designated payment accounts and associated payment transactions held by account servicing payment service providers for the purposes of performing the account information service in either of the following circumstances:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">whenever the payment service user is actively requesting such information;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">where the payment service user does not actively request such information, no more than four times in a 24-hour period, unless a higher frequency is agreed between the account information service provider and the account servicing payment service provider, with the payment service user's consent.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_VI">
+               <p id="d1e1692-23-1" class="oj-ti-section-1">CHAPTER VI</p>
+               <div class="eli-title" id="cpt_VI.tit_1">
+                  <p id="L_2018069EN.01002301-d-008" class="oj-ti-section-2">
+                     <span class="oj-bold">FINAL PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_37">
+                  <p id="d1e1700-23-1" class="oj-ti-art">Article 37</p>
+                  <div class="eli-title" id="art_37.tit_1">
+                     <p class="oj-sti-art">Review</p>
+                  </div>
+                  <p class="oj-normal">Without prejudice to Article 98(5) of Directive (EU) 2015/2366, EBA shall review by 14 March 2021 the fraud rates referred to in the Annex to this Regulation as well as the exemptions granted under Article 33(6) in relation to dedicated interfaces and, if appropriate, submit draft updates thereto to the Commission in accordance with Article 10 of Regulation (EU) No 1093/2010.</p>
+               </div>
+               <div class="eli-subdivision" id="art_38">
+                  <p id="d1e1710-23-1" class="oj-ti-art">Article 38</p>
+                  <div class="eli-title" id="art_38.tit_1">
+                     <p class="oj-sti-art">Entry into force</p>
+                  </div>
+                  <div id="038.001">
+                     <p class="oj-normal">1.   This Regulation shall enter into force on the day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+                  </div>
+                  <div id="038.002">
+                     <p class="oj-normal">2.   This Regulation shall apply from 14 September 2019.</p>
+                  </div>
+                  <div id="038.003">
+                     <p class="oj-normal">3.   However, paragraphs 3 and 5 of Article 30 shall apply from 14 March 2019.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 27 November 2017.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2018069EN.01002301-E0001" href="#ntc1-L_2018069EN.01002301-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2015_337_R_TOC"
+               >OJ L 337, 23.12.2015, p. 35</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2018069EN.01002301-E0002" href="#ntc2-L_2018069EN.01002301-E0002"
+               >(<span class="oj-super">2</span>)</a>  Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >OJ L 331, 15.12.2010, p. 12</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2018069EN.01002301-E0003" href="#ntc3-L_2018069EN.01002301-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >OJ L 257, 28.8.2014, p. 53</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2018069EN.01002301-E0004" href="#ntc4-L_2018069EN.01002301-E0004"
+               >(<span class="oj-super">4</span>)</a>  Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >OJ L 176, 27.6.2013, p. 338</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2018069EN.01004301">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e32-43-1">ANNEX</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="20%"/>
+               <col width="40%"/>
+               <col width="40%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table" colspan="2" >
+                        <p class="oj-tbl-hdr">Reference fraud rate (%) for:</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">ETV</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Remote electronic card-based payments</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Remote electronic credit transfers</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">EUR 500</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">0,01</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">0,005</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">EUR 250</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">0,06</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">0,01</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">EUR 100</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">0,13</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">0,015</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

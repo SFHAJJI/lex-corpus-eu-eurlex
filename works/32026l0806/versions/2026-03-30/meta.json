@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32026l0806:2026-03-30",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026L0806",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2026-03-30",
+  "valid_time_source": "publisher",
+  "publication_date": "2026-03-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-03-30",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2026/806 of the European Parliament and of the Council of 30 March 2026 amending Directive 2014/59/EU as regards early intervention measures, conditions for resolution and funding of resolution action and Directive 2014/24/EU as regards valuation services in resolution (Text with EEA relevance)",
+      "title_short": "Directive (EU) 2026/806",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0806",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "109f4ddf5dd3f1bbf4018389b4501e95f740fa9648e942010e3a64c92c28d7f5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0806",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0806"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-03-30",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2026/806 du Parlement europ\u00E9en et du Conseil du 30 mars 2026 modifiant la directive 2014/59/UE en ce qui concerne les mesures d\u2019intervention pr\u00E9coce, les conditions de d\u00E9clenchement d\u2019une proc\u00E9dure de r\u00E9solution et le financement des mesures de r\u00E9solution et la directive 2014/24/UE en ce qui concerne les services de valorisation en cas de r\u00E9solution (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive (UE) 2026/806 du Parlement europ\u00E9en et du Conseil du 30 mars 2026 modifiant la d\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026L0806",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3861b76de898cf75cac1e4ac434e4a51b964c0b725d5273de5c969e2f3686e09",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026L0806",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026L0806"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026L0806",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "procurement-and-ip",
+    "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "78396e7197be0099f55260de87cbc296897470458016d016126b1881d331a9af"
+}

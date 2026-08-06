@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32013l0043:2013-07-22",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32013L0043",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2013-07-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2013-07-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2013-07-22",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2013/43/EU of 22\u00A0July 2013 amending Directive 2006/112/EC on the common system of value added tax, as regards an optional and temporary application of the reverse charge mechanism in relation to supplies of certain goods and services susceptible to fraud",
+      "title_short": "Council Directive 2013/43/EU of 22\u00A0July 2013 amending Directive 2006/112/EC on the common \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0043",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "f51c4c1f7dccb8eacfd0eebbe47b8c143c5911d16ecc3c717c35e570605dae60",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0043",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0043"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2013-07-22",
+      "valid_time_source": "publisher",
+      "title": "Directive 2013/43/UE du Conseil du 22\u00A0juillet 2013 modifiant la directive 2006/112/CE relative au syst\u00E8me commun de taxe sur la valeur ajout\u00E9e en ce qui concerne l\u0027application facultative et temporaire de l\u0027autoliquidation aux livraisons de certains biens et prestations de certains services pr\u00E9sentant un risque de fraude",
+      "title_short": "Directive 2013/43/UE du Conseil du 22\u00A0juillet 2013 modifiant la directive 2006/112/CE rela\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0043",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cca796a15808240742cb0457ae486899a55fd1142a1078f5f5dec267c099b2e0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0043",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0043"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32013L0043",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "8cd0d99fc85677bdced5d93664293f7f3a02e260f8d24aad85c26ba27fec5392"
+}

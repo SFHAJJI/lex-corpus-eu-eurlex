@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025r1393:2025-07-08",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R1393",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2025-07-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-07-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-07-08",
+      "valid_time_source": "publisher",
+      "title": "Commission Delegated Regulation (EU) 2025/1393 of 8\u00A0July 2025 amending Delegated Regulation (EU)\u00A02025/1184 to introduce a review clause",
+      "title_short": "Commission Delegated Regulation (EU) 2025/1393 of 8\u00A0July 2025 amending Delegated Regulatio\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1393",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "db3d4c428e3b9c41dce0cd04d800bcbddc1d9e75ff3547c2d81b41dd574fc4d8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1393",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1393"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-07-08",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2025/1393 de la Commission du 8\u00A0juillet 2025 modifiant le r\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE)\u00A02025/1184 en vue d\u2019y introduire une clause de r\u00E9examen",
+      "title_short": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2025/1393 de la Commission du 8\u00A0juillet 2025 modifiant le r\u00E8glement\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1393",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e755f2bc1f0652fcee7d2a297f93bcc16a580de7735cafbdf60b50c8cee42b42",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1393",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1393"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R1393",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "fdfe7d59530be3d4f6ef0f910747e34e4289f0cc6697f829778be06db5866eec"
+}

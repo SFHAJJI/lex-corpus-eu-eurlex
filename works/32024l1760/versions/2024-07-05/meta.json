@@ -1,0 +1,88 @@
+{
+  "lex_id": "eu-eurlex:32024l1760:2024-07-05",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024L1760",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2024-07-05",
+  "valid_to": "2025-04-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-07-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-07-05",
+      "valid_to": "2025-04-16",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 on corporate sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/2859 (Text with EEA relevance)",
+      "title_short": "Directive (EU) 2024/1760",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L1760-20240705",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L1760-20240705"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-07-05",
+      "valid_to": "2025-04-16",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2024/1760 du Parlement europ\u00E9en et du Conseil du 13\u00A0juin 2024 sur le devoir de vigilance des entreprises en mati\u00E8re de durabilit\u00E9 et modifiant la directive (UE) 2019/1937 et le r\u00E8glement (UE) 2023/2859 (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "Directive (UE) 2024/1760 du Parlement europ\u00E9en et du Conseil du 13\u00A0juin 2024 sur le devoir\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024L1760-20240705",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "1f7469a59b11dcb9aed8feadb82a9dac870ae337c18e8c0cb6c2526fdbf4e770",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024L1760-20240705",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2024L1760FR0000010.0001.doc.xml",
+          "sha256": "b1b6b0a581152d5bfb04e61a011fb10955109100f402e7726a0ec6135cfec91b",
+          "source_uri": "https://publications.europa.eu/resource/cellar/b69b09fe-7ffa-11ef-a67d-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2024L1760FR0000010.0001.xml",
+          "sha256": "15fa918e5377b737302252cd4fcc9000de683653e99dc89d27c8bc69df9ed942",
+          "source_uri": "https://publications.europa.eu/resource/cellar/b69b09fe-7ffa-11ef-a67d-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024L1760-20240705"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32024L1760"
+    }
+  ],
+  "raw": {
+    "celex": "02024L1760-20240705",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:seed"
+  },
+  "record_sha256": "fe7284df4515e49176a93c7b56c3372b5f780a464c0cc7d7f621eeb1b5676904"
+}

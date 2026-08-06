@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32022r0504:2022-03-25",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32022R0504",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2022-03-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2022-03-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2022-03-25",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2022/504 of the European Central Bank of 25\u00A0March 2022 amending Regulation (EU) 2016/445 on the exercise of options and discretions available in Union law (ECB/2016/4) (ECB/2022/14)",
+      "title_short": "Regulation (EU) 2022/504 of the European Central Bank of 25\u00A0March 2022 amending Regulation\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0504",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "17c8f14a67f99d2129fdd430f46f0e53ce39827c4ec371e79448f5317175534d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0504",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0504"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2022-03-25",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2022/504 de la Banque centrale europ\u00E9enne du 25\u00A0mars 2022 modifiant le r\u00E8glement (UE) 2016/445 relatif \u00E0 l\u2019exercice des options et facult\u00E9s pr\u00E9vues par le droit de l\u2019Union (BCE/2016/4) (BCE/2022/14)",
+      "title_short": "R\u00E8glement (UE) 2022/504 de la Banque centrale europ\u00E9enne du 25\u00A0mars 2022 modifiant le r\u00E8gl\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0504",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7e62c76f060b5087818752df71a70e7a9dd50a4d910bc2992d149c3bd7a8b0c0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0504",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0504"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32022R0504",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "ce6021f410aae4f3f9cd7969688b231526daca720cbc14ec51283ceaf712c348"
+}

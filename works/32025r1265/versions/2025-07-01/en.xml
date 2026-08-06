@@ -1,0 +1,2575 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.17.0 # generated_on:20251013-1243 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202501265EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2025/1265</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">14.10.2025</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            COMMISSION DELEGATED REGULATION (EU) 2025/1265</p>
+            <p class="oj-doc-ti">of 1 July 2025
+         </p>
+            <p class="oj-doc-ti">supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards specifying the method for identifying the main risk driver of a position and for determining whether a transaction represents a long or a short position as referred to in Articles 94(3), 273a(3) and 325a(2)</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) No 575/2013 of 26 June 2013 of the European Parliament and of the Council on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 <a id="ntc1-L_202501265EN.000101-E0001" href="#ntr1-L_202501265EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 94(10), third subparagraph thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The size of the business constitutes a proxy for the degree of sophistication that institutions should have in their capital calculations. To determine whether institutions are allowed to use simplified methods for the calculation of own funds requirements for market and counterparty credit risks, they are required to calculate the size of the on- and off-balance-sheet business in accordance with Article 94(1), Article 273a(1) and (2), and Article 325a(1) of Regulation (EU) No 575/2013. The identification of the main risk driver of a position and, on that basis, the determination of whether a transaction represents a long or a short position, are fundamental for the correct calculation of the size of the business. Given the importance of those calculations for small and non-complex institutions, the method for identifying the main risk driver of a position and for determining whether a transaction represents a long or a short position should be proportionate to the degree of complexity of the institution.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The method for determining whether a transaction represents a long or a short position should be consistent with the method for determining whether a transaction is a long or short position for transactions referred to in Article 277(3) of Regulation (EU) No 575/2013 and set out in Commission Delegated Regulation (EU) 2021/931 <a id="ntc2-L_202501265EN.000101-E0002" href="#ntr2-L_202501265EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To produce accurate results, the method for identifying the main risk driver of a non-derivative position should be based on the calculation of the risk-weighted delta sensitivities to risk factors, as set out in Part Three, Title IV, Chapter 1a, Sections 2, 3 and 6 of Regulation (EU) No 575/2013. In addition, to ensure the consistency of the approach, the method for identifying the main risk driver of a position should be consistent with the method for identifying the primary risk driver and the most material risk driver in derivative transactions set out in Delegated Regulation (EU) 2021/931.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The method for determining whether a transaction represents a long or a short position should be based on the calculation of the risk-weighted delta sensitivity to the main risk driver. Where institutions are not able to calculate the risk-weighted delta sensitivity, they should determinate that sensitivity by assessing the trading or hedging purpose of the transaction.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">It is necessary to lay down a simplified approach for small and non-complex institutions that may not be able to calculate the risk-weighted delta sensitivities, or may not be able to use the methods for identifying the primary risk driver and the most material risk driver in derivative transactions set out in Delegated Regulation (EU) 2021/931. That simplified approach should be suitable for the instruments that small and non-complex institutions normally trade. Larger institutions should also have the possibility to use that simplified approach where they trade simple instruments that are included in the scope of that simplified approach.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The simplified approach should lead to results that are consistent with the risk-weighted delta sensitivities approach. Nevertheless, simplifying assumptions should be introduced to reduce the computational and operational burden for institutions, in particular with regard to instruments denominated in a currency that is different from the institution’s reporting currency. For that reason, institutions should be allowed to disregard in the determination of the main risk driver the spot exchange rate between the currency in which the instrument is denominated and the institution’s reporting currency for stocks, bonds and derivative transactions the underlying of which would normally be allocated to the interest rate, credit, equity or commodity risk categories.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Cash positions in the reporting currency should not be taken into account when determining the size of the business, since they do not change their market value under the influence of changes to risk drivers.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation is based on the draft regulatory technical standards submitted to the Commission by the European Banking Authority.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Banking Authority has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the advice of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council <a id="ntc3-L_202501265EN.000101-E0003" href="#ntr3-L_202501265EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e163-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Method for identifying the main risk drivers of a non-derivative position</p>
+               </div>
+               <div id="001.001">
+                  <p class="oj-normal">1.   When identifying the main risk driver of a non-derivative position that is assigned to the trading book, institutions shall first identify all risk factors of that position which are the principal determinants of its change in value. They shall do so by assessing at least the risk factors referred to in Articles 325l to 325q of Regulation (EU) No 575/2013. The risk factors identified by the institutions shall be the risk drivers of the position.</p>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   Institutions that have identified, in accordance with paragraph 1, only one risk driver of a non-derivative position assigned to the trading book shall take that risk driver as the main risk driver of that position.</p>
+               </div>
+               <div id="001.003">
+                  <p class="oj-normal">3.   Institutions that have identified, in accordance with paragraph 1, more than one risk driver of a non-derivative position assigned to the trading book shall identify the main risk driver of that position by applying the following steps in the following order:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">institutions shall calculate the delta risk sensitivities in accordance with Articles 325r and 325t of Regulation (EU) No 575/2013 for each risk driver identified in accordance with paragraph 1 of this Article;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">institutions shall calculate the weighted sensitivities in accordance with the formula laid down in Article 325f(6) of that Regulation, using the sensitivities calculated in accordance with point (a) of this paragraph;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">institutions shall identify the main risk driver as the risk driver which corresponds to the highest absolute value of the weighted sensitivities calculated in accordance with point (b) of this paragraph.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e203-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Method for determining whether a non-derivative transaction represents a long or a short position in its main risk driver</p>
+               </div>
+               <p class="oj-normal">When determining whether a non-derivative position represents a long or a short position in its main risk driver as referred to in Article 94(3) and Article 325a(2) of Regulation (EU) No 575/2013, institutions shall apply either of the following methods:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">calculate the delta risk sensitivity of the main risk driver in accordance with Article 325r of Regulation (EU) No 575/2013 and identify the transaction as:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(i)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a long position in that risk driver where the corresponding delta risk sensitivity is positive; or</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(ii)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a short position in that risk driver where the corresponding delta risk sensitivity is negative;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">assess the dependence of the value of the position on the main risk driver by considering the trading or hedging purpose of the transaction with respect to that risk driver and identify the transaction as either a long or a short position in its main risk driver on the basis of that assessment.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e238-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Simplified method for identifying the main risk driver of a non-derivative position and for determining whether the non-derivative transaction represents a long or a short position in its main risk driver</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   By way of derogation from Articles 1 and 2, institutions may identify the main risk driver of the non-derivative positions referred to in paragraphs 2 to 8 of this Article and determine whether such positions represent long or a short positions in the main risk driver by applying the approaches set out in those paragraphs.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   For bonds which consist in fixed-rate debt instruments without optionality features, institutions shall use the following approach:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">institutions shall identify the main risk driver depending on the credit quality step and sector of the bond referred to in Article 325ah of Regulation (EU) No 575/2013 and the residual maturity of the bond, on the basis of either of the following:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(i)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">Table 1 in the Annex to this Regulation, where the cash flows of the bond are not functionally dependent on inflation rates;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(ii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">Table 2 in the Annex to this Regulation, where the cash flows of the bond are functionally dependent on inflation rates;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where the main risk driver identified in accordance with point (a) of this paragraph is the risk-free rate, that main risk driver shall be in the currency in which the bond is denominated and with one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the bond;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where the main risk driver identified in accordance with point (a) of this paragraph is the issuer credit spread rate, that main risk driver shall be the credit spread of the issuer of the bond and with one of the maturities set out in Article 325m(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the bond;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">institutions shall determine whether the position represents a long or a short position in its main risk driver on the basis of the following:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(i)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">where the main risk driver identified under points (a), (b) and (c) of this paragraph is the risk-free rate or the issuer credit spread rate, the position shall be long in its main risk driver where the bond is sold, and short where the bond is bought;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(ii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">where the main risk driver identified under points (a), (b) and (c) of this paragraph is the inflation rate, the position shall be long in its main risk driver where the bond is bought, and short where the bond is sold.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="003.003">
+                  <p class="oj-normal">3.   For bonds which consist in floating-rate debt instruments without optionality features, institutions shall use the approach set out in paragraph 2. Where the main risk driver identified in accordance with paragraph 2, point (a), is the risk-free rate and the residual maturity of the bond is higher than one year, the main risk driver shall be the issuer credit spread rate instead, determined in accordance with paragraph 2, point (c).</p>
+               </div>
+               <div id="003.004">
+                  <p class="oj-normal">4.   For a stock position, the main risk driver shall be the equity spot price.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the stock is bought, and short where the stock is sold.</p>
+               </div>
+               <div id="003.005">
+                  <p class="oj-normal">5.   For a cash position in a currency different from the institution’s reporting currency, the main risk driver shall be the spot exchange rate between the currency of that cash position and the institution’s reporting currency.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the cash position is an asset item, and short where it is a liability item.</p>
+               </div>
+               <div id="003.006">
+                  <p class="oj-normal">6.   For positions in a physical commodity, the main risk driver shall be the commodity spot price which corresponds to the commodity type of the position.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the physical commodity is an asset item, and short where it is a liability item.</p>
+               </div>
+               <div id="003.007">
+                  <p class="oj-normal">7.   For a position in a collective investment undertaking (CIU), the main risk driver shall be the risk factor corresponding to that CIU in the bucket ‘other sector’ in Table 8 of Article 325ap(1) of Regulation (EU) No 575/2013.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the shares or units of the CIU are bought, and short where the shares or units of the CIU are sold.</p>
+               </div>
+               <div id="003.008">
+                  <p class="oj-normal">8.   For a position in a repurchase transaction where the institution or its counterparty transfer securities as referred to in paragraphs 2, 3 and 4, the main risk driver shall be the corresponding general interest rate or equity repo rate.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the repurchase transaction is governed by a repurchase agreement, and short where it is governed by a reverse repurchase agreement.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e351-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Method for identifying the main risk drivers of a derivative position</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   When identifying the main risk driver of a derivative position, institutions shall first identify:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">all the risk drivers of the transaction, in accordance with Article 1 of Delegated Regulation (EU) 2021/931;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">whether the transaction has one or more than one material risk driver, in accordance with Articles 2 and 3 of that Delegated Regulation;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the material risk drivers of the transaction and the most material of those risk drivers, in accordance with Article 4 of that Delegated Regulation.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   Institutions that have identified, in accordance with paragraph 1, a derivative transaction with only one material risk driver shall take that risk driver as the main risk driver.</p>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   Institutions that have identified, in accordance with paragraph 1, a derivative transaction with more than one material risk driver that belong to only one risk category as referred to in Article 277(1) of Regulation (EU) No 575/2013 shall take the most material risk driver in that risk category as the main risk driver.</p>
+               </div>
+               <div id="004.004">
+                  <p class="oj-normal">4.   Institutions that have identified, in accordance with paragraph 1, a derivative transaction with more than one material risk driver that belong to two or more risk categories as referred to in Article 277(1) of Regulation (EU) No 575/2013 shall identify the main risk driver by using one of the following methods:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where institutions have identified material risk drivers in accordance with Article 4(2) or Article 4(4) of Delegated Regulation (EU) 2021/931, the main risk driver shall be the most material risk driver corresponding to the highest risk category add-on from those referred to in Articles 280a to 280f of Regulation (EU) No 575/2013;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where institutions have identified material risk drivers in accordance with Article 4(3) of Delegated Regulation (EU) 2021/931, the main risk driver shall be the most material risk driver corresponding to the highest absolute value of the weighted sensitivities referred to in Article 4(3), point (b), of that Delegated Regulation.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.005">
+                  <p class="oj-normal">5.   An institution that applies one of the methods set out in Article 4 of Delegated Regulation (EU) 2021/931 for the calculation of the exposure value of a given derivative transaction shall use the same method to identify the main risk driver of that transaction.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e415-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Method for determining whether a derivative transaction represents a long or a short position in its main risk driver</p>
+               </div>
+               <p class="oj-normal">When determining whether a derivative position represents a long or a short position in its main risk driver as referred to in Article 94(3), Article 273a(3) and Article 325a(2) of Regulation (EU) No 575/2013, institutions shall apply either of the methods set out in Article 6 of Delegated Regulation (EU) 2021/931 to the main risk driver of the transaction.</p>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e422-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Simplified method for identifying the main risk driver of a derivative position and for determining whether the derivative transaction represents a long or a short position in its main risk driver</p>
+               </div>
+               <div id="006.001">
+                  <p class="oj-normal">1.   By way of derogation from Articles 4 and 5, institutions may identify the main risk driver of a derivative position as referred to in paragraphs 2 to 17 of this Article and determine whether such position represents a long or a short position in its main risk driver by applying the approaches set out in those paragraphs.</p>
+               </div>
+               <div id="006.002">
+                  <p class="oj-normal">2.   For futures or forwards on stocks or on stock indices, institutions shall identify the main risk driver as the equity spot price or the index spot price, respectively.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the futures or forwards are bought, and short where they are sold.</p>
+               </div>
+               <div id="006.003">
+                  <p class="oj-normal">3.   For forward-rate agreements (FRAs) where one counterparty receives floating-rate interest and pays fixed-rate interest, institutions shall identify the main risk driver as the risk-free rate which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the currency referenced in the FRA;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the FRA.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the institution pays fixed-rate interest, and short where the institution receives fixed-rate interest.</p>
+               </div>
+               <div id="006.004">
+                  <p class="oj-normal">4.   For futures or forwards on bonds which consist in fixed-rate or floating-rate debt instruments without optionality features, institutions shall determine whether the bond is bought or sold under the futures or forward contract and, on that basis, identify the main risk driver and determine whether the position represents a long or a short position in its main risk driver by applying the methods set out in Article 3(2) or (3), respectively, to the underlying fixed-rate or floating-rate debt instrument.</p>
+               </div>
+               <div id="006.005">
+                  <p class="oj-normal">5.   For futures or forwards on exchanges between a foreign currency and the institution’s reporting currency, institutions shall identify the main risk driver as the spot exchange rate between the foreign currency and the institution’s reporting currency.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the foreign currency is bought, and short where the foreign currency is sold.</p>
+               </div>
+               <div id="006.006">
+                  <p class="oj-normal">6.   For futures or forwards on commodities, institutions shall identify the main risk driver as the commodity spot price which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the commodity type specified in the futures or forward contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325p(2) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the futures or forwards.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the commodities are bought, and short where they are sold.</p>
+               </div>
+               <div id="006.007">
+                  <p class="oj-normal">7.   For plain-vanilla call or put options with a single underlying stock or stock index, institutions shall identify the main risk driver as the equity spot price or the index spot price, respectively.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the call option is bought, and short where the call option is sold. The position shall be long where the put option is sold, and short where the put option is bought.</p>
+               </div>
+               <div id="006.008">
+                  <p class="oj-normal">8.   For plain-vanilla call or put options with a single underlying bond which consists in fixed-rate debt instrument, institutions shall identify the main risk driver by applying the method set out in Article 3(2) to the underlying bond.</p>
+                  <p class="oj-normal">Where the main risk driver determined in accordance with Article 3(2), points (a), (b) and (c), is the risk-free rate or the issuer credit spread rate, the position shall be short in its main risk driver where the call option is bought, and long where the call option is sold, and the position shall be short where the put option is sold, and long where the put option is bought.</p>
+                  <p class="oj-normal">Where the main risk driver determined in accordance with Article 3(2), points (a), (b) and (c), is the inflation rate, the position shall be long in its main risk driver where the call option is bought, and short where the call option is sold, and the position shall be long where the put option is sold and short where the put option is bought.</p>
+               </div>
+               <div id="006.009">
+                  <p class="oj-normal">9.   For plain-vanilla swap options, institutions shall identify the main risk driver by applying the method set out in paragraph 15 to the underlying interest rate swap.</p>
+                  <p class="oj-normal">Where the swap option gives the right to enter into an interest rate swap in which the option holder receives floating-rate interest and pays fixed-rate interest, the position shall be long in its main risk driver where the institution has bought the swap option, and short where the institution has sold the swap option.</p>
+                  <p class="oj-normal">Where the swap option gives the right to enter into an interest rate swap in which the option holder pays floating-rate interest and receives fixed-rate interest, the position shall be long in its main risk driver where the institution has sold the swap option, and short where the institution has bought the swap option.</p>
+               </div>
+               <div id="006.010">
+                  <p class="oj-normal">10.   For caps and floors, institutions shall identify the main risk driver as the risk-free rate which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the currency referenced in the cap or floor;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the cap or floor.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the cap is bought, and short where the cap is sold. The position shall be long in its main risk driver where the floor is sold, and short where the floor is bought.</p>
+               </div>
+               <div id="006.011">
+                  <p class="oj-normal">11.   For plain-vanilla call or put options with a single underlying commodity, institutions shall identify the main risk driver as the commodity spot price which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the commodity type specified in the option contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325p(2) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the option.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the call option is bought, and short where the call option is sold. The position shall be long in its main risk driver where the put option is sold, and short where the put option is bought.</p>
+               </div>
+               <div id="006.012">
+                  <p class="oj-normal">12.   For plain-vanilla currency options, institutions shall identify the main risk driver as the spot exchange rate between the foreign currency and the institution’s reporting currency.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the foreign currency is bought, and short where the foreign currency is sold.</p>
+               </div>
+               <div id="006.013">
+                  <p class="oj-normal">13.   For single-name credit default swaps, institutions shall identify the main risk driver as the issuer credit spread rate which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the issuer referenced in the swap contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325m(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the protection is bought, and short where the protection is sold.</p>
+               </div>
+               <div id="006.014">
+                  <p class="oj-normal">14.   For index credit default swaps, institutions shall identify the main risk driver as the credit spread rate which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the credit index referenced in the swap contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325m(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the protection is bought, and short where the protection is sold.</p>
+               </div>
+               <div id="006.015">
+                  <p class="oj-normal">15.   For interest rate swaps where one counterparty receives floating-rate interest and pays fixed-rate interest, institutions shall identify the main risk driver as the risk-free rate which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the currency referenced in the swap contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the institution pays fixed-rate interest, and short where the institution receives fixed-rate interest.</p>
+               </div>
+               <div id="006.016">
+                  <p class="oj-normal">16.   For equity swaps where one counterparty receives the return on a stock or stock index and pays fixed-rate or floating-rate interest, institutions shall identify the main risk driver as the equity spot price or the index spot price, respectively.</p>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the institution receives the return on the stock or stock index, and short where the institution pays the return on a stock or stock index.</p>
+               </div>
+               <div id="006.017">
+                  <p class="oj-normal">17.   For commodity swaps where one counterparty receives cash flows based on the price of an underlying commodity and pays fixed-rate or floating-rate interest, institutions shall identify the main risk driver as the commodity spot price which corresponds to the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the commodity type specified in the swap contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">one of the maturities set out in Article 325p(2) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The position shall be long in its main risk driver where the institution receives the cash flows based on the price of an underlying commodity, and short where the institution pays the cash flows based on the price of an underlying commodity.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e659-1-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 1 July 2025.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202501265EN.000101-E0001" href="#ntc1-L_202501265EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >OJ L 176, 27.6.2013, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2013/575/oj" >http://data.europa.eu/eli/reg/2013/575/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202501265EN.000101-E0002" href="#ntc2-L_202501265EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Commission Delegated Regulation (EU) 2021/931 of 1 March 2021 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards specifying the method for identifying derivative transactions with one or more than one material risk driver for the purposes of Article 277(5), the formula for calculating the supervisory delta of call and put options mapped to the interest rate risk category and the method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in the given risk category for the purposes of Article 279a(3)(a) and (b) in the standardised approach for counterparty credit risk (<a href="http://publications.europa.eu/resource/oj/JOL_2021_204_R_TOC"
+               >OJ L 204, 10.6.2021, p. 7</a>, ELI: <a href="http://data.europa.eu/eli/reg_del/2021/931/oj" >http://data.europa.eu/eli/reg_del/2021/931/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202501265EN.000101-E0003" href="#ntc3-L_202501265EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >OJ L 331, 15.12.2010, p. 12</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1093/oj" >http://data.europa.eu/eli/reg/2010/1093/oj</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202501265EN.000901.fmx">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e35-9-1">ANNEX</p>
+            <p class="oj-ti-tbl" id="d1e41-9-1-table">
+               <span class="oj-italic">Table 1</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="6%"/>
+               <col width="16%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="2" >
+                        <p class="oj-tbl-hdr">Credit quality</p>
+                     </td>
+                     <td valign="top" class="oj-table" rowspan="2" >
+                        <p class="oj-tbl-hdr">Sector</p>
+                     </td>
+                     <td valign="top" class="oj-table" colspan="10" >
+                        <p class="oj-tbl-hdr">Maturity</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">less or equal to 0,375 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 0,375 years and less or equal to 0,75 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 0,75 years and less or equal to 1,5 year</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 1,5 year and less or equal to 2,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 2,5 years and less or equal to 4 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 4 years and less or equal to 7,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 7,5 years and less or equal to 12,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 12,5 years and less or equal to 17,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 17,5 years and less or equal to 25 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 25 years</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">All</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Central government, including central banks, of Member States</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="7" >
+                        <p class="oj-tbl-txt">Credit quality step 1 to 3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118 of Regulation (EU) No 575/2013</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Regional or local authority and public sector entities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Consumer goods and services, transportation and storage, administrative and support service activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Technology, telecommunications</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Health care, utilities, professional and technical activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Covered bonds issued by credit institutions established in Member States</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Risk-free rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Credit quality step 1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Covered bonds issued by credit institutions in third countries Credit quality step 1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Credit quality steps 2 to 3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Covered bonds issued by credit institutions in third countries Credit quality step 2 to 3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="7" >
+                        <p class="oj-tbl-txt">Credit quality step 4 to 6 and unrated</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118 of Regulation (EU) No 575/2013</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Regional or local authority and public sector entities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Consumer goods and services, transportation and storage, administrative and support service activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Technology, telecommunications</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Health care, utilities, professional and technical activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Other sector</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Listed credit indices with a majority of its individual constituents being investment grade</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Listed credit indices with a majority of its individual constituents being non-investment grade or unrated</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <p class="oj-ti-tbl" id="d1e588-9-1-table">
+               <span class="oj-italic">Table 2</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="6%"/>
+               <col width="16%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <col width="8%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="2" >
+                        <p class="oj-tbl-hdr">Credit quality</p>
+                     </td>
+                     <td valign="top" class="oj-table" rowspan="2" >
+                        <p class="oj-tbl-hdr">Sector</p>
+                     </td>
+                     <td valign="top" class="oj-table" colspan="10" >
+                        <p class="oj-tbl-hdr">Maturity</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">less or equal to 0,375 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 0,375 years and less or equal to 0,75 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 0,75 years and less or equal to 1,5 year</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 1,5 year and less or equal to 2,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 2,5 years and less or equal to 4 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 4 years and less or equal to 7,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 7,5 years and less or equal to 12,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 12,5 years and less or equal to 17,5 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 17,5 years and less or equal to 25 years</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">greater than 25 years</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">All</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Central government, including central banks, of Member States</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="7" >
+                        <p class="oj-tbl-txt">Credit quality step 1 to 3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118 of Regulation (EU) No 575/2013</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Regional or local authority and public sector entities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Consumer goods and services, transportation and storage, administrative and support service activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Technology, telecommunications</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Health care, utilities, professional and technical activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Covered bonds issued by credit institutions established in Member States</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Credit quality step 1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Covered bonds issued by credit institutions in third countries Credit quality step 1</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Credit quality steps 2 to 3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Covered bonds issued by credit institutions in third countries Credit quality step 2 to 3</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="7" >
+                        <p class="oj-tbl-txt">Credit quality step 4 to 6 and unrated</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118 of Regulation (EU) No 575/2013</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Regional or local authority and public sector entities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Consumer goods and services, transportation and storage, administrative and support service activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Technology, telecommunications</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Health care, utilities, professional and technical activities</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Other sector</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Listed credit indices with a majority of its individual constituents being investment grade</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Inflation rate</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Listed credit indices with a majority of its individual constituents being non-investment grade or unrated</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Issuer credit spread rate</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_del/2025/1265/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

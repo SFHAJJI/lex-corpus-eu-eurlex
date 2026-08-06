@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025l0516:2025-03-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025L0516",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2025-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-03-11",
+      "valid_time_source": "publisher",
+      "title": "Council Directive (EU) 2025/516 of 11 March 2025 amending Directive 2006/112/EC as regards VAT rules for the digital age",
+      "title_short": "Council Directive (EU) 2025/516 of 11 March 2025 amending Directive 2006/112/EC as regards\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0516",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "aaf936a693f4d992685b774bc58449e7802a0d6f6df0553948e4c52aa8d1ef04",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0516",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0516"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2025/516 du Conseil du 11 mars 2025 modifiant la directive 2006/112/CE en ce qui concerne les r\u00E8gles en mati\u00E8re de TVA adapt\u00E9es \u00E0 l\u2019\u00E8re num\u00E9rique",
+      "title_short": "Directive (UE) 2025/516 du Conseil du 11 mars 2025 modifiant la directive 2006/112/CE en c\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025L0516",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "69ac86cd23fa54b05524fb84d578b384bae5ef99455f69b30fa9d5e2d006df3f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025L0516",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025L0516"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025L0516",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "50024efa0ed026e8690d6ecb16e1deed3d0bdc9794259304f32d8a5857d7e5ae"
+}

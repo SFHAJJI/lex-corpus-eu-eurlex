@@ -1,0 +1,69 @@
+{
+  "lex_id": "eu-eurlex:32012r1215r(08):2020-10-15",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32012R1215R(08)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2020-10-15",
+  "valid_time_source": "publisher",
+  "publication_date": "2020-10-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2020-10-15",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif au r\u00E8glement (UE) no 1215/2012 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9cembre 2012 concernant la comp\u00E9tence judiciaire, la reconnaissance et l\u0027ex\u00E9cution des d\u00E9cisions en mati\u00E8re civile et commerciale (\u00ABJournal officiel de l\u0027Union europ\u00E9enne\u00BB L 351 du 20 d\u00E9cembre 2012)",
+      "title_short": "Rectificatif au r\u00E8glement (UE) no 1215/2012 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9ce\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1215R%2808%29",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1215R%2808%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2020-10-15",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif au r\u00E8glement (UE) no 1215/2012 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9cembre 2012 concernant la comp\u00E9tence judiciaire, la reconnaissance et l\u0027ex\u00E9cution des d\u00E9cisions en mati\u00E8re civile et commerciale (\u00ABJournal officiel de l\u0027Union europ\u00E9enne\u00BB L 351 du 20 d\u00E9cembre 2012)",
+      "title_short": "Rectificatif au r\u00E8glement (UE) no 1215/2012 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9ce\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1215R%2808%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "821d732ebcee167f6ffad05f0cf7d7a088dc3bb7f0f2172ea91b82f7961441a3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1215R%2808%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1215R%2808%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32012R1215R(08)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "32b6bb0fe346d1b3956b4c3ee7562891c09932857c43cb9ac06817528e8307d5"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32003l0088:2003-11-04",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32003L0088",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2003-11-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2003-11-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2003-11-04",
+      "valid_time_source": "publisher",
+      "title": "Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time",
+      "title_short": "Directive 2003/88/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "0d23ad4953be900de8a614fea4022aa46086e0bdc2fdfd6d0fde0cd84429e4b6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2003-11-04",
+      "valid_time_source": "publisher",
+      "title": "Directive 2003/88/CE du Parlement europ\u00E9en et du Conseil du 4 novembre 2003 concernant certains aspects de l\u0027am\u00E9nagement du temps de travail",
+      "title_short": "Directive 2003/88/CE du Parlement europ\u00E9en et du Conseil du 4 novembre 2003 concernant cer\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0088",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a2f3928f9a3709d32338cba8aecc93c7ee8d1a53c3ff12677caf456956b4be69",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0088",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0088"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32003L0088",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "employment",
+    "scope_reasons": "domain:employment:seed"
+  },
+  "record_sha256": "270e241076834ff949f0dc26a77568290ea56b956485769231d324d0de724c68"
+}

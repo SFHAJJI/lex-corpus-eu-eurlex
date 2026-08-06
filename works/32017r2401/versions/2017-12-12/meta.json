@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32017r2401:2017-12-12",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32017R2401",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2017-12-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2017-12-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2017-12-12",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms",
+      "title_short": "Regulation (EU) 2017/2401",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2401",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c2ba97cc7e8351c6841775cf59c3672c2cf8439a5e462edc1b7b81871827e8b7",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2401",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2401"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2017-12-12",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2017/2401 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9cembre 2017 modifiant le r\u00E8glement (UE) no 575/2013 concernant les exigences prudentielles applicables aux \u00E9tablissements de cr\u00E9dit et aux entreprises d\u2019investissement",
+      "title_short": "R\u00E8glement (UE) 2017/2401 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9cembre 2017 modifiant\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2401",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2c8a42ffab009ad4693c140e514e869b1f8e3adf6544d82fbde91542e836851d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2401",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2401"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32017R2401",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "860681fc64fbf76777cfee40e03484e34001c25ca18d32cd1d0a8c7f08a37b7e"
+}

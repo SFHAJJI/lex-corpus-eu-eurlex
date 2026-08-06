@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025l0025:2024-12-19",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025L0025",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2024-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-12-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-12-19",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2025/25 of the European Parliament and of the Council of 19 December 2024 amending Directives 2009/102/EC and (EU) 2017/1132 as regards further expanding and upgrading the use of digital tools and processes in company law (Text with EEA relevance)",
+      "title_short": "Directive (EU) 2025/25",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0025",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "41b6b75f285c50cdd7269cd712c07fa66c9a3fefd23bb5117034b2bdb06e4c03",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0025",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0025"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-12-19",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2025/25 du Parlement europ\u00E9en et du Conseil du 19 d\u00E9cembre 2024 modifiant les directives 2009/102/CE et (UE) 2017/1132 en ce qui concerne l\u2019extension et l\u2019am\u00E9lioration de l\u2019utilisation des outils et processus num\u00E9riques dans le domaine du droit des soci\u00E9t\u00E9s (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive (UE) 2025/25 du Parlement europ\u00E9en et du Conseil du 19 d\u00E9cembre 2024 modifiant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025L0025",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b674bab41ad2acd47a3bf38fe9c8a0053dc55f6ca61851e8ecd3ef1ca7dae9c1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025L0025",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025L0025"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025L0025",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "2cd620e8e9207f2a9cb13447c1121f91e996db1c5110f1cccac5fb7eb804f476"
+}

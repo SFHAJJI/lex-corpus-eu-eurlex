@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32024l1799:2024-06-13",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024L1799",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2024-06-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-06-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-06-13",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2024/1799 of the European Parliament and of the Council of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (Text with EEA relevance)",
+      "title_short": "Directive (EU) 2024/1799",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1799",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "38823b909d6f60474fc4da19461f7c9a005716a65db30af909d622211531dac1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1799",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1799"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-06-13",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2024/1799 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 \u00E9tablissant des r\u00E8gles communes visant \u00E0 promouvoir la r\u00E9paration des biens et modifiant le r\u00E8glement (UE) 2017/2394 et les directives (UE) 2019/771 et (UE) 2020/1828 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive (UE) 2024/1799 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 \u00E9tablissant d\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1799",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5e29641f5e998da8a6c92e8781aa6aa60cbac8e95eab5d675a98cc31e702468a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1799",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1799"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32024L1799",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "2fcb515ae84183c333143d262ade0645e10b8ec94d4298d6a69fce5396ce7828"
+}

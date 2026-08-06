@@ -1,0 +1,69 @@
+{
+  "lex_id": "eu-eurlex:32024r2847r(01):2024-12-05",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024R2847R(01)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2024-12-05",
+  "valid_time_source": "publisher",
+  "publication_date": "2024-12-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-12-05",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 23.10.2024)",
+      "title_short": "Corrigendum to Regulation (EU) 2024/2847",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R%2801%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c1bbbc0e2734c7f39b6a1b8d8ea4b44b070d349732a7b89ca349b164e49027ff",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R%2801%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847R%2801%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-12-05",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (OJ L, 2024/2847, 23.10.2024)",
+      "title_short": "Corrigendum to Regulation (EU) 2024/2847",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2847R%2801%29",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2847R%2801%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32024R2847R(01)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "9c4841f590eba3157130d1823e015c8923b3a3016f7db7992db9b1205d538122"
+}

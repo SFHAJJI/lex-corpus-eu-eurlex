@@ -1,0 +1,69 @@
+{
+  "lex_id": "eu-eurlex:32011l0016r(02):2013-06-14",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32011L0016R(02)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2013-06-14",
+  "valid_time_source": "publisher",
+  "publication_date": "2013-06-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2013-06-14",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive 2011/16/UE du Conseil du 15\u00A0f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE ( JO L 64 du 11.3.2011 )",
+      "title_short": "Rectificatif \u00E0 la directive 2011/16/UE du Conseil du 15\u00A0f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ra\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0016R%2802%29",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0016R%2802%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2013-06-14",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive 2011/16/UE du Conseil du 15\u00A0f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE ( JO L 64 du 11.3.2011 )",
+      "title_short": "Rectificatif \u00E0 la directive 2011/16/UE du Conseil du 15\u00A0f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ra\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0016R%2802%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d32b1e62710cf87392776fdb248fbe5d29105aef1bab6ac78fa57aed412ba504",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0016R%2802%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0016R%2802%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32011L0016R(02)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "a0b8eeaa8be2438f17769cfb3e223b68aafc51bf479ba8622e1dc93d35ebd7fe"
+}

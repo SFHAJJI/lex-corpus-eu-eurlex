@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20250502-2321 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202500855EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2025/855</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">5.5.2025</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            COMMISSION DELEGATED REGULATION (EU) 2025/855</p>
+            <p class="oj-doc-ti">of 28 January 2025
+         </p>
+            <p class="oj-doc-ti">amending the regulatory technical standards laid down in Delegated Regulation (EU) 2021/931 as regards the specification of the formula for calculating the supervisory delta of call and put options mapped to the commodity risk category</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) No 575/2013 of 26 June 2013 of the European Parliament and of the Council on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 <a id="ntc1-L_202500855EN.000101-E0001" href="#ntr1-L_202500855EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 279a(3), third subparagraph, thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">According to Article 279a(3), point (a), of Regulation (EU) No 575/2013, the formula that institutions are to use to calculate the supervisory delta of call and put options mapped to the commodity risk category compatible with market conditions in which commodity prices may be negative should also be specified in accordance with international regulatory developments, complementing the similar formula for call and put options mapped to the interest rate risk category.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Chapter CRE52 of the Basel Framework, adopted by the Basel Committee on Banking Supervision (BCBS) <a id="ntc2-L_202500855EN.000101-E0002" href="#ntr2-L_202500855EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, sets out the standardised approach for counterparty credit risk (SA-CCR). Within that Chapter, point 52.40 specifies the formula that institutions are to use to calculate the supervisory delta of call and put options mapped to a specific risk category. Question 2 to that point 52.40 raises the issue of how the supervisory delta for options should be calculated when the term P/K is zero or negative such that the term ln(P/K) cannot be calculated, for example in a negative interest rate environment. The BCBS has answered to that question that, in such cases, credit institutions are to use a slightly different formula to calculate the supervisory delta of call and put options, i.e. they should incorporate into that formula a shift in the price value and strike value of the options concerned by adding lambda (‘λ’), where λ should represent the presumed lowest possible extent to which interest rates in the respective currency can become negative. A similar approach should be followed in the case of the supervisory delta of call and put options mapped to the commodity risk category, in situations where commodity prices may be negative. The λ shift should be large enough to enable credit institutions to calculate the supervisory delta of an option mapped to the commodity risk category in accordance with the formula laid down in Article 279a(1) of Regulation (EU) No 575/2013, but at the same time small enough not to introduce unnecessary bias in the outcome of the supervisory delta calculation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In line with the approach set out in Commission Delegated Regulation (EU) 2021/931 <a id="ntc3-L_202500855EN.000101-E0003" href="#ntr3-L_202500855EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> for options mapped to the interest rate risk category, the value of the supervisory volatility for put and call options in the commodity risk category as determined in the international standards adopted by the BCBS should be used, as it is deemed suitable for its use under Union law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Delegated Regulation (EU) 2021/931 should therefore be amended accordingly.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation is based on the draft regulatory technical standards submitted to the Commission by the European Banking Authority.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Banking Authority has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the advice of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council <a id="ntc4-L_202500855EN.000101-E0004" href="#ntr4-L_202500855EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e155-1-1" class="oj-ti-art">Article 1</p>
+               <p class="oj-normal">Delegated Regulation (EU) 2021/931 is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In Article 4(4), the introductory wording is replaced by the following:</p>
+                           <div id="001.004">
+                              <p class="oj-normal">‘4.   Institutions that either meet the conditions set out in Article 94(1) of Regulation (EU) No 575/2013, or meet the conditions set out in Article 325a(1) of that Regulation, may identify the most material risk driver by applying the following steps at inception of the transaction, and then at least on a quarterly basis:’</p>
+                           </div>;</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 5 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 1, the introductory wording is replaced by the following:</p>
+                                       <div id="005.001">
+                                          <p class="oj-normal">‘1.   Institutions shall calculate the supervisory delta (δ) of call and put options, when mapped to the interest rate risk or the commodity risk categories, that is compatible with market conditions in which interest rates or commodity prices may be negative, as follows:’</p>
+                                       </div>;</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 2 is replaced by the following:</p>
+                                       <div id="005.002">
+                                          <p class="oj-normal">‘2.   For the purposes of paragraph 1, institutions shall calculate the shift (λ) for any call and put options as follows:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                                             <col width="11%"/>
+                                             <col width="89%"/>
+                                             <tbody>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table" rowspan="2" >
+                                                      <p class="oj-tbl-txt">
+                                                         <span class="oj-italic">λ</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>=</p>
+                                                   </td>
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">max{<span class="oj-italic">threshold</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span> – min{<span class="oj-italic">P</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>, <span class="oj-italic">K</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>}, 0} if option <span class="oj-italic">j</span> is mapped to the interest rate risk category;</p>
+                                                   </td>
+                                                </tr>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">max{ – (1 + <span class="oj-italic">threshold</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>)■min{<span class="oj-italic">P</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>, <span class="oj-italic">K</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>}, 0} if option <span class="oj-italic">j</span> is mapped to the commodity risk category.</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <p class="oj-normal">where:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="20%"/>
+                                             <col width="5%"/>
+                                             <col width="75%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">
+                                                         <span class="oj-italic">P</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>
+                                                      </p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-center">=</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">the spot or forward price of the underlying instrument of the option <span class="oj-italic">j</span>;</p>
+                                                   </td>
+                                                </tr>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">
+                                                         <span class="oj-italic">K</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>
+                                                      </p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-center">=</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">the strike price of the option <span class="oj-italic">j</span>;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                                             <col width="55%"/>
+                                             <col width="45%"/>
+                                             <tbody>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table" rowspan="2" >
+                                                      <p class="oj-tbl-txt">
+                                                         <span class="oj-italic">threshold</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>=</p>
+                                                   </td>
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">0,10 <span class="oj-italic">%</span>, if option <span class="oj-italic">j</span> is mapped to the interest rate risk category;</p>
+                                                   </td>
+                                                </tr>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">0,1, if option <span class="oj-italic">j</span> is mapped to the commodity risk category.</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <p class="oj-normal">                                                ’
+                                             </p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 3, the Table is replaced by the following:</p>
+                                       <p class="oj-ti-tbl" id="d1e338-1-1-table">
+                                          <span class="oj-italic">‘Table</span>
+                                       </p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                                          <col width="28%"/>
+                                          <col width="38%"/>
+                                          <col width="34%"/>
+                                          <tbody>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-hdr">Risk category</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-hdr">Underlying instrument</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-hdr">Supervisory volatility</p>
+                                                </td>
+                                             </tr>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Interest rate</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">All</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">50 %</p>
+                                                </td>
+                                             </tr>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table" rowspan="2" >
+                                                   <p class="oj-tbl-txt">Commodity</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Electricity</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">150 %</p>
+                                                </td>
+                                             </tr>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Other commodities (excluding electricity)</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">70 %’</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e372-1-1" class="oj-ti-art">Article 2</p>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 28 January 2025.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202500855EN.000101-E0001" href="#ntc1-L_202500855EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >OJ L 176, 27.6.2013, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2013/575/oj" >http://data.europa.eu/eli/reg/2013/575/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202500855EN.000101-E0002" href="#ntc2-L_202500855EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  
+            <a href="https://www.bis.org/basel_framework/chapter/CRE/52.htm?inforce=20230101&amp;published=20200605"
+               >https://www.bis.org/basel_framework/chapter/CRE/52.htm?inforce=20230101&amp;published=20200605</a>.</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202500855EN.000101-E0003" href="#ntc3-L_202500855EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Commission Delegated Regulation (EU) 2021/931 of 1 March 2021 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards specifying the method for identifying derivative transactions with one or more than one material risk driver for the purposes of Article 277(5), the formula for calculating the supervisory delta of call and put options mapped to the interest rate risk category and the method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in the given risk category for the purposes of Article 279a(3)(a) and (b) in the standardised approach for counterparty credit risk (<a href="http://publications.europa.eu/resource/oj/JOL_2021_204_R_TOC"
+               >OJ L 204, 10.6.2021, p. 7</a>, ELI: <a href="http://data.europa.eu/eli/reg_del/2021/931/oj" >http://data.europa.eu/eli/reg_del/2021/931/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202500855EN.000101-E0004" href="#ntc4-L_202500855EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >OJ L 331, 15.12.2010, p. 12</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1093/oj" >http://data.europa.eu/eli/reg/2010/1093/oj</a>).</p>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_del/2025/855/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

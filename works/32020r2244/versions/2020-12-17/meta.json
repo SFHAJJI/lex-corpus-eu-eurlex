@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32020r2244:2020-12-17",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32020R2244",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2020-12-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2020-12-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2020-12-17",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2020/2244 of 17 December 2020 laying down rules for the application of Directive (EU) 2017/1132 of the European Parliament and of the Council as regards technical specifications and procedures for the system of interconnection of registers and repealing Commission Implementing Regulation (EU) 2015/884 (Text with EEA relevance)",
+      "title_short": "Commission Implementing Regulation (EU) 2020/2244 of 17 December 2020 laying down rules for the application of Directive (EU) 2017/1132",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R2244",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "199617f382314605e0f47dcc8c62889a08dcb64bfc7ec8dfea3f0c22c30ef251",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R2244",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R2244"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2020-12-17",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2020/2244 de la Commission du 17 d\u00E9cembre 2020 fixant les modalit\u00E9s d\u2019application de la directive (UE) 2017/1132 du Parlement europ\u00E9en et du Conseil \u00E9tablissant les sp\u00E9cifications techniques et les proc\u00E9dures n\u00E9cessaires au syst\u00E8me d\u2019interconnexion des registres et abrogeant le r\u00E8glement d\u2019ex\u00E9cution (UE) 2015/884 de la Commission (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2020/2244 de la Commission du 17 d\u00E9cembre 2020 fixant les modal\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R2244",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a85e0fed494bff2c1bd9811069a303dd2b66153b73d5d6f16ea9a7fde4477972",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R2244",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R2244"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32020R2244",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "3cbeece72ae848d9f85bfda20ca2b213006b563473f38a7b1f9ce5ce9e2683c8"
+}

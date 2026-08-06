@@ -5,11 +5,24 @@
   "document_type": "REG",
   "valid_from": "2022-10-27",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2022-10-27",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T03:28:03Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -26,6 +39,43 @@
         "reason": "not-fetched",
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2065-20221027"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2022-10-27",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2022/2065 du Parlement europ\u00E9en et du Conseil du 19\u00A0octobre 2022 relatif \u00E0 un march\u00E9 unique des services num\u00E9riques et modifiant la directive 2000/31/CE (r\u00E8glement sur les services num\u00E9riques) (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "DSA \u2014 R\u00E8glement (UE) 2022/2065 du Parlement europ\u00E9en et du Conseil du 19\u00A0octobre 2022 relatif \u00E0 \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02022R2065-20221027",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "2cb8cde262761b0e87458b5cfcf575e8732c4df40d2e00d0b440429bd12b95f9",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02022R2065-20221027",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2022R2065FR0000050.0001.doc.xml",
+          "sha256": "9ce026ae874a4a3309a20bf3f3f798e15b29018de2e4ec09bcd534be352e8bfb",
+          "source_uri": "https://publications.europa.eu/resource/cellar/e18e4c6e-8623-11ed-9887-01aa75ed71a1.0002.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2022R2065FR0000050.0001.xml",
+          "sha256": "dc85f9e5d26017de5f99433bd5b3da5a5f79d1e938edaa325ceb1876bb0b3c1e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/e18e4c6e-8623-11ed-9887-01aa75ed71a1.0002.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02022R2065-20221027"
+      }
     }
   ],
   "relations": [
@@ -35,7 +85,13 @@
     }
   ],
   "raw": {
-    "celex": "02022R2065-20221027"
+    "celex": "02022R2065-20221027",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "3dbd1520145a9e92926d56516b01910a8e469cf66af2fc1448196a43d1e4cdff"
+  "record_sha256": "013920863e2bf3ee6794d41189e4b400546eebf7b97f6819b118b5d381a1bcdc"
 }

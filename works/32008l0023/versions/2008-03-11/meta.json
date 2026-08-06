@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32008l0023:2008-03-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32008L0023",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2008-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2008-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/23/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2006/49/EC on the capital adequacy of investment firms and credit institutions, as regards the implementing powers conferred on the Commission",
+      "title_short": "Directive 2008/23/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0023",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "9ae8de40612b074d642d37a63b0cdc2f3e2d42da409d5534955607e9283e7e58",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0023",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0023"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/23/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la directive 2006/49/CE sur l\u2019ad\u00E9quation des fonds propres des entreprises d\u2019investissement et des \u00E9tablissements de cr\u00E9dit, en ce qui concerne les comp\u00E9tences d\u2019ex\u00E9cution conf\u00E9r\u00E9es \u00E0 la Commission",
+      "title_short": "Directive 2008/23/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la dire\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0023",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "32b78693864871978e72feb62837d3a491167ba71c54b8fc5c1a1d08b33ebb5a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0023",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0023"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32008L0023",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "8ce3cd6fbd4b3a73073d0c88427472cebd5c7c2a0d0ecdc05874734fc6af27b6"
+}

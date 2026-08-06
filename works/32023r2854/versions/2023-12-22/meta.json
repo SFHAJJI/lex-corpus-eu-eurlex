@@ -10,6 +10,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T03:28:03Z"
+    },
+    {
+      "event": "withdrawn_from_source",
+      "observed_from": "2026-08-06T20:32:28Z",
+      "scope": "version",
+      "detail": "publisher record absent from the current enumeration"
     }
   ],
   "expressions": [
@@ -37,5 +43,5 @@
   "raw": {
     "celex": "02023R2854-20231222"
   },
-  "record_sha256": "10ba1626d6bc2806dfeea4137e825b74c7f0f4a6951c57c52871d8dbcff71c8c"
+  "record_sha256": "82eb88e78753b6541fe9f3dedb37c3db76309e0f4463b5f52466d965c3638a7c"
 }

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:31996l0042:1996-06-25",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31996L0042",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1996-06-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1996-06-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1996-06-25",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common system of value added tax",
+      "title_short": "Council Directive 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common sys\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0042",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "e572957b8f3b773e6fd7dc690e4349bd15c7379c06b3955ccb8fac75ed6c1c8f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0042",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0042"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1996-06-25",
+      "valid_time_source": "publisher",
+      "title": "Directive 96/42/CE du Conseil du 25 juin 1996 modifiant la directive 77/388/CEE concernant le syst\u00E8me commun de taxe sur la valeur ajout\u00E9e",
+      "title_short": "Directive 96/42/CE du Conseil du 25 juin 1996 modifiant la directive 77/388/CEE concernant\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31996L0042",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "8a5222385be7560ccf6701862cc78ada49194ce1ccc3861615fc3bc6ad7d7b80",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31996L0042",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31996L0042"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31996L0042",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "18161c6d929908815b401216f5254584a170add922a68d9b6a69c9e75146bcfc"
+}

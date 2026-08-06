@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:31992l0077:1992-10-19",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31992L0077",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1992-10-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1992-10-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1992-10-19",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 92/77/EEC of 19 October 1992 supplementing the common system of value added tax and amending Directive 77/388/EEC (approximation of VAT rates)",
+      "title_short": "Council Directive 92/77/EEC of 19 October 1992 supplementing the common system of value ad\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0077",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "646b98787197acd16d1d81b48e029148fc40372ba749fef5a06e40c7fecf3d81",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0077",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0077"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1992-10-19",
+      "valid_time_source": "publisher",
+      "title": "Directive 92/77/CEE du Conseil, du 19 octobre 1992, compl\u00E9tant le syst\u00E8me commun de taxe sur la valeur ajout\u00E9e et modifiant la directive 77/388/CEE (rapprochement des taux de TVA)",
+      "title_short": "Directive 92/77/CEE du Conseil, du 19 octobre 1992, compl\u00E9tant le syst\u00E8me commun de taxe s\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31992L0077",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "8ea1072a528a4f4e52b6c21ef357b2e8f057519782b0c231405f9ff70e900dc1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31992L0077",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31992L0077"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31992L0077",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "4bd0361a537d63239a3e6721c0f959adac81f1aa8fb4984b22e197f61f451619"
+}

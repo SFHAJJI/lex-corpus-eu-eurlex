@@ -14,21 +14,62 @@
   "modifications": "Metadata converted from source RDF to JSON; bodies stored verbatim as retrieved from the publisher\u0027s dissemination channel; no text altered.",
   "document_types": [
     {
-      "code": "REG",
-      "versions": 37
+      "code": "DIR",
+      "versions": 750
     },
     {
-      "code": "DIR",
-      "versions": 27
+      "code": "REG",
+      "versions": 635
+    },
+    {
+      "code": "REG_DEL",
+      "versions": 456
+    },
+    {
+      "code": "REG_IMPL",
+      "versions": 382
+    },
+    {
+      "code": "CORRIGENDUM",
+      "versions": 61
+    },
+    {
+      "code": "TREATY",
+      "versions": 54
+    },
+    {
+      "code": "DIR_DEL",
+      "versions": 8
+    },
+    {
+      "code": "DEC_IMPL",
+      "versions": 7
+    },
+    {
+      "code": "DEC",
+      "versions": 7
+    },
+    {
+      "code": "DEC_ENTSCHEID",
+      "versions": 2
+    },
+    {
+      "code": "DIR_IMPL",
+      "versions": 1
+    },
+    {
+      "code": "DEC_DEL",
+      "versions": 1
     }
   ],
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
-  "works": 15,
-  "versions": 64,
-  "valid_from_earliest": "2013-06-28",
-  "valid_to_latest": "2026-07-27",
+  "works": 1248,
+  "versions": 2364,
+  "valid_from_earliest": "1957-03-25",
+  "valid_to_latest": "2029-03-29",
   "history_begins": "publisher",
   "ingester_version": "0.1.0"
 }

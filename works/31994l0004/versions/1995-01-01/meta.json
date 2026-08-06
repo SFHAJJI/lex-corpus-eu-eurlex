@@ -1,0 +1,65 @@
+{
+  "lex_id": "eu-eurlex:31994l0004:1995-01-01",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31994L0004",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1995-01-01",
+  "valid_to": "1997-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1995-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1995-01-01",
+      "valid_to": "1997-12-31",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 94/4/EC of 14 February 1994 amending Directives 69/169/EEC and 77/388/EEC and increasing the level of allowances for travellers from third countries and the limits on tax-free purchases in intra-Community travel",
+      "title_short": "Council Directive 94/4/EC of 14 February 1994 amending Directives 69/169/EEC and 77/388/EE\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01994L0004-19950101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01994L0004-19950101"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1995-01-01",
+      "valid_to": "1997-12-31",
+      "valid_time_source": "publisher",
+      "title": "Directive 94/4/CE du Conseil du 14 f\u00E9vrier 1994 modifiant les directives 69/169/CEE et 77/388/CEE et augmentant le niveau des franchises pour les voyageurs en provenance des pays tiers et les limites pour les achats hors taxes effectu\u00E9s lors de voyages intracommunautaires",
+      "title_short": "Directive 94/4/CE du Conseil du 14 f\u00E9vrier 1994 modifiant les directives 69/169/CEE et 77/\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01994L0004-19950101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01994L0004-19950101"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31994L0004"
+    }
+  ],
+  "raw": {
+    "celex": "01994L0004-19950101",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "published",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "cb0a03af268fa7355e6b8767742a4f093d355f4205390bd02990b46f5782d628"
+}

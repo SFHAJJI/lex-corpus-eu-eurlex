@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:31963r0118:1963-11-05",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31963R0118",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "1963-11-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1963-11-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1963-11-05",
+      "valid_time_source": "publisher",
+      "title": "Regulation No 118/63/EEC of the Council of 5 November 1963 amending Regulation No 17",
+      "title_short": "Regulation No 118/63/EEC of the Council of 5 November 1963 amending Regulation No 17",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0118",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "4c057a44c1e6fff3e3fa53cada3702bab9789d3e5d3811dbe36044df6516a7d1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0118",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0118"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1963-11-05",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement n\u00B0 118/63/CEE du Conseil, du 5 novembre 1963, portant modification de dispositions du r\u00E8glement n\u00B0 17",
+      "title_short": "R\u00E8glement n\u00B0 118/63/CEE du Conseil, du 5 novembre 1963, portant modification de dispositio\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31963R0118",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "34e8aa4f6a75f9efcda948428d981c79e75f046bc35d16090b08cc6e83ba668c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31963R0118",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31963R0118"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31963R0118",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "competition",
+    "scope_reasons": "domain:competition:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "e7515094d467d36b59e4b5992366a52c6da1ec7a27fcc0f14061bc990025d6cd"
+}

@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241206-1133 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202402979EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2024/2979</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">4.12.2024</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e42-1-1">
+            COMMISSION IMPLEMENTING REGULATION (EU) 2024/2979</p>
+            <p class="oj-doc-ti">of 28 November 2024
+         </p>
+            <p class="oj-doc-ti">laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC <a id="ntc1-L_202402979EN.000101-E0001" href="#ntr1-L_202402979EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 5a(23) thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Digital Identity Framework established by Regulation (EU) No 910/2014 is a crucial component in the establishment of a secure and interoperable digital identity ecosystem across the Union. With the European Digital Identity Wallets (‘wallets’) being the cornerstone of the framework, it aims at facilitating access to services across Member States, for natural and legal persons, while ensuring the protection of personal data and privacy.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc2-L_202402979EN.000101-E0002" href="#ntr2-L_202402979EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> and, where relevant, Directive 2002/58/EC of the European Parliament and of the Council <a id="ntc3-L_202402979EN.000101-E0003" href="#ntr3-L_202402979EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> apply to all personal data processing activities under this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 5a(23) of Regulation (EU) No 910/2014 mandates the Commission, where necessary, to establish relevant specifications and procedures. This is achieved by means of four Implementing Regulations, dealing with protocols and interfaces: Commission Implementing Regulation (EU) 2024/2982 <a id="ntc4-L_202402979EN.000101-E0004" href="#ntr4-L_202402979EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>, integrity and core functionalities: Commission Implementing Regulation (EU) 2024/2979 <a id="ntc5-L_202402979EN.000101-E0005" href="#ntr5-L_202402979EN.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, person identification data and electronic attestation of attributes: Commission Implementing Regulation (EU) 2024/2977 <a id="ntc6-L_202402979EN.000101-E0006" href="#ntr6-L_202402979EN.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>, as well as the notifications to the Commission: Commission Implementing Regulation (EU) 2024/2980 <a id="ntc7-L_202402979EN.000101-E0007" href="#ntr7-L_202402979EN.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>. This Regulation lays down the relevant requirements for the integrity and core functionalities of European Digital Identity Wallets.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission regularly assesses new technologies, practices, standards or technical specifications. To ensure the highest level of harmonisation among Member States for the development and certification of the wallets, the technical specifications set out in this Regulation rely on the work carried out on the basis of Commission Recommendation (EU) 2021/946 of 3 June 2021 on a common Union Toolbox for a coordinated approach towards a European Digital Framework <a id="ntc8-L_202402979EN.000101-E0008" href="#ntr8-L_202402979EN.000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a> and in particular the architecture and reference framework. In accordance with Recital 75 of Regulation (EU) 2024/1183 of the European Parliament and of the Council <a id="ntc9-L_202402979EN.000101-E0009" href="#ntr9-L_202402979EN.000101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>, the Commission should review and update this Implementing Regulation, if necessary, to keep it in line with global developments, the Architecture and Reference Framework, and to follow the best practices on the internal market.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure precise communication, technical differentiation, and clear assignment of responsibilities, it is necessary to distinguish between different components and configurations of wallets. A wallet solution should be understood as the complete system provided by a wallet provider that is necessary to operate a wallet. This should include the software and hardware components, as well as services, settings, and configurations needed to ensure the wallet functions properly. A wallet solution may be located on the users’ devices and environments and the provider’s backend structure. A wallet unit should be understood as a specific setup of the wallet solution for an individual user. It should include the application installed on a wallet user's device or environment that the wallet user interacts with directly (the ‘wallet instance’) and the necessary security features to protect the users’ data and transactions. These security features should involve special software or hardware to encrypt and safeguard sensitive information. A wallet instance should be part of the wallet unit and allow the wallet user to access the functionalities of their wallet.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Wallet secure cryptographic applications as separate specialised components within a wallet unit are necessary not only for the protection of critical assets, such as cryptographic private keys, but also for the provision of crucial functionalities, such as the presentation of electronic attestations of attributes. The use of common technical specifications may facilitate the access to embedded secure elements by wallet providers. Wallet secure cryptographic applications may be provided in various ways and to various kinds of wallet secure cryptographic devices. Where custom wallet secure cryptographic applications are provided by wallet providers as Java Card applets to embedded secure elements, wallet providers should follow the standards listed in Annex I or equivalent technical specifications.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Wallet units are to enable providers of person identification data or electronic attestations of attributes to verify that they are issuing this data or attestations to genuine wallet units of the wallet user.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure data protection by design and by default, the wallets should be provided with available state-of-the-art privacy enhancing techniques. These features should provide the possibility that wallets can be used without the wallet user being trackable across different wallet-relying parties, if applicable in the usage scenario. For instance, wallet providers should consider state-of-the-art privacy mitigating measures in relation to wallet unit attestations, such as using ephemeral wallet unit attestations or batch issuance. In addition, embedded disclosure policies should warn the wallet users against inappropriate or illegal disclosure of attributes from electronic attestations of attributes.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Wallet unit attestations should make it possible for wallet-relying parties which request attributes from wallet units, to verify the validity status of the wallet unit that they are communicating with, as wallet unit attestations are to be revoked when a wallet unit is no longer considered valid. The information regarding the validity status of the wallet units should be made available in an interoperable manner, to ensure that it can be used by all wallet-relying parties. Moreover, for cases where wallet users lost their wallet units or no longer have control over it, wallet providers should enable wallet users to request the revocation of their wallet unit. To ensure the privacy and unlinkability, Member States should employ privacy preserving techniques also for the wallet unit attestation. This may include the usage of multiple wallet unit attestations for different purposes, disclosing only the minimally relevant information about the wallet necessary for a transaction, or to limit the lifetime of the wallet unit attestation as an alternative to the use of revocation identifiers.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure that all wallets are technically capable of receiving and presenting person identification data and electronic attestations of attributes in cross-border scenarios without impairing interoperability, wallets should support predetermined types of data formats and selective disclosure. As set out in Regulation (EU) No 910/2014 selective disclosure is a concept empowering the owner of data to disclose only certain parts of a larger data set, in order for the receiving entity to obtain only such information as is necessary for the provision of a service requested by a user. As the wallets are to enable the user to selectively disclose attributes, the standards listed in Annex II should be implemented in a way that enables this feature of the wallets. In addition, wallets may support other formats and functionalities to facilitate specific use cases.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Logging transactions is an important tool to provide transparency, in the form of providing an overview of the transactions to the wallet user. Furthermore, logs should be used to enable the swift and easy sharing of certain information, at the request of the wallet user, with the competent supervisory authorities established pursuant Article 51 of Regulation (EU) 2016/679, in case of suspicious behaviour of wallet-relying parties.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For a wallet user to be able to sign electronically, a qualified certificate, which is bound to a qualified electronic signature creation device, should be issued to the wallet user. The wallet user should have access to a signature creation application. While the issuance of qualified certificates is a service of qualified trust service providers, wallet providers or other entities should be able to provide the other components. For instance, qualified electronic signature creation devices may be managed by qualified trust service providers as a service or they may be local to the wallet user’s device, for example, as a smartcard. Similarly, signature creation applications may be integrated in the wallet instance, be a separate app on the wallet user’s device or be provided remotely.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Data export and portability objects can log the person identification data and electronic attestations of attributes that have been issued to a particular wallet unit. These objects allow wallet users to extract the relevant data from their wallet unit in order to strengthen their right to data portability. Wallet providers are encouraged to use the same technical solutions to also implement backup and recovery processes for wallet units, making it possible to recover lost wallet units or to transfer information from one wallet provider to another, where appropriate and insofar as this can be done without impairing the right to data protection and the security of the digital identity ecosystem.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The generation of wallet-relying party specific pseudonyms should enable wallet users to authenticate themselves without providing wallet-relying parties with unnecessary information. As set out in Regulation (EU) No 910/2014, wallet users are not to be hindered from accessing services under a pseudonym, where there is no legal requirement for legal identity for authentication. Therefore, the wallets are to include a functionality to generate user-chosen and managed pseudonyms, to authenticate when accessing online services. The implementation of the specifications set out in Annex V should enable these functionalities accordingly. Further, wallet-relying parties are not to request users to provide any data other than those indicated for the intended use of wallets in the relying party register. Wallet users should be enabled to verify the registration data of relying parties at any point in time.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">As set out in Regulation (EU) 2024/1183, Member States are not, directly or indirectly, to limit access to public or private services to natural or legal persons not opting to use wallets and are to make available appropriate alternative solutions.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc10-L_202402979EN.000101-E0010" href="#ntr10-L_202402979EN.000101-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a>, and delivered its opinion on 30 September 2024.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The measures provided for in this Regulation are in accordance with the opinion of the committee referred to in Article 48 of Regulation (EU) No 910/2014,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_I">
+               <p id="d1e296-1-1" class="oj-ti-section-1">CHAPTER I</p>
+               <div class="eli-title" id="cpt_I.tit_1">
+                  <p id="L_02979EN.01000101-d-001" class="oj-ti-section-2">
+                     <span class="oj-bold">GENERAL PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e304-1-1" class="oj-ti-art">Article 1</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Subject matter and scope</p>
+                  </div>
+                  <p class="oj-normal">This Regulation lays down rules for the integrity and core functionalities of the wallets, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework.</p>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e311-1-1" class="oj-ti-art">Article 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">Definitions</p>
+                  </div>
+                  <p class="oj-normal">For the purpose of this Regulation, the following definitions apply:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(1)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(2)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(3)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(4)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(5)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet user’ means a user who is in control of the wallet unit;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(6)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(7)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet provider’ means a natural or legal person who provides wallet solutions;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(8)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(9)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘embedded disclosure policy’ means a set of rules, embedded in an electronic attestation of attributes by its provider, that indicates the conditions that a wallet-relying party has to meet to access the electronic attestation of attributes;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(10)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(11)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(12)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(13)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet cryptographic operation’ means a cryptographic mechanism necessary in the context of authentication of the wallet user and the issuance or presentation of person identification data or electronic attestations of attributes;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(14)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(15)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div id="cpt_II">
+               <p id="d1e457-1-1" class="oj-ti-section-1">CHAPTER II</p>
+               <div class="eli-title" id="cpt_II.tit_1">
+                  <p id="L_02979EN.01000101-d-002" class="oj-ti-section-2">
+                     <span class="oj-bold">INTEGRITY OF EUROPEAN DIGITAL IDENTITY WALLETS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e465-1-1" class="oj-ti-art">Article 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Wallet unit integrity</p>
+                  </div>
+                  <div id="003.001">
+                     <p class="oj-normal">1.   Wallet units shall not perform any functionality listed in Article 5a(4) of Regulation (EU) No 910/2014, except wallet user authentication to access the wallet unit, until the wallet unit has successfully authenticated the wallet user.</p>
+                  </div>
+                  <div id="003.002">
+                     <p class="oj-normal">2.   Wallet providers shall, for each wallet unit, sign or seal, at least one wallet unit attestation compliant with the requirements laid down in Article 6. The certificate used to sign or seal the wallet unit attestation shall be issued under a certificate listed in the trusted list referred to in Implementing Regulation (EU) 2024/2980.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_4">
+                  <p id="d1e480-1-1" class="oj-ti-art">Article 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="oj-sti-art">Wallet instances</p>
+                  </div>
+                  <div id="004.001">
+                     <p class="oj-normal">1.   Wallet instances shall use at least one wallet secure cryptographic device to manage critical assets.</p>
+                  </div>
+                  <div id="004.002">
+                     <p class="oj-normal">2.   Wallet providers shall ensure integrity, authenticity and confidentiality of the communication between wallet instances and wallet secure cryptographic applications.</p>
+                  </div>
+                  <div id="004.003">
+                     <p class="oj-normal">3.   Where critical assets relate to performing electronic identification at assurance level high, the wallet cryptographic operations or other operations processing critical assets shall be performed in accordance with the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Commission Implementing Regulation (EU) 2015/1502 <a id="ntc11-L_202402979EN.000101-E0011" href="#ntr11-L_202402979EN.000101-E0011"
+                           >(<span class="oj-super oj-note-tag">11</span>)</a>.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p id="d1e513-1-1" class="oj-ti-art">Article 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="oj-sti-art">Wallet secure cryptographic applications</p>
+                  </div>
+                  <div id="005.001">
+                     <p class="oj-normal">1.   Wallet providers shall ensure that wallet secure cryptographic applications:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">perform wallet cryptographic operations involving critical assets other than those needed for the wallet unit to authenticate the wallet user only in cases where those applications have successfully authenticated wallet users;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">where they authenticate wallet users in the context of performing electronic identification at assurance level high; perform authentication of wallet users, in accordance with, the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Implementing Regulation (EU) 2015/1502;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">are able to securely generate new cryptographic keys;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">are able to perform secure erasure of critical assets;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">are able to generate a proof of possession of private keys;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(f)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">protect the private keys generated by those wallet secure cryptographic applications during the existence of the keys;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(g)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">comply with the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Implementing Regulation (EU) 2015/1502;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(h)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">are the only components able to execute wallet cryptographic operations and any other operation with critical assets in the context of performing electronic identification at assurance level high.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="005.002">
+                     <p class="oj-normal">2.   Where wallet providers decide to provide a wallet secure cryptographic application to an embedded secure element these wallet providers shall base their technical solution on the technical specifications listed in Annex I or on other equivalent technical specifications.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p id="d1e578-1-1" class="oj-ti-art">Article 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="oj-sti-art">Wallet unit authenticity and validity</p>
+                  </div>
+                  <div id="006.001">
+                     <p class="oj-normal">1.   Wallet providers shall ensure that each wallet unit contains wallet unit attestations.</p>
+                  </div>
+                  <div id="006.002">
+                     <p class="oj-normal">2.   Wallet providers shall ensure that the wallet unit attestations referred to in paragraph 1 contain public keys and that the corresponding private keys are protected by a wallet secure cryptographic device.</p>
+                  </div>
+                  <div id="006.003">
+                     <p class="oj-normal">3.   Wallet providers shall:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">inform wallet users of their rights and obligations in relation to their wallet unit;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">provide mechanisms, independent of wallet units, for the secure identification and authentication of wallet users;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ensure wallet users have the right to request revocation of their wallet unit attestations, using the authentication mechanisms referred to in point (b).</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p id="d1e618-1-1" class="oj-ti-art">Article 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="oj-sti-art">Revocation of wallet unit attestations</p>
+                  </div>
+                  <div id="007.001">
+                     <p class="oj-normal">1.   Wallet providers shall be the only entities capable of revoking wallet unit attestations for wallet units that they have provided.</p>
+                  </div>
+                  <div id="007.002">
+                     <p class="oj-normal">2.   Wallet providers shall establish a publicly available policy specifying the conditions and the timeframe for the revocation of wallet unit attestations.</p>
+                  </div>
+                  <div id="007.003">
+                     <p class="oj-normal">3.   Where wallet providers have revoked wallet unit attestations, they shall inform affected wallet users within 24 hours of the revocation of their wallet units, including the reason for the revocation and the consequences for the wallet user. This information shall be provided in a manner that is concise, easily accessible and using clear and plain language.</p>
+                  </div>
+                  <div id="007.004">
+                     <p class="oj-normal">4.   Where wallet providers have revoked wallet unit attestations, they shall make publicly available the validity status of the wallet unit attestation in a privacy preserving manner and describe the location of that information in the wallet unit attestation.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III">
+               <p id="d1e644-1-1" class="oj-ti-section-1">CHAPTER III</p>
+               <div class="eli-title" id="cpt_III.tit_1">
+                  <p id="L_02979EN.01000101-d-003" class="oj-ti-section-2">
+                     <span class="oj-bold">CORE FUNCTIONALITIES AND FEATURES OF EUROPEAN DIGITAL IDENTITY WALLETS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p id="d1e652-1-1" class="oj-ti-art">Article 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="oj-sti-art">Formats for person identification data and electronic attestations of attributes</p>
+                  </div>
+                  <p class="oj-normal">Wallet providers shall ensure that wallet solutions support the usage of person identification data and electronic attestations of attributes issued in compliance with the list of standards set out in Annex II.</p>
+               </div>
+               <div class="eli-subdivision" id="art_9">
+                  <p id="d1e659-1-1" class="oj-ti-art">Article 9</p>
+                  <div class="eli-title" id="art_9.tit_1">
+                     <p class="oj-sti-art">Transaction logs</p>
+                  </div>
+                  <div id="009.001">
+                     <p class="oj-normal">1.   Irrespective of whether or not a transaction is successfully completed, wallet instances shall log all transactions with wallet-relying parties and other wallet units, including electronic signing and sealing.</p>
+                  </div>
+                  <div id="009.002">
+                     <p class="oj-normal">2.   The logged information shall at least contain:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the time and date of the transaction;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the name, contact details, and the unique identifier of the corresponding wallet-relying party and the Member State in which that wallet-relying party is established, or in case of other wallet units, relevant information from the wallet unit attestation;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">the type or types of data requested and presented in the transaction;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">in the case of non-completed transactions, the reason for such non-completion.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="009.003">
+                     <p class="oj-normal">3.   Wallet providers shall ensure integrity, authenticity and confidentiality of the logged information.</p>
+                  </div>
+                  <div id="009.004">
+                     <p class="oj-normal">4.   Wallet instances shall log reports sent by the wallet user to the data protection authorities via their wallet unit.</p>
+                  </div>
+                  <div id="009.005">
+                     <p class="oj-normal">5.   The logs referred to in paragraphs 1 and 2 shall be accessible to the wallet provider, where it is necessary for the provision of wallet services, on the basis of explicit prior consent by the wallet user.</p>
+                  </div>
+                  <div id="009.006">
+                     <p class="oj-normal">6.   The logs referred to in paragraphs 1 and 2 shall remain accessible for as long as they are required by Union law or national law.</p>
+                  </div>
+                  <div id="009.007">
+                     <p class="oj-normal">7.   Wallet providers shall enable wallet users to export the logged information referred to in paragraph 2.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_10">
+                  <p id="d1e725-1-1" class="oj-ti-art">Article 10</p>
+                  <div class="eli-title" id="art_10.tit_1">
+                     <p class="oj-sti-art">Embedded disclosure</p>
+                  </div>
+                  <div id="010.001">
+                     <p class="oj-normal">1.   Wallet providers shall ensure that electronic attestations of attributes with common embedded disclosure policies set out in Annex III can be processed by the wallet units that they provide.</p>
+                  </div>
+                  <div id="010.002">
+                     <p class="oj-normal">2.   Wallet instances shall be able to process and present such embedded disclosure policies referred to in paragraph 1 in conjunction with data received from the requesting wallet-relying party.</p>
+                  </div>
+                  <div id="010.003">
+                     <p class="oj-normal">3.   Wallet instances shall verify whether the wallet-relying party complies with the requirements of the embedded disclosure policy and inform the wallet user of the result.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_11">
+                  <p id="d1e745-1-1" class="oj-ti-art">Article 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="oj-sti-art">Qualified electronic signatures and seals</p>
+                  </div>
+                  <div id="011.001">
+                     <p class="oj-normal">1.   Wallet providers shall ensure that wallet users are able to receive, qualified certificates for qualified electronic signatures or seals which are linked to qualified signature or seal creation devices that are either local, external, or remote in relation to the wallet instances.</p>
+                  </div>
+                  <div id="011.002">
+                     <p class="oj-normal">2.   Wallet providers shall ensure that wallet solutions are able to securely interface with one of the following types of qualified signature or seal creation devices: local, external, or remotely managed qualified signature or seal creation devices for the purposes of using the qualified certificates referred to in paragraph 1.</p>
+                  </div>
+                  <div id="011.003">
+                     <p class="oj-normal">3.   Wallet providers shall ensure that wallet users who are natural persons have, at least for non-professional purposes, free-of-charge access to signature creation applications which allow the creation of free-of-charge qualified electronic signatures using the certificates referred to in paragraph 1.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_12">
+                  <p id="d1e765-1-1" class="oj-ti-art">Article 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="oj-sti-art">Signature creation applications</p>
+                  </div>
+                  <div id="012.001">
+                     <p class="oj-normal">1.   The signature creation applications used by wallet units may be provided either by wallet providers, by providers of trust services or by wallet-relying parties.</p>
+                  </div>
+                  <div id="012.002">
+                     <p class="oj-normal">2.   Signature creation applications shall have the following functions:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">signing or sealing wallet user-provided data;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">signing or sealing relying party-provided data;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">creating signatures or seals in accordance with at least the mandatory format<span class="oj-stroke">s</span> referred to in Annex IV;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">informing wallet users about the result of the signature or seal creation process.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="012.003">
+                     <p class="oj-normal">3.   The signature creation applications may either be integrated into or be external to wallet instances. Where signature creation applications rely on remote qualified signature creation devices and where they are integrated into wallet instances, they shall support the application programming interface referred to in Annex IV.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p id="d1e814-1-1" class="oj-ti-art">Article 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="oj-sti-art">Data export and portability</p>
+                  </div>
+                  <p class="oj-normal">Wallet units shall, where technically feasible and excepting cases of critical assets, support secure export and portability of personal data of the wallet user, to allow the wallet user to migrate to a wallet unit of a different wallet solution in a way that ensures level of assurance high as set out in Implementing Regulation (EU) 2015/1502.</p>
+               </div>
+               <div class="eli-subdivision" id="art_14">
+                  <p id="d1e821-1-1" class="oj-ti-art">Article 14</p>
+                  <div class="eli-title" id="art_14.tit_1">
+                     <p class="oj-sti-art">Pseudonyms</p>
+                  </div>
+                  <div id="014.001">
+                     <p class="oj-normal">1.   Wallet units shall support the generation of pseudonyms for wallet users in compliance with the technical specifications set out in Annex V.</p>
+                  </div>
+                  <div id="014.002">
+                     <p class="oj-normal">2.   Wallet units shall support the generation, upon the request of a wallet-relying party, of a pseudonym which is specific and unique to that wallet-relying party and provide this pseudonym to the wallet-relying party, either standalone or in combination with any person identification data or electronic attribute attestation requested by that wallet-relying party.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_IV">
+               <p id="d1e837-1-1" class="oj-ti-section-1">CHAPTER IV</p>
+               <div class="eli-title" id="cpt_IV.tit_1">
+                  <p id="L_02979EN.01000101-d-004" class="oj-ti-section-2">
+                     <span class="oj-bold">FINAL PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_15">
+                  <p id="d1e845-1-1" class="oj-ti-art">Article 15</p>
+                  <div class="eli-title" id="art_15.tit_1">
+                     <p class="oj-sti-art">Entry into force</p>
+                  </div>
+                  <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 28 November 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202402979EN.000101-E0001" href="#ntc1-L_202402979EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >OJ L 257, 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202402979EN.000101-E0002" href="#ntc2-L_202402979EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >OJ L 119, 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202402979EN.000101-E0003" href="#ntc3-L_202402979EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >OJ L 201, 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202402979EN.000101-E0004" href="#ntc4-L_202402979EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Commission Implementing Regulation (EU) 2024/2982 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards protocols and interfaces to be supported by the European Digital Identity Framework (<a href="https://data.europa.eu/eli/reg_impl/2024/2982/oj" >OJ L, 2024/2982, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2982/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202402979EN.000101-E0005" href="#ntc5-L_202402979EN.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Commission Implementing Regulation (EU) 2024/2979 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets (<a href="https://data.europa.eu/eli/reg_impl/2024/2979/oj" >OJ L, 2024/2979, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2979/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202402979EN.000101-E0006" href="#ntc6-L_202402979EN.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Commission Implementing Regulation (EU) 2024/2977 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets (<a href="https://data.europa.eu/eli/reg_impl/2024/2977/oj" >OJ L, 2024/2977, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2977/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202402979EN.000101-E0007" href="#ntc7-L_202402979EN.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Commission Implementing Regulation (EU) 2024/2980 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards notifications to the Commission concerning the European Digital Identity Wallet ecosystem (<a href="https://data.europa.eu/eli/reg_impl/2024/2980/oj" >OJ L, 2024/2980, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2980/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_202402979EN.000101-E0008" href="#ntc8-L_202402979EN.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2021_210_R_TOC"
+               >OJ L 210, 14.6.2021, p. 51</a>, ELI: <a href="http://data.europa.eu/eli/reco/2021/946/oj" >http://data.europa.eu/eli/reco/2021/946/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr9-L_202402979EN.000101-E0009" href="#ntc9-L_202402979EN.000101-E0009"
+               >(<span class="oj-super">9</span>)</a>  Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework (<a href="https://data.europa.eu/eli/reg/2024/1183/oj" >OJ L, 2024/1183, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1183/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr10-L_202402979EN.000101-E0010" href="#ntc10-L_202402979EN.000101-E0010"
+               >(<span class="oj-super">10</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >OJ L 295, 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr11-L_202402979EN.000101-E0011" href="#ntc11-L_202402979EN.000101-E0011"
+               >(<span class="oj-super">11</span>)</a>  Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (<a href="http://publications.europa.eu/resource/oj/JOL_2015_235_R_TOC"
+               >OJ L 235, 9.9.2015, p. 7</a>, ELI: <a href="http://data.europa.eu/eli/reg_impl/2015/1502/oj" >http://data.europa.eu/eli/reg_impl/2015/1502/oj</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402979EN.001001.fmx">
+         <div class="eli-container" id="anx_I">
+            <p class="oj-doc-ti" id="d1e35-10-1">ANNEX I</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">LIST OF STANDARDS REFERRED TO IN ARTICLE 5</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">SAM.01 Secured Applications for Mobile – Requirements for supporting 3rd party Applets on eSIM and eSE via SAM. v1.1 2023, GSMA;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">GPC_GUI_ 217 GlobalPlatform SAM Configuration Technical specification for implementation of SAM v1.0 2024-04;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">GPC_SPE_0 34 GlobalPlatform Card Specification Technical specification for smart cards v2.3.1 2018-03;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">GPC_SPE_0 07 GlobalPlatform Amendment A Confidential Card Content Management v1.2 2019-07;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">GPC_SPE_0 13 GlobalPlatform Amendment D Secure Channel Protocol 03 v1.2 2020-04;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">GPC_SPE_0 93 GlobalPlatform Amendment F Secure Channel Protocol 11 v1.4 2024-03;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">GPD_SPE_0 75 Open Mobile API Specification OMAPI API for mobile apps to access secure elements on user devices. v3.3 2018-08, GlobalPlatform.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402979EN.001101.fmx">
+         <div class="eli-container" id="anx_II">
+            <p class="oj-doc-ti" id="d1e35-11-1">ANNEX II</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">LIST OF STANDARDS REFERRED TO IN ARTICLE 8</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">ISO/IEC.18013-5:2021;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">
+               ‘Verifiable Credentials Data Model 1.1’, W3C Recommendation, 3 March 2022.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402979EN.001201.fmx">
+         <div class="eli-container" id="anx_III">
+            <p class="oj-doc-ti" id="d1e35-12-1">ANNEX III</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">LIST OF COMMON EMBEDDED DISCLOSURE POLICIES REFERRED TO IN ARTICLE 10</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">‘No policy’ indicating that no policy applies to the electronic attestations of attributes.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">‘Authorised relying parties only policy’, indicating that wallet users may only disclose electronic attestations of attributes to authenticated relying parties which are explicitly listed in the disclosure policies.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">3.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">‘Specific root of trust’ indicating that wallet users should only disclose the specific electronic attestation of attributes to authenticated wallet-relying parties with wallet-relying party access certificates derived from a specific root (or list of specific roots) or intermediate certificate(s).</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402979EN.001301.fmx">
+         <div class="eli-container" id="anx_IV">
+            <p class="oj-doc-ti" id="d1e35-13-1">ANNEX IV</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">SIGNATURE AND SEAL FORMATS REFERRED TO IN ARTICLE 12</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Mandatory signature or seal format:</p>
+                        <p class="oj-normal">PAdES (PDF Advanced Electronic Signature) as specified in ETSI EN 319 142-1 V1.1.1 (2016-04); Electronic Signatures and Infrastructures (ESI); PAdES digital signatures; Part 1: Building blocks and PAdES baseline signatures.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">List of optional signature or seal formats:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">XAdES as specified in ‘ETSI EN 319 132-1 V1.2.1 (2022-02) Electronic Signatures and Infrastructures (ESI); XAdES digital signatures; Part 1: Building blocks and XAdES baseline signatures (XAdES)’ for signing of XML format;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">JAdES as specified in ‘ETSI TS 119 182-1 V1.2.1 (2024-07) Electronic Signatures and Infrastructures (ESI); JAdES digital signatures; Part 1: Building blocks and JAdES baseline signatures’ for signing of JSON format;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">CAdES (CMS Advanced Electronic Signature) as specified in ‘ETSI EN 3191 22-1 V1.3.1 (2023-06) Electronic Signatures and Infrastructures (ESI); CAdES digital signatures; Part 1: Building blocks and CAdES baseline signatures’ for the signing of CMS format;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">ASiC (Associated Signature Container) as specified in ‘ETSI EN 319 162-1 V1.1.1 (2016-04) Electronic Signatures and Infrastructures (ESI); Associated Signature Containers (ASiC); Part 1: Building blocks and ASiC baseline containers and ETSI EN 319 162-2 V1.1.1 (2016-04) Electronic Signatures and Infrastructures (ESI); Associated Signature Containers (ASiC); Part 2: Additional ASiC containers’ for the signing of containers.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">3.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Application programming interface:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Cloud Signature Consortium (CSC) specification v2.0 (20 April 2023).</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402979EN.001401.fmx">
+         <div class="eli-container" id="anx_V">
+            <p class="oj-doc-ti" id="d1e35-14-1">ANNEX V</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">TECHNICAL SPECIFICATIONS FOR PSEUDONYM GENERATION REFERRED TO IN ARTICLE 14</span>
+            </p>
+            <p class="oj-normal">Technical specifications:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">WebAuthn – W3C Recommendation, 8 April 2021, Level 2, <a href="https://www.w3.org/TR/2021/REC-webauthn-2-20210408/" >https://www.w3.org/TR/2021/REC-webauthn-2-20210408/</a>.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2024/2979/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

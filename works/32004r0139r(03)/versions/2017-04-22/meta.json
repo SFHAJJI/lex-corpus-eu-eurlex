@@ -1,0 +1,69 @@
+{
+  "lex_id": "eu-eurlex:32004r0139r(03):2017-04-22",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32004R0139R(03)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2017-04-22",
+  "valid_time_source": "publisher",
+  "publication_date": "2017-04-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2017-04-22",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif au r\u00E8glement (CE) n\u00B0 139/2004 du Conseil du 20 janvier 2004 relatif au contr\u00F4le des concentrations entre entreprises (\u00ABle r\u00E8glement CE sur les concentrations\u00BB) (JO L 24 du 29.1.2004)",
+      "title_short": "Rectificatif au r\u00E8glement (CE) n\u00B0 139/2004 du Conseil du 20 janvier 2004 relatif au contr\u00F4\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0139R%2803%29",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0139R%2803%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2017-04-22",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif au r\u00E8glement (CE) n\u00B0 139/2004 du Conseil du 20 janvier 2004 relatif au contr\u00F4le des concentrations entre entreprises (\u00ABle r\u00E8glement CE sur les concentrations\u00BB) (JO L 24 du 29.1.2004)",
+      "title_short": "Rectificatif au r\u00E8glement (CE) n\u00B0 139/2004 du Conseil du 20 janvier 2004 relatif au contr\u00F4\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R0139R%2803%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aaa4d2c675c9c90160fd6adb9c91fb433d7d6bcf9c9cab727f613a2087261a2f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R0139R%2803%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R0139R%2803%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32004R0139R(03)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "competition",
+    "scope_reasons": "domain:competition:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "f3f802b76688bba6f17f2edc081f50356537b5f7c58c6c09f68d3a4ae8ae2e4a"
+}

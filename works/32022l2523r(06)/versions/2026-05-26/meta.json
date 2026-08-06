@@ -1,0 +1,69 @@
+{
+  "lex_id": "eu-eurlex:32022l2523r(06):2026-05-26",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32022L2523R(06)",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2026-05-26",
+  "valid_time_source": "publisher",
+  "publication_date": "2026-05-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-05-26",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive (UE) 2022/2523 du Conseil du 14 d\u00E9cembre 2022 visant \u00E0 assurer un niveau minimum d\u2019imposition mondial pour les groupes d\u2019entreprises multinationales et les groupes nationaux de grande envergure dans l\u2019Union (JO L 328 du 22.12.2022)",
+      "title_short": "Rectificatif \u00E0 la directive (UE) 2022/2523 du Conseil du 14 d\u00E9cembre 2022 visant \u00E0 assurer\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2523R%2806%29",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2523R%2806%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-05-26",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive (UE) 2022/2523 du Conseil du 14 d\u00E9cembre 2022 visant \u00E0 assurer un niveau minimum d\u2019imposition mondial pour les groupes d\u2019entreprises multinationales et les groupes nationaux de grande envergure dans l\u2019Union (JO L 328 du 22.12.2022)",
+      "title_short": "Rectificatif \u00E0 la directive (UE) 2022/2523 du Conseil du 14 d\u00E9cembre 2022 visant \u00E0 assurer\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2523R%2806%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1591b52a3707c97a65f55d5d36a44d97c92be416bf74296e618ea7ec490d43bb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2523R%2806%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2523R%2806%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32022L2523R(06)",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "0ec709b5da686561dc9ff9f3de8dacdc6d68956cbaa29ccad96b87f2dcbd86a7"
+}

@@ -1,0 +1,85 @@
+{
+  "lex_id": "eu-eurlex:32025r0302:2025-02-20",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R0302",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2025-02-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-02-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-02-20",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2025/302 of 23\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02022/2554 of the European Parliament and of the Council with regard to the standard forms, templates, and procedures for financial entities to report a major ICT-related incident and to notify a significant cyber threat",
+      "title_short": "Commission Implementing Regulation (EU) 2025/302 of 23\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02022/2554",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R0302-20250220",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R0302-20250220"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-02-20",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2025/302 de la Commission du 23\u00A0octobre 2024 d\u00E9finissant des normes techniques d\u2019ex\u00E9cution pour l\u2019application du r\u00E8glement (UE)\u00A02022/2554 du Parlement europ\u00E9en et du Conseil en ce qui concerne les formulaires, mod\u00E8les et proc\u00E9dures types permettant aux entit\u00E9s financi\u00E8res de notifier un incident majeur li\u00E9 aux TIC et de notifier une cybermenace importante (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2025/302 de la Commission du 23\u00A0octobre 2024 d\u00E9finissant des no\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02025R0302-20250220",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d914596acfc3c0dda1e1a23e71a344be3a3c412187b6960dac4af2932573ed74",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02025R0302-20250220",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2025R0302FR0000010.0001.doc.xml",
+          "sha256": "b6fcbd8e2a2faa6543dadb5c65f3ef52e8f368f697e53a50088f9ca594cf8b38",
+          "source_uri": "https://publications.europa.eu/resource/cellar/44d766a9-9f81-11f0-97c8-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2025R0302FR0000010.0001.xml",
+          "sha256": "849dbc965b3aa8888043c4130ac5181e3e5246c027e1379c74f59d562c693418",
+          "source_uri": "https://publications.europa.eu/resource/cellar/44d766a9-9f81-11f0-97c8-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02025R0302-20250220"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32025R0302"
+    }
+  ],
+  "raw": {
+    "celex": "02025R0302-20250220",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "a35a8e98c5ae5faeeae110d3125cc30b9b575459b7f3b38843bcd49277db38bd"
+}

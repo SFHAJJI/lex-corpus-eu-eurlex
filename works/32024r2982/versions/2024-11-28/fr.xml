@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241203-0859 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202402982FR.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel <br/>de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+                  <p class="oj-hd-coll">Série L</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2024/2982</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">4.12.2024</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e42-1-1">
+            RÈGLEMENT D’EXÉCUTION (UE) 2024/2982 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 28 novembre 2024
+         </p>
+            <p class="oj-doc-ti">portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil en ce qui concerne les protocoles et les interfaces que doit prendre en charge le cadre européen relatif à une identité numérique</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l’Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE <a id="ntc1-L_202402982FR.000101-E0001" href="#ntr1-L_202402982FR.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 5 <span class="oj-italic">bis</span>, paragraphe 23,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le cadre européen relatif à une identité numérique établi par le règlement (UE) n<span class="oj-super">o</span> 910/2014 est un élément essentiel pour la mise en place d’un écosystème d’identité numérique sécurisé et interopérable dans l’ensemble de l’Union. Avec pour pierre angulaire les portefeuilles européens d’identité numérique (ci-après les «portefeuilles»), il vise à faciliter l’accès aux services dans l’ensemble des États membres, pour les personnes physiques et morales, tout en garantissant la protection des données à caractère personnel et le respect de la vie privée.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le règlement (UE) 2016/679 du Parlement européen et du Conseil <a id="ntc2-L_202402982FR.000101-E0002" href="#ntr2-L_202402982FR.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> et, le cas échéant, la directive 2002/58/CE du Parlement européen et du Conseil <a id="ntc3-L_202402982FR.000101-E0003" href="#ntr3-L_202402982FR.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> s’appliquent à toutes les activités de traitement de données à caractère personnel au titre du présent règlement.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’article 5 <span class="oj-italic">bis</span>, paragraphe 23, du règlement (UE) n<span class="oj-super">o</span> 910/2014 charge la Commission d’établir, au besoin, les spécifications et les procédures applicables. À cette fin, quatre règlements d’exécution ont été prévus en ce qui concerne les protocoles et les interfaces: règlement d’exécution (UE) 2024/2982 de la Commission <a id="ntc4-L_202402982FR.000101-E0004" href="#ntr4-L_202402982FR.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>, l’intégrité et les fonctionnalités essentielles: règlement d’exécution (UE) 2024/2979 de la Commission <a id="ntc5-L_202402982FR.000101-E0005" href="#ntr5-L_202402982FR.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, les données d’identification personnelle et les attestations électroniques d’attributs: règlement d’exécution (UE) 2024/2977 de la Commission <a id="ntc6-L_202402982FR.000101-E0006" href="#ntr6-L_202402982FR.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>, ainsi que les notifications à la Commission: règlement d’exécution (UE) 2024/2980 de la Commission <a id="ntc7-L_202402982FR.000101-E0007" href="#ntr7-L_202402982FR.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>. Le présent règlement énonce les exigences applicables aux protocoles et aux interfaces.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">La Commission évalue régulièrement les nouvelles technologies, pratiques, normes ou spécifications techniques. Afin d’atteindre le niveau d’harmonisation le plus élevé possible entre les États membres en ce qui concerne le développement et la certification des portefeuilles, les spécifications techniques énoncées dans le présent règlement s’appuient sur les travaux menés sur la base de la recommandation (UE) 2021/946 de la Commission du 3 juin 2021 concernant une boîte à outils commune de l’Union pour une approche coordonnée en vue d’un cadre européen relatif à une identité numérique <a id="ntc8-L_202402982FR.000101-E0008" href="#ntr8-L_202402982FR.000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a>, et en particulier sur l’architecture et le cadre de référence. Conformément au considérant 75 du règlement (UE) 2024/1183 du Parlement européen et du Conseil <a id="ntc9-L_202402982FR.000101-E0009" href="#ntr9-L_202402982FR.000101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>, la Commission devrait réexaminer et, si besoin est, mettre à jour le présent règlement d’exécution, afin de le maintenir en adéquation avec les évolutions générales, l’architecture et le cadre de référence et de suivre les meilleures pratiques sur le marché intérieur.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de garantir la transparence et la fiabilité des parties utilisatrices de portefeuille à l’égard des utilisateurs de portefeuille, les protocoles et les interfaces utilisés par les solutions de portefeuille devraient fournir aux utilisateurs de portefeuille un mécanisme fiable permettant d’authentifier les parties utilisatrices de portefeuille et les autres unités de portefeuille. À l’inverse, les fournisseurs de portefeuille devraient prévoir un mécanisme permettant d’authentifier et de valider les unités de portefeuille de sorte que les parties utilisatrices puissent recevoir des garanties quant à la fiabilité et à l’authenticité des unités de portefeuille. En outre, l’infrastructure technique des portefeuilles devrait également être conçue de sorte que seule la plus petite quantité de données nécessaires possible soit transférée aux parties utilisatrices autorisées, tout en maintenant l’impossibilité d’établir des liens entre les différentes transactions. Pour faciliter la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs, toutes les solutions de portefeuille devraient prendre en charge un ensemble minimal de protocoles et d’interfaces.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de faciliter l’utilisation des solutions de portefeuille dans l’ensemble des États membres, toutes les solutions de portefeuille devraient prendre en charge des spécifications techniques communes pour la présentation de données d’identification personnelle et d’attestations électroniques d’attributs à des parties utilisatrices au moyen de portefeuilles, que ce soit à distance ou à proximité. Les unités de portefeuille devraient également pouvoir prendre en charge d’autres protocoles et interfaces pour des cas d’utilisation spécifiques.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de garantir la protection des données dès la conception et par défaut, les portefeuilles devraient être dotés de plusieurs éléments renforçant la protection de la vie privée pour empêcher les fournisseurs de moyens d’identification électronique et d’attestations électroniques d’attributs de combiner les données à caractère personnel obtenues lors de la fourniture d’autres services avec les données à caractère personnel traitées pour fournir les services relevant du champ d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014. Comme le prévoit le règlement (UE) n<span class="oj-super">o</span> 910/2014, les parties utilisatrices doivent s’abstenir de demander aux utilisateurs de fournir d’autres données que celles relatives à l’utilisation prévue des portefeuilles renseignées au cours de la procédure d’enregistrement. Les utilisateurs de portefeuille devraient pouvoir vérifier à tout moment les données d’enregistrement des parties utilisatrices. En outre, les unités de portefeuille devraient pouvoir afficher aux utilisateurs, dans le cadre d’une demande d’attributs, les certificats d’enregistrement de partie utilisatrice de portefeuille lorsque ceux-ci sont disponibles. Cela permettrait aux utilisateurs de portefeuille de vérifier que les attributs demandés par la partie utilisatrice de portefeuille entrent dans le cadre des attributs faisant l’objet d’un enregistrement par celle-ci, garantissant ainsi que la demande est légitime et fiable.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin de protéger les données des utilisateurs de portefeuille, les fournisseurs de portefeuille devraient veiller à ce que les unités de portefeuille valident les demandes émanant des parties utilisatrices de portefeuille ou d’autres unités de portefeuille avant de mettre des données à disposition. Pour cette raison et conformément à l’article 5 <span class="oj-italic">bis</span>, paragraphe 4, point d), ii), du règlement (UE) n<span class="oj-super">o</span> 910/2014, les fournisseurs de portefeuille devraient veiller à ce que les unités de portefeuille permettent aux utilisateurs de portefeuille de présenter des demandes d’effacement de données aux parties utilisatrices de portefeuille.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Pour faire en sorte qu’une réponse rapide soit apportée en cas de problème de protection des données en lien avec l’article 5 <span class="oj-italic">bis</span>, paragraphe 4, point d), iii), du règlement (UE) n<span class="oj-super">o</span> 910/2014, les fournisseurs de portefeuille devraient veiller à ce que les solutions de portefeuille prévoient des mécanismes de signalement d’une partie utilisatrice à l’autorité nationale chargée de la protection des données. Les fournisseurs de portefeuille et les autorités chargées de la protection des données devraient disposer d’une marge de manœuvre adéquate pour mettre en place des mécanismes appropriés leur permettant d’interagir avec les autorités des États membres chargées de la protection des données.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le Contrôleur européen de la protection des données a été consulté conformément à l’article 42, paragraphe 1, du règlement (UE) 2018/1725 du Parlement européen et du Conseil <a id="ntc10-L_202402982FR.000101-E0010" href="#ntr10-L_202402982FR.000101-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a> et a rendu son avis le 30 septembre 2024.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les mesures prévues par le présent règlement sont conformes à l’avis du comité visé à l’article 48 du règlement (UE) n<span class="oj-super">o</span> 910/2014,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e318-1-1" class="oj-ti-art">Article premier</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Objet et champ d’application</p>
+               </div>
+               <p class="oj-normal">Le présent règlement fixe des règles relatives aux protocoles et aux interfaces des solutions de portefeuille concernant:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">la présentation des attributs des données d’identification personnelle et des attestations électroniques d’attributs aux parties utilisatrices de portefeuille et à d’autres unités de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">la communication des demandes d’effacement de données aux parties utilisatrices de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">le signalement des parties utilisatrices de portefeuille aux autorités de contrôle instituées en vertu de l’article 51 du règlement (UE) 2016/679.</p>
+                           <p class="oj-normal">Le présent règlement est mis à jour régulièrement pour tenir compte de l’évolution des technologies et des normes ainsi que des travaux réalisés sur la base de la recommandation (UE) 2021/946, et en particulier sur l’architecture et le cadre de référence.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e353-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Définitions</p>
+               </div>
+               <p class="oj-normal">Aux fins du présent règlement, on entend par:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«partie utilisatrice de portefeuille»: une partie utilisatrice qui a l’intention de se fier à des unités de portefeuille pour la fourniture de services publics ou privés au moyen d’une interaction numérique;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«utilisateur de portefeuille»: un utilisateur qui contrôle l’unité de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«solution de portefeuille»: une combinaison de logiciels, de matériel, de services, de paramètres et de configurations, y compris des instances de portefeuille, une ou plusieurs applications cryptographiques sécurisées de portefeuille et un ou plusieurs dispositifs cryptographiques sécurisés de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«unité de portefeuille»: une configuration unique d’une solution de portefeuille comprenant des instances de portefeuille, des applications cryptographiques sécurisées de portefeuille et des dispositifs cryptographiques sécurisés de portefeuille, fournie par un fournisseur de portefeuille à un utilisateur de portefeuille donné;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«fournisseur de portefeuille»: une personne physique ou morale qui fournit des solutions de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«instance de portefeuille»: l’application installée et configurée sur l’appareil ou dans l’environnement d’un utilisateur de portefeuille, qui fait partie d’une unité de portefeuille et dont l’utilisateur de portefeuille se sert pour interagir avec l’unité de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«application cryptographique sécurisée de portefeuille»: une application qui gère des actifs critiques en étant liée aux fonctions cryptographiques et non cryptographiques fournies par le dispositif cryptographique sécurisé de portefeuille et en utilisant ces fonctions;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«dispositif cryptographique sécurisé de portefeuille»: un dispositif inviolable qui fournit un environnement lié à l’application cryptographique sécurisée de portefeuille et utilisé par celle-ci pour protéger les actifs critiques et fournir des fonctions cryptographiques pour l’exécution sécurisée d’opérations critiques;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«actifs critiques»: les actifs se trouvant à l’intérieur d’une unité de portefeuille ou en rapport avec celle-ci et dont l’importance est tellement exceptionnelle que la capacité de se fier à l’unité de portefeuille serait très sérieusement affaiblie si leur disponibilité, leur confidentialité ou leur intégrité étaient compromises;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«certificat d’accès de partie utilisatrice de portefeuille»: un certificat de cachet électronique ou de signature électronique qui authentifie et valide la partie utilisatrice de portefeuille et qui est délivré par un fournisseur de certificats d’accès de partie utilisatrice de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«fournisseur de certificats d’accès de partie utilisatrice de portefeuille»: une personne physique ou morale mandatée par un État membre pour délivrer des certificats d’accès de partie utilisatrice aux parties utilisatrices de portefeuille enregistrées dans cet État membre;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«attestation d’unité de portefeuille»: un objet de données qui décrit les composants de l’unité de portefeuille ou permet l’authentification et la validation de ces composants;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«politique de divulgation intégrée»: un ensemble de règles, intégrées dans une attestation électronique d’attributs par son fournisseur, qui indique les conditions qu’une partie utilisatrice de portefeuille doit remplir pour accéder à l’attestation électronique d’attributs;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«certificat d’enregistrement de partie utilisatrice de portefeuille»: un objet de données qui indique les attributs pour lesquels la partie utilisatrice a enregistré son intention de les demander aux utilisateurs;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«fournisseur de données d’identification personnelle»: une personne physique ou morale chargée de délivrer et de révoquer les données d’identification personnelle et de veiller à ce que les données d’identification personnelle d’un utilisateur soient liées de manière cryptographique à une unité de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">«liaison cryptographique»: la méthode permettant de lier les données d’identification personnelle ou les attestations électroniques d’attributs aux unités de portefeuille à l’aide de moyens cryptographiques.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e507-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Dispositions générales</p>
+               </div>
+               <p class="oj-normal">Concernant les protocoles et les interfaces visés aux articles 4 et 5, les fournisseurs de portefeuille veillent à ce que les unités de portefeuille:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">authentifient et valident les certificats d’accès de partie utilisatrice de portefeuille lors d’interactions avec des parties utilisatrices de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">authentifient et valident les attestations d’unité de portefeuille d’autres unités de portefeuille lors d’interactions avec d’autres unités de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">authentifient et valident les demandes introduites au moyen de certificats d’accès de partie utilisatrice de portefeuille ou d’attestations d’unité de portefeuille correspondant à d’autres unités de portefeuille, le cas échéant;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">authentifient et valident le certificat d’enregistrement de partie utilisatrice de portefeuille, le cas échéant;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">affichent aux utilisateurs de portefeuille les informations contenues dans les certificats d’accès de partie utilisatrice de portefeuille ou dans les attestations d’unité de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">affichent aux utilisateurs de portefeuille, le cas échéant, les attributs que ceux-ci sont tenus de présenter;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">affichent aux utilisateurs de portefeuille, le cas échéant, les informations contenues dans le certificat d’enregistrement de partie utilisatrice de portefeuille;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">présentent les attestations d’unité de portefeuille de l’unité de portefeuille aux parties utilisatrices de portefeuille ou aux unités de portefeuille qui en font la demande;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">ne présentent aucun attribut demandé aux parties utilisatrices de portefeuille ou aux unités de portefeuille tant que les exigences suivantes ne sont pas remplies:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">il a été vérifié que l’application cryptographique sécurisée de portefeuille a authentifié l’identité de l’utilisateur de portefeuille;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">il a été vérifié que les politiques de divulgation intégrées ont été traitées au sein de l’unité de portefeuille conformément à l’article 11 du règlement d’exécution (UE) 2024/2979, le cas échéant;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">il a été vérifié que les utilisateurs de portefeuille ont approuvé partiellement ou intégralement la présentation;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">permettent des techniques de protection de la vie privée qui garantissent la non-associabilité lorsque les attestations électroniques d’attributs n’exigent pas l’identification de l’utilisateur de portefeuille au moment de la présentation d’attestations ou de données d’identification personnelle entre différentes parties utilisatrices de portefeuille.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e596-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   Les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille prennent en charge les protocoles et les interfaces permettant la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs aux unités de portefeuille.</p>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille ne demandent la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs qu’à des parties disposant d’un certificat d’accès de partie utilisatrice de portefeuille authentique et valide attestant qu’elles sont:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">un fournisseur de données d’identification personnelle;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">un fournisseur d’une attestation électronique d’attributs qualifiée;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">un fournisseur d’une attestation électronique d’attributs délivrée par un organisme du secteur public responsable d’une source authentique ou pour son compte; ou</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">un fournisseur d’attestations électroniques d’attributs non qualifiées.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   En ce qui concerne la délivrance de données d’identification personnelle et d’attestations électroniques d’attributs à une unité de portefeuille, les fournisseurs de portefeuille veillent à ce que les exigences suivantes soient respectées:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">lorsque les utilisateurs de portefeuille se servent de leur unité de portefeuille pour demander la délivrance de données d’identification personnelle ou d’attestations électroniques d’attributs à des fournisseurs de données d’identification personnelle ou à des fournisseurs d’attestations électroniques d’attributs qui permettent la délivrance de données d’identification personnelle ou d’attestations électroniques dans plusieurs formats, l’unité de portefeuille en fait la demande dans tous les formats visés à l’article 8 du règlement d’exécution (UE) 2024/2979 portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 en ce qui concerne l’intégrité et les fonctionnalités essentielles des portefeuilles européens d’identité numérique;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">lorsque les utilisateurs de portefeuille se servent de leur unité de portefeuille pour interagir avec des fournisseurs de données d’identification personnelle ou des fournisseurs d’attestations électroniques d’attributs, les unités de portefeuille permettent l’authentification et la validation des composants de l’unité de portefeuille en présentant les attestations d’unité de portefeuille à ces fournisseurs à leur demande;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les solutions de portefeuille prennent en charge les mécanismes qui permettent aux fournisseurs de données d’identification personnelle de vérifier la délivrance, la mise à disposition et l’activation conformément aux exigences en matière de niveau de garantie élevé énoncées dans le règlement d’exécution (UE) 2015/1502 de la Commission <a id="ntc11-L_202402982FR.000101-E0011" href="#ntr11-L_202402982FR.000101-E0011"
+                                    >(<span class="oj-super oj-note-tag">11</span>)</a>;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les unités de portefeuille vérifient l’authenticité et la validité des données d’identification personnelle et des attestations électroniques d’attributs.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e687-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Présentation d’attributs aux parties utilisatrices de portefeuille</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   Les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille prennent en charge les protocoles et les interfaces permettant la présentation d’attributs aux parties utilisatrices de portefeuille, à distance et, le cas échéant, à proximité, conformément aux normes énumérées en annexe.</p>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   Les fournisseurs de portefeuille veillent à ce que, à la demande des utilisateurs, les unités de portefeuille répondent aux demandes dûment authentifiées et validées des parties utilisatrices de portefeuille mentionnées à l’article 3, conformément aux normes énumérées en annexe.</p>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille permettent d’apporter la preuve qu’elles détiennent les clés privées correspondant aux clés publiques utilisées dans les liaisons cryptographiques.</p>
+               </div>
+               <div id="005.004">
+                  <p class="oj-normal">4.   Les fournisseurs de portefeuille veillent à ce que les solutions de portefeuille prennent en charge la divulgation sélective d’attributs de données d’identification personnelle et d’attestations électroniques d’attributs.</p>
+               </div>
+               <div id="005.005">
+                  <p class="oj-normal">5.   Les paragraphes 1 à 4 s’appliquent mutatis mutandis aux interactions entre deux unités de portefeuille qui se trouvent à proximité l’une de l’autre.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e717-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Communication des demandes d’effacement de données</p>
+               </div>
+               <div id="006.001">
+                  <p class="oj-normal">1.   Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille prennent en charge les protocoles et les interfaces permettant aux utilisateurs de portefeuille de demander aux parties utilisatrices de portefeuille avec lesquelles ils ont interagi au moyen de ces unités de portefeuille d’effacer leurs données à caractère personnel fournies par l’intermédiaire de ces unités de portefeuille, conformément à l’article 17 du règlement (UE) 2016/679.</p>
+               </div>
+               <div id="006.002">
+                  <p class="oj-normal">2.   Les protocoles et les interfaces visés au paragraphe 1 permettent aux utilisateurs de portefeuille de sélectionner les parties utilisatrices de portefeuille à qui doivent être présentées les demandes d’effacement de données.</p>
+               </div>
+               <div id="006.003">
+                  <p class="oj-normal">3.   Les unités de portefeuille permettent à l’utilisateur de portefeuille de visualiser les demandes d’effacement de données précédemment soumises par leur intermédiaire.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e737-1-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Signalement des parties utilisatrices de portefeuille aux autorités de contrôle instituées en vertu de l’article 51 du règlement (UE) 2016/679</p>
+               </div>
+               <div id="007.001">
+                  <p class="oj-normal">1.   Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille permettent aux utilisateurs de portefeuille de signaler facilement des parties utilisatrices de portefeuille aux autorités de contrôle instituées en vertu de l’article 51 du règlement (UE) 2016/679.</p>
+               </div>
+               <div id="007.002">
+                  <p class="oj-normal">2.   Les fournisseurs de portefeuille mettent en œuvre les protocoles et les interfaces de signalement des parties utilisatrices de portefeuille conformément au droit procédural national des États membres.</p>
+               </div>
+               <div id="007.003">
+                  <p class="oj-normal">3.   Les fournisseurs de portefeuille veillent à ce que les unités de portefeuille permettent aux utilisateurs de portefeuille d’étayer leurs signalements, notamment en joignant des informations pertinentes permettant d’identifier les parties utilisatrices de portefeuille, et les propres déclarations dans un format lisible par la machine.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e757-1-1" class="oj-ti-art">Article 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Entrée en vigueur</p>
+               </div>
+               <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l’Union européenne</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 28 novembre 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">La présidente</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202402982FR.000101-E0001" href="#ntc1-L_202402982FR.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >JO L 257 du 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202402982FR.000101-E0002" href="#ntc2-L_202402982FR.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >JO L 119 du 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202402982FR.000101-E0003" href="#ntc3-L_202402982FR.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >JO L 201 du 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202402982FR.000101-E0004" href="#ntc4-L_202402982FR.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Règlement d’exécution (UE) 2024/2982 de la Commission du 28 novembre 2024 portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil en ce qui concerne les protocoles et les interfaces que doit prendre en charge le cadre européen relatif à une identité numérique (<a href="https://data.europa.eu/eli/reg_impl/2024/2982/oj" >JO L, 2024/2982, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2982/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202402982FR.000101-E0005" href="#ntc5-L_202402982FR.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Règlement d’exécution (UE) 2024/2979 de la Commission du 28 novembre 2024 portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil en ce qui concerne l’intégrité et les fonctionnalités essentielles des portefeuilles européens d’identité numérique (<a href="https://data.europa.eu/eli/reg_impl/2024/2979/oj" >JO L, 2024/2979, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2979/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202402982FR.000101-E0006" href="#ntc6-L_202402982FR.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Règlement d’exécution (UE) 2024/2977 de la Commission du 28 novembre 2024 portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil en ce qui concerne les données d’identification personnelle et les attestations électroniques d’attributs délivrées aux portefeuilles européens d’identité numérique (<a href="https://data.europa.eu/eli/reg_impl/2024/2977/oj" >JO L, 2024/2977, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2977/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202402982FR.000101-E0007" href="#ntc7-L_202402982FR.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Règlement d’exécution (UE) 2024/2980 de la Commission du 28 novembre 2024 portant modalités d’application du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil en ce qui concerne les notifications relatives à l’écosystème des portefeuilles européens d’identité numérique transmises à la Commission (<a href="https://data.europa.eu/eli/reg_impl/2024/2980/oj" >JO L, 2024/2980, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2980/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_202402982FR.000101-E0008" href="#ntc8-L_202402982FR.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2021_210_R_TOC"
+               >JO L 210 du 14.6.2021, p. 51</a>, ELI: <a href="http://data.europa.eu/eli/reco/2021/946/oj" >http://data.europa.eu/eli/reco/2021/946/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr9-L_202402982FR.000101-E0009" href="#ntc9-L_202402982FR.000101-E0009"
+               >(<span class="oj-super">9</span>)</a>  Règlement (UE) 2024/1183 du Parlement européen et du Conseil du 11 avril 2024 modifiant le règlement (UE) n<span class="oj-super">o</span> 910/2014 en ce qui concerne l’établissement du cadre européen relatif à une identité numérique (<a href="https://data.europa.eu/eli/reg/2024/1183/oj" >JO L, 2024/1183, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1183/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr10-L_202402982FR.000101-E0010" href="#ntc10-L_202402982FR.000101-E0010"
+               >(<span class="oj-super">10</span>)</a>  Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions, organes et organismes de l’Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n<span class="oj-super">o</span> 45/2001 et la décision n<span class="oj-super">o</span> 1247/2002/CE (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >JO L 295 du 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr11-L_202402982FR.000101-E0011" href="#ntc11-L_202402982FR.000101-E0011"
+               >(<span class="oj-super">11</span>)</a>  Règlement d’exécution (UE) 2015/1502 de la Commission du 8 septembre 2015 fixant les spécifications techniques et procédures minimales relatives aux niveaux de garantie des moyens d’identification électronique visés à l’article 8, paragraphe 3, du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur (<a href="http://publications.europa.eu/resource/oj/JOL_2015_235_R_TOC"
+               >JO L 235 du 9.9.2015, p. 7</a>, <a href="http://data.europa.eu/eli/reg_impl/2015/1502/oj" >http://data.europa.eu/eli/reg_impl/2015/1502/oj</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202402982FR.000701.fmx">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e35-7-1">ANNEXE</p>
+            <p id="d1e41-7-1" class="oj-ti-grseq-1">
+               <span class="oj-bold">NORMES MENTIONNÉES À L’ARTICLE 5, PARAGRAPHES 1 ET 2</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">ISO/IEC 18013-5:2021</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">ISO/IEC TS 18013-7:2024</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2024/2982/oj</p>
+      <p class="oj-normal">ISSN 1977-0693 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32017r2365:2017-12-18",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32017R2365",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2017-12-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2017-12-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2017-12-18",
+      "valid_time_source": "publisher",
+      "title": "Commission Delegated Regulation (EU) 2017/2365 of 18 December 2017 amending Directive 2014/24/EU of the European Parliament and of the Council in respect of the application thresholds for the procedures for the award of contracts (Text with EEA relevance. )",
+      "title_short": "Commission Delegated Regulation (EU) 2017/2365 of 18 December 2017 amending Directive 2014/24/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2365",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "f84bb2bc8f027793cbd1e898b43e4222ec8e26ed132b59917c6f83261620e76f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2365",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2365"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2017-12-18",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2017/2365 de la Commission du 18 d\u00E9cembre 2017 modifiant la directive 2014/24/UE du Parlement europ\u00E9en et du Conseil en ce qui concerne les seuils d\u0027application pour les proc\u00E9dures de passation des march\u00E9s (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE. )",
+      "title_short": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2017/2365 de la Commission du 18 d\u00E9cembre 2017 modifiant la directi\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2365",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0244b02e55643b0297de7f91a402441157c944e28e50467b8c5deca824f70f17",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2365",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2365"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32017R2365",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "procurement-and-ip",
+    "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "4118bbc36bbdd305ebdf6f944e3c4c8bc1a453ff561c88ca3525e4dbee7e266e"
+}

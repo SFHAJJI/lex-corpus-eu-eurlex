@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32014r1353:2014-12-15",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014R1353",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2014-12-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2014-12-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2014-12-15",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) No 1353/2014 of 15 December 2014 amending Implementing Regulation (EU) No 1156/2012 laying down detailed rules for implementing certain provisions of Council Directive 2011/16/EU on administrative cooperation in the field of taxation",
+      "title_short": "Commission Implementing Regulation (EU) No 1353/2014 of 15 December 2014 amending Implemen\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1353",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "7ff2dac5070d172df122a2526120bd5b85b5ca4c6b26ed449da73c55bfea7b74",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1353",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1353"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2014-12-15",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u0027ex\u00E9cution (UE) n \u00B0\u00A01353/2014 de la Commission du 15 d\u00E9cembre 2014 modifiant le r\u00E8glement d\u0027ex\u00E9cution (UE) n \u00B0\u00A01156/2012 \u00E9tablissant les modalit\u00E9s d\u0027application de certaines dispositions de la directive 2011/16/UE du Conseil relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal",
+      "title_short": "R\u00E8glement d\u0027ex\u00E9cution (UE) n \u00B0\u00A01353/2014 de la Commission du 15 d\u00E9cembre 2014 modifiant le\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1353",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "11c6fc52b78aaaa79d0b75d21db00cbf5e3db7926b39ded820c2e189f549f9b1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1353",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1353"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32014R1353",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "84f087c5177ae40151ce2d4fc03813cc195f37e9aab2599af463ca1be8f311e6"
+}

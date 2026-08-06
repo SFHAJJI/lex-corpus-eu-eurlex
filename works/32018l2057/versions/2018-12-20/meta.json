@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32018l2057:2018-12-20",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32018L2057",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2018-12-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2018-12-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2018-12-20",
+      "valid_time_source": "publisher",
+      "title": "Council Directive (EU) 2018/2057 of 20 December 2018 amending Directive 2006/112/EC on the common system of value added tax as regards the temporary application of a generalised reverse charge mechanism in relation to supplies of goods and services above a certain threshold",
+      "title_short": "Council Directive (EU) 2018/2057 of 20 December 2018 amending Directive 2006/112/EC on the\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2057",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "e2cd68f8098351fba755104a3a0cf6a51d5a0888fac133a1283378d8c7a880ba",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2057",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2057"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2018-12-20",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2018/2057 du Conseil du 20 d\u00E9cembre 2018 modifiant la directive 2006/112/CE relative au syst\u00E8me commun de taxe sur la valeur ajout\u00E9e en ce qui concerne l\u0027application temporaire d\u0027un m\u00E9canisme d\u0027autoliquidation g\u00E9n\u00E9ralis\u00E9 pour les livraisons de biens et prestations de services d\u00E9passant un certain seuil",
+      "title_short": "Directive (UE) 2018/2057 du Conseil du 20 d\u00E9cembre 2018 modifiant la directive 2006/112/CE\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018L2057",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1ccd5fcaa6f2d4c73a61596af3044588881027e6b62c14bf8f66f118497490ab",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018L2057",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018L2057"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32018L2057",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "3e3751e7dd4bc49a6d9305690d87f3f5492d0a0446fee8815df9755f3dbaaadc"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32008l0011:2008-03-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32008L0011",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2008-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2008-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/11/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2003/71/EC on the prospectus to be published when securities are offered to the public or admitted to trading, as regards the implementing powers conferred on the Commission (Text with EEA relevance)",
+      "title_short": "Directive 2008/11/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0011",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "4f556d17056b08652fed8d987e73dbcc5e221daf76dbf5afd000cb77c168b6fd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0011",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0011"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/11/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la directive 2003/71/CE concernant le prospectus \u00E0 publier en cas d\u2019offre au public de valeurs mobili\u00E8res ou en vue de l\u2019admission de valeurs mobili\u00E8res \u00E0 la n\u00E9gociation, en ce qui concerne les comp\u00E9tences d\u2019ex\u00E9cution conf\u00E9r\u00E9es \u00E0 la Commission (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive 2008/11/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la dire\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0011",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "831e4d172b432e0c6a726914934bc9350044ea534f96fff608b37859fc07d9b3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0011",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0011"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32008L0011",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "72ef16cbfae6b9489978568608a8d61a3a7a169350399ac6e6286352571ea0ed"
+}

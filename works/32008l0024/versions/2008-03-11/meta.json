@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32008l0024:2008-03-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32008L0024",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2008-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2008-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/24/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2006/48/EC relating to the taking up and pursuit of the business of credit institutions, as regards the implementing powers conferred on the Commission (Text with EEA relevance)",
+      "title_short": "Directive 2008/24/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0024",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "477a84c26e29f9df2d710a68c980ce12d79eba8cae6b2f3ddf55c03c8ccceb02",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0024",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0024"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/24/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la directive 2006/48/CE concernant l\u2019acc\u00E8s \u00E0 l\u2019activit\u00E9 des \u00E9tablissements de cr\u00E9dit et son exercice, en ce qui concerne les comp\u00E9tences d\u2019ex\u00E9cution conf\u00E9r\u00E9es \u00E0 la Commission (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive 2008/24/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la dire\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0024",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a460102d911c61edf99b0cbaf0024a1032aa10c94a401382fac158a29fed5505",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0024",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0024"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32008L0024",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "dcd2cf1b3be8f8362e4df640834dc805b9f00f34dbe9d18ebf4bd42f0498622b"
+}

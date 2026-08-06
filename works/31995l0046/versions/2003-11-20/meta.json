@@ -1,0 +1,79 @@
+{
+  "lex_id": "eu-eurlex:31995l0046:2003-11-20",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31995L0046",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2003-11-20",
+  "valid_to": "2018-05-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2003-11-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2003-11-20",
+      "valid_to": "2018-05-24",
+      "valid_time_source": "publisher",
+      "title": "Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data",
+      "title_short": "Directive 95/46/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01995L0046-20031120",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "56ff7fd2fae4daed392c49e1c056cc37fa0037bcc4c6197a8fab7955c32b3a1a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01995L0046-20031120",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01995L0046-20031120"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2003-11-20",
+      "valid_to": "2018-05-24",
+      "valid_time_source": "publisher",
+      "title": "Directive 95/46/CE du Parlement europ\u00E9en et du Conseil du 24 octobre 1995 relative \u00E0 la protection des personnes physiques \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel et \u00E0 la libre circulation de ces donn\u00E9es",
+      "title_short": "Directive 95/46/CE du Parlement europ\u00E9en et du Conseil du 24 octobre 1995 relative \u00E0 la pr\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01995L0046-20031120",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "276770012f3b3e7711acb7e4c0942ac64c7461da2f0c323377acc51f91b49473",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01995L0046-20031120",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01995L0046-20031120"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31995L0046"
+    }
+  ],
+  "raw": {
+    "celex": "01995L0046-20031120",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "8a4b9a6bcb0c8ce0cf93a15e14e8941e75572d0047900a16b58667ebd14e2e75"
+}

@@ -1,0 +1,111 @@
+{
+  "lex_id": "eu-eurlex:32019l1937:2023-05-02",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L1937",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2023-05-02",
+  "valid_to": "2024-03-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2023-05-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2023-05-02",
+      "valid_to": "2024-03-10",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2019/1937 of the European Parliament and of the Council of 23\u00A0October 2019 on the protection of persons who report breaches of Union law",
+      "title_short": "Directive (EU) 2019/1937",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1937-20230502",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "228258035adc617c9df902f2f2455081080355ac32c0af35fbad639d5218e739",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1937-20230502",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "en.fmx4/CL2019L1937EN0020010.0001.doc.xml",
+          "sha256": "fd014d9b9db4eced62957743c610d18fb4f9a4ec80ef663cd9a2436906b1fe24",
+          "source_uri": "https://publications.europa.eu/resource/cellar/0368afac-e3ed-11ed-a05c-01aa75ed71a1.0007.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL2019L1937EN0020010.0001.xml",
+          "sha256": "d77247354e48d97804b17e4912117bacd06d019b0a700e637d3c4c5fea2b7599",
+          "source_uri": "https://publications.europa.eu/resource/cellar/0368afac-e3ed-11ed-a05c-01aa75ed71a1.0007.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1937-20230502"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2023-05-02",
+      "valid_to": "2024-03-10",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/1937 du Parlement europ\u00E9en et du Conseil du 23\u00A0octobre 2019 sur la protection des personnes qui signalent des violations du droit de l\u2019Union",
+      "title_short": "Directive (UE) 2019/1937 du Parlement europ\u00E9en et du Conseil du 23\u00A0octobre 2019 sur la pro\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L1937-20230502",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "729c9e737d48ed50b497a7427dcf00f2492ce5317d81be1bbc7768c9fd4f58dd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L1937-20230502",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2019L1937FR0020010.0001.doc.xml",
+          "sha256": "4d7cf6de25297819f8dd3bc04f6d866ada339173181a07ea46b0d8917c2caa85",
+          "source_uri": "https://publications.europa.eu/resource/cellar/0368afac-e3ed-11ed-a05c-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2019L1937FR0020010.0001.xml",
+          "sha256": "18e802ff92bf6f9a196d884faface21697d9f1f589cf3724af8a6bc15ffb8f5f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/0368afac-e3ed-11ed-a05c-01aa75ed71a1.0001.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L1937-20230502"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32019L1937"
+    }
+  ],
+  "raw": {
+    "celex": "02019L1937-20230502",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "aml-corporate,competition,consumer-environment,wave-1-existing-instruments",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,domain:competition:relationship:resource_legal_amends_resource_legal,domain:consumer-environment:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "e63619c5c5e6c2e33229c8323cec5fd992c1cfa72a198ba902f9d1ee479dd853"
+}

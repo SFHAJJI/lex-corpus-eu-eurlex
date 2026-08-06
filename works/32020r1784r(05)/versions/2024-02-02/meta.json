@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32020r1784r(05):2024-02-02",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32020R1784R(05)",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2024-02-02",
+  "valid_time_source": "publisher",
+  "publication_date": "2024-02-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-02-02",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Regulation (EU)\u00A02020/1784 of the European Parliament and of the Council of 25\u00A0November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (OJ\u00A0L\u00A0405, 2.12.2020)",
+      "title_short": "Corrigendum to Regulation (EU)\u00A02020/1784",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1784R%2805%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "3e73f3e1b08054d8552dace92504c5aed3542867893a4181418724d703dc341f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1784R%2805%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1784R%2805%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-02-02",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif au r\u00E8glement (UE)\u00A02020/1784 du Parlement europ\u00E9en et du Conseil du 25\u00A0novembre 2020 relatif \u00E0 la signification et \u00E0 la notification dans les \u00C9tats membres des actes judiciaires et extrajudiciaires en mati\u00E8re civile ou commerciale (signification ou notification des actes) (JO\u00A0L\u00A0405 du 2.12.2020)",
+      "title_short": "Rectificatif au r\u00E8glement (UE)\u00A02020/1784 du Parlement europ\u00E9en et du Conseil du 25\u00A0novembr\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R1784R%2805%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cbed9226b55b8023e84e184b50d74a9c9a683bf03f9c5cf5551bdb0b1e6569b7",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R1784R%2805%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020R1784R%2805%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32020R1784R(05)",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "e20f9966d8425b7fbafcc2bc021ee3695703a04fc011d0c27170c6982514bf28"
+}

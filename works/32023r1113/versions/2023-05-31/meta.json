@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32023r1113:2023-05-31",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32023R1113",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2023-05-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2023-05-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2023-05-31",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2023/1113 of the European Parliament and of the Council of 31 May 2023 on information accompanying transfers of funds and certain crypto-assets and amending Directive (EU) 2015/849 (Text with EEA relevance)",
+      "title_short": "Regulation (EU) 2023/1113",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1113",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "2d662c058f4675dbdaa205850940950175b5f7af48d6dee6b6a8bfd26d12f001",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1113",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1113"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2023-05-31",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2023/1113 du Parlement europ\u00E9en et du Conseil du 31 mai 2023 sur les informations accompagnant les transferts de fonds et de certains crypto-actifs, et modifiant la directive (UE) 2015/849 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement (UE) 2023/1113 du Parlement europ\u00E9en et du Conseil du 31 mai 2023 sur les inform\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1113",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d8e5382a21250dc0a8431b69097cb7eab2ce579430afccfbb98113ae63e11181",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1113",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1113"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32023R1113",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,domain:aml-corporate:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "8c3657125a3dc03df536a3d89b6f4fdfac212ce55b3472fed9aaf95ca47e0e5b"
+}

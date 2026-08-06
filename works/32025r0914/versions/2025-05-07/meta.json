@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025r0914:2025-05-07",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R0914",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2025-05-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-05-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-05-07",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2025/914 of the European Parliament and of the Council of 7 May 2025 amending Regulation (EU) 2016/1011 as regards the scope of the rules for benchmarks, the use in the Union of benchmarks provided by an administrator located in a third country, and certain reporting requirements (Text with EEA relevance)",
+      "title_short": "Regulation (EU) 2025/914",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0914",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "d5207f29bb41ffb577d61bd06642d2525122378e7d80937541771ee147c9a110",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0914",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0914"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-05-07",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2025/914 du Parlement europ\u00E9en et du Conseil du 7 mai 2025 modifiant le r\u00E8glement (UE) 2016/1011 en ce qui concerne le champ d\u2019application des r\u00E8gles applicables aux indices de r\u00E9f\u00E9rence, l\u2019utilisation dans l\u2019Union d\u2019indices de r\u00E9f\u00E9rence fournis par un administrateur situ\u00E9 dans un pays tiers et certaines obligations d\u2019information (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement (UE) 2025/914 du Parlement europ\u00E9en et du Conseil du 7 mai 2025 modifiant le r\u00E8g\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0914",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "32eb83d6f570a2cd0fd0ee363dd87c0214dae0bbbc39ee00e8ee22eec3a2e350",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0914",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0914"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R0914",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "f5f6a89da71f6b858bb94a6373170b4c3355f98e5bf2b796dcf2d90e27dfbb13"
+}

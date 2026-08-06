@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:31962r0059:1962-07-03",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31962R0059",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "1962-07-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1962-07-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1962-07-03",
+      "valid_time_source": "publisher",
+      "title": "EEC: Regulation No 59 of the Council amending certain provisions of Regulation No 17",
+      "title_short": "EEC: Regulation No 59 of the Council amending certain provisions of Regulation No 17",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0059",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "b1087b8fab53469922bcb4aa8c1ae75c533e4e23eae05dc6185b55909acdd0c5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0059",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0059"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1962-07-03",
+      "valid_time_source": "publisher",
+      "title": "CEE: R\u00E8glement n\u00B0 59 du Conseil portant modification de dispositions du r\u00E8glement n\u00B0 17",
+      "title_short": "CEE: R\u00E8glement n\u00B0 59 du Conseil portant modification de dispositions du r\u00E8glement n\u00B0 17",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31962R0059",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "09fa7b5a02fc3188ef91faf089056c4cc4637c562e0c0331b53d9888d83882f6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31962R0059",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31962R0059"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31962R0059",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "competition",
+    "scope_reasons": "domain:competition:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "939a1c2d9b47a36644ea3c3f4628e31d0067063a4f30b72490a649018fa23b37"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32004l0066:2004-04-26",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32004L0066",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2004-04-26",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2004-04-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2004-04-26",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2004/66/EC of 26 April 2004 adapting Directives 1999/45/EC, 2002/83/EC, 2003/37/EC and 2003/59/EC of the European Parliament and of the Council and Council Directives 77/388/EEC, 91/414/EEC, 96/26/EC, 2003/48/EC and 2003/49/EC, in the fields of free movement of goods, freedom to provide services, agriculture, transport policy and taxation, by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia",
+      "title_short": "Council Directive 2004/66/EC of 26 April 2004 adapting Directives 1999/45/EC, 2002/83/EC, 2003/37/EC and 2003/59/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0066",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "a2175ee1bb2d51e6a4aae7116c96a48b7c8cde8fc252d40f48fb5fc6697b4feb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0066",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0066"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2004-04-26",
+      "valid_time_source": "publisher",
+      "title": "Directive 2004/66/CE du Conseil du 26 avril 2004 portant adaptation des directives 1999/45/CE, 2002/83/CE, 2003/37/CE et 2003/59/CE du Parlement europ\u00E9en et du Conseil et des directives 77/388/CEE, 91/414/CEE, 96/26/CE, 2003/48/CE et 2003/49/CE du Conseil, dans les domaines de la libre circulation des marchandises, de la libre prestation de services, de l\u2019agriculture, de la politique des transports et de la fiscalit\u00E9, du fait de l\u2019adh\u00E9sion de la R\u00E9publique tch\u00E8que, de l\u2019Estonie, de Chypre, de la Lettonie, de la Lituanie, de la Hongrie, de Malte, de la Pologne, de la Slov\u00E9nie et de la Slovaquie",
+      "title_short": "Directive 2004/66/CE du Conseil du 26 avril 2004 portant adaptation des directives 1999/45\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0066",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e34bc8054d323e9db6e8f2455e45708b7b255036ad17704f686aac129f6ffac8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0066",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0066"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32004L0066",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "fb5dc994bf26b4502dda186cae8c1459d4609b6e402098c1b3598079f85aa671"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32014r1152:2014-06-04",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014R1152",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2014-06-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2014-06-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2014-06-04",
+      "valid_time_source": "publisher",
+      "title": "Commission Delegated Regulation (EU) No 1152/2014 of 4 June 2014 supplementing Directive 2013/36/EU of the European Parliament and of the Council with regard to regulatory technical standards on the identification of the geographical location of the relevant credit exposures for calculating institution-specific countercyclical capital buffer rates (Text with EEA relevance)",
+      "title_short": "Commission Delegated Regulation (EU) No 1152/2014 of 4 June 2014 supplementing Directive 2013/36/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1152",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "e38dcf24aa634b71931463c9d273a09d88fa20499d181f1fe72b4bb603effff4",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1152",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1152"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2014-06-04",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) n\u00B0 1152/2014 de la Commission du 4 juin 2014 compl\u00E9tant la directive 2013/36/UE du Parlement europ\u00E9en et du Conseil par des normes techniques de r\u00E9glementation pr\u00E9cisant la m\u00E9thode \u00E0 utiliser pour d\u00E9terminer la localisation g\u00E9ographique des expositions de cr\u00E9dit pertinentes aux fins du calcul du taux de coussin de fonds propres contracyclique sp\u00E9cifique \u00E0 l\u0027\u00E9tablissement (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) n\u00B0 1152/2014 de la Commission du 4 juin 2014 compl\u00E9tant la directiv\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1152",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "13393bf4fc4ab6529842924f3e4946d85c62c97168ef6161a000f3a46df5d6c0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1152",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1152"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32014R1152",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "e70ceda8acca671fb527e49dbdffd3711b04af1031fafa50e43f62e2f49cc924"
+}

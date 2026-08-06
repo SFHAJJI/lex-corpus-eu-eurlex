@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32014l0065r(09):2017-03-10",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014L0065R(09)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2017-03-10",
+  "valid_time_source": "publisher",
+  "publication_date": "2017-03-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2017-03-10",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014)",
+      "title_short": "Corrigendum to Directive 2014/65/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065R%2809%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "41f4c75887c70c41889375a98c134f56ecc2d6be33bedee3da9b4ffd4e386ed8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065R%2809%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065R%2809%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2017-03-10",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive 2014/65/UE du Parlement europ\u00E9en et du Conseil du 15 mai 2014 concernant les march\u00E9s d\u0027instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014)",
+      "title_short": "Rectificatif \u00E0 la directive 2014/65/UE du Parlement europ\u00E9en et du Conseil du 15 mai 2014 \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0065R%2809%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "183c334ed92aac34e5fa796416af4364a9d0fff127772c8c63ffb9dbaa4291d8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0065R%2809%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0065R%2809%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32014L0065R(09)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "d9d8a7bb5a808decec16bd908d198ca8b1d77bb465e91885dba123f957db5d20"
+}

@@ -1,0 +1,88 @@
+{
+  "lex_id": "eu-eurlex:31996l0071:1997-02-10",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31996L0071",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1997-02-10",
+  "valid_to": "2020-07-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "1997-02-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1997-02-10",
+      "valid_to": "2020-07-29",
+      "valid_time_source": "publisher",
+      "title": "Directive 96/71/EC of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services",
+      "title_short": "Directive 96/71/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0071-19970210",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0071-19970210"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1997-02-10",
+      "valid_to": "2020-07-29",
+      "valid_time_source": "publisher",
+      "title": "Directive 96/71/CE du Parlement europ\u00E9en et du Conseil du 16 d\u00E9cembre 1996 concernant le d\u00E9tachement de travailleurs effectu\u00E9 dans le cadre d\u2019une prestation de services ",
+      "title_short": "Directive 96/71/CE du Parlement europ\u00E9en et du Conseil du 16 d\u00E9cembre 1996 concernant le d\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0071-19970210",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a61ab37b5d9e6e0b996734e595ca6e03e07ee5268a65e48f9af5c89d7d0b4e1b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0071-19970210",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL1996L0071FR0000020.0001.doc.xml",
+          "sha256": "ce0dbc62afd3160cb4d81d1f37f2b46141a53f5e3c886784a5226eede9232b85",
+          "source_uri": "https://publications.europa.eu/resource/cellar/56c94d70-b00a-43aa-8269-9c5b1cee12e3.0001.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL1996L0071FR0000020.0001.xml",
+          "sha256": "66a5a878125ae36aef608214b5ee6a2601cacdee11310508a0bfb7ae92e94587",
+          "source_uri": "https://publications.europa.eu/resource/cellar/56c94d70-b00a-43aa-8269-9c5b1cee12e3.0001.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0071-19970210"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31996L0071"
+    }
+  ],
+  "raw": {
+    "celex": "01996L0071-19970210",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "employment",
+    "scope_reasons": "domain:employment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "fe5c76b421953cc80e24038248846058a941fe0ef5c3e05e2e3849088dcf5c65"
+}

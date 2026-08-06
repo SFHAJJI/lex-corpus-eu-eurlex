@@ -1,0 +1,2471 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.18.0 # generated_on:20260716-1850 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202601778EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2026/1778</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">17.7.2026</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            COMMISSION IMPLEMENTING REGULATION (EU) 2026/1778</p>
+            <p class="oj-doc-ti">of 16 July 2026
+         </p>
+            <p class="oj-doc-ti">laying down the implementation arrangements for the digital product passport registry set up under Regulation (EU) 2024/1781 of the European Parliament and of the Council</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC <a id="ntc1-L_202601778EN.000101-E0001" href="#ntr1-L_202601778EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 13(5), second subparagraph, in conjunction with Article 13(5), third subparagraph, thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 13(1) of Regulation (EU) 2024/1781 requires the Commission to establish a digital registry for the digital product passport (‘the registry’) to store in a secure manner at least the unique identifiers. It is necessary to set out the main components of the registry and lay down the technical and operational roles and obligations of economic operators placing a product on the market or putting it into service within the framework of the digital product passport registry, competent national authorities and customs authorities, and the Commission. Furthermore, it is necessary to establish a log system in order to record and monitor the operations and interactions carried out in the registry in order to ensure accountability for all users, and delineate the responsibility for the maintenance, operation and security of the registry. These implementation arrangements also include rules applicable to value chain actors, competent national authorities and customs authorities, and the Commission regarding the use of the registry. Where appropriate, competent national authorities should be able to update or change the status of the digital product passport based on the checks carried out in accordance with their tasks under relevant Union law and national law that complies with Union law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The registry should provide information about products covered by delegated acts adopted under Regulation (EU) 2024/1781, to the extent that the use of a digital product passport is provided for, and, about batteries, under Regulation (EU) 2023/1542 of the European Parliament and of the Council <a id="ntc2-L_202601778EN.000101-E0002" href="#ntr2-L_202601778EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>. Further Union legislation may require that information on products be stored in the registry. That is already the case for construction products falling within the scope of Regulation (EU) 2024/3110 of the European Parliament and of the Council <a id="ntc3-L_202601778EN.000101-E0003" href="#ntr3-L_202601778EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>, toys falling within the scope of Regulation (EU) 2025/2509 of the European Parliament and of the Council <a id="ntc4-L_202601778EN.000101-E0004" href="#ntr4-L_202601778EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> and detergents and end-user surfactants falling within the scope of Regulation (EU) 2026/405 of the European Parliament and of the Council <a id="ntc5-L_202601778EN.000101-E0005" href="#ntr5-L_202601778EN.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>. Where further Union legislation refers to the registry established by Regulation (EU) 2024/1781, the implementation arrangements laid down in this Regulation should apply. This should be without prejudice to specific Union rules concerning the digital product passport registry, including rules adopted through empowerments to supplement or adapt its requirements, such as the case of construction products in Article 79(2) of Regulation (EU) 2024/3110 of the European Parliament and of the Council <a id="ntc6-L_202601778EN.000101-E0006" href="#ntr6-L_202601778EN.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>. Where the registry is interconnected with other information systems, such interconnection should not compromise the interoperability of those systems.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure the effectiveness, security and interoperability of the registry, it should consist of the following elements: a website providing a secure user interface; an Application Programming Interface (API) for registering digital product passports; a verification platform to verify and confirm the existence and completeness of the digital product passports; an identification and authorisation scheme for users; a schema for generating unique registration identifiers; a storage component for unique identifiers and commodity codes of products intended to be placed under the customs procedure ‘release for free circulation’; a semantic repository which serves as the authoritative reference for the semantic meaning, structure, versioning and interoperability requirements of digital product passport data; a log system recording relevant operations. Considering that the digital product passport system is built on a decentralised model, the registry should also include a reference list of verified digital product passport service providers registered in the registry.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure accountability, each economic operator and value chain actor (such as digital product passport service provider, repairer, refurbisher, remanufacturer, recycler) should be identified through a verification process.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In the case of a natural person acting as a sole trader which is required to be established in the Union, its identity should be proved through a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014 of the European Parliament and of the Council <a id="ntc7-L_202601778EN.000101-E0007" href="#ntr7-L_202601778EN.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>, or through an electronic identification means which meets the requirements of that Regulation with regard to the assurance level ‘high’, or through an electronic attestation of attributes issued under Union law that enables the identification of the economic operator. In the case of a natural person acting as a sole trader which is not required to be established in the Union, his/her identity should be proved through a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014, or through an electronic attestation of attributes issued under Union law that enables the identification of the economic operator.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In the case of a legal person required to be established in the Union, proof of its identity and its establishment should be verified by a qualified trust service provider through a qualified electronic seal supported by a qualified certificate for electronic seals in accordance with Regulation (EU) No 910/2014, or through a qualified electronic attestation of attributes issued under Union law that enables the identification and of establishment of the economic operator. In the case of a legal person not required to be established in the Union, proof of its identity and, where applicable, of its establishment should be verified by means of a qualified electronic seal supported by a qualified certificate for electronic seals, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014, or by means of an electronic attestation of attributes issued under Union law that enables the identification of the economic operator.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation should be without prejudice to requirements laid down in other pieces of Union law concerning the place of establishment of economic operators or, where applicable, value chain actors that place products on the market or put them into service. Therefore, where such requirements apply, the use of the registry should not circumvent or undermine their application, and the registry should be operated in a manner fully consistent with them.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Upon completion of the verification process, the economic operator should be considered to be a ‘verified economic operator’, authorised to create a user profile and manage access rights for additional users acting on behalf of the same operator, to register new digital product passports in the registry and modify existing registrations. Only an economic operator with a ‘verified’ status should be able to register digital product passports in the registry and make corrections to the existing registrations, to the benefit of the integrity and accuracy of the data. The registry should indicate whether the registration of the verified economic operator is valid. A single verification process should provide the economic operator with the ‘verified’ status up until their means for electronic identification expire, and, in any event for no longer than for 3 years. Where an economic operator does not repeat that process upon expiry of the three-year period or where its identification means have expired, it should no longer be considered a ‘verified economic operator’. Therefore, it will lose the capacity to register new digital product passports or modify any data in the registry.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For value chain actors (repairers, refurbishers, remanufacturers or other) to get access to the registry, those actors will need to go through the verification process detailed in Article 5. Therefore, only actors which have obtained the ‘verified’ status are to have access to the digital product passport registry. Their role (such as repairer, recycler, remanufacturer or other) and any actions which they perform in the registry should be specified in the delegated acts adopted under Regulation (EU) 2024/1781 or under other pieces of Union law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Economic operators or value chain actors that did not pass the identity verification before the deadline foreseen in this Regulation should be able to transfer their registered digital product passports to a verified economic operator or, where applicable, to a verified value chain actor which is to take over the responsibilities related to those digital product passports. That transfer may be also possible for any verified economic operator or verified value chain actor in case of organisational changes such as merging, splitting or sale of all or parts of the actor, cessation of activities or other circumstances.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure proper functioning of the registry and accountability for users, rules should be laid down for managing the user profile data of verified economic operators and verified value chain actors. For that purpose, each verified economic operator and verified value chain actor should always have at least one person linked to the registry account who handles the profile data. This includes but is not limited to: granting access rights to additional users where practicable, modifying and reading existing registrations, and registering new digital product passports. That person may also be the person who registers the verified economic operator or the verified value chain actor in the registry. The verified economic operator and the verified value chain actor should maintain in the registry accurate, complete and up-to-date records and ensure all the information provided is correct, including any changes to its legal representative. The economic operator and value chain actors should also be responsible for managing the electronic identity verification process in the registry. The registry should not prevent any lawful transfer of ownership of digital product passport registrations to any other verified economic operator or verified value chain actor irrespective of their own identity verification status. Where the digital product passport registry is integrated with already established EU systems (such as the European Product Registry for Energy Labelling (‘EPREL’)) that use the same level of verification for economic operators or, where relevant, for verified value chain actors, double verification should be avoided.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Competent national authorities, such as market surveillance authorities, and customs authorities should have access to the registry for the purpose of carrying out their duties based on their access rights specified in relevant Union and national laws in compliance with Union law. In order to streamline access management and ensure accountability, each Member State should designate a single national administrator as the main contact point with the Commission to manage and oversee access rights for that Member State. The designated national administrator should act as the central authority responsible for managing access rights for all relevant national authorities within that Member State, to ensure that only relevant authorities are assigned access rights to the registry. The role of the designated national administrators does not include the fulfilment of the obligations laid down in Article 22 for the Member State. Member States should inform the Commission of the name and contact details of their appointed national administrator and notify the Commission of any changes to this information. In order to ensure the security, integrity and confidentiality of the data, the delegation of access rights should be carried out under the full responsibility of the Member State taking into account the specific needs of its authorities.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission, in managing the registry in accordance with Article 13(1) of Regulation (EU) 2024/1781, should ensure that personal data is processed in accordance with the highest data protection standards in accordance with Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc8-L_202601778EN.000101-E0008" href="#ntr8-L_202601778EN.000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a>. The Commission should therefore be considered the registry’s ‘controller’ as defined in Article 3, point (8), of that Regulation. Personal data should be processed only for the purpose of the management and operation of the registry. That information should be protected from unauthorised access, use, or sharing. Those data should only be kept as long as necessary and should be deleted when user accounts are removed or access is revoked. However, if a user’s actions in the registry require data retention for auditing or traceability under Union law, those data should be kept accordingly.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Registration of the digital product passport in the registry should be carried out by the economic operator at the level of granularity set out in the applicable Union law, namely at model, batch or item level. In order to ensure full functionality of the registry, in particular for competent national authorities and customs authorities, where a digital product passport is created at item level, the corresponding batch and model identifiers should also be registered together with that digital product passport in the registry, provided that batch and model design exist for the product concerned. For products that are unique by nature, including handmade goods, no batch and model identifiers are required. The same rule applies for digital product passports issued at batch level, where a model identifier is required upon registration. In that context, the batch identifier and the model identifier should represent the higher-level grouping of the product concerned. Those identifiers should be issued by the economic operator in order to enable the competent national authorities to trace products belonging to a specific batch or model registered in the digital product passport registry. Where the same product is subject to several Union rules requiring registration of its digital product passport at different levels of granularity (model, batch or item), the digital product passport should be registered at the most granular of those levels.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Registration should be carried out by using the secure user interface of the registry provided by the Commission or through the API set up for that purpose. Once the registration of a digital product passport is successfully validated, a unique registration identifier is generated and stored in the registry and communicated according to Article 8 automatically to the actor registering the digital product passport using the same service which was used by the actor to upload the digital product passport data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure that only complete and valid digital product passports are registered, the Commission should, as the owner and manager of the registry in accordance with Article 13(1) of Regulation (EU) 2024/1781, perform an automatic verification of the submitted data. It should verify at least the data structure and the level of granularity (model, batch or item) of the digital product passport for that relevant product in accordance with the applicable Union rules. Where relevant, the product commodity codes and the link to the back-up hosted by a digital product passport service provider should also be subject to verification. The verification of the substantive correctness of the data registered remains a task for the market surveillance authorities under the applicable Union rules. Accordingly, the automated verifications should not be deemed to constitute proof of compliance with the requirements of the Union rules applicable to the product, including with market surveillance rules.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Where a digital product passport is registered in the registry, the economic operator or, where relevant, a third party acting on behalf of the economic operator is entitled to request proof of registration from the registry. That request can cover one or more digital product passports for which the economic operator is responsible. The proof of registration should serve as evidence for third parties that a particular digital product passport has been properly registered. It should be created as a secure electronic document, which can be downloaded from the registry. That proof should remain available for 90 calendar days from the date of its generation, with the possibility of regeneration, if necessary.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure the correctness and accuracy of registry data, the registry should support versioning of registered data. Each new version of the digital product passport should be linked to the original registration identifier, and each update should be time-stamped. For the purpose of secure handling of data, all operations performed should also be logged in the registry. In cases where Union law does not specify how long a digital product passport must remain available, the registry will automatically delete the digital product passport registration data 10 years after registration in accordance with the rules laid down in Commission notice The ‘Blue Guide’ on the implementation of EU product rules 2022 <a id="ntc9-L_202601778EN.000101-E0009" href="#ntr9-L_202601778EN.000101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>. Where Union law does set a specific duration, the data will be kept in the registry for that specific period.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_19">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure semantic interoperability of the digital product passports and technical functioning of the registry, a semantic repository should be set up. The semantic repository will be an evolving collection of data models and semantic definitions, expanding progressively as additional product groups are incorporated. All data contained in a digital product passport needs to be structured in accordance with common data models and semantic definitions published in the semantic repository of the registry. That framework should remain flexible and extensible to accommodate any future changes to data requirements regarding the inclusion of a product in the digital product passport. The Commission strives to ensure that the semantic repository is technically capable of publishing semantic specifications and exchanging them with other Union level repositories, including those maintained by Union institutions and bodies.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_20">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To allow reading, searching and comparing of semantic definitions and data structures, the semantic repository should include a search service. The Commission should ensure that the content of the semantic repository is always accessible through publicly documented APIs except during periods of necessary maintenance or temporary suspension of the service in accordance with Article 15. The APIs should support common data formats to facilitate automated use by external systems. Access to and use of the semantic repository and its APIs should be free of charge.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_21">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(21)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure adequate support to users, the Commission should establish a helpdesk service to provide technical support to all users of the registry where needed. The helpdesk service should operate throughout the year during standard business hours. Further details, including operational procedures, should be made available on the Commission’s website.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_22">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(22)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure the integrity, security and transparency of the registry, the Commission should maintain a robust and automated log system recording all activities within the registry. As part of the log system, comprehensive audit trails should be created. To that end, and to track all actions performed on the registry in order to ensure accountability for all users, logs should be kept of access attempts, both successful and unsuccessful, as well as modifications and administrative actions.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_23">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(23)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The retention periods for logs should be proportionate to their purposes. While logs related to data modifications should be retained for the duration of the registration to support long-term verification, incident investigations and compliance with legal obligations, logs of authentication attempts require a shorter retention period to balance security needs with data minimisation principles. Logs of administrative operations and data exchange are retained for an average period of five years.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_24">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(24)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Access to logs by competent national authorities and customs authorities for the purpose of conducting investigations or security audits, or in the event of incidents, is essential for effective cooperation and enforcement. Such access should be granted in a manner that respects the confidentiality and integrity of the logs, while allowing for timely and thorough investigations or audits.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_25">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(25)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Given the sensitive nature of the logged data, which may include personal or confidential information, the Commission should implement appropriate technical and organisational measures to protect logs against unauthorised access or unlawful processing, accidental loss, destruction or damage. Such measures should guarantee the continuity and confidentiality of logs as well as ensure their integrity and reliability as evidence. The use of encryption, access controls, and regular integrity checks should be considered best practices to fulfil these obligations.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_26">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(26)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To facilitate the effective and efficient use of the registry, the Commission should provide clear, accessible and up-to-date guidelines as well as instructions on registration procedures and data management. Making those resources available through the Commission website will ensure that all users, regardless of their technical expertise, are able to comply with their obligations. Such guidance is essential to minimise errors, reduce administrative burdens, and promote uniform application of the requirements to register across the Union.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_27">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(27)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The continual availability of the registry is a fundamental requirement for its proper functioning, as interruptions could disrupt compliance activities, market surveillance, customs controls and the free movement of goods and services within the internal market. However, planned maintenance, such as software updates, security patches, or system upgrades, may occasionally necessitate temporary inaccessibility. To mitigate disruptions, the Commission should provide advance notice of such periods on a publicly accessible website, allowing users to plan accordingly. Additionally, in exceptional circumstances, such as system malfunctions, cyber-attacks, or urgent security threats, the Commission may suspend access to the registry without prior notice to prevent data breaches, unauthorised access, or further damage. Such measures are justified by the overriding need to protect the integrity and security of the registry and the data it contains. In the event of such suspension, the Commission should act swiftly to restore normal operations and, where feasible, inform users, as soon as practicable, of the suspension and its expected duration. To ensure accountability and enable access by market surveillance authorities and customs authorities, the Commission should document the duration and timing of any outages and retain such records for at least five years.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_28">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(28)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The registry should operate in compliance with high-level security standards to protect the integrity, confidentiality and availability of its data. Therefore, the Commission should prepare an IT Security Plan which will cover cybersecurity and other IT related risk assessments, conduct technical audits and random checks to verify compliance and identify vulnerabilities, in order to ensure that the system remains resilient against cyber threats. The Commission should ensure that all security events, which include but are not limited to unauthorised access, unauthorised processing, data breaches, failures in implementation logic, are logged in accordance with the information technology security standards applied by the Commission. In addition, the registry should comply, as soon as the relevant services become available on the Union market, with an adequate level of sovereignty, based on the Cloud Sovereignty Framework <a id="ntc10-L_202601778EN.000101-E0010" href="#ntr10-L_202601778EN.000101-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_29">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(29)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission should be able to take the necessary action if it suspects fraudulent activity in the registry, which may include inappropriate downloading of information. Users have the responsibility to notify the Commission and, where relevant, the affected national authorities immediately in case of suspected malicious behaviour.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_30">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(30)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The processing of personal data in the registry is necessary under Regulation (EU) 2024/1781, including the verification of digital product passports, market surveillance, and customs controls. To ensure the authenticity and integrity of the data and to protect the rights of data subjects, the registry should process personal data stored in it, such as names, contact information, and login credentials, in accordance with Regulation (EU) 2018/1725.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_31">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(31)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The economic operator should be responsible for providing accurate and complete information to the registry. Given the potential risks associated with unauthorised access to the registry, such as data modification, the economic operator should be obliged to implement adequate technical and organisational security measures to protect its IT systems, in particular the credentials used to access the registry. The economic operator should remain liable even if a third party is authorised to register a digital product passport on behalf of the economic operator.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_32">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(32)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission, which is to be the owner and manager of the registry, should be responsible for the overall lifecycle management of the registry, including its development, availability, monitoring, updating, maintenance, and hosting. That entails inter alia the fact that the Commission has access to the registry. The Commission should also be able to access the registry in order to obtain information that is necessary for carrying out measures required under other EU legislative acts, including for the purposes of market surveillance, consumer protection and customs compliance.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_33">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(33)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">It should also remain responsible for ensuring that the data stored in it is processed securely and in compliance with Union law, including with the data protection rules.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_34">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(34)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Member States need to be able to interact with the registry to effectively carry out their market surveillance, customs controls, and other tasks laid down at national level or under Union law. Member States should remain responsible for ensuring the development, maintenance and security of national components which they use to access the system, such as national registries or information systems. To ensure appropriate protection of personal data, in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc11-L_202601778EN.000101-E0011" href="#ntr11-L_202601778EN.000101-E0011"
+                                 >(<span class="oj-super oj-note-tag">11</span>)</a>, Member States should be regarded as controllers within the meaning of Article 4, point (7), of that Regulation, when they process personal data for the purposes laid down in Union law. Member States are entitled to process data obtained from the registry in accordance with Union law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_35">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(35)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The measures provided for in this Regulation are in accordance with the opinion of the Committee established by Article 73 of Regulation (EU) 2024/1781,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e402-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Subject matter and scope</p>
+               </div>
+               <div id="001.001">
+                  <p class="oj-normal">1.   This Regulation sets out implementation arrangements for the functioning of the digital product passport registry established in accordance with Article 13 of Regulation (EU) 2024/1781 including rules that apply to economic operators that place any of the following products on the market or put them into service, requiring the existence of a digital product passport and its registration in the registry:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">products covered by delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">batteries covered by Article 77 of Regulation (EU) 2023/1542;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">construction products covered by Article 76 of Regulation (EU) 2024/3110;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">toys covered by Article 19 of Regulation (EU) 2025/2509;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">detergents and end-user surfactants covered by Article 21 of Regulation (EU) 2026/405;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">any other product covered by Union legislation requiring a digital product passport and its registration in the registry established under Article 13 of Regulation (EU) 2024/1781.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   Those implementation arrangements shall also include rules governing the use of the registry by value chain actors, competent national authorities, customs authorities and the Commission.The implementation arrangements and rules referred to in paragraph 1 of this Article relate to:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">management of access to the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the verification process that allows economic operators and value chain actors to be verified;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the technical set-up of the registry, including the semantic repository, the log system related to data exchange models and software release management;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the process of registering and storing unique identifiers;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the process of registering and storing commodity codes for products intended to be placed under the customs procedure ‘release for free circulation’;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">requirements to register, where relevant, the granularity level of the digital product passport: model, batch, item;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(g)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">statuses related to registered digital product passport data;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(h)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">data that will allow the traceability of products within their relevant product group, across the granularity levels, as referred to in Article 8(2), applicable for their digital product passport;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(i)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">update and deletion of registration data;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(j)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">processing of personal data;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(k)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">measures aimed at preventing, detecting and addressing any improper or fraudulent use of the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(l)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">technical audits;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(m)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ensuring the availability of the registry and of the data it contains.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e536-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Definitions</p>
+               </div>
+               <p class="oj-normal">For the purposes of this Regulation, the following definitions apply:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘digital product passport registry’ or ‘registry’ means the information system established and maintained by the Commission in accordance with Article 13 of Regulation (EU) 2024/1781;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘login credentials’ means a set of unique identifiers, such as a username and password, that enables a user to verify its identity in order to authenticate themselves in the registry;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘authentication token’ means a token that securely transmits information about successful authentication and is used to prove authenticated sessions or delegated access between applications and the digital product passport information system;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘identity verification process’ means the process by which a natural person or legal person provides evidence of identity and, where applicable, of establishment;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘verified economic operator’ means an economic operator that has successfully completed the identity verification process in the registry in accordance with Article 4;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘value chain actor’ means a natural or legal person, other than the economic operator, that performs activities in the value chain of a product requiring a digital product passport and its registration in the registry, such as a repairer, refurbisher, remanufacturer or recycler;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘verified value chain actor’ means a value chain actor that has successfully completed the identity verification process in the registry in accordance with Article 5;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘semantic repository’ means a collection of data models and semantic definitions that are composed of a structured and logically interrelated set of terms and their meanings specifying the core elements of the digital product passport, the definitions of names or vocabularies, the data elements and the ontology associated with specific data in order to ensure common understanding across all users, and cross-lingual interpretation used for digital product passport validation and for linking the registry data with the digital product passports;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘semantic interoperability’ means the ability of information systems and the organisations that support them to exchange data in such a way that the meaning of exchanged information is mutually understood and unambiguously interpretable by all parties, regardless of the underlying technology or jurisdiction;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘controlled vocabulary’ means a structured and authoritative set of standardised terms with defined meanings with a view to ensuring consistent representation of data attributes across digital product passports;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘semantic specification’ means any artefact published in the semantic repository, including ontologies, data models, controlled vocabularies, and code lists, together with their versioning metadata and provenance information;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘semantic conformity’ means the extent to which the data contained in a digital product passport comply with the applicable semantic specification, in that:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">all data elements required under the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or under other Union law are present;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">the mandatory (required and defined) and optional (not required but defined) data elements defined under the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or under other Union law comply with the applicable requirements, such as, regards structure, format, value type, controlled vocabulary and rules on applicability; and</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">those data elements are capable of being interpreted consistently by other systems through reference to the applicable semantic repository;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘data model’ means a structured framework that organises elements of data, standardises the structure, determines how they relate to one another, and identifies the entities, their attributes and the relationship between those entities;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘log system’ means an automated system that records and stores information on all operations and interactions carried out in the registry;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘data exchange model’ means a structured framework through which data can be exchanged between different systems and platforms;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘hash of the version of the digital product passport’ means the output generated from the relevant electronic data using a cryptographic algorithm from the relevant version of the digital product passport;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘massive data download’ means the retrieval of an exceptionally large or complex dataset - typically ranging from terabytes to petabytes in scale - which exceeds the processing or storage capabilities of conventional tools or a single local machine or interferes with monitoring safeguards.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <p class="oj-normal">The definitions of ‘product’, ‘product group’, ‘digital product passport’, ‘digital product passport service provider’, ‘placing on the market’, ‘putting into service’, ‘economic operator’, as set out in Article 2, points (1), (5), (28), (32), (40), (41) and (46), respectively, of Regulation (EU) 2024/1781, apply.</p>
+               <p class="oj-normal">For the purposes of this Regulation, ‘digital product passport’ includes the battery passport established by Article 77 of Regulation (EU) 2023/1542.</p>
+               <p class="oj-normal">The definitions of ‘authentication’, ‘qualified electronic signature’, ‘qualified trust service provider’, ‘qualified electronic seal’, ‘qualified certificate for electronic seal’ and ‘electronic time stamp’, as set out in Article 3, points (5), (12), (20), (27), (30) and (33), respectively, of Regulation (EU) No 910/2014, apply.</p>
+               <p class="oj-normal">The definition of ‘machine-readable format’, as defined in Article 2, point (13), of Directive (EU) 2019/1024 of the European Parliament and of the Council <a id="ntc12-L_202601778EN.000101-E0012" href="#ntr12-L_202601778EN.000101-E0012"
+                     >(<span class="oj-super oj-note-tag">12</span>)</a>, applies.</p>
+               <p class="oj-normal">The definition of ‘processing’, as set out in Article 3, point (3), of Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc13-L_202601778EN.000101-E0013" href="#ntr13-L_202601778EN.000101-E0013"
+                     >(<span class="oj-super oj-note-tag">13</span>)</a>, applies.</p>
+               <p class="oj-normal">The definition of ‘incident’, as set out in Article 6, point (6), of Directive (EU) 2022/2555 of the European Parliament and of the Council <a id="ntc14-L_202601778EN.000101-E0014" href="#ntr14-L_202601778EN.000101-E0014"
+                     >(<span class="oj-super oj-note-tag">14</span>)</a>, applies.</p>
+               <p class="oj-normal">The definition of ‘controller’, as set out in Article 3, point (8), of Regulation (EU) 2018/1725, applies.</p>
+               <p class="oj-normal">The definitions of ‘market surveillance’, ‘market surveillance authority’ and ‘release for free circulation’, as set out in Article 3, points (3), (4), and (25), respectively, of Regulation (EU) 2019/1020 of the European Parliament and of the Council <a id="ntc15-L_202601778EN.000101-E0015" href="#ntr15-L_202601778EN.000101-E0015"
+                     >(<span class="oj-super oj-note-tag">15</span>)</a>, apply.</p>
+               <p class="oj-normal">The definitions of ‘customs authorities’ and ‘customs controls’, as set out in Article 5, points (1) and (3), respectively, of Regulation (EU) No 952/2013, apply.</p>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e739-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Structure of the registry</p>
+               </div>
+               <p class="oj-normal">The registry shall consist of the following:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a website providing a secure user interface for economic operators, value chain actors, competent national authorities and customs authorities to access the registry;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">an API for registering the digital product passport and receiving information from the registry;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a verification platform to confirm and verify the existence and completeness of the digital product passports;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a scheme for generating unique registration identifiers;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(e)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a storage component for at least the unique identifiers and the commodity codes for products intended to be placed under the customs procedure ‘release for free circulation’;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(f)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a list of verified digital product passport service providers registered in the registry;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(g)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a semantic repository;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(h)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">a log system;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(i)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">identification and authorisation schemes for registry users.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e802-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Verification requirements for economic operators</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   Economic operators that are natural persons acting as sole traders shall be qualified as ‘verified economic operators’ if one of the following conditions is satisfied:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014; or they submit evidence of their identity by means of an electronic identification means that meets the requirements of Regulation (EU) No 910/2014 with regard to the assurance levels ‘high’, or an electronic attestation of attributes issued under Union law that enables the identification of the economic operator;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where not required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the economic operator.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   Economic operators acting as legal persons shall be qualified as ‘verified economic operators’ if one of the following conditions is satisfied:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where required to be established in the Union, they submit evidence of their identity and of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014; or after submitting evidence of their identity and of their establishment by means of a qualified electronic attestation of attributes issued under Union law that enables the identification of the economic operator;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where not required to be established in the Union, they submit evidence of their identity and, where applicable, of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the economic operator.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   Without prejudice to other Union law, access to the digital product passport registry shall be granted to verified economic operators for the purpose of registering digital product passports. .</p>
+               </div>
+               <div id="004.004">
+                  <p class="oj-normal">4.   Economic operators shall retain the status as verified economic operators until their electronic identification means expire but no longer than three years from the date of verification in accordance with paragraph 1 or 2. Once such means expire or the three-year period has expired, whichever occurs first, economic operators shall no longer be able to register new digital product passports in the registry or modify any data referred to in Article 8. They may do so only if they successfully repeat the identity verification process in accordance with paragraph 1 or 2. The status of the digital product passport in the registry shall be updated accordingly.</p>
+               </div>
+               <div id="004.005">
+                  <p class="oj-normal">5.   Without prejudice to paragraph 4, where the digital product passport registry is integrated with another Union information system with an equivalent or identical identity verification process, the economic operator already registered in that information system is not required to undergo a new identity verification process in the digital product passport registry.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e860-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Verification requirements for value chain actors</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   A value chain actor who is a natural person acting as a sole trader shall obtain a verified status in the registry if one of the two following conditions is fulfilled:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014; or they submit evidence of their identity by means of an electronic identification means that meets the requirements of Regulation (EU) No 910/2014 with regard to the assurance levels ‘high’, or an electronic attestation of attributes issued under Union law that enables the identification of the value chain actor;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where not required to be established in the Union, they submit evidence of their identity by means of a qualified electronic signature supported by a qualified certificate for electronic signatures in accordance with Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the value chain actor.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   A value chain actor acting as a legal person shall obtain a verified status in the registry if one of the following conditions is satisfied:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where required to be established in the Union, they submit evidence of their identity and of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014; or they submit evidence of their identity and of their establishment by means of a qualified electronic attestation of attributes issued under Union law that enables the identification of the value chain actor;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where not required to be established in the Union, they submit evidence of their identity and, where applicable, of their establishment by means of a qualified electronic seal supported by a qualified certificate for electronic seal, issued by a qualified trust service provider pursuant to Regulation (EU) No 910/2014, or an electronic attestation of attributes issued under Union law that enables the identification of the value chain actor.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   Only verified value chain actors shall have access to the registry and may perform, where specified in the relevant Union law, actions in the registry.</p>
+               </div>
+               <div id="005.004">
+                  <p class="oj-normal">4.   A value chain actor shall retain the status as verified until their electronic identification means expire and in any event no longer than three years from the date of verification in accordance with paragraph 1 or 2. Once such means have expired or once the three-year period has expired, whichever occurs first, these actors shall no longer be able to perform registrations or modify any data in the registry. They may do so only if they successfully repeat the identity verification process in accordance with paragraph 1 or 2.</p>
+               </div>
+               <div id="005.005">
+                  <p class="oj-normal">5.   Without prejudice to paragraph 4, where the digital product passport registry is integrated with another Union information system with an equivalent or identical identity verification process, the value chain actor already registered in that information system is not required to undergo a new identity verification process in the digital product passport registry.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e918-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Management of verified economic operator and verified value chain actor user profile</p>
+               </div>
+               <div id="006.001">
+                  <p class="oj-normal">1.   Where provided by Union law, verified economic operators and verified value chain actors may delegate access rights to third party users acting on their behalf.</p>
+               </div>
+               <div id="006.002">
+                  <p class="oj-normal">2.   Any personal data which is entered as part of the user profile of a verified economic operator or a verified value chain actor shall be processed in accordance with Regulation (EU) 2018/1725.</p>
+               </div>
+               <div id="006.003">
+                  <p class="oj-normal">3.   Each economic operator and each value chain actor shall be responsible for managing their electronic verification process in accordance with Articles 4 and 5, respectively.</p>
+               </div>
+               <div id="006.004">
+                  <p class="oj-normal">4.   The verified economic operator and verified value chain actor shall be responsible for updating their data in the event of any relevant change.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6a">
+               <p id="d1e943-1-1" class="oj-ti-art">Article 6a</p>
+               <div class="eli-title" id="art_6a.tit_1">
+                  <p class="oj-sti-art">Transfer of registered digital product passports</p>
+               </div>
+               <p class="oj-normal">Registered digital product passports may be transferred to another verified economic operator or, where applicable, to a verified value chain actor that takes over the obligations from the previous actor in relation to those digital product passports from the date indicated for the transfer.</p>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e950-1-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">National authorities</p>
+               </div>
+               <div id="007.001">
+                  <p class="oj-normal">1.   At the latest by 18 February 2027, Member States shall appoint a designated national administrator who shall act as the single official contact point for the Commission for the purposes of managing registry access rights for that Member State.</p>
+               </div>
+               <div id="007.002">
+                  <p class="oj-normal">2.   Member States shall communicate to the Commission the name and contact details of their respective designated national administrator and shall notify the Commission of any subsequent changes with regard to their designated national administrator.</p>
+               </div>
+               <div id="007.003">
+                  <p class="oj-normal">3.   The designated national administrator may delegate registry access rights to relevant national authorities within its Member State. Such delegation shall be carried out under the full responsibility of the Member State and in a way that ensures the security, integrity and confidentiality of the registry data accessed in accordance with this Regulation.</p>
+               </div>
+               <div id="007.004">
+                  <p class="oj-normal">4.   National authorities which have been granted access by their designated national administrator may delegate and manage registry access rights further within their respective authority.</p>
+               </div>
+               <div id="007.005">
+                  <p class="oj-normal">5.   Personal data contained in the user profiles and user accounts of the competent national authorities and customs authorities shall be processed by the Commission in its capacity as controller in accordance with Regulation (EU) 2018/1725.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e983-1-1" class="oj-ti-art">Article 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Registration of a digital product passport</p>
+               </div>
+               <div id="008.001">
+                  <p class="oj-normal">1.   For products referred to in Article 1(1), point (a), a digital product passport shall be registered by a verified economic operator placing the product on the market or putting it into service at the level specified in the applicable delegated acts (model, batch or item level) adopted pursuant to Article 4 of Regulation (EU) 2024/1781.</p>
+               </div>
+               <div id="008.002">
+                  <p class="oj-normal">2.   For products referred to in Article 1(1), points (b) to (f), a digital product passport shall be registered by the relevant actor at the level (model, batch or item level) specified in the relevant Union law.</p>
+                  <p class="oj-normal">Where Union law provides for a third party to perform actions in the registry on behalf of the actors referred to in the first or second sub-paragraphs, such third party, once verified according to Article 19(4), will be allowed to perform registration actions in the registry.</p>
+               </div>
+               <div id="008.003">
+                  <p class="oj-normal">3.   Where the same product is subject to different Union rules requiring the registration of its digital product passport at different levels of granularity, the digital product passport shall be registered for that product at the most granular level required by the relevant Union legislation.</p>
+               </div>
+               <div id="008.004">
+                  <p class="oj-normal">4.   Where the digital product passport is created at item level, in accordance with paragraph 1, both batch and model identifiers shall be linked to that digital product passport where batch and model design exist for the product.</p>
+               </div>
+               <div id="008.005">
+                  <p class="oj-normal">5.   Where the digital product passport is created at batch level, in accordance with paragraph 1, the model identifier shall be linked to that digital product passport where model design exists for the product.</p>
+               </div>
+               <div id="008.006">
+                  <p class="oj-normal">6.   The relevant actor referred to in paragraph 1 shall register a digital product passport either through the secure user interface of the registry as provided for in Article 3, point (a), or through the API as provided for in Article 3, point (b).</p>
+               </div>
+               <div id="008.007">
+                  <p class="oj-normal">7.   Upon submission for registration, the Commission shall read the digital product passport content and automatically confirm:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the semantic conformity of the data provided in the digital product passport, as provided for in the applicable delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or in the applicable delegated acts adopted pursuant to Article 77 of Regulation (EU) 2023/1542, or under other Union law providing for the data about the digital product passport to be registered in the digital product passport registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, coherence of the mandatory data to be uploaded in the registry against the value of the data provided in the digital product passport;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the conformity of the digital product passport with the granularity level (model, batch or item) as provided for in the applicable delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or in the applicable delegated acts adopted pursuant to Article 77 of Regulation (EU) 2023/1542, or under other Union law providing for a specific level for the digital product passport to be registered in the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, the validity of the commodity code of the product in relation to the permitted ranges for this product group;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, the link to the back-up hosted by a digital product passport service provider.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="008.008">
+                  <p class="oj-normal">8.   Following a successful verification in accordance with paragraph 6, the registry shall generate and store a unique and persistent registration identifier as part of the registration data.</p>
+               </div>
+               <div id="008.009">
+                  <p class="oj-normal">9.   Additionally, the Commission shall store in the registry the following information as part of the registration data:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, the unique identifiers;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, the commodity code of the product;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, reference to the digital product passport service provider;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">registrant information, including date and time of the registration and the integrity of the digital product passport as part of the evidence of the registration event.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="008.010">
+                  <p class="oj-normal">10.   Upon successful submission by the relevant actor as referred to in paragraph 1, of the data in the registry, the Commission shall automatically communicate to that relevant actor the unique registration identifier for that specific product generated in accordance with paragraph 9. The unique registration identifier shall be communicated through the user interface or the API response, depending on the service used by the relevant actor during registration.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p id="d1e1099-1-1" class="oj-ti-art">Article 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="oj-sti-art">Proof of registration</p>
+               </div>
+               <div id="009.001">
+                  <p class="oj-normal">1.   An economic operator or, where relevant, a third party on behalf of the economic operator, that has registered a digital product passport in the registry in accordance with Article 8 shall be able to generate, at any given time, proof of registration for one or more digital product passports for which that economic operator is responsible.</p>
+               </div>
+               <div id="009.002">
+                  <p class="oj-normal">2.   The proof of registration shall serve as evidence, including vis-à-vis third parties, that the registration obligation for that digital product passport has been fulfilled. It shall be generated as a secure electronic document that can be downloaded by the actor that registered the digital product passport from the registry, and shall contain at least the following data:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the unique product identifier;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, the commodity code as referred to in Article 8(9), point (b);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the name and identity of the verified economic operator responsible for the registration as referred to in Article 8(9), point (d);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the date and time of the registration for the latest version of the digital product passport for which the proof is generated in accordance with Article 8(9), point (d), which is validated by an electronic time stamp of the Commission;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">a hash of the version of the digital product passport for which the proof is generated.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="009.003">
+                  <p class="oj-normal">3.   Proof of registration shall be guaranteed by means of a qualified electronic seal as provided for in Article 38 of Regulation (EU) No 910/2014 and shall include the electronic time stamp of the Commission referred to in paragraph 2, point (d).</p>
+               </div>
+               <div id="009.004">
+                  <p class="oj-normal">4.   The Commission shall make available in the registry to the requesting verified economic operator the proof of registration through the registry’s secure user interface or through the API, depending on the service chosen by the economic operator. That proof shall remain available for a period of 90 calendar days from the date of its generation.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p id="d1e1156-1-1" class="oj-ti-art">Article 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="oj-sti-art">Registration data management</p>
+               </div>
+               <div id="010.001">
+                  <p class="oj-normal">1.   Any change to the digital product passport registration data, including its creation, modification and deletion, shall be logged in the log system of the registry in accordance with Article 14 and reflected in the status of the registration.</p>
+               </div>
+               <div id="010.002">
+                  <p class="oj-normal">2.   The registry shall support the versioning of the registered data, and storea timestamp of the Commission for each update.</p>
+               </div>
+               <div id="010.003">
+                  <p class="oj-normal">3.   Where Union law does not provide for a specific duration of availability of the digital product passport, digital product passport registration data, as referred to in Article 8(7) and (8), shall be deleted automatically from the registry 10 years after registration. Where Union law provides for a specific duration of availability of the digital product passport, the retention period of such data shall be aligned with the period of availability of the digital product passport.</p>
+               </div>
+               <div id="010.004">
+                  <p class="oj-normal">4.   Registry users shall have the right to request deletion of their respective account if they are no longer responsible for activities related to the registry.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_11">
+               <p id="d1e1182-1-1" class="oj-ti-art">Article 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="oj-sti-art">Data models</p>
+               </div>
+               <div id="011.001">
+                  <p class="oj-normal">1.   The data model applicable to each product group shall, where available, be based on the delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781 or on other applicable Union law.</p>
+               </div>
+               <div id="011.002">
+                  <p class="oj-normal">2.   Where appropriate, the data models may build on existing Union semantic assets, controlled vocabularies and reference data models.</p>
+               </div>
+               <div id="011.003">
+                  <p class="oj-normal">3.   All data contained within a digital product passport shall be structured in accordance with the common data models and semantic definitions published in the semantic repository referred to in Article 12.</p>
+               </div>
+               <div id="011.004">
+                  <p class="oj-normal">4.   Data models shall be versioned.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_12">
+               <p id="d1e1207-1-1" class="oj-ti-art">Article 12</p>
+               <div class="eli-title" id="art_12.tit_1">
+                  <p class="oj-sti-art">Semantic repository</p>
+               </div>
+               <div id="012.001">
+                  <p class="oj-normal">1.   The Commission shall establish and maintain a digital product passport semantic repository, which serves as an authoritative and machine-readable source for the data models, semantic definitions and vocabularies applicable to digital product passports across all product groups. The semantic repository shall be developed and maintained in accordance with Regulation (EU) 2024/903 of the European Parliament and of the Council <a id="ntc16-L_202601778EN.000101-E0016" href="#ntr16-L_202601778EN.000101-E0016"
+                        >(<span class="oj-super oj-note-tag">16</span>)</a>.</p>
+               </div>
+               <div id="012.002">
+                  <p class="oj-normal">2.   The semantic repository shall contain at least the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the semantic meaning of data attributes required within a digital product passport and technical specifications for creating, where relevant, typed and resolvable links between different digital product passports, and links between digital product passport attributes and underlying evidence communicated through the product value chain;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the data models for the different products within the scope of this Regulation and their formats;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the metadata collected regarding the data models for the products;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the semantic meaning of the roles provided for in the applicable delegated acts adopted pursuant to Article 4 of Regulation (EU) 2024/1781, or by other Union legislation applicable to any product that is required to use a digital product passport;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">multilingual labels and definitions for all mandatory data attributes.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="012.003">
+                  <p class="oj-normal">3.   The metadata as referred to in paragraph 2 point (c) shall be in conformity with the DCAT-AP <a id="ntc17-L_202601778EN.000101-E0017" href="#ntr17-L_202601778EN.000101-E0017"
+                        >(<span class="oj-super oj-note-tag">17</span>)</a> specifications.</p>
+               </div>
+               <div id="012.004">
+                  <p class="oj-normal">4.   The Commission shall ensure that, for any data model attributes newly introduced in the semantic repository, the multilingual labels and definitions as referred to in paragraph 2 point (e) are published in the semantic repository.</p>
+               </div>
+               <div id="012.005">
+                  <p class="oj-normal">5.   The semantic repository shall include a search service to allow any user to read, search and retrieve semantic definitions and data structures.</p>
+               </div>
+               <div id="012.006">
+                  <p class="oj-normal">6.   The Commission shall ensure that the content of the semantic repository is accessible through publicly documented APIs. These APIs shall support common data formats and provide machine-readable semantic assets to facilitate automated use by external systems.</p>
+               </div>
+               <div id="012.007">
+                  <p class="oj-normal">7.   Access to and use of the semantic repository and its APIs shall be provided free of charge.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_13">
+               <p id="d1e1296-1-1" class="oj-ti-art">Article 13</p>
+               <div class="eli-title" id="art_13.tit_1">
+                  <p class="oj-sti-art">Technical support</p>
+               </div>
+               <div id="013.001">
+                  <p class="oj-normal">1.   The Commission shall provide a helpdesk service to ensure that economic operators, value chain actors, competent national authorities and customs authorities are able to receive technical support upon request. The helpdesk service shall operate year-round from 08:00 to 20:00 Brussels time. Further operational details shall be made available on the Commission’s website. In addition, the Commission shall develop by February 2029 an automated technical support tool, which shall be accessible on a 24-hour basis throughout the year.</p>
+               </div>
+               <div id="013.002">
+                  <p class="oj-normal">2.   Written exchanges between economic operators, value chain actors, competent national authorities or customs authorities and the helpdesk shall be stored for six months after the technical support request referred to in paragraph 1 has been closed and made available to market surveillance authorities upon request.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_14">
+               <p id="d1e1311-1-1" class="oj-ti-art">Article 14</p>
+               <div class="eli-title" id="art_14.tit_1">
+                  <p class="oj-sti-art">Log system</p>
+               </div>
+               <div id="014.001">
+                  <p class="oj-normal">1.   The Commission shall establish, maintain and run a log system. The Commission shall ensure the creation of a complete, accurate and reliable audit trail in the log system.</p>
+               </div>
+               <div id="014.002">
+                  <p class="oj-normal">2.   In the log system the Commission shall log events relating to all of the following categories of actions:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">data related to access and authentication entries;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">data modifications by all registry users, including the uploading or updating of data referred to in Article 13(4) of Regulation (EU) 2024/1781 or of data required to be uploaded in the registry pursuant to other Union legislation that mandates the use of the digital product passport for a product;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">administrative actions by all registry users, including the creation, change or deletion of user accounts, changes to access rights and permissions, and any changes to the registry’s configuration and other administrative actions of registry users;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">data exchange logs.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="014.003">
+                  <p class="oj-normal">3.   To ensure that the data stored in the registry is processed securely and in compliance with Union law, the Commission shall keep the logs for a period of:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">six months for the categories of actions referred to in paragraph 2, point (a);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">five years for the categories of actions referred to in paragraph 2, points (c) and (d);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">for the duration of the registration for the events relating to the categories of actions referred to in paragraph 2, point (b).</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="014.004">
+                  <p class="oj-normal">4.   In the case of suspected incidents and for the purposes of audits and random checks of security performed by competent national authorities and customs authorities, the Commission shall make the relevant logs referred to in paragraph 2 available to the relevant national authorities.</p>
+               </div>
+               <div id="014.005">
+                  <p class="oj-normal">5.   The Commission shall implement appropriate technical and organisational measures to guarantee the security of all logs and protect their integrity, in particular against unauthorised or unlawful processing, accidental loss, destruction or damage. Such measures shall, at least, ensure the immutability and confidentiality of the logs.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_15">
+               <p id="d1e1387-1-1" class="oj-ti-art">Article 15</p>
+               <div class="eli-title" id="art_15.tit_1">
+                  <p class="oj-sti-art">Maintenance and registry availability</p>
+               </div>
+               <div id="015.001">
+                  <p class="oj-normal">1.   The Commission shall make available on its website guidelines and instructions on how to register and manage data in the registry.</p>
+               </div>
+               <div id="015.002">
+                  <p class="oj-normal">2.   The registry shall be accessible at all times, except during necessary maintenance activities such as the deployment of new software releases, and without prejudice to paragraph 3. In those instances, the Commission shall issue an advance notice of inaccessibility on the public website of the registry.</p>
+               </div>
+               <div id="015.003">
+                  <p class="oj-normal">3.   The Commission may suspend the availability of the registry, without prior notice, where it is necessary due to a malfunction, a cyber-attack or a compelling urgent security need, until the issue is resolved.</p>
+               </div>
+               <div id="015.004">
+                  <p class="oj-normal">4.   Where registration is prevented by the temporary unavailability or malfunctioning of the registry, the Commission shall record the date and time of unavailability and make such information available to economic operators, value chain actors, competent national authorities and customs authorities upon request for no less than five years.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_16">
+               <p id="d1e1412-1-1" class="oj-ti-art">Article 16</p>
+               <div class="eli-title" id="art_16.tit_1">
+                  <p class="oj-sti-art">Information system security and technical audits</p>
+               </div>
+               <div id="016.001">
+                  <p class="oj-normal">1.   The Commission shall ensure the security of the registry and its components as referred to in Article 3. To that end, the Commission may conduct technical audits and random checks on the components of the registry.</p>
+               </div>
+               <div id="016.002">
+                  <p class="oj-normal">2.   For the purposes of paragraph 1, the Commission shall take the necessary measures in order to:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">prevent any unauthorised access to the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">prevent any unauthorised processing of registry data;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">detect any unauthorised activities in the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">prevent any data breaches of the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ensure that security events are logged in accordance with the information technology security standards applied by the Commission.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_17">
+               <p id="d1e1459-1-1" class="oj-ti-art">Article 17</p>
+               <div class="eli-title" id="art_17.tit_1">
+                  <p class="oj-sti-art">Inappropriate or fraudulent use of the registry</p>
+               </div>
+               <p class="oj-normal">Where the Commission identifies an inappropriate or fraudulent activity in the registry, including any such activity linked to massive data download, it shall take the necessary measures to prevent and counter that activity and mitigate the effects thereof.</p>
+               <p class="oj-normal">Any user who becomes aware of, or has reasonable grounds to suspect, malicious behaviour in or against the registry shall immediately inform the Commission and, where appropriate, the Member States concerned.</p>
+            </div>
+            <div class="eli-subdivision" id="art_18">
+               <p id="d1e1468-1-1" class="oj-ti-art">Article 18</p>
+               <div class="eli-title" id="art_18.tit_1">
+                  <p class="oj-sti-art">Personal data</p>
+               </div>
+               <div id="018.001">
+                  <p class="oj-normal">1.   The Commission shall store the following personal data in the registry to ensure the verification of the identity of all users:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">first and last name of each user; or first and last name of the person legally entitled to act as a legal representative for the economic operator, where applicable;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">authentication credentials associated with the user, including login credentials or authentication tokens, necessary for secure access to the registry;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">postal address of the economic operators and value chain actors that are users;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">email address of each user;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">metadata embedded in uploaded documents where such metadata contributes to the identification or verification of a user.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="018.002">
+                  <p class="oj-normal">2.   In the case of natural persons, it shall also be required to store personal identifiers, such as a passport number, national identity card number or national eID number, civil registry number, tax identification number issued by the relevant national authority of the respective Member State, or any third-country identifier that is assigned to a person or any documentation that identifies that person.</p>
+               </div>
+               <div id="018.003">
+                  <p class="oj-normal">3.   Personal data collected shall be processed in accordance with Regulation (EU) 2018/1725.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_19">
+               <p id="d1e1520-1-1" class="oj-ti-art">Article 19</p>
+               <div class="eli-title" id="art_19.tit_1">
+                  <p class="oj-sti-art">Responsibilities of the verified economic operator</p>
+               </div>
+               <div id="019.001">
+                  <p class="oj-normal">1.   A verified economic operator registering a digital product passport shall provide the Commission as manager of the registry with all information necessary for the registration, as provided for in Article 8. The verified economic operator shall be responsible for the accuracy and completeness of the information submitted at the time of registration.</p>
+               </div>
+               <div id="019.002">
+                  <p class="oj-normal">2.   The verified economic operator shall ensure that the information stored in the registry of the digital product passport is kept accurate, complete and up to date at all times.</p>
+               </div>
+               <div id="019.003">
+                  <p class="oj-normal">3.   The verified economic operator shall be responsible for implementing appropriate technical and organisational security measures for its IT systems and credentials used to access the registry, to prevent unauthorised access to or modification of registration data through its IT system.</p>
+               </div>
+               <div id="019.004">
+                  <p class="oj-normal">4.   Where a verified economic operator authorises a third party to perform registration actions in the registry on its behalf, the third party actor needs to follow the verification process in accordance with Article 5. The verified economic operator shall remain fully responsible for compliance with the obligations set out in this Regulation.</p>
+               </div>
+               <div id="019.005">
+                  <p class="oj-normal">5.   Each verified economic operator shall be responsible for the data it submits to the Commission as manager of the registry and shall be considered as the controller of the data it submits.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_20">
+               <p id="d1e1550-1-1" class="oj-ti-art">Article 20</p>
+               <div class="eli-title" id="art_20.tit_1">
+                  <p class="oj-sti-art">Responsibilities of verified value chain actors</p>
+               </div>
+               <div id="020.001">
+                  <p class="oj-normal">1.   Where a verified value chain actor authorises a third party to act on its behalf, the verified value chain actor shall remain responsible for compliance with the obligations set out in this Regulation.</p>
+               </div>
+               <div id="020.002">
+                  <p class="oj-normal">2.   A verified value chain actor shall be responsible for implementing appropriate technical and organisational security measures with regard to its IT systems and credentials that are used to access the registry, in order to prevent unauthorised access to or modification of registration data through its IT system.</p>
+               </div>
+               <div id="020.003">
+                  <p class="oj-normal">3.   Where Union law provides for value chain actors to upload any information to the digital product passport registry, each verified value chain actor shall be responsible for the data it submits to the Commission as manager of the registry and shall be considered as the controller of the data it submits.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_21">
+               <p id="d1e1570-1-1" class="oj-ti-art">Article 21</p>
+               <div class="eli-title" id="art_21.tit_1">
+                  <p class="oj-sti-art">Responsibilities of the Commission</p>
+               </div>
+               <div id="021.001">
+                  <p class="oj-normal">1.   The Commission shall ensure that the data stored in the registry is processed securely and in compliance with Union law, including applicable rules on the protection of personal data.</p>
+               </div>
+               <div id="021.002">
+                  <p class="oj-normal">2.   The Commission shall be the owner of the registry and responsible for its management, including its development, availability, monitoring, updating, maintenance and hosting.</p>
+               </div>
+               <div id="021.003">
+                  <p class="oj-normal">3.   The data that the Commission can obtain from the registry may be transmitted to the relevant services within the Commission or to competent national authorities for the purposes of carrying out measures required under other Union legislative acts, including market surveillance, consumer protection and customs compliance.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_22">
+               <p id="d1e1591-1-1" class="oj-ti-art">Article 22</p>
+               <div class="eli-title" id="art_22.tit_1">
+                  <p class="oj-sti-art">Responsibilities of the Member States</p>
+               </div>
+               <div id="022.001">
+                  <p class="oj-normal">1.   Where Member States create an interconnection with the registry, they shall be considered the respective owners of their information systems, including any components developed by Member States for the interconnection. Member States shall be responsible for the establishment, development, availability, monitoring, updating, maintenance and hosting of the components used to access the registry under their responsibility.</p>
+               </div>
+               <div id="022.002">
+                  <p class="oj-normal">2.   Member States shall ensure an appropriate level of security of the national components used to access the registry, in accordance with Union law. Member States shall inform, without undue delay, the Commission of changes and updates to the components under their responsibility that may affect the functioning, availability and reliability of the registry.</p>
+               </div>
+               <div id="022.003">
+                  <p class="oj-normal">3.   Member States may process the data from the registry. Where the Member States process data obtained from the registry, such data shall be processed in accordance with Union law.</p>
+               </div>
+               <div id="022.004">
+                  <p class="oj-normal">4.   When processing personal data for the purposes of carrying out their duties defined in Union law or under national law in compliance with Union law, Member States shall be regarded as controllers as defined in Article 4, point (7), of Regulation (EU) 2016/679.</p>
+               </div>
+               <div id="022.005">
+                  <p class="oj-normal">5.   Member States shall be responsible for any data processing activities carried out within their sphere of control, including:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">managing the registration and onboarding of competent national authorities and where relevant, customs authorities, through the designated national administrator as referred to in Article 7(2);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ensuring that any data processing taking place within their sphere of control is performed in accordance with Regulation (EU) 2016/679;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">withdrawing a user’s rights of access to the registry in case of unauthorised or incorrect access to the registry.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_23">
+               <p id="d1e1641-1-1" class="oj-ti-art">Article 23</p>
+               <div class="eli-title" id="art_23.tit_1">
+                  <p class="oj-sti-art">Monitoring and evaluation</p>
+               </div>
+               <p class="oj-normal">Within the monitoring and evaluation of Regulation 2024/1781 of its contribution to the functioning of the internal market, the Commission shall, by the end of 2032, and every six years thereafter, carry out an evaluation of this Regulation to take into account the functioning of the digital product passport registry and if appropriate present a draft proposal for revision.</p>
+            </div>
+            <div class="eli-subdivision" id="art_24">
+               <p id="d1e1648-1-1" class="oj-ti-art">Article 24</p>
+               <div class="eli-title" id="art_24.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 16 July 2026.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202601778EN.000101-E0001" href="#ntc1-L_202601778EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="https://data.europa.eu/eli/2024/1781/oj" >OJ L, 2024/1781, 28.6.2024</a>, p.1, ELI: <a href="http://data.europa.eu/eli/reg/2024/1781/oj" >http://data.europa.eu/eli/reg/2024/1781/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202601778EN.000101-E0002" href="#ntc2-L_202601778EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2023_191_R_TOC"
+               >OJ L 191, 28.7.2023, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2023/1542/oj" >http://data.europa.eu/eli/reg/2023/1542/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202601778EN.000101-E0003" href="#ntc3-L_202601778EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011 (<a href="https://data.europa.eu/eli/reg/2024/3110/oj" >OJ L, 2024/3110, 18.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3110/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202601778EN.000101-E0004" href="#ntc4-L_202601778EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Regulation (EU) 2025/2509 of the European Parliament and of the Council of 26 November 2025 on the safety of toys and repealing Directive 2009/48/EC (<a href="https://data.europa.eu/eli/reg/2025/2509/oj" >OJ L, 2025/2509, 12.12.2025, ELI: http://data.europa.eu/eli/reg/2025/2509/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202601778EN.000101-E0005" href="#ntc5-L_202601778EN.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Regulation (EU) 2026/405 of the European Parliament and of the Council of 11 February 2026 on detergents and surfactants, and repealing Regulation (EC) No 648/2004 (<a href="https://data.europa.eu/eli/reg/2026/405/oj" >OJ L, 2026/405, 2.3.2026, ELI: http://data.europa.eu/eli/reg/2026/405/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202601778EN.000101-E0006" href="#ntc6-L_202601778EN.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011 (<a href="https://data.europa.eu/eli/reg/2024/3110/oj" >OJ L, 2024/3110, ELI: http://data.europa.eu/eli/reg/2024/3110/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202601778EN.000101-E0007" href="#ntc7-L_202601778EN.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >OJ L 257, 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_202601778EN.000101-E0008" href="#ntc8-L_202601778EN.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >OJ L 295, 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr9-L_202601778EN.000101-E0009" href="#ntc9-L_202601778EN.000101-E0009"
+               >(<span class="oj-super">9</span>)</a>  Commission notice The ‘Blue Guide’ on the implementation of EU product rules 2022 (Text with EEA relevance) 2022/C 247/01 (<a href="http://publications.europa.eu/resource/oj/JOC_2022_247_R_TOC"
+               >OJ C 247, 29.6.2022, pp. 1–152</a>).</p>
+         <p class="oj-note">
+            <a id="ntr10-L_202601778EN.000101-E0010" href="#ntc10-L_202601778EN.000101-E0010"
+               >(<span class="oj-super">10</span>)</a>  Cloud Sovereignty Framework (<a href="https://commission.europa.eu/document/09579818-64a6-4dd5-9577-446ab6219113_en"
+               >https://commission.europa.eu/document/09579818-64a6-4dd5-9577-446ab6219113_en</a>).</p>
+         <p class="oj-note">
+            <a id="ntr11-L_202601778EN.000101-E0011" href="#ntc11-L_202601778EN.000101-E0011"
+               >(<span class="oj-super">11</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >OJ L 119, 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr12-L_202601778EN.000101-E0012" href="#ntc12-L_202601778EN.000101-E0012"
+               >(<span class="oj-super">12</span>)</a>  Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (recast) (<a href="http://publications.europa.eu/resource/oj/JOL_2019_172_R_TOC"
+               >OJ L 172, 26.6.2019, p. 56</a>, ELI: <a href="http://data.europa.eu/eli/dir/2019/1024/oj" >http://data.europa.eu/eli/dir/2019/1024/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr13-L_202601778EN.000101-E0013" href="#ntc13-L_202601778EN.000101-E0013"
+               >(<span class="oj-super">13</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (Text with EEA relevance.) (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >OJ L 295, 21.11.2018</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr14-L_202601778EN.000101-E0014" href="#ntc14-L_202601778EN.000101-E0014"
+               >(<span class="oj-super">14</span>)</a>  Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+               >OJ L 333, 27.12.2022, p. 80</a>, ELI: <a href="http://data.europa.eu/eli/dir/2022/2555/oj" >http://data.europa.eu/eli/dir/2022/2555/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr15-L_202601778EN.000101-E0015" href="#ntc15-L_202601778EN.000101-E0015"
+               >(<span class="oj-super">15</span>)</a>  Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (<a href="http://publications.europa.eu/resource/oj/JOL_2019_169_R_TOC"
+               >OJ L 169, 25.6.2019, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2019/1020/oj" >http://data.europa.eu/eli/reg/2019/1020/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr16-L_202601778EN.000101-E0016" href="#ntc16-L_202601778EN.000101-E0016"
+               >(<span class="oj-super">16</span>)</a>  Regulation (EU) 2024/903 of the European Parliament and of the Council of 13 March 2024 laying down measures for a high level of public sector interoperability across the Union (<a href="https://data.europa.eu/eli/reg/2024/903/oj" >OJ L, 2024/903, 22.3.2024, ELI: http://data.europa.eu/eli/reg/2024/903/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr17-L_202601778EN.000101-E0017" href="#ntc17-L_202601778EN.000101-E0017"
+               >(<span class="oj-super">17</span>)</a>  Data Catalog Application Profile (<a href="https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe"
+               >https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe</a>).</p>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2026/1778/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

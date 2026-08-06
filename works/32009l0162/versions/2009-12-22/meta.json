@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32009l0162:2009-12-22",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32009L0162",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2009-12-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2009-12-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2009-12-22",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2009/162/EU of 22\u00A0December 2009 amending various provisions of Directive 2006/112/EC on the common system of value added tax",
+      "title_short": "Council Directive 2009/162/EU of 22\u00A0December 2009 amending various provisions of Directive\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0162",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "bac7a770ceba2d8353dd2990e4c77fe95759dcb48b10099a78928b7c1b28d4b8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0162",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0162"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2009-12-22",
+      "valid_time_source": "publisher",
+      "title": "Directive 2009/162/UE du Conseil du 22\u00A0d\u00E9cembre 2009 modifiant diverses dispositions de la directive 2006/112/CE relative au syst\u00E8me commun de taxe sur la valeur ajout\u00E9e",
+      "title_short": "Directive 2009/162/UE du Conseil du 22\u00A0d\u00E9cembre 2009 modifiant diverses dispositions de la\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0162",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d137875c69efd0afe5d96d2f61e86162fd5997ba2b8af575158ce179e6c53568",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0162",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0162"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32009L0162",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "930777eb03e4446ea04e951742b0af3b58caf2207db26367fbc6ccc4dccc085b"
+}

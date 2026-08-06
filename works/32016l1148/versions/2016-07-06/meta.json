@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32016l1148:2016-07-06",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32016L1148",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2016-07-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2016-07-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2016-07-06",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union",
+      "title_short": "Directive (EU) 2016/1148",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "967d6b55e7cfb015e9afeea19c9f8dc9c2b071eb0273c4e152849ed3530f41b9",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2016-07-06",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2016/1148 du Parlement europ\u00E9en et du Conseil du 6 juillet 2016 concernant des mesures destin\u00E9es \u00E0 assurer un niveau \u00E9lev\u00E9 commun de s\u00E9curit\u00E9 des r\u00E9seaux et des syst\u00E8mes d\u0027information dans l\u0027Union",
+      "title_short": "Directive (UE) 2016/1148 du Parlement europ\u00E9en et du Conseil du 6 juillet 2016 concernant \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L1148",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d60083423242921c7841d53564ce15ebce51e342c92767a7eabe0281222a6c6b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L1148",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L1148"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32016L1148",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "d49f80d8d0349857670284b3b68e5355f9d1e04d7d55112f027ad48a7023b135"
+}

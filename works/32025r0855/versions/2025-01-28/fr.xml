@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20250502-2322 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202500855FR.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel <br/>de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+                  <p class="oj-hd-coll">Série L</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2025/855</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">5.5.2025</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            RÈGLEMENT DÉLÉGUÉ (UE) 2025/855 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 28 janvier 2025
+         </p>
+            <p class="oj-doc-ti">modifiant les normes techniques de réglementation définies dans le règlement délégué (UE) 2021/931 afin de préciser la formule de calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque sur matières premières</p>
+            <p class="oj-doc-ti">(Texte présentant de l’intérêt pour l’EEE)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l’Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) n<span class="oj-super">o</span> 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et modifiant le règlement (UE) n<span class="oj-super">o</span> 648/2012 <a id="ntc1-L_202500855FR.000101-E0001" href="#ntr1-L_202500855FR.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 279 <span class="oj-italic">bis</span>, paragraphe 3, troisième alinéa,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Conformément à l’article 279 <span class="oj-italic">bis</span>, paragraphe 3, point a), du règlement (UE) n<span class="oj-super">o</span> 575/2013, il convient, en complément de la formule similaire pour les options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt, de préciser aussi, conformément à l’évolution de la réglementation internationale, la formule que les établissements doivent utiliser pour calculer le delta prudentiel des options d’achat et de vente affectées à la catégorie du risque sur matières premières de manière compatible avec des conditions de marché dans lesquelles les prix des matières premières peuvent être négatifs.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le chapitre CRE52 du dispositif de Bâle, adopté par le Comité de Bâle sur le contrôle bancaire (CBCB) <a id="ntc2-L_202500855FR.000101-E0002" href="#ntr2-L_202500855FR.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, définit l’approche standard pour le risque de crédit de contrepartie (SA-CCR). Dans ce chapitre, le point 52.40 précise la formule que les établissements doivent utiliser pour calculer le delta prudentiel des options d’achat et de vente affectées à une catégorie de risque donnée. La question 2 relative à ce point 52.40 porte sur la manière de calculer le delta prudentiel des options lorsque le terme P/K est égal à zéro ou négatif et que le terme ln(P/K) ne peut donc pas être calculé, par exemple dans un environnement de taux d’intérêt négatifs. La réponse du CBCB à cette question est que, dans ce cas, les établissements de crédit doivent utiliser une formule légèrement différente pour calculer le delta prudentiel des options d’achat et de vente, c’est-à-dire qu’ils doivent intégrer dans la formule une variable d’ajustement du prix et de la valeur d’exercice des options concernées, en ajoutant un lambda («λ») représentant le degré le plus bas possible auquel les taux d’intérêt dans la monnaie concernée sont supposés pouvoir devenir négatifs. Une approche similaire devrait être suivie pour le delta prudentiel des options d’achat et de vente affectées à la catégorie du risque sur matières premières, dans les cas où les prix des matières premières peuvent être négatifs. La variable d’ajustement λ doit être suffisamment importante pour permettre aux établissements de crédit de calculer le delta prudentiel d’une option affectée à la catégorie du risque sur matières premières conformément à la formule prévue à l’article 279 <span class="oj-italic">bis</span>, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, mais, cependant, suffisamment faible pour ne pas introduire de biais inutile dans le résultat du calcul du delta prudentiel.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">En cohérence avec l’approche exposée dans le règlement délégué (UE) 2021/931 de la Commission <a id="ntc3-L_202500855FR.000101-E0003" href="#ntr3-L_202500855FR.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> pour les options affectées à la catégorie du risque de taux d’intérêt, il convient, pour les options d’achat et de vente dans la catégorie du risque sur matières premières, d’utiliser la valeur de la volatilité prudentielle déterminée dans les normes internationales adoptées par le CBCB, son utilisation en droit de l’Union étant jugée appropriée.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il y a donc lieu de modifier le règlement délégué (UE) 2021/931 en conséquence.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le présent règlement se fonde sur le projet de normes techniques de réglementation soumis à la Commission par l’Autorité bancaire européenne.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’Autorité bancaire européenne a procédé à des consultations publiques ouvertes sur le projet de normes techniques d’exécution sur lequel se fonde le présent règlement, analysé les coûts et avantages potentiels qu’il implique et sollicité l’avis du groupe des parties intéressées au secteur bancaire institué en application de l’article 37 du règlement (UE) n<span class="oj-super">o</span> 1093/2010 du Parlement européen et du Conseil <a id="ntc4-L_202500855FR.000101-E0004" href="#ntr4-L_202500855FR.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e196-1-1" class="oj-ti-art">Article premier</p>
+               <p class="oj-normal">Le règlement délégué (UE) 2021/931 est modifié comme suit:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">À l’article 4, paragraphe 4, la partie introductive est remplacée par le texte suivant:</p>
+                           <div id="001.004">
+                              <p class="oj-normal">«4.   Les établissements qui remplissent les conditions énoncées à l’article 94, paragraphe 1, du règlement (UE) n<span class="oj-super">o</span> 575/2013, ou les conditions énoncées à l’article 325 <span class="oj-italic">bis</span>, paragraphe 1, dudit règlement, peuvent identifier le déterminant de risque le plus significatif en suivant les étapes suivantes au début de l’opération, puis au moins une fois par trimestre:»;</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L’article 5 est modifié comme suit:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">au paragraphe 1, la phrase introductive est remplacée par le texte suivant:</p>
+                                       <div id="005.001">
+                                          <p class="oj-normal">«1.   Les établissements calculent comme suit le delta prudentiel (δ) des options d’achat et de vente, lorsqu’elles sont affectées à la catégorie du risque de taux d’intérêt ou à la catégorie du risque sur matières premières, qui est compatible avec des conditions de marché dans lesquelles les taux d’intérêt ou les prix des matières premières peuvent être négatifs:»;</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">le paragraphe 2 est remplacé par le texte suivant:</p>
+                                       <div id="005.002">
+                                          <p class="oj-normal">«2.   Aux fins du paragraphe 1, les établissements calculent la variable d’ajustement (λ) pour toute option d’achat ou de vente comme suit:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                                             <col width="11%"/>
+                                             <col width="89%"/>
+                                             <tbody>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table" rowspan="2" >
+                                                      <p class="oj-tbl-txt">
+                                                         <span class="oj-italic">λ</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>=</p>
+                                                   </td>
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">max{<span class="oj-italic">seuil</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span> – min{<span class="oj-italic">P</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>, <span class="oj-italic">K</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>}, 0} si l<span class="oj-italic">option</span> j est affectée à la catégorie du risque de taux d'intérêt;</p>
+                                                   </td>
+                                                </tr>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">max{ – (1 + <span class="oj-italic">seuil</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>)•min{<span class="oj-italic">P</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>, <span class="oj-italic">K</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>}, 0} si l<span class="oj-italic">option</span> j est affectée à la catégorie du risque sur matières premières.</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <p class="oj-normal">où:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="20%"/>
+                                             <col width="5%"/>
+                                             <col width="75%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">
+                                                         <span class="oj-italic">P</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>
+                                                      </p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-center">=</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">le prix au comptant ou à terme de l’instrument sous-jacent à l’option <span class="oj-italic">j</span>;</p>
+                                                   </td>
+                                                </tr>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">
+                                                         <span class="oj-italic">K</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>
+                                                      </p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-center">=</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">le prix d’exercice de l’option <span class="oj-italic">j</span>;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                                             <col width="37%"/>
+                                             <col width="63%"/>
+                                             <tbody>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table" rowspan="2" >
+                                                      <p class="oj-tbl-txt">
+                                                         <span class="oj-italic">seuil</span>
+                                                         <span class="oj-sub">
+                                                            <span class="oj-italic">j</span>
+                                                         </span>=</p>
+                                                   </td>
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">0,10<span class="oj-italic">%</span>, si l<span class="oj-italic">option</span> j est affectée à la catégorie du risque de taux d'intérêt;</p>
+                                                   </td>
+                                                </tr>
+                                                <tr class="oj-table">
+                                                   <td valign="top" class="oj-table"  >
+                                                      <p class="oj-tbl-txt">0,1, si l<span class="oj-italic">option</span> j est affectée à la catégorie du risque sur matières premières.;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <p class="oj-normal">                                                »
+                                             </p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">au paragraphe 3, le tableau est remplacé par le tableau suivant:</p>
+                                       <p class="oj-ti-tbl" id="d1e385-1-1-table">
+                                          <span class="oj-italic">«Tableau</span>
+                                       </p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                                          <col width="33%"/>
+                                          <col width="36%"/>
+                                          <col width="31%"/>
+                                          <tbody>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-hdr">Catégorie de risque</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-hdr">Instrument sous-jacent</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-hdr">Volatilité prudentielle</p>
+                                                </td>
+                                             </tr>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Taux d’intérêt</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Tous</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">50 %</p>
+                                                </td>
+                                             </tr>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table" rowspan="2" >
+                                                   <p class="oj-tbl-txt">Matière première</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Électricité</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">150 %</p>
+                                                </td>
+                                             </tr>
+                                             <tr class="oj-table">
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">Autres matières premières (hors électricité)</p>
+                                                </td>
+                                                <td valign="top" class="oj-table"  >
+                                                   <p class="oj-tbl-txt">70 %»</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e419-1-1" class="oj-ti-art">Article 2</p>
+               <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l’Union européenne.</span>
+               </p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 28 janvier 2025.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">La présidente</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202500855FR.000101-E0001" href="#ntc1-L_202500855FR.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >JO L 176 du 27.6.2013, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2013/575/oj" >http://data.europa.eu/eli/reg/2013/575/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202500855FR.000101-E0002" href="#ntc2-L_202500855FR.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  
+            <a href="https://www.bis.org/basel_framework/chapter/CRE/52.htm?inforce=20230101&amp;published=20200605"
+               >https://www.bis.org/basel_framework/chapter/CRE/52.htm?inforce=20230101&amp;published=20200605</a>.</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202500855FR.000101-E0003" href="#ntc3-L_202500855FR.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Règlement délégué (UE) 2021/931 de la Commission du 1<span class="oj-super">er</span> mars 2021 complétant le règlement (UE) n<span class="oj-super">o</span> 575/2013 du Parlement européen et du Conseil par des normes techniques de réglementation précisant la méthode pour identifier les opérations sur dérivés présentant un ou plusieurs déterminants de risque significatifs aux fins de l’article 277, paragraphe 5, la formule de calcul du delta prudentiel des options d’achat et de vente affectées à la catégorie du risque de taux d’intérêt et la méthode pour déterminer si une opération constitue une position longue ou courte sur le déterminant de risque principal ou sur le déterminant de risque le plus significatif dans la catégorie de risque donnée conformément à l’article 279 <span class="oj-italic">bis</span>, paragraphe 3, points a) et b), dans le cadre de l’approche standard du risque de crédit de contrepartie (<a href="http://publications.europa.eu/resource/oj/JOL_2021_204_R_TOC"
+               >JO L 204 du 10.6.2021, p. 7</a>, ELI: <a href="http://data.europa.eu/eli/reg_del/2021/931/oj" >http://data.europa.eu/eli/reg_del/2021/931/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202500855FR.000101-E0004" href="#ntc4-L_202500855FR.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/78/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 12</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1093/oj" >http://data.europa.eu/eli/reg/2010/1093/oj</a>).</p>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_del/2025/855/oj</p>
+      <p class="oj-normal">ISSN 1977-0693 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

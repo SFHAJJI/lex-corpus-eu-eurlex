@@ -6,11 +6,24 @@
   "valid_from": "2019-01-01",
   "valid_to": "2019-04-25",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2019-01-01",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -51,6 +64,44 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0575-20190101"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2019-01-01",
+      "valid_to": "2019-04-25",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant les exigences prudentielles applicables aux \u00E9tablissements de cr\u00E9dit et aux entreprises d\u0027investissement et modifiant le r\u00E8glement (UE) no\u00A0648/2012 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "CRR \u2014 R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013R0575-20190101",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2455e8258c324003f380d95abd8bd3e4a35aab2abdbbbde258b20ac7db833b4b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013R0575-20190101",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2013R0575FR0040010.0001.doc.xml",
+          "sha256": "02ace9a17293b208b366b719e6d41a7e8a3e5f9c950735c1e7e10761de278686",
+          "source_uri": "https://publications.europa.eu/resource/cellar/32c2d019-2ac6-11e9-8d04-01aa75ed71a1.0009.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2013R0575FR0040010.0001.xml",
+          "sha256": "a171d441498cd33bc6b95e42f4f4a7b2cff094bb5c1eb3bf9fe25ce4d182201e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/32c2d019-2ac6-11e9-8d04-01aa75ed71a1.0009.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013R0575-20190101"
+      }
     }
   ],
   "relations": [
@@ -60,7 +111,13 @@
     }
   ],
   "raw": {
-    "celex": "02013R0575-20190101"
+    "celex": "02013R0575-20190101",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "7243ede05878cf4edb0927fc180224330ff9b603878e09433bb5079e2bac5b7f"
+  "record_sha256": "3417eaec3ef56e5082254d98ed2d1e3dbe0c7ada2c182311ca26b3d59c9b566e"
 }

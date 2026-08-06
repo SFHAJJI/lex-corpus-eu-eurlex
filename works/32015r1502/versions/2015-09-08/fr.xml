@@ -1,0 +1,2120 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.17.0 # generated_on:20250114-1305 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2015235FR.01000701.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">9.9.2015   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 235/7</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-7-1">
+            RÈGLEMENT D'EXÉCUTION (UE) 2015/1502 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 8 septembre 2015
+         </p>
+            <p class="oj-doc-ti">fixant les spécifications techniques et procédures minimales relatives aux niveaux de garantie des moyens d'identification électronique visés à l'article 8, paragraphe 3, du règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur</p>
+            <p class="oj-doc-ti">(Texte présentant de l'intérêt pour l'EEE)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l'Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) n<span class="oj-super">o</span> 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE <a id="ntc1-L_2015235FR.01000701-E0001" href="#ntr1-L_2015235FR.01000701-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 8, paragraphe 3,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L'article 8 du règlement (UE) n<span class="oj-super">o</span> 910/2014 prévoit qu'un schéma d'identification électronique notifié en vertu de l'article 9, paragraphe 1, doit préciser les niveaux de garantie (faible, substantiel et élevé) des moyens d'identification électronique délivrés dans le cadre dudit schéma.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il est indispensable de déterminer les spécifications techniques, normes et procédures minimales afin d'assurer une compréhension commune des détails des niveaux de garantie et d'assurer l'interopérabilité lors de l'établissement des correspondances entre les différents niveaux de garantie nationaux des schémas d'identification électronique notifiés par rapport aux niveaux de garantie visés à l'article 8, ainsi que le prévoit l'article 12, paragraphe 4, point b), du règlement (UE) n<span class="oj-super">o</span> 910/2014.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les spécifications et les procédures établies dans le présent acte d'exécution se fondent notamment sur la norme internationale ISO/CEI 29115, qui est la principale norme internationale disponible dans le domaine des niveaux de garantie pour les moyens d'identification électronique. Toutefois, la teneur du règlement (UE) n<span class="oj-super">o</span> 910/2014 diffère de celle de cette norme internationale, en particulier eu égard aux exigences de preuve et de vérification d'identité, ainsi qu'à la façon dont les différences entre les règles des États membres en matière d'identité et les outils existants dans l'Union européenne aux mêmes fins sont prises en compte. Par conséquent, bien que l'annexe se fonde sur cette norme internationale, elle ne devrait pas faire référence à un quelconque contenu spécifique de la norme ISO/CEI 29115.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">L'élaboration du présent règlement résulte d'une approche axée sur les résultats, considérée comme étant la plus appropriée, ce qui transparaît également dans les définitions utilisées pour spécifier les termes et concepts. L'objectif du règlement (UE) n<span class="oj-super">o</span> 910/2014 eu égard aux niveaux de garantie des moyens d'identification électronique est pris en considération. Par conséquent, il convient de tenir le plus grand compte du projet pilote à grande échelle STORK, et notamment des spécifications élaborées dans le cadre de ce projet, ainsi que des définitions et des concepts figurant dans la norme ISO/CEI 29115, pour établir les spécifications et les procédures énumérées dans le présent acte d'exécution.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Selon le contexte dans lequel un aspect donné d'un élément d'identification doit être vérifié, les sources faisant autorité peuvent prendre différentes formes, telles que des registres, documents et organismes. Les sources faisant autorité peuvent être différentes selon les États membres, même dans un contexte similaire.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les exigences de preuve et de vérification d'identité devraient tenir compte des différents schémas et pratiques, tout en assurant un niveau de garantie suffisamment élevé pour établir la confiance nécessaire. Par conséquent, toute acceptation de procédures utilisées précédemment dans un but autre que la délivrance de moyens d'identification électronique devrait être subordonnée à la confirmation que ces procédures remplissent les conditions prévues pour le niveau de garantie correspondant.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Certains facteurs d'authentification, tels que les secrets partagés, les dispositifs physiques et les caractéristiques physiques, sont généralement employés. Toutefois, il y a lieu d'encourager l'utilisation d'un plus grand nombre de facteurs d'authentification, notamment relevant de catégories différentes, pour renforcer la sécurité du processus d'authentification.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le présent règlement ne devrait pas affecter les droits de représentation des personnes morales. Toutefois, l'annexe devrait prévoir des exigences concernant l'établissement d'un lien entre les moyens d'identification électronique des personnes physiques et morales.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il convient de reconnaître l'importance des schémas de gestion de la sécurité de l'information et des services, ainsi que celle de l'utilisation de méthodes reconnues et de l'application des principes inscrits dans des normes comme ISO/CEI 27000 et la série ISO/CEI 20000.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il convient également de tenir compte des bonnes pratiques relatives aux niveaux de garantie dans les États membres.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">La certification de la sécurité informatique basée sur des normes internationales est un outil important pour vérifier que les produits respectent les exigences du présent acte d'exécution.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le comité visé à l'article 48 du règlement (UE) n<span class="oj-super">o</span> 910/2014 n'a pas rendu d'avis dans le délai fixé par son président,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e173-7-1" class="oj-ti-art">Article premier</p>
+               <div id="001.001">
+                  <p class="oj-normal">1.   Les niveaux de garantie faible, substantiel et élevé des moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié sont déterminés par référence aux spécifications et procédures figurant à l'annexe.</p>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   Les spécifications et procédures figurant à l'annexe doivent être utilisées pour spécifier le niveau de garantie des moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié en déterminant la fiabilité et la qualité des éléments suivants:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">inscription, conformément aux dispositions du point 2.1 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, point a), du règlement (UE) n<span class="oj-super">o</span> 910/2014;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">gestion des moyens d'identification électronique, conformément aux dispositions du point 2.2 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, points b) et f), du règlement (UE) n<span class="oj-super">o</span> 910/2014;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">authentification, conformément aux dispositions du point 2.3 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, point c), du règlement (UE) n<span class="oj-super">o</span> 910/2014;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">gestion et organisation, conformément aux dispositions du point 2.4 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, points d) et e), du règlement (UE) n<span class="oj-super">o</span> 910/2014.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="001.003">
+                  <p class="oj-normal">3.   Lorsque les moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié répondent à une exigence énoncée pour un niveau de garantie plus élevé, ils sont réputés respecter l'exigence équivalente d'un niveau de garantie inférieur.</p>
+               </div>
+               <div id="001.004">
+                  <p class="oj-normal">4.   Sauf indication contraire dans la partie pertinente de l'annexe, un moyen d'identification électronique délivré dans le cadre d'un schéma d'identification électronique notifié doit, pour correspondre à un niveau de garantie donné, comporter tous les éléments énumérés à l'annexe en ce qui concerne ce niveau de garantie.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e234-7-1" class="oj-ti-art">Article 2</p>
+               <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l'Union européenne</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 8 septembre 2015.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Le président</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2015235FR.01000701-E0001" href="#ntc1-L_2015235FR.01000701-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >JO L 257 du 28.8.2014, p. 73</a>.</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2015235FR.01001001">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e32-10-1">ANNEXE</p>
+            <p id="d1e38-10-1" class="oj-ti-grseq-1">
+               <span class="oj-bold">Spécifications techniques et procédures pour les niveaux de garantie faible, substantiel et élevé des moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié</span>
+            </p>
+            <p class="oj-ti-grseq-1" id="d1e44-10-1">1.   <span class="oj-bold">Définitions applicables</span>
+            </p>
+            <p class="oj-normal">Aux fins de la présente annexe, on entend par:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">«source faisant autorité», toute source, quelle que soit sa forme, à laquelle on peut se fier pour obtenir des données, des informations et/ou des éléments d'identification exacts pouvant être utilisés pour prouver l'identité;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">«facteur d'authentification», un facteur confirmé comme étant lié à une personne, qui relève de l'une des catégories suivantes:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«facteur d'authentification basé sur la possession», un facteur d'authentification dont il revient au sujet de démontrer la possession;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«facteur d'authentification basé sur la connaissance», un facteur d'authentification dont il revient au sujet de démontrer la connaissance;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">«facteur d'authentification inhérent», un facteur d'authentification qui est basé sur un attribut physique d'une personne physique, et dont il revient au sujet de démontrer qu'il possède cet attribut physique;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">3)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">«authentification dynamique», un processus électronique utilisant la cryptographie ou d'autres techniques pour fournir un moyen permettant de créer sur demande une preuve électronique attestant que le sujet contrôle ou possède les données d'identification et qui change avec chaque authentification entre le sujet et le système vérifiant l'identité du sujet;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">4)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">«système de gestion de la sécurité de l'information», un ensemble de processus et de procédures visant à gérer les risques associés à la sécurité de l'information pour les maintenir à des niveaux acceptables.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e121-10-1">2.   <span class="oj-bold">Spécifications techniques et procédures</span>
+            </p>
+            <p class="oj-normal">Les éléments des spécifications techniques et des procédures décrits dans la présente annexe servent à déterminer de quelle façon les exigences et les critères de l'article 8 du règlement (UE) n<span class="oj-super">o</span> 910/2014 sont appliqués aux moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique.</p>
+            <p class="oj-ti-grseq-1" id="d1e135-10-1">2.1.   <span class="oj-italic">Inscription</span>
+            </p>
+            <p class="oj-ti-grseq-1" id="d1e144-10-1">2.1.1.   <span class="oj-expanded">Demande et enregistrement</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="30%"/>
+               <col width="70%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">S'assurer que le demandeur est informé des conditions associées à l'utilisation du moyen d'identification électronique.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">S'assurer que le demandeur est informé des précautions de sécurité recommandées relatives au moyen d'identification électronique.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Recueillir les données d'identité pertinentes requises pour la preuve et la vérification d'identité.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e189-10-1">2.1.2.   <span class="oj-expanded">Preuve et vérification d'identité (personne physique)</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="31%"/>
+               <col width="69%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">La personne peut être présumée en possession d'un élément d'identification reconnu par l'État membre dans lequel est déposée la demande relative au moyen d'identité électronique et représentant l'identité alléguée.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'élément d'identification peut être présumé authentique ou on peut présumer qu'il existe selon une source faisant autorité et cet élément semble être valide.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'existence de l'identité alléguée est connue d'une source faisant autorité et on peut présumer que la personne est bien celle qu'elle prétend être.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau faible, plus l'une des options énumérées aux points 1 à 4 ci-après:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il a été vérifié que la personne est en possession d'un élément d'identification reconnu par l'État membre dans lequel est déposée la demande relative au moyen d'identité électronique et représentant l'identité alléguée</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">l'élément d'identification fait l'objet d'une vérification visant à déterminer son authenticité ou l'existence de cet élément est connue d'une source faisant autorité et il se rapporte à une personne réelle</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">des mesures ont été prises pour minimiser le risque que l'identité de la personne ne soit pas l'identité alléguée, en tenant compte par exemple du risque de perte, de vol, de suspension, de révocation ou d'expiration de l'élément d'identification;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">une pièce d'identité est présentée au cours d'un processus d'enregistrement dans l'État membre où la pièce d'identité a été délivrée et la pièce d'identité semble se rapporter à la personne qui la présente</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">des mesures ont été prises pour minimiser le risque que l'identité de la personne ne soit pas l'identité alléguée, en tenant compte par exemple du risque de perte, de vol, de suspension, de révocation ou d'expiration de la pièce d'identité;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque les procédures précédemment utilisées par une entité publique ou privée dans le même État membre dans un but autre que la délivrance du moyen d'identification électronique assurent une garantie équivalente à celle énoncée au point 2.1.2 pour le niveau de garantie substantiel, l'entité responsable de l'enregistrement n'est pas tenue de répéter ces précédentes procédures, sous réserve que ladite garantie équivalente soit confirmée par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 du Parlement européen et du Conseil<a id="ntc1-L_2015235FR.01001001-E0001" href="#ntr1-L_2015235FR.01001001-E0001"
+                                          > (<span class="oj-super oj-note-tag">1</span>)</a> ou par un organisme équivalent;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">4.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque des moyens d'identification électronique sont délivrés sur la base d'un moyen d'identification électronique notifié valide ayant le niveau de garantie élevé ou substantiel et tenant compte des risques d'une modification des données d'identification personnelle, il n'est pas nécessaire de répéter les processus de preuve et de vérification d'identité. Lorsque le moyen d'identification électronique servant de base n'a pas été notifié, le niveau de garantie élevé ou substantiel doit être confirmé par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Les exigences du point 1 ou 2 ci-dessous doivent être respectées:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Niveau substantiel, plus l'une des options énumérées aux points a) à c) ci-dessous:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">a)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Lorsqu'il a été vérifié que la personne est en possession d'un élément d'identification biométrique ou photographique reconnu par l'État membre dans lequel est déposée la demande relative au moyen d'identité électronique et que cet élément correspond à l'identité alléguée, l'élément fait l'objet d'une vérification visant à déterminer sa validité selon une source faisant autorité</p>
+                                                <p class="oj-normal">et</p>
+                                                <p class="oj-normal">le demandeur est identifié comme ayant l'identité alléguée par comparaison d'une ou de plusieurs caractéristiques physiques de la personne auprès d'une source faisant autorité;</p>
+                                                <p class="oj-normal">ou</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">b)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">lorsque les procédures précédemment utilisées par une entité publique ou privée dans le même État membre dans un but autre que la délivrance du moyen d'identification électronique assurent une garantie équivalente à celle visée au point 2.1.2 pour le niveau de garantie élevé, l'entité responsable de l'enregistrement n'est pas tenue de répéter ces précédentes procédures, sous réserve que cette garantie équivalente soit confirmée par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent</p>
+                                                <p class="oj-normal">et</p>
+                                                <p class="oj-normal">des mesures sont prises pour prouver que les résultats des procédures antérieures demeurent valides;</p>
+                                                <p class="oj-normal">ou</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">c)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">lorsque des moyens d'identification électronique sont délivrés sur la base d'un moyen d'identification électronique notifié valide ayant le niveau de garantie élevé, et en tenant compte des risques d'une modification des données d'identification personnelle, il n'est pas nécessaire de répéter les processus de preuve et de vérification d'identité. Lorsque le moyen d'identification électronique servant de base n'a pas été notifié, le niveau de garantie élevé doit être confirmé par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent</p>
+                                                <p class="oj-normal">et</p>
+                                                <p class="oj-normal">des mesures sont prises pour prouver que les résultats de cette précédente procédure de délivrance d'un moyen d'identification électronique notifié demeurent valides;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <p class="oj-normal">OU</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque le demandeur ne présente pas d'élément d'identification biométrique ou photographique reconnu, les mêmes procédures que celles utilisées au niveau national dans l'État membre de l'entité responsable de l'inscription afin d'obtenir ledit élément d'identification biométrique ou photographique reconnu sont appliquées.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e360-10-1">2.1.3.   <span class="oj-expanded">Preuve et vérification d'identité (personne morale)</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="27%"/>
+               <col width="73%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'identité alléguée de la personne morale est établie sur la base de l'élément d'identification reconnu par l'État membre dans lequel est déposée la demande relative au moyen d'identité électronique.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'élément d'identification semble être valide et on peut présumer qu'il est authentique ou qu'il existe selon une source faisant autorité, l'inscription d'une personne morale auprès de la source faisant autorité étant une démarche volontaire et régie par un accord entre la personne morale et la source faisant autorité.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">La personne morale n'est pas connue par une source faisant autorité comme étant dans une situation qui l'empêcherait d'agir en qualité de personne morale.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau faible, plus l'une des options énumérées aux points 1 à 3 ci-après:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'identité alléguée de la personne morale est établie sur la base de l'élément d'identification reconnu par l'État membre dans lequel est déposée la demande relative au moyen d'identité électronique, y compris le nom de la personne morale, sa forme juridique et (le cas échéant) son numéro d'immatriculation</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">l'élément d'identification est soumis à une vérification visant à déterminer s'il est authentique, ou si son existence est connue d'une source faisant autorité, l'inscription de la personne morale auprès de la source faisant autorité étant requise pour que la personne morale puisse exercer ses activités dans son secteur</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">des mesures ont été prises pour minimiser le risque que l'identité de la personne morale ne soit pas l'identité alléguée, en tenant compte par exemple du risque de perte, de vol, de suspension, de révocation ou d'expiration des documents;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque les procédures précédemment utilisées par une entité publique ou privée dans le même État membre dans un but autre que la délivrance du moyen d'identification électronique assurent une garantie équivalente à celle visée au point 2.1.3 pour le niveau de garantie substantiel, l'entité responsable de l'enregistrement n'est pas tenue de répéter ces précédentes procédures sous réserve que cette garantie équivalente soit confirmée par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque des moyens d'identification électronique sont délivrés sur la base d'un moyen d'identification électronique notifié valide ayant le niveau de garantie élevé ou substantiel, il n'est pas nécessaire de répéter les processus de preuve et de vérification d'identité. Lorsque le moyen d'identification électronique servant de base n'a pas été notifié, le niveau de garantie élevé ou substantiel doit être confirmé par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau substantiel, plus l'une des options énumérées aux points 1 à 3 ci-après:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'identité alléguée de la personne morale est établie sur la base de l'élément d'identification reconnu par l'État membre dans lequel est déposée la demande relative au moyen d'identité électronique, y compris le nom de la personne morale, sa forme juridique et au moins un identifiant unique représentant la personne morale utilisé dans un contexte national</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">l'élément d'identification est soumis à une vérification visant à déterminer s'il est valide selon une source faisant autorité;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque les procédures précédemment utilisées par une entité publique ou privée dans le même État membre dans un but autre que la délivrance du moyen d'identification électronique assurent une garantie équivalente à celle énoncée au point 2.1.3 pour le niveau de garantie élevé, l'entité responsable de l'enregistrement n'est pas tenue de répéter ces précédentes procédures, sous réserve que cette garantie équivalente soit confirmée par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">des mesures sont prises pour prouver que les résultats de cette procédure antérieure demeurent valides;</p>
+                                    <p class="oj-normal">ou</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lorsque les moyens d'identification électronique sont délivrés sur la base d'un moyen d'identification électronique notifié valide ayant le niveau de garantie élevé, il n'est pas nécessaire de répéter les processus de preuve et de vérification d'identité. Lorsque le moyen d'identification électronique servant de base n'a pas été notifié, le niveau de garantie élevé doit être confirmé par un organisme d'évaluation de la conformité au sens de l'article 2, point 13), du règlement (CE) n<span class="oj-super">o</span> 765/2008 ou par un organisme équivalent</p>
+                                    <p class="oj-normal">et</p>
+                                    <p class="oj-normal">des mesures sont prises pour prouver que les résultats de cette précédente procédure de délivrance d'un moyen d'identification électronique notifié demeurent valides.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e485-10-1">2.1.4.   <span class="oj-expanded">Lien établi entre les moyens d'identification électronique de personnes physiques et morales</span>
+            </p>
+            <p class="oj-normal">Le cas échéant, pour établir un lien entre le moyen d'identification électronique d'une personne physique et le moyen d'identification électronique d'une personne morale («lien établi»), les conditions suivantes s'appliquent:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Il doit être possible de suspendre et/ou de révoquer le lien établi. Le cycle de vie d'un lien établi (par exemple activation, suspension, renouvellement, révocation) doit être géré selon des procédures reconnues à l'échelle nationale.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">La personne physique dont le moyen d'identification électronique est lié au moyen d'identification électronique de la personne morale peut déléguer l'établissement du lien à une autre personne physique sur la base de procédures reconnues à l'échelle nationale. Toutefois, la personne physique délégante reste responsable.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">3)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">L'établissement du lien s'effectue comme suit:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+                           <col width="41%"/>
+                           <col width="59%"/>
+                           <tbody>
+                              <tr class="oj-table">
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-hdr">Niveau de garantie</p>
+                                 </td>
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                                 </td>
+                              </tr>
+                              <tr class="oj-table">
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-txt">Faible</p>
+                                 </td>
+                                 <td valign="top" class="oj-table"  >
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">1.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Il est vérifié que le processus suivi pour prouver l'identité de la personne physique agissant au nom de la personne morale correspond au niveau faible ou supérieur.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">2.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Le lien a été établi sur la base de procédures reconnues à l'échelle nationale.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">3.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">La personne morale n'est pas connue par une source faisant autorité comme étant dans une situation qui l'empêcherait d'agir au nom de la personne morale.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr class="oj-table">
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-txt">Substantiel</p>
+                                 </td>
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-txt">Point 3 du niveau faible, plus:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">1.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Il est vérifié que le processus suivi pour prouver l'identité de la personne physique agissant au nom de la personne morale correspond au niveau substantiel ou élevé.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">2.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Le lien a été établi sur la base de procédures reconnues à l'échelle nationale, qui ont abouti à l'enregistrement du lien établi auprès d'une source faisant autorité.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">3.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Le lien établi a été vérifié sur la base d'informations provenant d'une source faisant autorité.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr class="oj-table">
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-txt">Élevé</p>
+                                 </td>
+                                 <td valign="top" class="oj-table"  >
+                                    <p class="oj-tbl-txt">Point 3 du niveau faible et point 2 du niveau substantiel, plus:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">1.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Il est vérifié que le processus suivi pour prouver l'identité de la personne physique agissant au nom de la personne morale correspond au niveau élevé.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">2.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Le lien a été vérifié sur la base d'un identifiant unique représentant la personne morale et utilisé dans le contexte national; et sur la base d'informations représentant de façon unique la personne physique et provenant d'une source faisant autorité.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e590-10-1">2.2.   <span class="oj-italic">Gestion des moyens d'identification électronique</span>
+            </p>
+            <p class="oj-ti-grseq-1" id="d1e599-10-1">2.2.1.   <span class="oj-expanded">Caractéristiques et conception des moyens d'identification électronique</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="32%"/>
+               <col width="68%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le moyen d'identification électronique utilise au moins un facteur d'authentification.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le moyen d'identification électronique est conçu pour que l'émetteur prenne des mesures raisonnables afin de vérifier qu'il est utilisé uniquement sous le contrôle de la personne à laquelle il appartient ou en sa possession.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le moyen d'identification électronique utilise au moins deux facteurs d'authentification de différentes catégories.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le moyen d'identification électronique est conçu de sorte qu'on puisse présumer qu'il est utilisé uniquement sous le contrôle de la personne à laquelle il appartient ou en sa possession.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau substantiel, plus:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le moyen d'identification électronique protège contre les doubles emplois et les manipulations ainsi que contre les attaquants à potentiel d'attaque élevé.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le moyen d'identification électronique est conçu de sorte que la personne à laquelle il appartient puisse le protéger de façon fiable contre toute utilisation non autorisée.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e662-10-1">2.2.2.   <span class="oj-expanded">Délivrance, mise à disposition et activation</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="41%"/>
+               <col width="59%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Après la délivrance, le moyen d'identification électronique est mis à disposition par un mécanisme permettant de présumer qu'il ne sera reçu que par le destinataire prévu.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Après la délivrance, le moyen d'identification électronique est mis à disposition par un mécanisme permettant de présumer qu'il sera exclusivement remis en la possession de la personne à laquelle il appartient.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Le processus d'activation vérifie que le moyen d'identification électronique a été remis exclusivement en la possession de la personne à laquelle il appartient.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e693-10-1">2.2.3.   <span class="oj-expanded">Suspension, révocation et réactivation</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="41%"/>
+               <col width="59%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il est possible de suspendre et/ou de révoquer un moyen d'identification électronique de manière rapide et efficace.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Des mesures ont été prises pour prévenir toute suspension, révocation et/ou réactivation non autorisées.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">La réactivation ne pourra avoir lieu que si les exigences de garantie établies avant la suspension ou la révocation sont toujours respectées.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e738-10-1">2.2.4.   <span class="oj-expanded">Renouvellement et remplacement</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="41%"/>
+               <col width="59%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">En tenant compte des risques d'une modification des données d'identification personnelles, le renouvellement ou le remplacement doit satisfaire aux mêmes exigences de garantie que la preuve et la vérification d'identité initiales ou reposer sur un moyen d'identification électronique valide ayant un niveau de garantie identique ou supérieur.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau faible, plus:</p>
+                        <p class="oj-tbl-txt">Lorsque le renouvellement ou le remplacement est basé sur un moyen d'identification électronique valide, les données d'identité sont vérifiées auprès d'une source faisant autorité.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e772-10-1">2.3.   <span class="oj-italic">Authentification</span>
+            </p>
+            <p class="oj-normal">La présente section met l'accent sur les menaces liées à l'utilisation du mécanisme d'authentification et répertorie les exigences applicables à chaque niveau de garantie. Dans la présente section, les contrôles sont censés être proportionnés aux risques au niveau donné.</p>
+            <p class="oj-ti-grseq-1" id="d1e783-10-1">2.3.1.   <span class="oj-expanded">Mécanisme d'authentification</span>
+            </p>
+            <p class="oj-normal">Le tableau suivant définit les exigences par niveau de garantie eu égard au mécanisme d'authentification employé par la personne physique ou morale pour utiliser le moyen d'identification électronique destiné à confirmer son identité à une partie utilisatrice.</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="37%"/>
+               <col width="63%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">La diffusion de données d'identification personnelle est précédée par la vérification fiable du moyen d'identification électronique et de sa validité.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Lorsque des données d'identification personnelle sont mémorisées dans le cadre du mécanisme d'authentification, ces informations sont sécurisées afin d'assurer leur protection contre toute perte ou compromission, y compris une analyse hors ligne.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le mécanisme d'authentification met en œuvre des contrôles de sécurité pour la vérification du moyen d'identification électronique, de sorte qu'il est hautement improbable que des activités telles que les tentatives de décryptage, l'écoute, l'attaque par rejeu ou la manipulation d'une communication par un attaquant ayant un potentiel d'attaque de base renforcé puissent nuire aux mécanismes d'authentification.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau faible, plus:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">La diffusion de données d'identification personnelle est précédée par la vérification fiable du moyen d'identification électronique et de sa validité par une authentification dynamique.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le mécanisme d'authentification met en œuvre des contrôles de sécurité pour la vérification du moyen d'identification électronique, de sorte qu'il est hautement improbable que des activités telles que les tentatives de décryptage, l'écoute, l'attaque par rejeu ou la manipulation d'une communication par un attaquant ayant un potentiel d'attaque modéré puissent nuire aux mécanismes d'authentification.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau substantiel, plus:</p>
+                        <p class="oj-tbl-txt">Le mécanisme d'authentification met en œuvre des contrôles de sécurité pour la vérification du moyen d'identification électronique, de sorte qu'il est hautement improbable que des activités telles que les tentatives de décryptage, l'écoute, l'attaque par rejeu ou la manipulation d'une communication par un attaquant ayant un potentiel d'attaque élevé puissent nuire aux mécanismes d'authentification.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e847-10-1">2.4.   <span class="oj-italic">Gestion et organisation</span>
+            </p>
+            <p class="oj-normal">Tous les participants fournissant un service lié à l'identification électronique dans un contexte transfrontalier («fournisseurs») doivent disposer de pratiques de gestion de la sécurité de l'information documentées, de politiques, d'approches de la gestion des risques et d'autres contrôles reconnus afin de garantir aux organes de gouvernance appropriés responsables des schémas d'identification électronique dans les différents États membres que des pratiques efficaces sont en place. Tous les éléments/exigences figurant au point 2.4 sont censés être proportionnés aux risques au niveau donné.</p>
+            <p class="oj-ti-grseq-1" id="d1e862-10-1">2.4.1.   <span class="oj-expanded">Dispositions générales</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="38%"/>
+               <col width="62%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les fournisseurs fournissant un service opérationnel visé par le présent règlement sont une autorité publique ou une personne morale reconnue comme telle par le droit national d'un État membre, avec une organisation établie et pleinement opérationnelle à tous les égards pertinents pour la fourniture des services.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les fournisseurs respectent toute exigence légale qui leur incombe dans le cadre du fonctionnement et de l'exécution du service, y compris les types d'informations pouvant être recherchés, la façon dont la preuve d'identité est établie, le type d'informations pouvant être conservées et leur durée de conservation.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les fournisseurs sont en mesure de démontrer leur capacité à assumer la responsabilité d'éventuels dommages, ainsi que le fait qu'ils disposent de ressources financières suffisantes pour la poursuite de leurs activités et la fourniture des services.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">4.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les fournisseurs sont responsables de l'exécution de toute tâche sous-traitée à une autre entité, ainsi que du respect de la politique du schéma, comme s'ils s'étaient acquittés eux-mêmes de leur mission.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">5.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les schémas d'identification électronique non constitués par le droit national doivent mettre en place un plan de cessation d'activités efficace. Ce plan comporte des mesures concernant l'organisation en cas d'arrêt de fourniture du service ou de la reprise de la fourniture par un autre fournisseur, la façon dont les autorités compétentes et les utilisateurs finaux sont informés, ainsi que des détails sur les modalités de protection, conservation et destruction des informations conformément à la politique du schéma.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e917-10-1">2.4.2.   <span class="oj-expanded">Avis publiés et information des utilisateurs</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="34%"/>
+               <col width="66%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il doit exister une définition de service publiée qui inclut toutes les modalités, conditions et frais, y compris les éventuelles limitations de son utilisation. La définition de service doit inclure une politique de confidentialité.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il convient de mettre en place des procédures et politiques appropriées permettant de garantir que les utilisateurs du service sont informés de façon fiable et rapide de tout changement apporté à la définition de service et à toute modalité, condition et politique de confidentialité relative au service spécifié.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il y a lieu de mettre en place des procédures et politiques appropriées permettant d'apporter des réponses complètes et exactes aux demandes de renseignements.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e962-10-1">2.4.3.   <span class="oj-expanded">Gestion de la sécurité de l'information</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="44%"/>
+               <col width="56%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Il existe un système de gestion de la sécurité de l'information efficace pour la gestion et le contrôle des risques de sécurité de l'information.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Niveau faible, plus:</p>
+                        <p class="oj-tbl-txt">Le système de gestion de la sécurité de l'information adhère à des normes ou principes éprouvés pour la gestion et le contrôle des risques de sécurité de l'information.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau substantiel.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e996-10-1">2.4.4.   <span class="oj-expanded">Conservation d'informations</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="34%"/>
+               <col width="66%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Enregistrer et conserver les informations pertinentes à l'aide d'un système efficace de gestion des informations, en tenant compte de la législation applicable et des bonnes pratiques en matière de protection et de conservation des données.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Conserver, autant qu'il est permis par la législation nationale ou par tout autre arrangement administratif national, et protéger les informations pendant aussi longtemps qu'elles sont nécessaires pour auditer et enquêter sur les atteintes à la sécurité, et à des fins de conservation, après quoi les informations doivent être détruites en toute sécurité.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e1036-10-1">2.4.5.   <span class="oj-expanded">Installations et personnel</span>
+            </p>
+            <p class="oj-normal">Le tableau suivant présente les exigences relatives aux installations, au personnel et aux sous-traitants, le cas échéant, qui se chargent des tâches visées par le présent règlement. Le respect de chacune des exigences doit être proportionné au niveau de risque associé au niveau de garantie fourni.</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="39%"/>
+               <col width="61%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il existe des procédures garantissant que le personnel et les sous-traitants sont suffisamment formés, qualifiés et expérimentés eu égard aux compétences nécessaires pour exécuter les tâches qui leur sont confiées.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Le personnel et les sous-traitants doivent être en nombre suffisant pour faire fonctionner et gérer de manière adéquate le service conformément à ses politiques et procédures.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les installations utilisées pour fournir le service sont surveillées en permanence et protégées contre les dommages causés par des événements environnementaux, l'accès non autorisé et d'autres facteurs susceptibles d'avoir une incidence sur la sécurité du service.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">4.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les installations utilisées pour fournir le service garantissent que l'accès aux zones de conservation ou de traitement d'informations personnelles, cryptographiques ou autres informations sensibles est limité au personnel ou aux sous-traitants autorisés.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e1088-10-1">2.4.6.   <span class="oj-expanded">Contrôles techniques</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="37%"/>
+               <col width="63%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il existe des contrôles techniques proportionnés pour gérer les risques menaçant la sécurité des services, en protégeant la confidentialité, l'intégrité et la disponibilité de l'information traitée.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Les canaux de communication électronique utilisés pour échanger des informations personnelles ou sensibles sont protégés contre les écoutes clandestines, la manipulation et le rejeu.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">3.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">L'accès à du matériel cryptographique sensible, si ce dernier est utilisé pour la délivrance de moyens d'identification électronique et l'authentification, est limité aux rôles et aux applications pour lesquels il est strictement nécessaire. Il convient de s'assurer que ce matériel n'est jamais conservé de manière permanente en texte clair.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">4.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il existe des procédures permettant de garantir que la sécurité est maintenue sur la durée et qu'il est possible de réagir aux changements des niveaux de risque, incidents et atteintes à la sécurité.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">5.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Tous les supports contenant des informations personnelles, cryptographiques ou autres informations sensibles sont stockés, transportés et mis au rebut de façon sécurisée.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau faible, plus:</p>
+                        <p class="oj-tbl-txt">Le matériel cryptographique sensible, s'il est utilisé pour la délivrance de moyens d'identification électronique et l'authentification, est protégé contre toute manipulation non autorisée.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Identique au niveau substantiel.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p class="oj-ti-grseq-1" id="d1e1146-10-1">2.4.7.   <span class="oj-expanded">Conformité et audit</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="32%"/>
+               <col width="68%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Niveau de garantie</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Éléments nécessaires</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Faible</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Il existe des audits internes périodiques dont le champ couvre tous les aspects relatifs à la fourniture des services fournis pour assurer la conformité avec les politiques pertinentes.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Substantiel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Il existe des audits internes ou externes indépendants périodiques dont le champ couvre tous les sujets relatifs à la fourniture des services fournis pour assurer la conformité avec les politiques pertinentes.</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Élevé</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">1.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Il existe des audits externes indépendants périodiques dont le champ couvre tous les sujets relatifs à la fourniture des services fournis pour assurer la conformité avec les politiques pertinentes.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">2.</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Lorsqu'un schéma est directement géré par un organisme gouvernemental, il est audité conformément au droit national.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <hr class="oj-note"/>
+            <p class="oj-note">
+               <a id="ntr1-L_2015235FR.01001001-E0001" href="#ntc1-L_2015235FR.01001001-E0001"
+                  >(<span class="oj-super">1</span>)</a>  Règlement (CE) n<span class="oj-super">o</span> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<span class="oj-super">o</span> 339/93 du Conseil (<a href="http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC"
+                  >JO L 218 du 13.8.2008, p. 30</a>).</p>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

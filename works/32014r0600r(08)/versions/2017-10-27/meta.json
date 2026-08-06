@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32014r0600r(08):2017-10-27",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014R0600R(08)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2017-10-27",
+  "valid_time_source": "publisher",
+  "publication_date": "2017-10-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2017-10-27",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014)",
+      "title_short": "Corrigendum to Regulation (EU) No 600/2014",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600R%2808%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "60605b3bef5067ce8f12fca1cdb852a9e6e2e6be65e18ab6d8be1e2bc4bd61cc",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600R%2808%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600R%2808%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2017-10-27",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif au r\u00E8glement (UE) no 600/2014 du Parlement europ\u00E9en et du Conseil du 15 mai 2014 concernant les march\u00E9s d\u2019instruments financiers et modifiant le r\u00E8glement (UE) no 648/2012 (JO L 173 du 12.6.2014)",
+      "title_short": "Rectificatif au r\u00E8glement (UE) no 600/2014 du Parlement europ\u00E9en et du Conseil du 15 mai 2\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0600R%2808%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "318784b705c838ae7a393989a1022a97661e05250d1059e970b09e7c615bc95a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0600R%2808%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0600R%2808%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32014R0600R(08)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_corrects_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "a5ac15b8c3d91f1798f6e23d086ea6fd73d19a3488e08e226e7ba6ae01f28ae0"
+}

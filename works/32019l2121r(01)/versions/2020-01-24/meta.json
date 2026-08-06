@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32019l2121r(01):2020-01-24",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L2121R(01)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2020-01-24",
+  "valid_time_source": "publisher",
+  "publication_date": "2020-01-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.consolidation_status,raw.legal_form"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2020-01-24",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Directive (EU) 2019/2121 of the European Parliament and of the Council of 27 November 2019 amending Directive (EU) 2017/1132 as regards cross-border conversions, mergers and divisions (Official Journal of the European Union L 321 of 12 December 2019)",
+      "title_short": "Corrigendum to Directive (EU) 2019/2121",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2121R%2801%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "cd31b57375b2c245dfcf6a92d2c82f6455576b9855958fbe17e4297be31008fa",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2121R%2801%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2121R%2801%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2020-01-24",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive (UE) 2019/2121 du Parlement europ\u00E9en et du Conseil du 27 novembre 2019 modifiant la directive (UE) 2017/1132 en ce qui concerne les transformations, fusions et scissions transfrontali\u00E8res (Journal officiel de l\u2019Union europ\u00E9enne L 321 du 12 d\u00E9cembre 2019)",
+      "title_short": "Rectificatif \u00E0 la directive (UE) 2019/2121 du Parlement europ\u00E9en et du Conseil du 27 novem\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L2121R%2801%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d3a5497b04a09d1dcb8106c387d78d93f9c880c18d0d562baae9d552580295e1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L2121R%2801%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L2121R%2801%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32019L2121R(01)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "38b94df0e19b63cde8b79462c82403898149e600708f820184c898865066e31e"
+}

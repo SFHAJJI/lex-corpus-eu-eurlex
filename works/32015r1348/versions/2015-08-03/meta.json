@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32015r1348:2015-08-03",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32015R1348",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2015-08-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2015-08-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2015-08-03",
+      "valid_time_source": "publisher",
+      "title": "Commission Regulation (EU) 2015/1348 of 3 August 2015 amending Regulation (EC) No 773/2004 relating to the conduct of proceedings by the Commission pursuant to Articles 81 and 82 of the EC Treaty (Text with EEA relevance)",
+      "title_short": "Commission Regulation (EU) 2015/1348 of 3 August 2015 amending Regulation (EC) No 773/2004\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1348",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "afcf44ee3523c154a3b0d9310a413798d68243b85293f26a84b91e108e8e46b5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1348",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1348"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2015-08-03",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2015/1348 de la Commission du 3 ao\u00FBt 2015 portant modification du r\u00E8glement (CE) n\u00B0 773/2004 relatif aux proc\u00E9dures mises en \u0153uvre par la Commission en application des articles 81 et 82 du trait\u00E9 CE (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement (UE) 2015/1348 de la Commission du 3 ao\u00FBt 2015 portant modification du r\u00E8glement\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1348",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f048648fbcf4315e49639a164e1acc0b36993fc1fe39fca4297b6f74d788d0cb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1348",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1348"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32015R1348",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "competition",
+    "scope_reasons": "domain:competition:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "711e29cb8d165cfcce2eb5849491e112f9d9925a209d8ea465be6edb477d9fee"
+}

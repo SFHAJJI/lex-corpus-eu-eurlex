@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32012r0156:2012-02-22",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32012R0156",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2012-02-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2012-02-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2012-02-22",
+      "valid_time_source": "publisher",
+      "title": "Commission Regulation (EU) No\u00A0156/2012 of 22\u00A0February 2012 amending Annexes I to IV to Council Regulation (EC) No\u00A044/2001 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters",
+      "title_short": "Commission Regulation (EU) No\u00A0156/2012 of 22\u00A0February 2012 amending Annexes I to IV to Cou\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0156",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "a804d48541d1eda3966b77004f90df8f034c6fa5d8af1c097e2c014f558121d6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0156",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0156"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2012-02-22",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) n \u00B0\u00A0156/2012 de la Commission du 22\u00A0f\u00E9vrier 2012 modifiant les annexes I \u00E0 IV du r\u00E8glement (CE) n \u00B0\u00A044/2001 du Conseil concernant la comp\u00E9tence judiciaire, la reconnaissance et l\u2019ex\u00E9cution des d\u00E9cisions en mati\u00E8re civile et commerciale",
+      "title_short": "R\u00E8glement (UE) n \u00B0\u00A0156/2012 de la Commission du 22\u00A0f\u00E9vrier 2012 modifiant les annexes I \u00E0 \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R0156",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dfedda78d207e0c3c3b15504f89d4ce54deec0475a650a9caa14f1e0902cbdce",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R0156",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R0156"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32012R0156",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "ba76f110e6804429b9b7b5fb2b2d7e05241f191b2e3e35d7ae06f442df0efa43"
+}

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.18.0 # generated_on:20260721-1312 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202601730EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2026/1730</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">22.7.2026</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e42-1-1">
+            COMMISSION IMPLEMENTING REGULATION (EU) 2026/1730</p>
+            <p class="oj-doc-ti">of 15 July 2026
+         </p>
+            <p class="oj-doc-ti">amending Implementing Regulation (EU) 2025/848 as regards applicable standards and specifications</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC <a id="ntc1-L_202601730EN.000101-E0001" href="#ntr1-L_202601730EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 5b(11) thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure the highest level of harmonisation among Member States for the development of European Digital Identity Wallets, the technical specifications for the wallets rely on the work carried out on the basis of Commission Recommendation (EU) 2021/946 <a id="ntc2-L_202601730EN.000101-E0002" href="#ntr2-L_202601730EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> and in particular the architecture and reference framework. As the architecture and reference framework has evolved significantly since the adoption of Commission Implementing Regulation (EU) 2025/848 <a id="ntc3-L_202601730EN.000101-E0003" href="#ntr3-L_202601730EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>, Implementing Regulation (EU) 2025/848 should now be amended to align it with the new standards, specifications and procedures. Further, to foster interoperability between wallet-relying party registers, the relevant technical specifications for a common format and application programming interface (API) for wallet-relying party registration information have been developed in the context of the Architecture and Reference Framework.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In accordance with the objectives of Regulation (EU) No 910/2014, a number of standards have been selected to meet the requirements applicable to the registration of wallet-relying parties. These standards should reflect established practices and be widely recognised within the relevant sectors. Where necessary, these standards should be adapted or complemented in order to ensure a high level of security and reliability in the registration and identification of wallet-relying parties, while facilitating cross-border interoperability and the effective functioning of the internal market. In line with this objective, this Regulation updates the applicable technical standards and information requirements governing the registration of the link between intermediaries and the wallet-relying parties on whose behalf they act and harmonises the certificate profiles for the certificates regulated under this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To enable wallet unit to validate that the data requested by a wallet-relying party are within the scope of the registered intended use, providers of wallet-relying party registration certificates should issue wallet-relying party registration certificates in an automated manner and without undue delay after the registration.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc4-L_202601730EN.000101-E0004" href="#ntr4-L_202601730EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> and, where relevant, Directive 2002/58/EC of the European Parliament and of the Council <a id="ntc5-L_202601730EN.000101-E0005" href="#ntr5-L_202601730EN.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a> apply to all personal data processing activities under this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc6-L_202601730EN.000101-E0006" href="#ntr6-L_202601730EN.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a> and delivered its opinion on 17 April 2026 <a id="ntc7-L_202601730EN.000101-E0007" href="#ntr7-L_202601730EN.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The measures provided for in this Regulation are in accordance with the opinion of the committee established by Article 48 of Regulation (EU) No 910/2014,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e186-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Amendments to Implementing Regulation (EU) 2025/848</p>
+               </div>
+               <p class="oj-normal">Implementing Regulation (EU) 2025/848 is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In Article 6(3), point (a) is replaced by the following:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">‘(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">the accuracy, validity, authenticity and integrity of the information required under Annex I, points 1 to 6 and 11 to 16.’;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In Article 6(3), point (c) is deleted;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In Article 6, the following paragraph 3a is inserted:</p>
+                           <div id="006.003A">
+                              <p class="oj-normal">‘3a.   Registrars shall collect the information referred to in Annex I, points 7 to 10 in an automated manner only for the purpose of transparency and, without prejudice to paragraph 4 of Article 5b of Regulation (EU) No 910/2014, shall not apply any preauthorisation process on this information.’</p>
+                           </div>;</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 8 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 1 is replaced by the following:</p>
+                                       <div id="008.001">
+                                          <p class="oj-normal">‘1.   Member States shall authorise at least one certificate authority to issue wallet relying party registration certificates. Member States shall ensure that providers of wallet-relying party registration certificates issue those certificates in an automated manner and without undue delay after the registration.’</p>
+                                       </div>;</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 2 is replaced by the following:</p>
+                                       <div id="008.002">
+                                          <p class="oj-normal">‘2.   Member States shall:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(a)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">require providers of wallet-relying party registration certificates to issue wallet-relying party registration certificates exclusively to registered wallet-relying parties;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(b)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">ensure that each intended use is expressed in the wallet-relying party registration certificates;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(c)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">ensure that wallet-relying party registration certificates include a general access policy, being syntactically and semantically harmonised across the Union, informing users that the wallet-relying party is only allowed to request the data specified in the registration certificates for the intended use registered in the registration certificates;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(d)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">ensure that providers of wallet solutions established in that Member State comply with the general access policy by informing users when a wallet-relying party requests data that is not specified in the registration certificates;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(e)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">implement wallet-relying party registration certificates in a syntactically and semantically harmonised manner and in line with the requirements set out in Annex V;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(f)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">implement dedicated certificate policies and certificate practice statements for the wallet-relying party registration certificates in accordance with the requirements set out in Annex V;</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">(g)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">ensure that wallet-relying parties provide a URL to the privacy policy regarding the intended use.’</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </div>;</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Annex I is amended as set out in Annex I to this Regulation;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Annex IV is amended as set out in Annex II to this Regulation;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Annex V is amended as set out in Annex III to this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e328-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 15 July 2026.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202601730EN.000101-E0001" href="#ntc1-L_202601730EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >OJ L 257, 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202601730EN.000101-E0002" href="#ntc2-L_202601730EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Commission Recommendation (EU) 2021/946 of 3 June 2021 on a common Union Toolbox for a coordinated approach towards a European Digital Identity Framework (<a href="http://publications.europa.eu/resource/oj/JOL_2021_210_R_TOC"
+               >OJ L 210, 14.6.2021, p. 51</a>, ELI: <a href="http://data.europa.eu/eli/reco/2021/946/oj" >http://data.europa.eu/eli/reco/2021/946/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202601730EN.000101-E0003" href="#ntc3-L_202601730EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Commission Implementing Regulation (EU) 2025/848 of 6 May 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the registration of wallet-relying parties (<a href="https://data.europa.eu/eli/reg_impl/2025/848/oj" >OJ L, 2025/848, 7.5.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/848/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202601730EN.000101-E0004" href="#ntc4-L_202601730EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >OJ L 119, 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202601730EN.000101-E0005" href="#ntc5-L_202601730EN.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >OJ L 201, 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202601730EN.000101-E0006" href="#ntc6-L_202601730EN.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >OJ L 295, 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202601730EN.000101-E0007" href="#ntc7-L_202601730EN.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  
+            <a href="https://www.edps.europa.eu/data-protection/our-work/publications/formal-comments/2026-04-17-edps-daft-regulation-amending-regulation-eu-2025848-regards-applicable-standards-and-specifications_en"
+               >EDPS Formal comments on the draft Implementing Regulation amending Implementing Regulation (EU) 2025/848 as regards applicable standards and specifications. | European Data Protection Supervisor</a>.</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202601730EN.000401.fmx">
+         <div class="eli-container" id="anx_I">
+            <p class="oj-doc-ti" id="d1e35-4-1">ANNEX I</p>
+            <p class="oj-normal">In Annex I of Implementing Regulation (EU) 2025/848, the following point is added:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">‘16.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Where applicable, an association to the wallet-relying party that is relying upon the intermediary to whom the wallet-relying party access certificate has been issued and that is acting on behalf of the relying party who intends to rely upon the wallet.’</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202601730EN.000501.fmx">
+         <div class="eli-container" id="anx_II">
+            <p class="oj-doc-ti" id="d1e35-5-1">ANNEX II</p>
+            <p class="oj-normal">Annex IV of Implementing Regulation (EU) 2025/848 is amended as follows:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">point (3), first paragraph is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">The text “shall, as applicable, comply with at least the normalised certificate policy (‘NCP’) requirements as specified in standard ETSI EN 319 411-1 version 1.4.1 (2023-10)” is replaced by the text “shall, as applicable, comply with standard ETSI TS 119 411-8 V1.1.1 (2025-10)”.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">point 3(k) is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the third indent is replaced by the following:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">‘—</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">the information referred to in Annex I, points 1, 2, 3, 5, 6, 7, (a), (b), (c) and 16;’;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the following fourth indent is added:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">‘—</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">a reference to the national wallet-relying party register in which the relying party is registered.’.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_202601730EN.000601.fmx">
+         <div class="eli-container" id="anx_III">
+            <p class="oj-doc-ti" id="d1e35-6-1">ANNEX III</p>
+            <p class="oj-normal">Annex V of Implementing Regulation (EU) 2025/848 is amended as follows:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">point (3), first paragraph is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">The text “shall comply with at least the applicable NCP requirements as specified in standard ETSI EN 319 411-1 version 1.4.1 (2023-10)” is replaced by the text “shall comply with ETSI TS 119 475 V1.2.1 (2026-03)”.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">point (3)(j) is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the fifth indent is replaced by the following:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">‘—</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">to include a general access policy as referred to in Article 8(2)c.’.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2026/1730/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

@@ -6,11 +6,24 @@
   "valid_from": "2025-06-29",
   "valid_to": "2025-12-31",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2025-06-29",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -1380,6 +1393,1405 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0575-20250629"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-06-29",
+      "valid_to": "2025-12-31",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant les exigences prudentielles applicables aux \u00E9tablissements de cr\u00E9dit et modifiant le r\u00E8glement (UE) no\u00A0648/2012 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "CRR \u2014 R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013R0575-20250629",
+      "observations": [
+        {
+          "file": "fr.fmx4/CL2013R0575FR0190010.0001.doc.xml",
+          "sha256": "b1c8ac448ed9a1dfea7169a47691298f66f4066b409b12009eb662a892341433",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2013R0575FR0190010.0001.xml",
+          "sha256": "d29d4558ce97d9188d4d8962e7fa9dedddbfcfbc3992f5490dad970e46875e89",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001001.tif",
+          "sha256": "13121f2d9a5964df7b00bc3750ab0d8e74637cba72c1cd0b363653e7b6e2bf00",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001002.tif",
+          "sha256": "1cd72371e2d090b7a5bca735c59fe72153a5de9454615f7262e8517c26224b4e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001003.tif",
+          "sha256": "674091fe1737ca1b78daf69cbfb0e491f3d9c61c29d42a0c9eac09e175e550ab",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001101.tif",
+          "sha256": "faf6f356833f527e4483fcb47c5223fe97af5f6a068965b3a544b11b7e05e9fa",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001102.tif",
+          "sha256": "1d80e38c9befa9dd2667ef795bf7a3eaea7d72607318a118a00b5ea63e47a2b7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001103.tif",
+          "sha256": "5548bb3b768981a91e5e4685e8ef5034b67fceea49a805fff590c96ae8c75e67",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001104.tif",
+          "sha256": "ef3ad054926c4489604218fd2aafea9a9d283664f8f9190306534d7ca0e54344",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001105.tif",
+          "sha256": "313fde22dc9049267f5099f37725e0699e2eb560c6396f548db008028440e7e7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001106.tif",
+          "sha256": "313fde22dc9049267f5099f37725e0699e2eb560c6396f548db008028440e7e7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001107.tif",
+          "sha256": "9f1918f0583845259f451477195f20d0be923303afea2898027edcad701962d2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001108.tif",
+          "sha256": "9f1918f0583845259f451477195f20d0be923303afea2898027edcad701962d2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001201.tif",
+          "sha256": "6d05c00fc3672cc8137b518f0c2e46a013185a1aeacdcd07e387a4106d1497c4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001401.tif",
+          "sha256": "1d80e38c9befa9dd2667ef795bf7a3eaea7d72607318a118a00b5ea63e47a2b7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2020204FR.01001402.tif",
+          "sha256": "6d05c00fc3672cc8137b518f0c2e46a013185a1aeacdcd07e387a4106d1497c4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000301.tif",
+          "sha256": "12cdcc7bb473f9578ff2f184a1467b0f504c89eb32bd28de811dac745c13e929",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000302.tif",
+          "sha256": "6d84e49b2987b1da6dc717df89b09eb90eeb326752742476b74f4e0886450d22",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000303.tif",
+          "sha256": "32df5c9515f68c66a1b54d3b2e0c311a0fa2d66005f5644e7b02744b36f98d79",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000304.tif",
+          "sha256": "c36f85e49bebbb61eb52fa2656cba577755abf3f9ac31d0e130e81b0bda005dc",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000305.tif",
+          "sha256": "418e5490cf93f63802aced5316f8f47a0450150bcde8e5397a2442ec42fba961",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000306.tif",
+          "sha256": "aafef6c0f0958853984a1b368b7fa7e334ab300153cbd1c1e4cb324a925571f6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000401.tif",
+          "sha256": "0dc8427c314485192803861969b1ff03d4b3ccd29759ce9aa361a8653ca7f740",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000402.tif",
+          "sha256": "323c7e70f32ce3c016c53cfefe9b6862d7937cf82afd2f3dd27854bab1a766e2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000403.tif",
+          "sha256": "b44996f31fe20767932a6de074ef477ebbbdd1535afdf550c87efd97ce562a29",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000404.tif",
+          "sha256": "1c8d6478fb6574c23cd61cf8d0b3ad0af516347b1c088e55be7349500a8a6f89",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000405.tif",
+          "sha256": "9a5b3b68fdb438194d9874cde954f700995e420f7634a16c3d65e5a8c549864a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000406.tif",
+          "sha256": "5f6d5153ad152eb4ea40d81b02738480fc129cbdb1634b834329f1e25f83b8fc",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000407.tif",
+          "sha256": "1139aab48c1b215342375b82b94564921819534901329a9fef85a52bf79d81f1",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000408.tif",
+          "sha256": "e88c1bd233f7dcb9a332e6b0b9d0c2160120ce787783d90d948be2c7ba93d8a6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000409.tif",
+          "sha256": "ab31b5a8dc07556527ccce18dc0e5402fcf5ae717103d6db13a89d4584a26522",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000501.tif",
+          "sha256": "a6b60e11af8c45b281d45f656759a656959c458738c7785f88d4af6aa27764f4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000502.tif",
+          "sha256": "bfe1cab4e6278d3337fab69961e0effeacc074ef21c38d32b8de243690ee8c17",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000503.tif",
+          "sha256": "93318a3a20ea8b7b992a67cd021b485b11ddc5c86035053d60f3b8a7e397ddc9",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000504.tif",
+          "sha256": "514dcd4cb38183241b99f01358d7a918af7802e6e5264341a554d1113b773f97",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000505.tif",
+          "sha256": "558143021079030a782f909bf3a5fe2f120716623c93b2344139786185c92c7d",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000506.tif",
+          "sha256": "b2699e6ec9ab3266e37778424d89fcaa2f0cebf96ff4aa7319984234e3d9c3e4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000801.tif",
+          "sha256": "26e30088d768340dbaeffdf6db5cdea2489a0e2bf407e2a250d5e9526b22f318",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000802.tif",
+          "sha256": "f2bfe38a8d0a6dee8765d9c5adc6d2adeff813f39ce9e8096d5134dbed4bb8ee",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000803.tif",
+          "sha256": "871b1a8be424671272ee235ced66b84cc2cd5184909c14402df68f3d13e9658b",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021084FR.01000804.tif",
+          "sha256": "36c8538e740e024047a4e874b3c686bd24878852d2a41a9aa2435b12f5631fc8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021116FR.01002901.tif",
+          "sha256": "5d516faac1c5519247834eb15d5e03d0ce293deb1eb4ab001b7c9d46816a3f8d",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021116FR.01002902.tif",
+          "sha256": "3d5d7e24ffdc680e3eac7e6c5adb81adceaf80a12dfa180bc024ba8ed8983496",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007401.tif",
+          "sha256": "2890bdcfc4e85c89c294ce65d9baca58824054d723ab8e0320f0598c145b10b3",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007403.tif",
+          "sha256": "d2e01a49f680681ea728ce980b7b68b7ebd50beb0149b2624d018a022e283c9b",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007405.tif",
+          "sha256": "b6f7f32cf3fb8619af39538150097e9bfe98a76efee140e1fb693a4913db04e4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007407.tif",
+          "sha256": "ce4dddc2e746ecdde41bdc2f0800e7d468dce1c665e9fa61df366277995c79fd",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007409.tif",
+          "sha256": "54f0d5d1d8abc089b36e68680a00b4af95bef848641ef2b8ced353dede8e6336",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007502.tif",
+          "sha256": "a3f014933a980a70dff9dbc771a045bacb88845eb49d473acd9310bb2f3f2389",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007504.tif",
+          "sha256": "5b4f1f0d8110fbd417f0efa8523b3425f788e6004415b8ee3aad71e881843f02",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007601.tif",
+          "sha256": "5b6fa9ef628fe9a1870e76768e2954574c0b5ee85ef820ee197942b1d06df57b",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007603.tif",
+          "sha256": "e69e75b68eccc6a6c4f904374365aade21d8da017bac35354b046a65258fe3e6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007902.tif",
+          "sha256": "90323dfc91b97aa67139309abdb6f9cbd5dca877859f1bc2982da212cfc58759",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007904.tif",
+          "sha256": "193af16453177a8410c3f630981de74c4c37024b87b8362c4d79a77067aaf2a9",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01007906.tif",
+          "sha256": "cc9d172dc8ad3e67369a5b9f3a925937969c74346b0c9fb28c7d68a2bbf68862",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01008001.tif",
+          "sha256": "c5be056ca09c2b208ff91afbdeb3832f160b73c31c99a67c53dfa1328bccf87c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01008003.tif",
+          "sha256": "90beddde71676e2c01e5936c0c4b709a4906535c0521fbd3fcb324b13e028814",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01008005.tif",
+          "sha256": "aebb4239284acc966f36eef44b7a49253db791d36568f7748c1ace79d075dfbd",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01008101.tif",
+          "sha256": "b4a25cf9cddf3a5fcc7fc29ec355fb9fbbc0c13e17188dba5979fdbe0487b74c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_2021398FR.01008103.tif",
+          "sha256": "c0e72bfe2b9b3dcd1e50c698621f5e254e5173aadb149de36206bfa4cf15eb29",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.006901.fmx.tif",
+          "sha256": "c2e744f93898e4575412bf85636b9cf8951317122bbc6d32fc8341e6d208d10c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.006902.fmx.tif",
+          "sha256": "501aa89027adfb585d0ecb4a94f175ff4a17e40e2b43eecf80183eccac0b12e9",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.006903.fmx.tif",
+          "sha256": "452d5489932bf4e3c16c3945794ee0bfaae6c3813dc01e6f964fa632742f3084",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.007001.fmx.tif",
+          "sha256": "ea32cef40aa526bf8136a9d3e78eadd6502570fa27426e7108791aedf1d4ba92",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.007301.fmx.tif",
+          "sha256": "8bc129a7379ba78ed78f51532b4e85d4d68eddd8a7639c1c4f53e4723bf097d6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009201.fmx.tif",
+          "sha256": "83c211eb85c72a18632b58453d2e6d2aa108114b1ab6af028f1d90f9d031dddf",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009301.fmx.tif",
+          "sha256": "acaffa80cd0773bf868d2051092e9ce5d00c0f4412a098af209a6003993eab19",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009302.fmx.tif",
+          "sha256": "bfbfc172c2558437ed60fc96c4cbe095b4c9d39fad1ba1f680884f16c702a6f3",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009303.fmx.tif",
+          "sha256": "fcf3c25800040d91bd84ba4409246de757c9b74355e2e66b7b2cac824f265135",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009304.fmx.tif",
+          "sha256": "bc9d8a6411d22925d3387b2cdfa53888044cba3a01ecb4c4b86ce2cb3bd990f2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009305.fmx.tif",
+          "sha256": "91aa6cf6bf1a1b28dd162120ac31e2ead0f40dd9a1559a441ccb20ce759cee36",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009306.fmx.tif",
+          "sha256": "91aa6cf6bf1a1b28dd162120ac31e2ead0f40dd9a1559a441ccb20ce759cee36",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009307.fmx.tif",
+          "sha256": "bc9d8a6411d22925d3387b2cdfa53888044cba3a01ecb4c4b86ce2cb3bd990f2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009308.fmx.tif",
+          "sha256": "cb8d67cdcb88b1a32145fc8bbf3bddabe97622e0bf732f676e491d0d9faaa5c7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009309.fmx.tif",
+          "sha256": "9755edb9e253f1c094cd8d2af9c42f53a4b4d7e303b25d17cb828f22b647da80",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009310.fmx.tif",
+          "sha256": "0d65b02645158938d10b02e95bfb8e6987b143b52b8519f017b18ec8c80fb4b1",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009601.fmx.tif",
+          "sha256": "86953dd5ef48c9dde92a8863400674e86a737e32a0fee593fa43e20ccc7f51c9",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009801.fmx.tif",
+          "sha256": "b25a2ee59907b171abbc9dbed166f852dd10d5535f02477bb94f11fd6a2d0075",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.009901.fmx.tif",
+          "sha256": "fa8ed417baf1bd02bd48cdad0f24c3ecfcefde768a66e0297f015416a4e0ac44",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.010401.fmx.tif",
+          "sha256": "266468dc773d0bb310188fec51a6699a441002d29e09d7dd58255c54a198bf3e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.010501.fmx.tif",
+          "sha256": "c95806c4354efd121fe04f370c0b2cec93764190daf300367e9b3f1ae5283e15",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.010601.fmx.tif",
+          "sha256": "af92188498abd7bfd411bf02e99a1e779f544a485a791e571ff0ac66151f55d7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.012001.fmx.tif",
+          "sha256": "d6cf133c250d0a29fd32c27aeae1d9c4cdda26bd27968312613f6b27e3bf999a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.012101.fmx.tif",
+          "sha256": "f235868b2099aa03f8360f3e38b3eb1a8b2bfefe7a254b050588304b2f70cc35",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.012102.fmx.tif",
+          "sha256": "f3bbe6274053b66b28083b7198e405db2e2ca09add666eec18fde0982e708f81",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.012103.fmx.tif",
+          "sha256": "f3bbe6274053b66b28083b7198e405db2e2ca09add666eec18fde0982e708f81",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.012501.fmx.tif",
+          "sha256": "2b191c62c853ac9de2c02aa6cc86545521a105e860931b65b4e7cde8820e31e3",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013701.fmx.tif",
+          "sha256": "276f3659ab9d9ecbe8b9d47e45433971732e2e1bf8cec02f858ecf4062fc3828",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013702.fmx.tif",
+          "sha256": "4744ee855b861830fb888326fec2ef847e911762a55de5fd4189a1bcb9ec770d",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013703.fmx.tif",
+          "sha256": "c916880f1c9cc642f850f245cd17139437acb0180970a348ced08eda7271bf7c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013704.fmx.tif",
+          "sha256": "7abb5a14f93d8a8a532de381778e106ce442e7d619ec4f1fbc2e5697b3992c48",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013705.fmx.tif",
+          "sha256": "5d52f045c41d3d2bdd5f4ac861796c21e23125f15b4c1709ccbac64c48bb1550",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013706.fmx.tif",
+          "sha256": "b956a6db68384c701b0d614a2d69f7fcf90bd1c9e0bcca0fbf7c08cabfd54f7f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013707.fmx.tif",
+          "sha256": "7e54adced9d5b26bc1b9134d6104f00622282bdc6631b66a9a06934fb4b7eebd",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013708.fmx.tif",
+          "sha256": "3bcef6e0e473ff1a71142bfaa924d9d66e0ae0e39f52f85498ae9fe795e8677b",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013801.fmx.tif",
+          "sha256": "98d55329cb93306a4f7c6b9e309687e6463a6ec3920bbfe4ffdaadedd68da71a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013802.fmx.tif",
+          "sha256": "9a3521716b19d037e64b04653f121b9fbe56df378f72c13c2c5a5d55b2efa781",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.013803.fmx.tif",
+          "sha256": "6bb7b6b20a8e7a0048080256df514e485f31e506340067581174db0b88da98ff",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014001.fmx.tif",
+          "sha256": "480017744f3c8efa2d17369f6cc983d21419c697e0df853a6518e61b36315f1b",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014002.fmx.tif",
+          "sha256": "7ffed8e9493e49cd6ccd977d629a7c61675b3c66970e5265dcad745b430eba7f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014003.fmx.tif",
+          "sha256": "c7ddf0501b65b963e0b6e0a5cff263f183fb57434d5be171c5e9714738e12573",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014004.fmx.tif",
+          "sha256": "97ef0bd892c02a9248a56f0ce0b99ce4e785300b5c14f50be08c816397aa1102",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014005.fmx.tif",
+          "sha256": "bb74a95c9e59d54a2a1ff60b702a681df9eea065e29dbaa4f456ff37920a4df7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014006.fmx.tif",
+          "sha256": "7757f74a56bebe565bdabf8e8aeef3a92c90d75b173ba92e8c63c44cd6ead52a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014007.fmx.tif",
+          "sha256": "df177a95f06596e15303f716f454dcac19bf5a01ee494fa7f14420673fced4c7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014008.fmx.tif",
+          "sha256": "2772a5044c0b312bb7833b1263baf43954fee05a13aa9722286fe4fd3e63d5cf",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014101.fmx.tif",
+          "sha256": "607da891df08fcfaf824d4e97b3c9c6baadd84c6ecf4379a2b0e1b7763971899",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014102.fmx.tif",
+          "sha256": "f424ce0f7bca4a52e3aaeb7e1a3672fcf8f2233eb58946975d53bf48f88efa02",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014103.fmx.tif",
+          "sha256": "f769562b8597c72ee2a4c9195af59fa102495cddbc6a287db06e1ae4fd86bb09",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014104.fmx.tif",
+          "sha256": "c57a2ec81875d24b58e39f30544631ac98dfd65525a6da9b2924fb370e293e30",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014105.fmx.tif",
+          "sha256": "eae5199c5d7c51d2d4855fb22261129ba6f80422494e3a07209f39adb76b152c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014106.fmx.tif",
+          "sha256": "5ec5a307cc468c1a97c00fb824b3bbb1a6d87f93a534209dc505bd2e9038b300",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014107.fmx.tif",
+          "sha256": "6fd4f02a7de70a3030cb3f5d6e740a728b293e9a02e0c6feaf3a43057dec6011",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014108.fmx.tif",
+          "sha256": "536554f5c0fea0d41025b0961f25c13746d22d35705be73bb0a68cf7f8d430e7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014201.fmx.tif",
+          "sha256": "ee35090ee9105928efa370caac4fda9a18774a22547862b7e1da753204d739e2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014202.fmx.tif",
+          "sha256": "1983b234528e22baadb6b983e4c53a6a04eae52afeb8a6753394e97609a0fae7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014203.fmx.tif",
+          "sha256": "7e89383c9e47ee688f7eb15fbd8446ec1f977848e94977505299093bfc0effc1",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014204.fmx.tif",
+          "sha256": "6f709099dcbb948e81a6f274da5109612e968f583f015d37750a375f86f30e4e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014205.fmx.tif",
+          "sha256": "fa82275f87e1d8e22c370eaeb950824793389f9a94690722a596d9cd3291df58",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014206.fmx.tif",
+          "sha256": "1477db2f5c9d549ac8f3a686dfc7ff86e108650c7e2b275678aeb326dd061d30",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014207.fmx.tif",
+          "sha256": "510ed933420cd09841c35c309b49d24667f62b2f4869c8076d35641af22dc9b8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014208.fmx.tif",
+          "sha256": "65d0f7ce99ced2f6cb89f4fef769a4e7ddd8f313b9a48da0ce3452d9192a0584",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014209.fmx.tif",
+          "sha256": "c7786b81587dac850f224d096f6ef754dbe15117be13407c2f88c1dac779c3f7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014210.fmx.tif",
+          "sha256": "963ced15d1e1aedcb2a1a10909653a7ce3fe3aea4fcdb54395b1132ebaffaaaf",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014211.fmx.tif",
+          "sha256": "abc797fd5d2c4aaef75ce1baf1cf2e7ea78593fc8aaf3978e4e7148b29703f09",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014301.fmx.tif",
+          "sha256": "f288b997db5bc5d5699d3c09d0595e6bd46d67b05fee61339317db93994f2a96",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014302.fmx.tif",
+          "sha256": "d0c8cd54ab0f1f93a71565138cd8a02bec0909c56d39e621839340fe0ec9552d",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014303.fmx.tif",
+          "sha256": "0318ec4a4d0ad695793d7ee3627759def5fc12bd02c5dab80e80535e986e68f7",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014304.fmx.tif",
+          "sha256": "53674ad70593a3af57427da3f5898bdce458f43833f5dcd87ac3604edd74c372",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014305.fmx.tif",
+          "sha256": "f2f65288c107a2df46823fcf1fcd39a85c825a7da99c7ac4337f12b07ed5ad66",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014701.fmx.tif",
+          "sha256": "8cea8485884e26c7fe982d49aa3e905300b8dc34e2531e6548aa1dd79c49130a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014702.fmx.tif",
+          "sha256": "c6223cc24a6b6ba4918d6b40e76d2e325495dcb30de53caf7f918123ec544ab0",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014703.fmx.tif",
+          "sha256": "06a4ae51c6a2fc96cb63c21554590cb4f6e3479054db154cb8580ed849e2b83c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014704.fmx.tif",
+          "sha256": "b9b8dfeb7c87e68602ead78a4d4675515741802a296ccbef32420f71e105e6f6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014705.fmx.tif",
+          "sha256": "8cea8485884e26c7fe982d49aa3e905300b8dc34e2531e6548aa1dd79c49130a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014706.fmx.tif",
+          "sha256": "c6223cc24a6b6ba4918d6b40e76d2e325495dcb30de53caf7f918123ec544ab0",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014707.fmx.tif",
+          "sha256": "06a4ae51c6a2fc96cb63c21554590cb4f6e3479054db154cb8580ed849e2b83c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.014801.fmx.tif",
+          "sha256": "b9b8dfeb7c87e68602ead78a4d4675515741802a296ccbef32420f71e105e6f6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015001.fmx.tif",
+          "sha256": "8cea8485884e26c7fe982d49aa3e905300b8dc34e2531e6548aa1dd79c49130a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015002.fmx.tif",
+          "sha256": "c6223cc24a6b6ba4918d6b40e76d2e325495dcb30de53caf7f918123ec544ab0",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015003.fmx.tif",
+          "sha256": "06a4ae51c6a2fc96cb63c21554590cb4f6e3479054db154cb8580ed849e2b83c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015004.fmx.tif",
+          "sha256": "b9b8dfeb7c87e68602ead78a4d4675515741802a296ccbef32420f71e105e6f6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015101.fmx.tif",
+          "sha256": "8cea8485884e26c7fe982d49aa3e905300b8dc34e2531e6548aa1dd79c49130a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015102.fmx.tif",
+          "sha256": "c6223cc24a6b6ba4918d6b40e76d2e325495dcb30de53caf7f918123ec544ab0",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015103.fmx.tif",
+          "sha256": "06a4ae51c6a2fc96cb63c21554590cb4f6e3479054db154cb8580ed849e2b83c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015104.fmx.tif",
+          "sha256": "b9b8dfeb7c87e68602ead78a4d4675515741802a296ccbef32420f71e105e6f6",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015501.fmx.tif",
+          "sha256": "d4a17d5c462d4c9cfdb3806565b56d5b50c4a8d699c760590b51bbd003ce8ffc",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015502.fmx.tif",
+          "sha256": "a01c3e963b04b13fce7a338c06b4569cc86ce8da4e1f328317720839ef98655f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015503.fmx.tif",
+          "sha256": "e16bf12856400ae63fb7eb994fab701d1b7a61e7aa7b6969f58a2add210e4f20",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015504.fmx.tif",
+          "sha256": "84f2ba5ab9caf13d0d34d9aeed8699dfb724a093eb5c9b3b882c95edaed314a0",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015505.fmx.tif",
+          "sha256": "d819820c72f007171c810fe7b2f74aabd015b3f78963e01816e709a9e4f4a222",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015601.fmx.tif",
+          "sha256": "73710877e2ffc7dc613e1e74a66c25d8b9eda30af55dc2764585fb1945fc85d8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015602.fmx.tif",
+          "sha256": "73710877e2ffc7dc613e1e74a66c25d8b9eda30af55dc2764585fb1945fc85d8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015603.fmx.tif",
+          "sha256": "73710877e2ffc7dc613e1e74a66c25d8b9eda30af55dc2764585fb1945fc85d8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015604.fmx.tif",
+          "sha256": "169045cbe3c92407bc0f51094865989fda7da1ab6059b2f78421bfe25320e689",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015605.fmx.tif",
+          "sha256": "d27205a4feb033897169d209191cd2aaf14f67a2673e7f48ab7ff49ce2735cdd",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015606.fmx.tif",
+          "sha256": "d3c901e44eadabb26c71b8d1c893b6376279b418cfe03f124983c6cb0c85bafe",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015607.fmx.tif",
+          "sha256": "8a49e5fe0cf4161a88c741347685125e744071c97bb5cbab25f4b98a25754a49",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015608.fmx.tif",
+          "sha256": "863547c553a1a02120d0d3c4f724b0ce5746f9d57661dd6004e318fbab2f513a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015609.fmx.tif",
+          "sha256": "c6ff161b5235f75bd96cdc3ea1bb1ffec87c4fab78630ecd378370da819020fa",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015610.fmx.tif",
+          "sha256": "692cd411b1ac5c196e65f28f7a70cb9e12ba18b8579368f34859e3b5d7139f67",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015611.fmx.tif",
+          "sha256": "4727bfd2a1168d10c87d8072346fe6258f5f844d38d717a68012235077cb87d2",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015612.fmx.tif",
+          "sha256": "604332581806855418cb54fea5f7801531f878c519bac0c2feef5edcc9d94207",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015613.fmx.tif",
+          "sha256": "604332581806855418cb54fea5f7801531f878c519bac0c2feef5edcc9d94207",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015701.fmx.tif",
+          "sha256": "38d225679099d42e5353065035c5cc8ff6347c02b298f63d3057d7e94f2ba9e8",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015702.fmx.tif",
+          "sha256": "bfaa0e1fe26db58b3b848cba630f61d2fc1340e9513eb8a937efc73d7137e998",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015703.fmx.tif",
+          "sha256": "e7b82454a03ab334038747ea2a060ef5d7cd7ea74a52ce26eb8265fdf754e065",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015704.fmx.tif",
+          "sha256": "e2799d0e3b832573caafe4f2fbd63e029116ec690fe394a046088bb803d2d164",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015705.fmx.tif",
+          "sha256": "e2799d0e3b832573caafe4f2fbd63e029116ec690fe394a046088bb803d2d164",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015706.fmx.tif",
+          "sha256": "e2799d0e3b832573caafe4f2fbd63e029116ec690fe394a046088bb803d2d164",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015707.fmx.tif",
+          "sha256": "e2799d0e3b832573caafe4f2fbd63e029116ec690fe394a046088bb803d2d164",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.015801.fmx.tif",
+          "sha256": "7464d461fffbe1f2bd6bfcc5cabdbabedf155c13e3be6197ea85f7eea7b04f51",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/L_202401623FR.017201.fmx.tif",
+          "sha256": "ea3355d1d6b1b01f2329ffb36fb54de97f0bf96e546bf51aba86d2a9f56f837f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a42ffcc9-61ad-11f0-bf4e-01aa75ed71a1.0005.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013R0575-20250629"
+      }
     }
   ],
   "relations": [
@@ -1389,7 +2801,13 @@
     }
   ],
   "raw": {
-    "celex": "02013R0575-20250629"
+    "celex": "02013R0575-20250629",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "703cbdbd8d0b8371317a4b78fd253d92db482515c4b948f212171c2a36d51436"
+  "record_sha256": "f40badacb77263fab12cbb7b9a35277f2fec412e2ebb332201a1da6b4db19c94"
 }

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32012r1257:2012-12-17",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32012R1257",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2012-12-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2012-12-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2012-12-17",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) No\u00A01257/2012 of the European Parliament and of the Council of 17\u00A0December 2012 implementing enhanced cooperation in the area of the creation of unitary patent protection",
+      "title_short": "Regulation (EU) No\u00A01257/2012",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1257",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c0b91c7f7be8d26c1ff6b4a07fbcb075764529e7090c561e8b65f79257d7fadb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1257",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1257"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2012-12-17",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) n \u00B0\u00A01257/2012 du Parlement europ\u00E9en et du Conseil du 17\u00A0d\u00E9cembre 2012 mettant en \u0153uvre la coop\u00E9ration renforc\u00E9e dans le domaine de la cr\u00E9ation d\u2019une protection unitaire conf\u00E9r\u00E9e par un brevet",
+      "title_short": "R\u00E8glement (UE) n \u00B0\u00A01257/2012 du Parlement europ\u00E9en et du Conseil du 17\u00A0d\u00E9cembre 2012 metta\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1257",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3aef9d99968acb42e9367b23e4238e5b11acdf02d02e7bbc4d0a0569a6d801e5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1257",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32012R1257"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32012R1257",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "procurement-and-ip",
+    "scope_reasons": "domain:procurement-and-ip:seed"
+  },
+  "record_sha256": "ad807bdfbee74d6e0330c86762c148c4ba4a88e5154351dfcdd0d06c0597ce68"
+}

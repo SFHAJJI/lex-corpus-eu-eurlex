@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32008l0010:2008-03-11",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32008L0010",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2008-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2008-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/10/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2004/39/EC on markets in financial instruments, as regards the implementing powers conferred on the Commission",
+      "title_short": "Directive 2008/10/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0010",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "b9d39c0c1e3719d4b6e48c049d66148a670f0173a757adbace7d442b74338710",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0010",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0010"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2008-03-11",
+      "valid_time_source": "publisher",
+      "title": "Directive 2008/10/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la directive 2004/39/CE concernant les march\u00E9s d\u2019instruments financiers, en ce qui concerne les comp\u00E9tences d\u2019ex\u00E9cution conf\u00E9r\u00E9es \u00E0 la Commission",
+      "title_short": "Directive 2008/10/CE du Parlement europ\u00E9en et du Conseil du 11 mars 2008 modifiant la dire\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0010",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5e0304ba082f8d6954797964f27eddd8c0fd81d5e0ea18aab63ef051283b6625",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0010",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008L0010"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32008L0010",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "a4ec96e1417fa7a55503d75ac8d72feff0877be8067d6485e7bd6b5ead0a5cbc"
+}

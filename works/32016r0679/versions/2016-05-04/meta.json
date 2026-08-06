@@ -5,11 +5,24 @@
   "document_type": "REG",
   "valid_from": "2016-05-04",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2016-05-04",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -49,6 +62,43 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2016-05-04",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2016/679 du Parlement europ\u00E9en et du Conseil du 27 avril 2016 relatif \u00E0 la protection des personnes physiques \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel et \u00E0 la libre circulation de ces donn\u00E9es, et abrogeant la directive 95/46/CE (r\u00E8glement g\u00E9n\u00E9ral sur la protection des donn\u00E9es) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE) ",
+      "title_short": "GDPR \u2014 R\u00E8glement (UE) 2016/679 du Parlement europ\u00E9en et du Conseil du 27 avril 2016 relatif \u00E0 la \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R0679-20160504",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "fa7661d464cb4f3f9b4c62ae742c82ec6208b7bd0b8a07b21da2830a13f44a78",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R0679-20160504",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2016R0679FR0000020.0001.doc.xml",
+          "sha256": "d2550e6fc48ac34fd513a55bfb70ec982ab1324d02cd2e40571ffee23de45d4e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1.0021.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2016R0679FR0000020.0001.xml",
+          "sha256": "99a1375c52852403f04a3d1af5005192b4916320c8233b29ce38a9ac260c3378",
+          "source_uri": "https://publications.europa.eu/resource/cellar/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1.0021.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R0679-20160504"
+      }
     }
   ],
   "relations": [
@@ -58,7 +108,13 @@
     }
   ],
   "raw": {
-    "celex": "02016R0679-20160504"
+    "celex": "02016R0679-20160504",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "ab52545120b4bff18286feda167cb0d6c71d127fcbbeeecbedec933df45e6452"
+  "record_sha256": "4dc62d028f74e936ec1f3c537f87e34d06fd1a398f213aedd1bacb13c3e32e9e"
 }

@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32013l0036r(01):2013-08-02",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32013L0036R(01)",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2013-08-02",
+  "valid_time_source": "publisher",
+  "publication_date": "2013-08-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2013-08-02",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Directive 2013/36/EU of the European Parliament and of the Council of 26\u00A0June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC ( OJ L 176, 27.6.2013 )",
+      "title_short": "Corrigendum to Directive 2013/36/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036R%2801%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "0b33a8457a1aa8bf5972676eedf5256953ac00e3bf59c6a56ebcdc878e8b64bd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036R%2801%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036R%2801%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2013-08-02",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive 2013/36/UE du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant l\u0027acc\u00E8s \u00E0 l\u0027activit\u00E9 des \u00E9tablissements de cr\u00E9dit et la surveillance prudentielle des \u00E9tablissements de cr\u00E9dit et des entreprises d\u0027investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE ( JO L 176 du 27.6.2013 )",
+      "title_short": "Rectificatif \u00E0 la directive 2013/36/UE du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0036R%2801%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1813f94e67b18991e1f448efcbc8af4fd94c80a79a1ccda2d604f8b6f55c305b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0036R%2801%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0036R%2801%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32013L0036R(01)",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_corrects_resource_legal,domain:financial-services:relationship:resource_legal_corrects_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "23b357842a407b359b7c31bd4b1316e843d76a8bd31746eea3a34b216b1d07e5"
+}

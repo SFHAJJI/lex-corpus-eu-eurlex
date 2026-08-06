@@ -1,0 +1,69 @@
+{
+  "lex_id": "eu-eurlex:32022l2555r(04):2023-12-22",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32022L2555R(04)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2023-12-22",
+  "valid_time_source": "publisher",
+  "publication_date": "2023-12-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.consolidation_status,raw.legal_form"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2023-12-22",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Directive (EU)\u00A02022/2555 of the European Parliament and of the Council of 14\u00A0December\u00A02022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No\u00A0910/2014 and Directive (EU)\u00A02018/1972, and repealing Directive (EU)\u00A02016/1148 (NIS 2 Directive) (OJ\u00A0L\u00A0333, 27.12.2022)",
+      "title_short": "Corrigendum to Directive (EU)\u00A02022/2555",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555R%2804%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "fa8913a509771efdab0418a38f7381f1d01b8340d9638ff004b7d2f418172c75",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555R%2804%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555R%2804%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2023-12-22",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Directive (EU)\u00A02022/2555 of the European Parliament and of the Council of 14\u00A0December\u00A02022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No\u00A0910/2014 and Directive (EU)\u00A02018/1972, and repealing Directive (EU)\u00A02016/1148 (NIS 2 Directive) (OJ\u00A0L\u00A0333, 27.12.2022)",
+      "title_short": "Corrigendum to Directive (EU)\u00A02022/2555",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2555R%2804%29",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2555R%2804%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32022L2555R(04)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "wave-1-existing-instruments",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "b451aacd8a56f60658ec609016979a1c51b73b8a8726dde17d7ec1becc2e9724"
+}

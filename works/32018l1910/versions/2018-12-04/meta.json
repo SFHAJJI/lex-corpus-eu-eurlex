@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32018l1910:2018-12-04",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32018L1910",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2018-12-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2018-12-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2018-12-04",
+      "valid_time_source": "publisher",
+      "title": "Council Directive (EU) 2018/1910 of 4 December 2018 amending Directive 2006/112/EC as regards the harmonisation and simplification of certain rules in the value added tax system for the taxation of trade between Member States",
+      "title_short": "Council Directive (EU) 2018/1910 of 4 December 2018 amending Directive 2006/112/EC as rega\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1910",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "536c4584495f2cf456e5fac59eca3ba2fe7874c91849a1539cd5dc71617f0422",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1910",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1910"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2018-12-04",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2018/1910 du Conseil du 4 d\u00E9cembre 2018 modifiant la directive 2006/112/CE en ce qui concerne l\u0027harmonisation et la simplification de certaines r\u00E8gles dans le syst\u00E8me de taxe sur la valeur ajout\u00E9e pour la taxation des \u00E9changes entre les \u00C9tats membres",
+      "title_short": "Directive (UE) 2018/1910 du Conseil du 4 d\u00E9cembre 2018 modifiant la directive 2006/112/CE \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018L1910",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b1a2049682e1e3785c4f31856e8f4272063a5970d4a8d4b83dffea25a3d1b585",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018L1910",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018L1910"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32018L1910",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "84f62df3c0563802064ef3fe20a802b689f410a7860bd40b753667b62aa4621e"
+}

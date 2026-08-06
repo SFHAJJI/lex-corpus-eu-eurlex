@@ -6,11 +6,24 @@
   "valid_from": "2014-09-17",
   "valid_to": "2016-06-30",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2014-09-17",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -51,6 +64,44 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0065-20140917"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2014-09-17",
+      "valid_to": "2016-06-30",
+      "valid_time_source": "publisher",
+      "title": "Directive 2014/65/UE du Parlement europ\u00E9en et du Conseil du 15 mai 2014 concernant les march\u00E9s d\u2019instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE) ",
+      "title_short": "MiFID II \u2014 Directive 2014/65/UE du Parlement europ\u00E9en et du Conseil du 15 mai 2014 concernant les mar\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014L0065-20140917",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "02dde52a26dc28123be132207458f012dc5f18fb0bb942911a6bde934b85c7a3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014L0065-20140917",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2014L0065FR0010050.0001.doc.xml",
+          "sha256": "a3ac023826b6af900a3c4cfa98c21b5c5634b5d10914204cd9c091d02bdbc44e",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a57fcbc2-47b8-45aa-926e-8da2455accf3.0019.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2014L0065FR0010050.0001.xml",
+          "sha256": "2ca34bc893c17eb75d76c8522a9253cd6bdb5b09f12214683c954959c1ca055c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/a57fcbc2-47b8-45aa-926e-8da2455accf3.0019.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014L0065-20140917"
+      }
     }
   ],
   "relations": [
@@ -60,7 +111,13 @@
     }
   ],
   "raw": {
-    "celex": "02014L0065-20140917"
+    "celex": "02014L0065-20140917",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "DIR",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "ede8e5ad5d7165f970773bd22cffb47a95d080732769362cf1c5a98b56e0bffa"
+  "record_sha256": "2ed6bead5da6167e58e464bd5231e32ec07c68935140885220c1d976f759a458"
 }

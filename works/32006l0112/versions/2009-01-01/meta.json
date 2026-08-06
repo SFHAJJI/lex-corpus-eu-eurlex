@@ -1,0 +1,111 @@
+{
+  "lex_id": "eu-eurlex:32006l0112:2009-01-01",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32006L0112",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2009-01-01",
+  "valid_to": "2009-01-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2009-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2009-01-01",
+      "valid_to": "2009-01-20",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2006/112/EC of 28\u00A0November 2006 on the common system of value added tax",
+      "title_short": "Council Directive 2006/112/EC of 28\u00A0November 2006 on the common system of value added tax",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006L0112-20090101",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c3e91445002c467982671438a8d377cd58471d4a17c2fc753ae24bc6384d0256",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006L0112-20090101",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "en.fmx4/CL2006L0112EN0030010.0001.doc.xml",
+          "sha256": "0e38c508623c50da93526b84103c7897f1ee05148427eade7f622845383a045a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/45c1f185-2b76-461b-bdd4-fae593fa0e68.0006.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL2006L0112EN0030010.0001.xml",
+          "sha256": "6cf5f6e437bdfefdca08e952f746775efc0cdadd54d28253f15b174bafb2f972",
+          "source_uri": "https://publications.europa.eu/resource/cellar/45c1f185-2b76-461b-bdd4-fae593fa0e68.0006.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006L0112-20090101"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2009-01-01",
+      "valid_to": "2009-01-20",
+      "valid_time_source": "publisher",
+      "title": "Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au syst\u00E8me commun de taxe sur la valeur ajout\u00E9e",
+      "title_short": "Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au syst\u00E8me commun de taxe su\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02006L0112-20090101",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ce3438fe4d78a3f70b7f50290adb243690efec70e06fded5c5baf25e64e7823f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02006L0112-20090101",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2006L0112FR0030010.0001.doc.xml",
+          "sha256": "63261f2894d956066137eaa2ffedfb1b053d8b6425c8536a50479deb003ea1f0",
+          "source_uri": "https://publications.europa.eu/resource/cellar/45c1f185-2b76-461b-bdd4-fae593fa0e68.0010.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2006L0112FR0030010.0001.xml",
+          "sha256": "8ce6823ac2487ccd9e04a8fb1e2606ab4fd3cbb5a47ea651945567de6fc19683",
+          "source_uri": "https://publications.europa.eu/resource/cellar/45c1f185-2b76-461b-bdd4-fae593fa0e68.0010.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02006L0112-20090101"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32006L0112"
+    }
+  ],
+  "raw": {
+    "celex": "02006L0112-20090101",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,domain:tax:seed,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "38ffda34bf63d1d0565bc4b373a466292ad2cc6e5bc0618c3127069631a5ed0f"
+}

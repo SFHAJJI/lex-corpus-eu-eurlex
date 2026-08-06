@@ -6,11 +6,24 @@
   "valid_from": "2024-07-16",
   "valid_to": "2025-10-11",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2024-07-16",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-03T15:38:56Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -51,6 +64,44 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0944-20240716"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-07-16",
+      "valid_to": "2025-10-11",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/944 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 5\u00A0juin 2019 concernant des r\u00E8gles communes pour le\u00A0march\u00E9 int\u00E9rieur de\u00A0l\u0027\u00E9lectricit\u00E9 et\u00A0modifiant la\u00A0directive 2012/27/UE (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Electricity Market Directive \u2014 Directive (UE) 2019/944 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 5\u00A0juin 2019 concernant des \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L0944-20240716",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "9ad1fedb4028eec8afb05c8e1e722a3569a0754b5834c6c602c62260fd5004d0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L0944-20240716",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2019L0944FR0020010.0001.doc.xml",
+          "sha256": "49a6983217fb1d046894d1bc30c1ea13a9cb8695d8274db53edca7858785a04c",
+          "source_uri": "https://publications.europa.eu/resource/cellar/e5898e62-4916-11ef-acbc-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2019L0944FR0020010.0001.xml",
+          "sha256": "3d174238568ccb3cd66cc45bb9bd6b731853c04f75b494bf939d384e667d0264",
+          "source_uri": "https://publications.europa.eu/resource/cellar/e5898e62-4916-11ef-acbc-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L0944-20240716"
+      }
     }
   ],
   "relations": [
@@ -60,7 +111,13 @@
     }
   ],
   "raw": {
-    "celex": "02019L0944-20240716"
+    "celex": "02019L0944-20240716",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "DIR",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "d1cf61c75bca0931b4fe8c4c281e2611a11a85462903c73b646b777ba894c8ca"
+  "record_sha256": "a89ce4a91564f64156701111cf961325964a86df8a809f13b5de9e3bac2540eb"
 }

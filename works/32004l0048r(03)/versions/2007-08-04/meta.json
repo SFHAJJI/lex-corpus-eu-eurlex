@@ -1,0 +1,76 @@
+{
+  "lex_id": "eu-eurlex:32004l0048r(03):2007-08-04",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32004L0048R(03)",
+  "publisher": "eu-eurlex",
+  "document_type": "CORRIGENDUM",
+  "valid_from": "2007-08-04",
+  "valid_time_source": "publisher",
+  "publication_date": "2007-08-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2007-08-04",
+      "valid_time_source": "publisher",
+      "title": "Corrigendum to Directive 2004/48/EC of the European Parliament and of the Council of 29 April 2004 on the enforcement of intellectual property rights ( OJ L 157, 30.4.2004 . Corrected version in OJ L 195, 2.6.2004 )",
+      "title_short": "Corrigendum to Directive 2004/48/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0048R%2803%29",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "84b18d3e0d58c290575e3386d6623dc32569fe34636098e064cb82a26c0cd677",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0048R%2803%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0048R%2803%29"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2007-08-04",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive 2004/48/CE du Parlement europ\u00E9en et du Conseil du 29 avril 2004 relative au respect des droits de propri\u00E9t\u00E9 intellectuelle ( JO L 157 du 30.4.2004 ; rectifi\u00E9e au JO L 195 du 2.6.2004 )",
+      "title_short": "Rectificatif \u00E0 la directive 2004/48/CE du Parlement europ\u00E9en et du Conseil du 29 avril 200\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0048R%2803%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "632add359fae4bc6556a655806051821ea7a22a44bcbd3118cd10b0413ea8474",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0048R%2803%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0048R%2803%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32004L0048R(03)",
+    "legal_form": "CORRIGENDUM",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression",
+    "domains": "procurement-and-ip",
+    "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
+  },
+  "record_sha256": "67be8062e0f95412c0c6e5814ea01b42328e45282cda4315390d11ab8df15275"
+}

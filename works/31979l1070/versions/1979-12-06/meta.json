@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:31979l1070:1979-12-06",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31979L1070",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1979-12-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1979-12-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1979-12-06",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 79/1070/EEC of 6 December 1979 amending Directive 77/799/EEC concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation",
+      "title_short": "Council Directive 79/1070/EEC of 6 December 1979 amending Directive 77/799/EEC concerning \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979L1070",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "af49c200be10b2788e9b8a8ee6166705b154209a57420ec24f1720532c919028",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979L1070",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979L1070"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1979-12-06",
+      "valid_time_source": "publisher",
+      "title": "Directive 79/1070/CEE du Conseil, du 6 d\u00E9cembre 1979, modifiant la directive 77/799/CEE concernant l\u0027assistance mutuelle des autorit\u00E9s comp\u00E9tentes des \u00C9tats membres dans le domaine des imp\u00F4ts directs",
+      "title_short": "Directive 79/1070/CEE du Conseil, du 6 d\u00E9cembre 1979, modifiant la directive 77/799/CEE co\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31979L1070",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "fbb86c71fdcedc4d3b9bf4e39d5be1c372d91aec1e559cd147fedc3b2f782c53",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31979L1070",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31979L1070"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31979L1070",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "b8b9a1dbe0b26e4df08ed96d212e8d4e41ccff614f6eeb5ccf3fd36be9c07950"
+}

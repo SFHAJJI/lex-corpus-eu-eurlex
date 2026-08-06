@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32023l2226:2023-10-17",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32023L2226",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2023-10-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2023-10-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2023-10-17",
+      "valid_time_source": "publisher",
+      "title": "Council Directive (EU) 2023/2226 of 17\u00A0October 2023 amending Directive\u00A02011/16/EU on administrative cooperation in the field of taxation",
+      "title_short": "Council Directive (EU) 2023/2226 of 17\u00A0October 2023 amending Directive\u00A02011/16/EU on admin\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L2226",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "6f8022dd0f8f6fda24bc29beb86428dc87587b6001d7065a09b738b927b05e4d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L2226",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L2226"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2023-10-17",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2023/2226 du Conseil du 17\u00A0octobre 2023 modifiant la directive\u00A02011/16/UE relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal",
+      "title_short": "Directive (UE) 2023/2226 du Conseil du 17\u00A0octobre 2023 modifiant la directive\u00A02011/16/UE r\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023L2226",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "524b8b001c3bd201cffbd6cdc2b1464cf4ba3efe743e37f70ea2c14f967b641b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023L2226",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023L2226"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32023L2226",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "fac37252fddb127c44fc28992ffe2ca393c080ca5c9a4ade9b9a6160af8bfa4f"
+}

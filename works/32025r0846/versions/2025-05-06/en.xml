@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20250506-1349 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202500846EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">L series</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2025/846</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">7.5.2025</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e42-1-1">
+            COMMISSION IMPLEMENTING REGULATION (EU) 2025/846</p>
+            <p class="oj-doc-ti">of 6 May 2025
+         </p>
+            <p class="oj-doc-ti">laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards cross-border identity matching of natural persons</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC <a id="ntc1-L_202500846EN.000101-E0001" href="#ntr1-L_202500846EN.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 11a(3) thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Regulation (EU) No 910/2014 requires that European Digital Identity Wallets (‘wallets’) and notified electronic identification means are available as an option for authentication to gain access to online cross-border public services provided by Member States. In such cross-border authentication cases, records containing information pertaining to the user of the wallet or the user of notified electronic identification means are sometimes already available to the relying party through the relying party’s own register or an external register, and, often in the form of a user account. In these instances, certain information pertaining to the user, obtained from the wallets or from the notified electronic identification means, may be matched by or on behalf of that relying party. For example, this could be accomplished by using a centralised solution operated by a public sector body, against the information already held by that relying party or by a register relied upon by the relying party, indicatively a population register or a database with user account information.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission regularly assesses new technologies, practices, standards and technical specifications. To ensure the highest level of harmonisation among Member States for the development and certification of the wallets, the technical specifications set out in this Regulation rely on the work carried out under Commission Recommendation (EU) 2021/946 <a id="ntc2-L_202500846EN.000101-E0002" href="#ntr2-L_202500846EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> and in particular the Architecture and Reference Framework which is part of it. In accordance with recital 75 of Regulation (EU) 2024/1183 of the European Parliament and of the Council <a id="ntc3-L_202500846EN.000101-E0003" href="#ntr3-L_202500846EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>, the Commission should review and, if necessary, update this Regulation, to keep it in line with global developments, the Architecture and Reference Framework and to follow the best practices on the internal market.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure that the identity matching process functions in a reliable manner across all Member States, Member States acting as relying parties, should perform the initial identity matching when a natural person first requests to get granted access to a service operated by the relying party, based on either the minimum dataset as laid out in Commission Implementing Regulation (EU) 2015/1501 <a id="ntc4-L_202500846EN.000101-E0004" href="#ntr4-L_202500846EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> or the person identification dataset laid out in Commission Implementing Regulation (EU) 2024/2977 <a id="ntc5-L_202500846EN.000101-E0005" href="#ntr5-L_202500846EN.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>. While this Regulation focuses on Member States acting as relying parties, Regulation (EU) No 910/2014 leaves it for Member States to decide if the identity matching system is also made available to private relying parties. Where Member States foresee identity matching for relying parties which are not public sector bodies, they should apply as far as possible the mechanisms and procedures laid down in this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For the purpose of cross-border identity matching when using the wallets, the information used for unequivocal identity matching should be the mandatory data identifiers of the person identification dataset set out in Section 1 of the Annex to Implementing Regulation (EU) 2024/2977, together with any optional data needed to ensure that the set of person identification data is unique.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">For the purpose of cross-border identity matching when using notified electronic identification means, the information used for unequivocal identity matching should be the mandatory attributes of the minimum dataset for a natural person as set out in Section 1 of the Annex to Implementing Regulation (EU) 2015/1501. The reference to the mandatory attributes of the minimum dataset for a natural person should be understood in the context of Implementing Regulation (EU) 2015/1501, which describes an attribute as a component of the minimum set of person identification data, as opposed to the definition of attributes laid down in Article 3, point (43), of Regulation (EU) No 910/2014 as amended by Regulation (EU) 2024/1183.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Due to the dependence on pre-existing information used by the relying party to ensure unequivocal identity matching, the identity matching process might not be successful in all instances. To provide an appropriate degree of flexibility for relying parties, Member States may put in place complementary processes that achieve an equivalent level of confidence in the outcome of the identity matching process.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Where the identity matching process is deemed successful as per the provisions of this Regulation, the relying party or the party acting on its behalf, or a register relied upon by relying parties or the centralised system should ensure that the user is informed about the successful registration, including by displaying the user’s name or pseudonym and, where appropriate, among others, about the available options for storing the result of the identity matching process. Those options may include storing an association in a register operated by the relying party and/or in a register relied upon by the relying party and/or issuance of a dedicated electronic attestation of attributes containing an association that can be reused in the future and/or using alternative options provided by the relying party or the party acting on behalf of the relying party. Where applicable, the user should have the choice between options and the retention time should be under the control of the user to ensure that users can reuse completed identity matching processes in the future.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To enhance transparency and user control, when the user could not be successfully matched, the user should be provided with clear reasons why the match was unsuccessful. In addition, the user should be informed about any potential next steps. This should include the information that was used in the identity matching process and any discrepancies that were found, providing clear explanations and instructions to the users on possible remedies and complementary processes.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To make appropriate recourse mechanisms available whenever identity matching is performed, relying parties or the parties acting on their behalf or registers relied upon by relying parties should keep appropriate logs concerning the identity matching process, the information used for matching and any other supporting documentation provided by the natural person as well as the outcome of the identity matching process. These logs should be retained for a minimum of 6 months and a maximum of 12 months to enable the registration and processing of complaints by users. The retention time could be extended if required by Union or national law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To avoid wallet users needing to perform the identity matching process repeatedly, Member States may require that identity matching systems be capable of issuing an electronic attestation of attributes with a link between the wallet user and a register in which that user is registered as a known user. Alternatively, Member States may store an association as a reference to a register that is accessible to the relying party or other assisting measures.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure that the wallets to be provided in line with the requirements of Article 5a(1) of Regulation (EU) No 910/2014, and the notified electronic identification schemes to benefit from the advantages of having operational identity matching systems, a longer deadline of application of the respective provisions of this Regulation needs to be set. As regards wallets, each Member State should provide at least one wallet within 24 months as of the date of entry into force of the implementing acts referred to in Articles 5a(23) and 5c(6) of Regulation (EU) No 910/2014. Therefore, the application of the relevant provisions of this Regulation on identity matching based on wallets should coincide with the above timeframe. As regards notified electronic identification schemes, sufficient time should be given for the replacement of the functionalities for identity matching.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">As use of the wallet is to be voluntary, Member States should provide alternative methods for users to gain access to the services they provide when acting as relying parties.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">When attempting to authenticate towards an electronic service, a new user registration may be seamless and thereby appear to a user, visually and technically, the same as a returning visit to an electronic service. For that reason, a new user registration to an electronic service should, for the purpose of this Regulation, be seen as equivalent to a successful identity matching process.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Member States should ensure that the identity matching process functions seamlessly and that the user does not experience multiple session changes and repetitive steps even if the identity matching process is initially not successful and complementary processes are performed.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Member States have the freedom to design their user interfaces and notifications in a manner befitting their national context, taking into account the spirit of the requirements contained in this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc6-L_202500846EN.000101-E0006" href="#ntr6-L_202500846EN.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a> and, where relevant, Directive 2002/58/EC of the European Parliament and of the Council <a id="ntc7-L_202500846EN.000101-E0007" href="#ntr7-L_202500846EN.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a> apply to the personal data processing activities under this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc8-L_202500846EN.000101-E0008" href="#ntr8-L_202500846EN.000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a> and delivered its opinion on 31 January 2025.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The measures provided for in this Regulation are in accordance with the opinion of the committee established by Article 48 of Regulation (EU) No 910/2014,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e281-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Subject matter</p>
+               </div>
+               <p class="oj-normal">This Regulation lays down rules for cross-border identity matching of natural persons by public sector bodies or by bodies acting on behalf of a public sector body, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework.</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e288-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">General requirements</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   Where a public sector body acts as a relying party in the context of an online cross-border service offered by or on behalf of that public sector body, Member States shall ensure that the process set out in paragraph 2 is used to ensure unequivocal identity matching of natural persons.</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   Unequivocal identity matching shall be done by, or on behalf of, the relying party, or a register relied upon by relying parties, or a centralised system, by requesting, as applicable, receiving, and validating the authenticity of the information listed in paragraphs 3 or 4.</p>
+               </div>
+               <div id="002.003">
+                  <p class="oj-normal">3.   When reliance is on a wallet, the information to be used for unequivocal identity matching shall be the mandatory person identification data set out in Section 1 of the Annex to Implementing Regulation (EU) 2024/2977, together with any optional data that is needed to ensure that the presented dataset is unique including, where appropriate, additional information or complementary procedures.</p>
+               </div>
+               <div id="002.004">
+                  <p class="oj-normal">4.   When reliance is on a notified electronic identification scheme, the information to be used for unequivocal identity matching shall be the mandatory attributes of the minimum data set for a natural person set out in Section 1 of the Annex to Implementing Regulation (EU) 2015/1501 including, where appropriate, any additional information or complementary procedures.</p>
+               </div>
+               <div id="002.005">
+                  <p class="oj-normal">5.   When determining whether there is an unequivocal identity match, the relying party, or the party acting on its behalf, shall match the information provided by the user to those the relying party or a party acting on its behalf or a register relied upon by relying parties that has already registered.</p>
+               </div>
+               <div id="002.006">
+                  <p class="oj-normal">6.   The outcome of the process described in paragraph 5 shall, to the extent possible, not be affected by differences in transliteration, blank spaces, hyphenation, concatenation, and similar orthographic variations that are required under Union law or national law of the Member State.</p>
+               </div>
+               <div id="002.007">
+                  <p class="oj-normal">7.   Where the match is exact for the information referred to in paragraph 2 and relates to only one natural person or the outcome of the process leads to a new registration of the user that is equivalent in its function to a successful identity matching process, the identity matching process shall be deemed successful resulting in an unequivocal identity match. Where the match is not exact or relates to more than one natural person, or the party performing the identity matching cannot guarantee that the match is unequivocal, the identity matching process shall be deemed unsuccessful.</p>
+               </div>
+               <div id="002.008">
+                  <p class="oj-normal">8.   Member States may rely on centralised identity matching systems, operated by a public sector body established in that Member State, to ensure that notified electronic identification means or wallets from another Member State can be matched with existing registrations and records using online procedures.</p>
+               </div>
+               <div id="002.009">
+                  <p class="oj-normal">9.   Where Member States enable wallet-relying parties which are not public sector bodies to perform identity matching the mechanisms and procedures laid down in this Regulation shall apply, where applicable.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e338-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Obligations of relying parties where the identity matching process is successful</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   The first time a user performs the identity matching process and it is deemed successful pursuant to Article 2(7), the relying party or the party acting on its behalf, or a register relied upon by relying parties or the centralised system shall ensure that the user is informed of the fact that the user has been granted access to the service to which that they requested access to.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   Where applicable, the user shall also be informed if he or she:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">has been registered as a new user;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">has been successfully matched to a single existing user of the relying party or;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">has been successfully matched to a single existing user in a register relied upon by the relying party or the party acting on its behalf;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">can reuse completed identity matching processes in the future by choosing one of the following options including the retention time:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">—</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">storage of an association in a register operated by the relying party or in a register relied upon by the relying party that can be reused in future access requests;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">—</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">issuance of a dedicated electronic attestation of attributes containing an association that can be reused in future access requests;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">—</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">alternative options provided by the relying party or the party acting on behalf of the relying party or the centralised system that can be reused in future access requests.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e390-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Obligations of relying parties where the identity matching process is not successful</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   Where an identity matching process is deemed unsuccessful pursuant to Article 2(7), the relying party or the party acting on its behalf or the centralised system shall ensure that the user of a notified electronic identification means or of a wallet is informed if:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the data made available was not successfully and unequivocally matched to any existing user of the relying party or in a register relied upon by the relying party or the party acting on its behalf;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">other options for identity matching available to the user or other methods for gaining access to the service are available.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   The options or other methods referred to in paragraph 1, point (b) may include:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">a different notified electronic identification means or a different wallet;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">an update of information already registered with the relying party, the party acting on its behalf or a register relied upon by the relying party or the centralised identity matching system;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">additional information provided by the relying party or a party acting on their behalf for identity matching or the centralised system.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   Where the complementary methods result in a successful and unequivocal match or registration, the outcome shall follow the obligations set out in Article 3.</p>
+               </div>
+               <div id="004.004">
+                  <p class="oj-normal">4.   Where the relying party or the centralised system determines either initially or after unsuccessfully performing the complementary identity matching processes that the user has not previously been registered, the relying party or the centralised system may consider this user as a new user and where applicable, register the user in accordance with national law or administrative practices.</p>
+               </div>
+               <div id="004.005">
+                  <p class="oj-normal">5.   Where the complementary methods do not result in a successful and unequivocal match, the party performing the identity matching may assess if the user has no prior interaction or interactions with the relying party or a register relied upon by the relying party and therefore shall be considered as a new user.</p>
+               </div>
+               <div id="004.006">
+                  <p class="oj-normal">6.   Where there is a new user relying parties shall apply the process set out in Article 3. Relying parties may register new users in accordance with national law or administrative practices.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e459-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Obligations of relying parties following the completion of the identity matching process</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   Where an identity matching process as set out in Article 2 is completed, whether successfully or unsuccessfully, the relying party or the party acting on its behalf or the register relied upon by the relying party shall keep the logs relating to the identity matching process and its outcome, including where available, the following:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the values provided by the user and the relying party that is used to perform the identity matching process;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the date and time of the identity matching process;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">any relevant documentation provided as part of the complementary methods referred to in Article 4(1) and (2) necessary for dispute handling;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where applicable, any identifiers or account numbers used by the relying party, or a register relied upon by relying parties, or the party acting on its behalf, or the centralised identity matching system that relates to the natural person.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   Relying parties or the parties acting on their behalf, shall consider security and privacy by design principles related to the logging of the information included in paragraph 1.</p>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   Relying parties or the parties acting on their behalf, shall retain the logs for a minimum of 6 months and a maximum of 12 months for security purposes. For other purposes, including enabling the registration and processing of user complaints, the retention time may be extended if required by Union or national law.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e505-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+               <p class="oj-normal">It shall apply from 24 December 2026.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 6 May 2025.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202500846EN.000101-E0001" href="#ntc1-L_202500846EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC"
+               >OJ L 257, 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj" >http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202500846EN.000101-E0002" href="#ntc2-L_202500846EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Commission Recommendation (EU) 2021/946 of 3 June 2021 on a common Union Toolbox for a coordinated approach towards a European Digital Identity Framework (<a href="http://publications.europa.eu/resource/oj/JOL_2021_210_R_TOC"
+               >OJ L 210, 14.6.2021, p. 51</a>, ELI: <a href="http://data.europa.eu/eli/reco/2021/946/oj" >http://data.europa.eu/eli/reco/2021/946/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202500846EN.000101-E0003" href="#ntc3-L_202500846EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework (<a href="https://data.europa.eu/eli/reg/2024/1183/oj" >OJ L, 2024/1183, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1183/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202500846EN.000101-E0004" href="#ntc4-L_202500846EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Commission Implementing Regulation (EU) 2015/1501 of 8 September 2015 on the interoperability framework pursuant to Article 12(8) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (<a href="http://publications.europa.eu/resource/oj/JOL_2015_235_R_TOC"
+               >OJ L 235, 9.9.2015, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg_impl/2015/1501/oj" >http://data.europa.eu/eli/reg_impl/2015/1501/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202500846EN.000101-E0005" href="#ntc5-L_202500846EN.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Commission Implementing Regulation (EU) 2024/2977 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets (<a href="https://data.europa.eu/eli/reg_impl/2024/2977/oj" >OJ L, 2024/2977, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2977/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202500846EN.000101-E0006" href="#ntc6-L_202500846EN.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >OJ L 119, 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202500846EN.000101-E0007" href="#ntc7-L_202500846EN.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >OJ L 201, 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_202500846EN.000101-E0008" href="#ntc8-L_202500846EN.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >OJ L 295, 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2025/846/oj</p>
+      <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

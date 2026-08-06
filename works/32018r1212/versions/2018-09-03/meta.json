@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32018r1212:2018-09-03",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32018R1212",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2018-09-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2018-09-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2018-09-03",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2018/1212 of 3 September 2018 laying down minimum requirements implementing the provisions of Directive 2007/36/EC of the European Parliament and of the Council as regards shareholder identification, the transmission of information and the facilitation of the exercise of shareholders rights (Text with EEA relevance.)",
+      "title_short": "Commission Implementing Regulation (EU) 2018/1212 of 3 September 2018 laying down minimum requirements implementing the provisions of Directive 2007/36/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1212",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "89b3ed5d957151b1a071d41b49a2c7f33610632254ba2d8e633bbe137631b1d8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1212",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1212"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2018-09-03",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2018/1212 de la Commission du 3 septembre 2018 fixant des exigences minimales pour la mise en \u0153uvre des dispositions de la directive 2007/36/CE du Parlement europ\u00E9en et du Conseil en ce qui concerne l\u0027identification des actionnaires, la transmission d\u0027informations et la facilitation de l\u0027exercice des droits des actionnaires (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
+      "title_short": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2018/1212 de la Commission du 3 septembre 2018 fixant des exige\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1212",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dcf3db4de9d9b63f53ebae40151e0c7fe166c83f7720dd276fa6902d33b22d39",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1212",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1212"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32018R1212",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "a558f6fedd8484076750963c212de2ff3496e626ac896391509c91891e7ccdd5"
+}

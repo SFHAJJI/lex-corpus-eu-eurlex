@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32026r0002:2026-02-09",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0002",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2026-02-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2026-02-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-02-09",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2026/2 of 9\u00A0February 2026 laying down rules for the application of Regulation (EU)\u00A02024/1781 of the European Parliament and of the Council as regards the details and format for the disclosure of information on discarded unsold consumer products",
+      "title_short": "Commission Implementing Regulation (EU) 2026/2 of 9\u00A0February 2026 laying down rules for the application of Regulation (EU)\u00A02024/1781",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0002",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "a097fedba55b210bc06f9f4f856844a8e4fa841315786db8cac31077c7e5a454",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0002",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0002"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-02-09",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/2 de la Commission du 9\u00A0f\u00E9vrier 2026 \u00E9tablissant les r\u00E8gles pour l\u2019application du r\u00E8glement (UE)\u00A02024/1781 du Parlement europ\u00E9en et du Conseil en ce qui concerne les modalit\u00E9s et le format de communication des informations relatives aux produits de consommation invendus mis au rebut",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/2 de la Commission du 9\u00A0f\u00E9vrier 2026 \u00E9tablissant les r\u00E8gle\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0002",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef05d14bc9ca277d452788bdff5952014f964bde92f1fb88ebce4ff9fd577cd2",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0002",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0002"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R0002",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "d8dbcc38d0c38fa598d9a5715e51964da7742cf5d462c3b840b2aa1b20326dfa"
+}

@@ -1,0 +1,111 @@
+{
+  "lex_id": "eu-eurlex:31997l0007:2007-12-25",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31997L0007",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2007-12-25",
+  "valid_to": "2014-06-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2007-12-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2007-12-25",
+      "valid_to": "2014-06-12",
+      "valid_time_source": "publisher",
+      "title": "Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts",
+      "title_short": "Directive 97/7/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997L0007-20071225",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "169a02f857a011019672179b438753585749025f9f189e3f278cdb4012541bbd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997L0007-20071225",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "en.fmx4/CL1997L0007EN0030010.0001.doc.xml",
+          "sha256": "48580e124be4fb08180d740e2c78ae984cc10eeb584da4330ce6a4e358fbf6dd",
+          "source_uri": "https://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0006.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL1997L0007EN0030010.0001.xml",
+          "sha256": "30e1921be54bf6a4854eda0eb79bb978caf095f0356dea1a41a4d2b080ae951f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0006.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997L0007-20071225"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2007-12-25",
+      "valid_to": "2014-06-12",
+      "valid_time_source": "publisher",
+      "title": "Directive 97/7/CE du Parlement europ\u00E9en et du Conseil du 20 mai 1997 concernant la protection des consommateurs en mati\u00E8re de contrats \u00E0 distance",
+      "title_short": "Directive 97/7/CE du Parlement europ\u00E9en et du Conseil du 20 mai 1997 concernant la protect\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0007-20071225",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "eef847ce9f480e1fdf6c793e465e192b34b145618799558d8a6daca557c3e7ea",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0007-20071225",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL1997L0007FR0030010.0001.doc.xml",
+          "sha256": "385a9e98207072e29ef72110fe6b568104f60aec04f85bd117d24d91e6e387af",
+          "source_uri": "https://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0010.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL1997L0007FR0030010.0001.xml",
+          "sha256": "235fdac86ebfda39ef15c5b53a3d0434d7513898d6f3eb53b388a73c0c370739",
+          "source_uri": "https://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0010.02/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0007-20071225"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31997L0007"
+    }
+  ],
+  "raw": {
+    "celex": "01997L0007-20071225",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "published",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,domain:consumer-environment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "1036b325f68b2510fdd9eed9c365ff3e42d7104acc70f72a7645fa2047981f1a"
+}

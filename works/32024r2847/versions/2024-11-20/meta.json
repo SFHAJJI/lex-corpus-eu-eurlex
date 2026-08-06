@@ -5,11 +5,24 @@
   "document_type": "REG",
   "valid_from": "2024-11-20",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2024-11-20",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T03:28:03Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -49,6 +62,43 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2847-20241120"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-11-20",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2024/2847 du Parlement europ\u00E9en et du Conseil du 23\u00A0octobre 2024 concernant des exigences de cybers\u00E9curit\u00E9 horizontales pour les produits comportant des \u00E9l\u00E9ments num\u00E9riques et modifiant les r\u00E8glements (UE) no\u00A0168/2013 et (UE) 2019/1020 et la directive (UE) 2020/1828 (r\u00E8glement sur la cyberr\u00E9silience) (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "Cyber Resilience Act \u2014 R\u00E8glement (UE) 2024/2847 du Parlement europ\u00E9en et du Conseil du 23\u00A0octobre 2024 concernant\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R2847-20241120",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "fab9479cdcc9251b6c0ffe3f271358ac8a9297d6ede59ab56c7a5882d1363888",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R2847-20241120",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2024R2847FR0000050.0001.doc.xml",
+          "sha256": "5fbf8c2b03463fbdb72c31f0e2b86250704a3d1d419c87aae008264d4d42df54",
+          "source_uri": "https://publications.europa.eu/resource/cellar/343ab8c4-d80e-11ef-be2a-01aa75ed71a1.0013.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2024R2847FR0000050.0001.xml",
+          "sha256": "fa01ee77607de6ad9245fce0183c63078362d619562730653880ef816fa87561",
+          "source_uri": "https://publications.europa.eu/resource/cellar/343ab8c4-d80e-11ef-be2a-01aa75ed71a1.0013.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R2847-20241120"
+      }
     }
   ],
   "relations": [
@@ -58,7 +108,13 @@
     }
   ],
   "raw": {
-    "celex": "02024R2847-20241120"
+    "celex": "02024R2847-20241120",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "27858ffe38822fbb9e888f7ff103998202b5076a04222c1d4437f14d7f1467db"
+  "record_sha256": "61d22e41708c6b31d23350ed95becad5ddbdb07159c47b55fca455117f0e9e28"
 }

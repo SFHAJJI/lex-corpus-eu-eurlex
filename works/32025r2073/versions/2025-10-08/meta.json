@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025r2073:2025-10-08",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R2073",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2025-10-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-10-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-10-08",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2025/2073 of the European Parliament and of the Council of 8 October 2025 amending Regulation (EU) 2015/848 on insolvency proceedings to replace its Annexes A and B",
+      "title_short": "Regulation (EU) 2025/2073",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2073",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "d678a6b5a1d7d46df164fe91a62be1a78739d26de8e6da01768b9fb46f15d77d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2073",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2073"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-10-08",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2025/2073 du Parlement europ\u00E9en et du Conseil du 8 octobre 2025 portant modification du r\u00E8glement (UE) 2015/848 relatif aux proc\u00E9dures d\u2019insolvabilit\u00E9 afin de remplacer ses annexes A et B",
+      "title_short": "R\u00E8glement (UE) 2025/2073 du Parlement europ\u00E9en et du Conseil du 8 octobre 2025 portant mod\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2073",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "63970a4d5fa38abbc0739a8860fe58c3fb26c2635f2a7bb1c401940164d440c9",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2073",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2073"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R2073",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "judicial-cooperation",
+    "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "1915036e4eff93abb1826fa1e587509e8f9ddc25dc7bad43559adbf5ffabad5f"
+}

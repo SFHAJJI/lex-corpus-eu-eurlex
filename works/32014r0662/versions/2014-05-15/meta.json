@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32014r0662:2014-05-15",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014R0662",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2014-05-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2014-05-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2014-05-15",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) No\u00A0662/2014 of the European Parliament and of the Council of 15\u00A0May 2014 amending Regulation (EU) No\u00A0525/2013 as regards the technical implementation of the Kyoto Protocol to the United Nations Framework Convention on Climate Change  Text with EEA relevance",
+      "title_short": "Regulation (EU) No\u00A0662/2014",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0662",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "5b9e90e0a27119c7dd50ea155e72a96f7b2f74a8110f712067eb72c4957d1dab",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0662",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0662"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2014-05-15",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) n \u00B0\u00A0662/2014 du Parlement europ\u00E9en et du Conseil du 15\u00A0mai 2014 modifiant le r\u00E8glement (UE) n \u00B0\u00A0525/2013 en ce qui concerne la mise en \u0153uvre technique du protocole de Kyoto \u00E0 la convention-cadre des Nations unies sur les changements climatiques  Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE",
+      "title_short": "R\u00E8glement (UE) n \u00B0\u00A0662/2014 du Parlement europ\u00E9en et du Conseil du 15\u00A0mai 2014 modifiant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0662",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3d285a2e765ef595ce2ed8925ce8da8379d40e9c5842eed429daea4001f4c65e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0662",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0662"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32014R0662",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "90cc654c225485e2a9bfe6e07d7b045fd369e9e71a6aab06393b48fbac15b9f5"
+}

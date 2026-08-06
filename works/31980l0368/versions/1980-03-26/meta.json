@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:31980l0368:1980-03-26",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31980L0368",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1980-03-26",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1980-03-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1980-03-26",
+      "valid_time_source": "publisher",
+      "title": "Eleventh Council Directive 80/368/EEC of 26 March 1980 on the harmonization of the laws of the Member States relating to turnover taxes - exclusion of the French overseas departments from the scope of Directive 77/388/EEC",
+      "title_short": "Eleventh Council Directive 80/368/EEC of 26 March 1980 on the harmonization of the laws of\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980L0368",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "d72ca4a0870f281d646dcf850db56ba25caf9ed7222d1ee5739aeb49f056dde3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980L0368",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980L0368"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1980-03-26",
+      "valid_time_source": "publisher",
+      "title": "Onzi\u00E8me directive 80/368/CEE du Conseil, du 26 mars 1980, en mati\u00E8re d\u0027harmonisation des l\u00E9gislations des \u00C9tats membres relatives aux taxes sur le chiffre d\u0027affaires - Exclusion des d\u00E9partements fran\u00E7ais d\u0027outre-mer du champ d\u0027application de la directive 77/388/CEE",
+      "title_short": "Onzi\u00E8me directive 80/368/CEE du Conseil, du 26 mars 1980, en mati\u00E8re d\u0027harmonisation des l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31980L0368",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a25863591cb261aa84c27fdd5bf46f9c87d008f7387230a75dc801009c18a405",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31980L0368",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31980L0368"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31980L0368",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "8d2894d9d7663204ac51e6169a9ed42bd03e6efd386c5766ea2c91cb652a7bd9"
+}

@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32004l0106:2004-11-16",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32004L0106",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2004-11-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2004-11-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2004-11-16",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2004/106/EC of 16 November 2004 amending Directives 77/799/EEC concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation, certain excise duties and taxation of insurance premiums and 92/12/EEC on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products",
+      "title_short": "Council Directive 2004/106/EC of 16 November 2004 amending Directives 77/799/EEC concernin\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0106",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "85f660206b498e2c21336c0f34f234dd32fcc7bb65044ed2805b20ca23e6eb59",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0106",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0106"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2004-11-16",
+      "valid_time_source": "publisher",
+      "title": "Directive 2004/106/CE du Conseil du 16 novembre 2004 modifiant la directive 77/799/CEE concernant l\u0027assistance mutuelle des autorit\u00E9s comp\u00E9tentes des \u00C9tats membres dans le domaine des imp\u00F4ts directs, de certains droits d\u0027accises et des taxes sur les primes d\u0027assurance, et la directive 92/12/CEE relative au r\u00E9gime g\u00E9n\u00E9ral, \u00E0 la d\u00E9tention, \u00E0 la circulation et aux contr\u00F4les des produits soumis \u00E0 accises",
+      "title_short": "Directive 2004/106/CE du Conseil du 16 novembre 2004 modifiant la directive 77/799/CEE con\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0106",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b66f640ed9ee4e5b267efbf8c08b01116de997126a0d9bfa274dbfdefcdb9b9b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0106",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004L0106"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32004L0106",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "tax",
+    "scope_reasons": "domain:tax:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
+  },
+  "record_sha256": "5570f11740204cba81e8f5b927d42c18d7f32c3fc02bd4c9d2d946bd640288a5"
+}

@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.0 # generated_on:20240621-2210 # ELI version:0.10 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>L_202401772FR.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Journal officiel <br/>de l'Union européenne</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">FR</p>
+                  <p class="oj-hd-coll">Série L</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">2024/1772</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">25.6.2024</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e43-1-1">
+            RÈGLEMENT DÉLÉGUÉ (UE) 2024/1772 DE LA COMMISSION
+         </p>
+            <p class="oj-doc-ti">du 13 mars 2024
+         </p>
+            <p class="oj-doc-ti">complétant le règlement (UE) 2022/2554 du Parlement européen et du Conseil par des normes techniques de réglementation précisant les critères de classification des incidents liés aux TIC et des cybermenaces, fixant des seuils d’importance significative et précisant les détails des rapports d’incidents majeurs</p>
+            <p class="oj-doc-ti">(Texte présentant de l’intérêt pour l’EEE)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">LA COMMISSION EUROPÉENNE,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">vu le traité sur le fonctionnement de l’Union européenne,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">vu le règlement (UE) 2022/2554 du Parlement européen et du Conseil du 14 décembre 2022 sur la résilience opérationnelle numérique du secteur financier et modifiant les règlements (CE) n<span class="oj-super">o</span> 1060/2009, (UE) n<span class="oj-super">o</span> 648/2012, (UE) n<span class="oj-super">o</span> 600/2014, (UE) n<span class="oj-super">o</span> 909/2014 et (UE) 2016/1011 <a id="ntc1-L_202401772FR.000101-E0001" href="#ntr1-L_202401772FR.000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, et notamment son article 18, paragraphe 4, troisième alinéa,</p>
+            </div>
+            <p class="oj-normal">considérant ce qui suit:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le règlement (UE) 2022/2554 vise à harmoniser et à rationaliser les obligations de déclaration des incidents liés aux TIC et des incidents opérationnels ou de sécurité liés au paiement concernant les établissements de crédit, les établissements de paiement, les prestataires de services d’information sur les comptes et les établissements de monnaie électronique (ci-après les «incidents»). Étant donné que ces obligations de déclaration concernent 20 types différents d’entités financières, les critères de classification et les seuils d’importance significative servant à identifier les incidents majeurs et les cybermenaces importantes devraient être précisés d’une manière simple, harmonisée et cohérente qui tienne compte des spécificités des services et activités de toutes les entités financières concernées.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Dans un souci de proportionnalité, les critères de classification et les seuils d’importance significative devraient prendre en compte la taille des différentes entités financières, leur profil de risque général, ainsi que la nature, l’échelle et la complexité de leurs services. En outre, les critères et les seuils d’importance significative devraient être conçus de manière à s’appliquer de manière cohérente à toutes les entités financières, indépendamment de leur taille et de leur profil de risque, et à ne pas entraîner de charge déclarative disproportionnée pour les plus petites d’entre elles. Cependant, afin de tenir compte des situations où un incident ne dépasse pas le seuil applicable mais touche néanmoins un nombre significatif de clients, il convient de fixer un seuil absolu ciblant surtout les grandes entités financières.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Il convient d’assurer aux entités financières une continuité par rapport aux cadres de notification des incidents qui préexistaient à l’entrée en vigueur du règlement (UE) 2022/2554. Par conséquent, les critères de classification et les seuils d’importance significative devraient s’appuyer et s’aligner sur les orientations de l’ABE sur la notification des incidents majeurs au titre de la directive (UE) 2015/2366 du Parlement européen et du Conseil <a id="ntc2-L_202401772FR.000101-E0002" href="#ntr2-L_202401772FR.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, les orientations sur l’information périodique et la notification des modifications importantes que les référentiels centraux doivent soumettre à l’AEMF, le dispositif BCE/MSU de déclaration des cyberincidents et d’autres orientations pertinentes. Il convient également de faire en sorte que les critères et seuils de classification soient adéquats pour les entités financières qui n’étaient pas soumises à des obligations de déclaration des incidents avant l’adoption du règlement (UE) 2022/2554.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">En ce qui concerne le critère de classification «volume et nombre de transactions touchées», la notion de transactions est large et couvre différentes activités et services dans les différents actes sectoriels applicables aux entités financières. Aux fins de ce critère de classification, les opérations de paiement et toutes les formes d’échange d’instruments financiers, de crypto-actifs, de matières premières ou de tout autre actif, également sous forme de marges, de sûretés ou de garanties, tant contre des espèces que contre tout autre actif, devraient être couvertes. Toutes les transactions impliquant des actifs dont la valeur peut être exprimée sous la forme d’un montant monétaire devraient être prises en considération aux fins de la classification.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les critères de classification devraient permettre de rendre compte de tous les types d’incidents majeurs pertinents. De nombreux critères de classification ne rendent pas nécessairement compte des cyberattaques liées à l’intrusion dans le réseau ou les systèmes d’information. Or celles-ci sont importantes car toute intrusion dans le réseau ou les systèmes d’information est susceptible de nuire à l’entité financière. En conséquence, les critères de classification «services critiques touchés» et «pertes de données» devraient être définis de manière à rendre compte de ces types d’incidents majeurs, en particulier des intrusions non autorisées qui, même si l’on n’en connaît pas immédiatement l’incidence, sont susceptibles d’entraîner de graves conséquences, notamment des violations de données et des fuites de données.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Étant donné que les établissements de crédit sont soumis à la fois au cadre de classification des incidents prévu à l’article 18 du règlement (UE) 2022/2554 et au cadre relatif au risque opérationnel prévu par le règlement délégué (UE) 2018/959 de la Commission <a id="ntc3-L_202401772FR.000101-E0003" href="#ntr3-L_202401772FR.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>, les approches que prévoient respectivement ces deux cadres pour déterminer les conséquences économiques d’un incident sur la base du calcul des coûts et des pertes devraient, dans toute la mesure du possible, concorder, afin de ne pas donner lieu à des exigences incompatibles ou contradictoires.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le critère relatif à la répartition géographique d’un incident énoncé à l’article 18, paragraphe 1, point c), du règlement (UE) 2022/2554 devrait se concentrer sur l’incidence transfrontière de l’incident, puisque l’incidence d’un incident sur les activités d’une entité financière au sein d’une même juridiction sera appréhendée par les autres critères énoncés dans cet article.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Étant donné que les critères de classification sont interdépendants et liés entre eux, l’approche pour identifier les incidents majeurs qui doivent être déclarés en vertu de l’article 19, paragraphe 1, du règlement (UE) 2022/2554 devrait se fonder sur une combinaison de critères, qui donnerait à certains critères étroitement liés à la définition d’un incident lié aux TIC et à celle d’un incident majeur lié aux TIC données à l’article 3, paragraphes 8 et 10, du règlement (UE) 2022/2554 la prééminence sur les autres critères pour la classification d’un incident comme majeur.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Afin que les rapports et notifications d’incidents majeurs reçus par les autorités compétentes en vertu de l’article 19, paragraphe 1, du règlement (UE) 2022/2554 soient utiles aussi bien à des fins de surveillance que pour la prévention de la contagion à l’ensemble du secteur financier, les seuils d’importance significative devraient permettre de rendre compte des incidents majeurs, en se concentrant, entre autres, sur l’incidence sur les services critiques propres à l’entité, sur les seuils absolus et relatifs spécifiques de clients ou de contreparties financières, sur les transactions qui indiquent une incidence significative sur l’entité financière, et sur l’importance de l’incidence dans d’autres États membres.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les incidents qui touchent des services TIC ou des réseaux et des systèmes d’information qui soutiennent des fonctions critiques ou importantes ou qui touchent des services financiers nécessitant une autorisation, ou les accès malveillants non autorisés aux réseaux et aux systèmes d’information qui soutiennent des fonctions critiques ou importantes, devraient être considérés comme des incidents touchant des services critiques des entités financières. L’accès malveillant non autorisé aux réseaux et aux systèmes d’information qui soutiennent des fonctions critiques ou importantes des entités financières comporte des risques graves pour l’entité financière et, étant donné qu’il peut toucher d’autres entités financières, devrait toujours être considéré comme un incident majeur à déclarer.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les incidents récurrents qui sont liés par une cause originelle apparente similaire et qui, pris isolément, ne constituent pas des incidents majeurs peuvent néanmoins être le signe de défaillances et de faiblesses importantes dans les procédures de gestion des risques et des incidents mises en place par l’entité financière. Par conséquent, les incidents récurrents devraient être collectivement considérés comme majeurs lorsqu’ils se produisent de manière répétée au cours d’une certaine période.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Étant donné que les cybermenaces peuvent avoir une incidence négative sur l’entité financière et sur le secteur financier, toute notification de cybermenace importante effectuée par une entité financière devrait préciser la probabilité que cette menace se concrétise et la criticité de son incidence potentielle. En conséquence, afin de garantir une évaluation claire et cohérente de l’importance des cybermenaces, la classification d’une cybermenace comme importante devrait dépendre du type de cybermenace, des informations dont dispose l’entité financière, et de la probabilité que, si la cybermenace se concrétisait, elle remplirait les critères permettant de classer un incident comme majeur et atteindrait les seuils correspondants.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Étant donné que les autorités compétentes d’autres États membres doivent être informées des incidents qui ont une incidence sur des entités financières et des clients sur leur territoire, l’évaluation de l’incidence dans un autre État membre conformément à l’article 19, paragraphe 7, du règlement (UE) 2022/2554 devrait se fonder sur la cause originelle de l’incident, sur les risques de contagion par l’intermédiaire des prestataires tiers et des infrastructures des marchés financiers, ainsi que sur l’incidence de l’incident sur des groupes importants de clients ou de contreparties financières.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Les processus de déclaration et de notification visés à l’article 19, paragraphes 6 et 7, du règlement (UE) 2022/2554 devraient permettre aux destinataires respectifs d’évaluer l’incidence des incidents. Par conséquent, les informations transmises devraient comporter tous les détails contenus dans les rapports d’incidents soumis par l’entité financière à l’autorité compétente.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Lorsqu’un incident constitue une violation de données à caractère personnel au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil <a id="ntc4-L_202401772FR.000101-E0004" href="#ntr4-L_202401772FR.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> et de la directive 2002/58/CE du Parlement européen et du Conseil <a id="ntc5-L_202401772FR.000101-E0005" href="#ntr5-L_202401772FR.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, le présent règlement ne devrait pas influer sur les obligations en matière d’enregistrement et de notification des violations de données à caractère personnel qu’imposent ces actes de l’Union. Les autorités compétentes devraient coopérer avec les autorités visées dans le règlement (UE) 2016/679 et la directive 2002/58/CE et échanger avec elles des informations sur toutes les questions pertinentes.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le présent règlement se fonde sur les projets de normes techniques de réglementation soumis à la Commission par les autorités européennes de surveillance, après consultation de l’Agence de l’Union européenne pour la cybersécurité (ENISA) et de la Banque centrale européenne (BCE).</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le comité mixte des autorités européennes de surveillance visé à l’article 54 du règlement (UE) n<span class="oj-super">o</span> 1093/2010 du Parlement européen et du Conseil <a id="ntc6-L_202401772FR.000101-E0006" href="#ntr6-L_202401772FR.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>, à l’article 54 du règlement (UE) n<span class="oj-super">o</span> 1094/2010 du Parlement européen et du Conseil <a id="ntc7-L_202401772FR.000101-E0007" href="#ntr7-L_202401772FR.000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a> et à l’article 54 du règlement (UE) n<span class="oj-super">o</span> 1095/2010 du Parlement européen et du Conseil <a id="ntc8-L_202401772FR.000101-E0008" href="#ntr8-L_202401772FR.000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a> a procédé à des consultations publiques ouvertes sur les projets de normes techniques de réglementation sur lesquels se fonde le présent règlement, analysé les coûts et avantages potentiels qu’ils entraînent et sollicité l’avis du groupe des parties intéressées au secteur bancaire institué en application de l’article 37 du règlement (UE) n<span class="oj-super">o</span> 1093/2010, du groupe des parties intéressées à l’assurance et la réassurance institué en application de l’article 37 du règlement (UE) n<span class="oj-super">o</span> 1094/2010 et du groupe des parties intéressées au secteur financier institué en application de l’article 37 du règlement (UE) n<span class="oj-super">o</span> 1095/2010.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Le Contrôleur européen de la protection des données a été consulté conformément à l’article 42, paragraphe 1, du règlement (UE) 2018/1725 du Parlement européen et du Conseil <a id="ntc9-L_202401772FR.000101-E0009" href="#ntr9-L_202401772FR.000101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a> et a rendu un avis le 24 janvier 2024,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">A ADOPTÉ LE PRÉSENT RÈGLEMENT:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_I">
+               <p id="d1e380-1-1" class="oj-ti-section-1">CHAPITRE I</p>
+               <div class="eli-title" id="cpt_I.tit_1">
+                  <p id="L_01772FR.01000101-d-001" class="oj-ti-section-2">
+                     <span class="oj-bold">CRITÈRES DE CLASSIFICATION</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e388-1-1" class="oj-ti-art">Article premier</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Clients, contreparties financières et transactions</p>
+                  </div>
+                  <div id="001.001">
+                     <p class="oj-normal">1.   Le nombre des clients touchés par l’incident, visé à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, comprend tous les clients touchés, qu’il s’agisse de personnes physiques ou morales, qui ne peuvent pas, ou n’ont pas pu, utiliser le service fourni par l’entité financière pendant la durée de l’incident, ou sur lesquels l’incident a eu une incidence préjudiciable. Ce nombre comprend également, en tant que bénéficiaires du service touché, les tiers explicitement couverts par l’accord contractuel conclu entre l’entité financière et le client.</p>
+                  </div>
+                  <div id="001.002">
+                     <p class="oj-normal">2.   Le nombre des contreparties financières touchées par l’incident, visé à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, comprend toutes les contreparties financières touchées qui ont conclu un accord contractuel avec l’entité financière.</p>
+                  </div>
+                  <div id="001.003">
+                     <p class="oj-normal">3.   En ce qui concerne l’importance des clients et des contreparties financières touchés par l’incident, visée à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, l’entité financière tient compte de la mesure dans laquelle l’incidence sur un client ou une contrepartie financière affectera la mise en œuvre de ses objectifs opérationnels, ainsi que de l’incidence potentielle de l’incident sur l’efficience du marché.</p>
+                  </div>
+                  <div id="001.004">
+                     <p class="oj-normal">4.   En ce qui concerne le volume ou le nombre des transactions touchées par l’incident, visé à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, l’entité financière tient compte de toutes les transactions touchées impliquant un montant monétaire qui sont au moins en partie effectuées dans l’Union.</p>
+                  </div>
+                  <div id="001.005">
+                     <p class="oj-normal">5.   Lorsque le nombre réel des clients ou des contreparties financières touchés, ou le nombre ou le volume réel des transactions touchées, ne peut pas être déterminé, l’entité financière estime ce nombre ou ce volume à partir des données disponibles portant sur des périodes de référence comparables.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e418-1-1" class="oj-ti-art">Article 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">Atteinte à la réputation</p>
+                  </div>
+                  <div id="002.001">
+                     <p class="oj-normal">1.   Afin de déterminer l’incidence de l’incident sur la réputation, visée à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, les entités financières considèrent qu’il y a eu atteinte à la réputation lorsqu’au moins l’un des critères suivants est rempli:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">l’incident a été relayé par les médias;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">l’incident a donné lieu à des plaintes répétées de la part de différents clients ou contreparties financières concernant des services en contact direct avec la clientèle ou des relations commerciales critiques;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">l’entité financière ne pourra pas satisfaire à certaines exigences réglementaires, ou il est probable qu’elle ne le pourra pas, en raison de l’incident;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">l’entité financière perdra, ou il est probable qu’elle perdra, des clients ou des contreparties financières en raison de l’incident, au grand détriment de son activité.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="002.002">
+                     <p class="oj-normal">2.   Lorsqu’elles évaluent l’incidence de l’incident sur la réputation, les entités financières tiennent compte du niveau de visibilité que l’incident a atteint, ou est susceptible d’atteindre, en ce qui concerne chaque critère énuméré au paragraphe 1.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e459-1-1" class="oj-ti-art">Article 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Durée et interruptions de service</p>
+                  </div>
+                  <div id="003.001">
+                     <p class="oj-normal">1.   Les entités financières mesurent la durée d’un incident, visée à l’article 18, paragraphe 1, point b), du règlement (UE) 2022/2554, à partir du moment où l’incident est survenu jusqu’au moment où il est résolu.</p>
+                     <p class="oj-normal">Lorsque les entités financières ne sont pas en mesure de déterminer le moment auquel l’incident est survenu, elles mesurent la durée de l’incident à partir du moment où il a été détecté. Lorsque les entités financières se rendent compte que la survenue de l’incident est antérieure à sa détection, elles mesurent la durée à partir du moment où l’incident est enregistré dans les journaux des réseaux ou des systèmes ou dans d’autres sources de données.</p>
+                     <p class="oj-normal">Lorsque les entités financières ne savent pas encore quand l’incident sera résolu ou ne sont pas en mesure de vérifier les enregistrements dans les journaux ou dans d’autres sources de données, elles appliquent des estimations.</p>
+                  </div>
+                  <div id="003.002">
+                     <p class="oj-normal">2.   Les entités financières mesurent les interruptions de service, visées à l’article 18, paragraphe 1, point b), du règlement (UE) 2022/2554, à partir du moment où le service est totalement ou partiellement indisponible pour les clients, les contreparties financières ou d’autres utilisateurs internes ou externes jusqu’au moment où les activités ou opérations régulières ont repris au niveau de service qui était fourni avant l’incident. Lorsque l’interruption de service provoque un retard dans la fourniture d’un service après la reprise des activités ou opérations régulières, l’interruption est mesurée à partir du début de l’incident jusqu’au moment où le service ayant subi un retard est intégralement fourni.</p>
+                     <p class="oj-normal">Lorsque les entités financières ne sont pas en mesure de déterminer le moment auquel l’interruption de service a commencé, elles mesurent l’interruption de service à partir du moment où celle-ci a été détectée.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_4">
+                  <p id="d1e480-1-1" class="oj-ti-art">Article 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="oj-sti-art">Répartition géographique</p>
+                  </div>
+                  <p class="oj-normal">Afin de déterminer la répartition géographique en ce qui concerne les zones touchées par l’incident, visée à l’article 18, paragraphe 1, point c), du règlement (UE) 2022/2554, les entités financières évaluent si l’incident a ou a eu une incidence dans d’autres États membres, et évaluent notamment l’importance de cette incidence en ce qui concerne:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les clients et les contreparties financières dans d’autres États membres;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les succursales ou les autres entités financières du groupe qui exercent des activités dans d’autres États membres; ou</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">les infrastructures des marchés financiers ou les prestataires tiers susceptibles d’affecter les entités financières établies dans d’autres États membres auxquelles ils fournissent des services, si ces informations sont disponibles.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p id="d1e507-1-1" class="oj-ti-art">Article 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="oj-sti-art">Pertes de données</p>
+                  </div>
+                  <p class="oj-normal">Afin de déterminer les pertes de données occasionnées par l’incident, visées à l’article 18, paragraphe 1, point d), du règlement (UE) 2022/2554, les entités financières cherchent à savoir:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">en ce qui concerne la disponibilité des données, si l’incident a rendu temporairement ou durablement inaccessibles ou inutilisables les données sollicitées par l’entité financière, ses clients ou ses contreparties;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">en ce qui concerne l’authenticité des données, si l’incident a compromis la fiabilité de la source des données;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">en ce qui concerne l’intégrité des données, si l’incident a entraîné une modification non autorisée des données qui les a rendues inexactes ou incomplètes;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">en ce qui concerne la confidentialité des données, si l’incident a eu pour conséquence qu’une partie ou un système non autorisé a eu accès à des données ou que celles-ci lui ont été divulguées.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p id="d1e540-1-1" class="oj-ti-art">Article 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="oj-sti-art">Criticité des services touchés</p>
+                  </div>
+                  <p class="oj-normal">Afin de déterminer la criticité des services touchés, visée à l’article 18, paragraphe 1, point e), du règlement (UE) 2022/2554, les entités financières évaluent si l’incident:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">touche ou a touché des services TIC ou des réseaux et des systèmes d’information qui soutiennent des fonctions critiques ou importantes de l’entité financière;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">touche ou a touché des services financiers fournis par l’entité financière qui nécessitent un agrément ou un enregistrement ou qui sont surveillés par les autorités compétentes;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">constitue ou a constitué un accès réussi, malveillant et non autorisé aux réseaux et aux systèmes d’information de l’entité financière.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p id="d1e567-1-1" class="oj-ti-art">Article 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="oj-sti-art">Conséquences économiques</p>
+                  </div>
+                  <div id="007.001">
+                     <p class="oj-normal">1.   Afin de déterminer les conséquences économiques de l’incident, visées à l’article 18, paragraphe 1, point f), du règlement (UE) 2022/2554, les entités financières, sans comptabiliser les recouvrements financiers, tiennent compte des types suivants de coûts et de pertes directs et indirects qu’elles ont supportés en raison de l’incident:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les fonds ou les actifs financiers expropriés dont elles sont responsables, y compris les actifs perdus à la suite d’un vol;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les coûts du remplacement ou du déplacement de logiciels, de matériel ou d’infrastructures;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les frais de personnel, y compris les coûts liés au remplacement ou au déménagement du personnel, au recrutement de personnel supplémentaire, à la rémunération des heures supplémentaires et à la récupération des compétences perdues ou altérées;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les frais dus au non-respect d’obligations contractuelles;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les coûts de dédommagement et d’indemnisation des clients;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">f)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les pertes dues aux recettes non perçues;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">g)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les coûts liés à la communication interne et externe;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">h)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les frais de conseil, y compris les coûts liés au conseil juridique, aux services d’analyse forensique et aux services de remédiation.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="007.002">
+                     <p class="oj-normal">2.   Les coûts et pertes visés au paragraphe 1 excluent les coûts nécessaires au fonctionnement quotidien de l’entreprise, en particulier:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les coûts de maintenance générale des infrastructures, des équipements, du matériel et des logiciels, ainsi que les coûts d’actualisation des compétences du personnel;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les coûts internes ou externes engagés pour renforcer l’activité après l’incident, notamment les mises à niveau, les améliorations et l’adoption de mesures d’évaluation des risques;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les primes d’assurance.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="007.003">
+                     <p class="oj-normal">3.   Les entités financières calculent les montants des coûts et des pertes sur la base des données disponibles au moment de la déclaration. Lorsque les montants réels des coûts et des pertes ne peuvent pas être déterminés, les entités financières les estiment.</p>
+                  </div>
+                  <div id="007.004">
+                     <p class="oj-normal">4.   Lorsqu’elles évaluent les conséquences économiques de l’incident, les entités financières additionnent les coûts et les pertes visés au paragraphe 1.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_II">
+               <p id="d1e663-1-1" class="oj-ti-section-1">CHAPITRE II</p>
+               <div class="eli-title" id="cpt_II.tit_1">
+                  <p id="L_01772FR.01000101-d-002" class="oj-ti-section-2">
+                     <span class="oj-bold">INCIDENTS MAJEURS ET SEUILS D’IMPORTANCE SIGNIFICATIVE</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p id="d1e671-1-1" class="oj-ti-art">Article 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="oj-sti-art">Incidents majeurs</p>
+                  </div>
+                  <div id="008.001">
+                     <p class="oj-normal">1.   Un incident est considéré comme un incident majeur aux fins de l’article 19, paragraphe 1, du règlement (UE) 2022/2554 lorsqu’il a touché des services critiques visés à l’article 6 et lorsque l’une des conditions suivantes est remplie:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">le seuil d’importance significative visé à l’article 9, paragraphe 5, point b), est atteint;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">au moins deux des autres seuils d’importance significative visés à l’article 9, paragraphes 1 à 6, sont atteints.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="008.002">
+                     <p class="oj-normal">2.   Les incidents récurrents qui, pris isolément, ne sont pas considérés comme un incident majeur au sens du paragraphe 1 sont considérés comme un incident majeur lorsqu’ils remplissent toutes les conditions suivantes:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils se sont produits au moins deux fois en six mois;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils ont la même cause originelle apparente, telle que visée à l’article 20, premier alinéa, point b), du règlement (UE) 2022/2554;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">ils remplissent collectivement les critères pour être considérés comme un incident majeur énoncés au paragraphe 1.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <p class="oj-normal">Les entités financières évaluent l’existence d’incidents récurrents chaque mois.</p>
+                     <p class="oj-normal">Le présent paragraphe ne s’applique pas aux microentreprises ni aux entités financières énumérées à l’article 16, paragraphe 1, du règlement (UE) 2022/2554.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_9">
+                  <p id="d1e724-1-1" class="oj-ti-art">Article 9</p>
+                  <div class="eli-title" id="art_9.tit_1">
+                     <p class="oj-sti-art">Seuils d’importance significative pour la détermination des incidents majeurs</p>
+                  </div>
+                  <div id="009.001">
+                     <p class="oj-normal">1.   Le seuil d’importance significative pour le critère «clients, contreparties financières et transactions» est atteint lorsque l’une des conditions suivantes est remplie:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">le nombre des clients touchés dépasse 10 % de l’ensemble des clients qui utilisent le service touché;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">le nombre des clients touchés qui utilisent le service touché dépasse 100 000;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">le nombre des contreparties financières touchées dépasse 30 % de l’ensemble des contreparties financières qui exercent des activités liées à la fourniture du service touché;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">le nombre des transactions touchées dépasse 10 % du nombre moyen journalier des transactions effectuées par l’entité financière liées au service touché;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">le volume des transactions touchées dépasse 10 % de la valeur moyenne journalière des transactions effectuées par l’entité financière liées au service touché;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">f)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">des clients ou des contreparties financières considérés comme importants en vertu de l’article 1<span class="oj-super">er</span>, paragraphe 3, ont été touchés.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <p class="oj-normal">Lorsque le nombre réel des clients ou des contreparties financières touchés, ou le nombre ou le volume réel des transactions touchées, ne peut pas être déterminé, l’entité financière estime ce nombre ou ce volume à partir des données disponibles portant sur des périodes de référence comparables.</p>
+                  </div>
+                  <div id="009.002">
+                     <p class="oj-normal">2.   Le seuil d’importance significative pour le critère «atteinte à la réputation» est atteint lorsque l’une des conditions énoncées à l’article 2, points a) à d), est remplie.</p>
+                  </div>
+                  <div id="009.003">
+                     <p class="oj-normal">3.   Le seuil d’importance significative pour le critère «durée et interruptions de service» est atteint lorsque l’une des conditions suivantes est remplie:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">la durée de l’incident dépasse 24 heures;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">l’interruption de service dépasse 2 heures pour les services TIC qui soutiennent des fonctions critiques ou importantes.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="009.004">
+                     <p class="oj-normal">4.   Le seuil d’importance significative pour le critère «répartition géographique» est atteint lorsque l’incident a une incidence dans deux États membres ou plus, conformément à l’article 4.</p>
+                  </div>
+                  <div id="009.005">
+                     <p class="oj-normal">5.   Le seuil d’importance significative pour le critère «pertes de données» est atteint lorsque l’une des conditions suivantes est remplie:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">l’incidence sur la disponibilité, l’authenticité, l’intégrité ou la confidentialité des données, visée à l’article 5, nuit ou nuira à la mise en œuvre des objectifs opérationnels de l’entité financière ou à sa capacité de satisfaire aux exigences réglementaires;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">les réseaux et les systèmes d’information sont l’objet d’un accès réussi, malveillant et non autorisé non couvert par le point a) et susceptible d’entraîner des pertes de données.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="009.006">
+                     <p class="oj-normal">6.   Le seuil d’importance significative pour le critère «conséquences économiques» est atteint lorsque les coûts et les pertes supportés par l’entité financière en raison de l’incident ont dépassé, ou sont susceptibles de dépasser, 100 000 EUR.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III">
+               <p id="d1e861-1-1" class="oj-ti-section-1">CHAPITRE III</p>
+               <div class="eli-title" id="cpt_III.tit_1">
+                  <p id="L_01772FR.01000101-d-003" class="oj-ti-section-2">
+                     <span class="oj-bold">CYBERMENACES IMPORTANTES</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_10">
+                  <p id="d1e869-1-1" class="oj-ti-art">Article 10</p>
+                  <div class="eli-title" id="art_10.tit_1">
+                     <p class="oj-sti-art">Seuils d’importance significative élevés pour la détermination des cybermenaces importantes</p>
+                  </div>
+                  <p class="oj-normal">Aux fins de l’article 18, paragraphe 2, du règlement (UE) 2022/2554, une cybermenace est considérée comme importante lorsque toutes les conditions suivantes sont remplies:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">la cybermenace est ou était susceptible, en cas de matérialisation, de toucher des fonctions critiques ou importantes de l’entité financière, ou de toucher d’autres entités financières, prestataires tiers, clients ou contreparties financières, à en juger par les informations dont dispose l’entité financière;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">la probabilité que la cybermenace se matérialise au sein de l’entité financière ou d’autres entités financières est grande, compte tenu au moins des éléments suivants:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">i)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">les risques applicables liés à la cybermenace, visés au point a), y compris les vulnérabilités potentielles des systèmes de l’entité financière qui peuvent être exploitées;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">ii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">les capacités et l’intention des acteurs de la menace, dans la mesure où l’entité financière en a connaissance;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">iii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">la persistance de la menace et toute connaissance acquise sur les incidents qui ont eu une incidence sur l’entité financière ou son prestataire tiers, ses clients ou ses contreparties financières;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">si elle se matérialisait, la cybermenace pourrait remplir ou atteindre l’un des critères ou seuils suivants:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">i)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">le critère de la criticité des services énoncé à l’article 18, paragraphe 1, point e), du règlement (UE) 2022/2554, tel qu’il est précisé à l’article 6 du présent règlement;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">ii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">le seuil d’importance significative prévu à l’article 9, paragraphe 1;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">iii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">le seuil d’importance significative prévu à l’article 9, paragraphe 4.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">Lorsque, en fonction du type de cybermenace et des informations disponibles, l’entité financière conclut que les seuils d’importance significative prévus à l’article 9, paragraphes 2, 3, 5 et 6, pourraient être atteints, elle peut également prendre ces seuils en considération.</p>
+               </div>
+            </div>
+            <div id="cpt_IV">
+               <p id="d1e939-1-1" class="oj-ti-section-1">CHAPITRE IV</p>
+               <div class="eli-title" id="cpt_IV.tit_1">
+                  <p id="L_01772FR.01000101-d-004" class="oj-ti-section-2">
+                     <span class="oj-bold">PERTINENCE DES INCIDENTS MAJEURS POUR LES AUTORITÉS COMPÉTENTES D’AUTRES ÉTATS MEMBRES ET DÉTAILS DES RAPPORTS À PARTAGER AVEC LES AUTRES AUTORITÉS COMPÉTENTES</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_11">
+                  <p id="d1e947-1-1" class="oj-ti-art">Article 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="oj-sti-art">Pertinence des incidents majeurs pour les autorités compétentes d’autres États membres</p>
+                  </div>
+                  <p class="oj-normal">L’évaluation visant à déterminer si un incident majeur est pertinent pour les autorités compétentes d’autres États membres, prévue par l’article 19, paragraphe 7, du règlement (UE) 2022/2554, est fondée sur le point de savoir si l’incident trouve son origine dans un autre État membre ou s’il a ou a eu une incidence importante dans un autre État membre en ce qui concerne:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">des clients ou des contreparties financières;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">une succursale de l’entité financière ou une autre entité financière du groupe;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">une infrastructure des marchés financiers ou un prestataire tiers susceptible d’affecter les entités financières auxquelles ils fournissent des services.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_12">
+                  <p id="d1e974-1-1" class="oj-ti-art">Article 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="oj-sti-art">Détails des incidents majeurs à partager avec les autres autorités compétentes</p>
+                  </div>
+                  <p class="oj-normal">Les détails des incidents majeurs que les autorités compétentes communiquent aux autres autorités compétentes conformément à l’article 19, paragraphe 6, du règlement (UE) 2022/2554 et les notifications que l’ABE, l’AEMF ou l’AEAPP et la BCE soumettent aux autorités compétentes concernées des autres États membres conformément à l’article 19, paragraphe 7, dudit règlement contiennent le même niveau d’information, sans anonymisation, que celui des notifications et rapports d’incidents majeurs soumis par les entités financières conformément à l’article 19, paragraphe 4, du règlement (UE) 2022/2554.</p>
+               </div>
+            </div>
+            <div id="cpt_V">
+               <p id="d1e982-1-1" class="oj-ti-section-1">CHAPITRE V</p>
+               <div class="eli-title" id="cpt_V.tit_1">
+                  <p id="L_01772FR.01000101-d-005" class="oj-ti-section-2">
+                     <span class="oj-bold">DISPOSITIONS FINALES</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p id="d1e990-1-1" class="oj-ti-art">Article 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="oj-sti-art">Entrée en vigueur</p>
+                  </div>
+                  <p class="oj-normal">Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au <span class="oj-italic">Journal officiel de l’Union européenne</span>.</p>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.</p>
+               <p class="oj-normal">Fait à Bruxelles, le 13 mars 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Par la Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">La présidente</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_202401772FR.000101-E0001" href="#ntc1-L_202401772FR.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+               >JO L 333 du 27.12.2022, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2022/2554/oj" >http://data.europa.eu/eli/reg/2022/2554/oj</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_202401772FR.000101-E0002" href="#ntc2-L_202401772FR.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur, modifiant les directives 2002/65/CE, 2009/110/CE et 2013/36/UE et le règlement (UE) n<span class="oj-super">o</span> 1093/2010, et abrogeant la directive 2007/64/CE (<a href="http://publications.europa.eu/resource/oj/JOL_2015_337_R_TOC"
+               >JO L 337 du 23.12.2015, p. 35</a>, ELI: <a href="http://data.europa.eu/eli/dir/2015/2366/oj" >http://data.europa.eu/eli/dir/2015/2366/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_202401772FR.000101-E0003" href="#ntc3-L_202401772FR.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Règlement délégué (UE) 2018/959 de la Commission du 14 mars 2018 complétant le règlement (UE) n<span class="oj-super">o</span> 575/2013 du Parlement européen et du Conseil par des normes techniques de réglementation précisant la méthode d’évaluation en vertu de laquelle les autorités compétentes autorisent les établissements à utiliser des approches par mesure avancée pour le risque opérationnel (<a href="http://publications.europa.eu/resource/oj/JOL_2018_169_R_TOC"
+               >JO L 169 du 6.7.2018, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg_del/2018/959/oj" >http://data.europa.eu/eli/reg_del/2018/959/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_202401772FR.000101-E0004" href="#ntc4-L_202401772FR.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >JO L 119 du 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj" >http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_202401772FR.000101-E0005" href="#ntc5-L_202401772FR.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >JO L 201 du 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj" >http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_202401772FR.000101-E0006" href="#ntc6-L_202401772FR.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/78/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 12</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1093/oj" >http://data.europa.eu/eli/reg/2010/1093/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_202401772FR.000101-E0007" href="#ntc7-L_202401772FR.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/79/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 48</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1094/oj" >http://data.europa.eu/eli/reg/2010/1094/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_202401772FR.000101-E0008" href="#ntc8-L_202401772FR.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  Règlement (UE) n<span class="oj-super">o</span> 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision n<span class="oj-super">o</span> 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >JO L 331 du 15.12.2010, p. 84</a>, ELI: <a href="http://data.europa.eu/eli/reg/2010/1095/oj" >http://data.europa.eu/eli/reg/2010/1095/oj</a>).</p>
+         <p class="oj-note">
+            <a id="ntr9-L_202401772FR.000101-E0009" href="#ntc9-L_202401772FR.000101-E0009"
+               >(<span class="oj-super">9</span>)</a>  Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions, organes et organismes de l’Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n<span class="oj-super">o</span> 45/2001 et la décision n<span class="oj-super">o</span> 1247/2002/CE (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC"
+               >JO L 295 du 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj" >http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_del/2024/1772/oj</p>
+      <p class="oj-normal">ISSN 1977-0693 (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

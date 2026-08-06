@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32021r1848:2021-10-21",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32021R1848",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2021-10-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2021-10-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2021-10-21",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2021/1848 of 21\u00A0October 2021 on the designation of a replacement for the benchmark Euro overnight index average (Text with EEA relevance)",
+      "title_short": "Commission Implementing Regulation (EU) 2021/1848 of 21\u00A0October 2021 on the designation of\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1848",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "488966c2d9882e34207b50417dab742d558abaaf43efa2f8b8a537f1e3b1010c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1848",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1848"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2021-10-21",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2021/1848 de la Commission du 21\u00A0octobre 2021 d\u00E9signant un indice de r\u00E9f\u00E9rence pour remplacer le taux moyen pond\u00E9r\u00E9 au jour le jour de l\u2019euro (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2021/1848 de la Commission du 21\u00A0octobre 2021 d\u00E9signant un indi\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1848",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bfda4a958a45ed8d8b52bfffb9d724544db44b5bff7d8cb5d6f40c2b97fd906e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1848",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1848"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32021R1848",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "8e6947879c56ba0373bcac75f3fa28ef4325c4d28eb9234b398d67dee11ef402"
+}

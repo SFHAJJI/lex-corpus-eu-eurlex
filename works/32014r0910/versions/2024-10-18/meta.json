@@ -5,11 +5,24 @@
   "document_type": "REG",
   "valid_from": "2024-10-18",
   "valid_time_source": "publisher",
+  "in_force_status": "1",
   "publication_date": "2024-10-18",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T03:28:03Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
     }
   ],
   "expressions": [
@@ -49,6 +62,43 @@
         "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20241018"
       }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-10-18",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) no\u00A0910/2014 du Parlement europ\u00E9en et du Conseil du 23\u00A0juillet 2014 sur l\u2019identification \u00E9lectronique et les services de confiance pour les transactions \u00E9lectroniques au sein du march\u00E9 int\u00E9rieur et abrogeant la directive 1999/93/CE",
+      "title_short": "eIDAS \u2014 R\u00E8glement (UE) no\u00A0910/2014 du Parlement europ\u00E9en et du Conseil du 23\u00A0juillet 2014 sur l\u2019id\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0910-20241018",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a366c59656043e36839a41fc9dc601430bacd7173198d81b043f271acf365939",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0910-20241018",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2014R0910FR0020080.0001.doc.xml",
+          "sha256": "c6d59397c248433bf23d44648015e93e29c0fe6cead93ce3c954e139805e97c1",
+          "source_uri": "https://publications.europa.eu/resource/cellar/6a1e14d9-907e-11ef-a130-01aa75ed71a1.0011.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2014R0910FR0020080.0001.xml",
+          "sha256": "819f1c0de50eb4312ccabf79e52a3cfcbaadfbfc6cca98eb61683335e004040a",
+          "source_uri": "https://publications.europa.eu/resource/cellar/6a1e14d9-907e-11ef-a130-01aa75ed71a1.0011.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0910-20241018"
+      }
     }
   ],
   "relations": [
@@ -58,7 +108,13 @@
     }
   ],
   "raw": {
-    "celex": "02014R0910-20241018"
+    "celex": "02014R0910-20241018",
+    "binding_status": "in_force",
+    "consolidation_status": "published",
+    "domains": "wave-1-existing-instruments",
+    "hierarchy": "secondary_eu_law",
+    "legal_form": "REG",
+    "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:seed,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "838a798acff1f1ca78e2907a6adf8fe92dad0b4453505eea510bc7d0eec44ad9"
+  "record_sha256": "424421d8d3500946adf709157780fc41d69b8a4e101146293f7914b0377a288b"
 }

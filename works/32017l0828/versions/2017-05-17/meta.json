@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32017l0828:2017-05-17",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32017L0828",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2017-05-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2017-05-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2017-05-17",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2017/828 of the European Parliament and of the Council of 17 May 2017 amending Directive 2007/36/EC as regards the encouragement of long-term shareholder engagement (Text with EEA relevance)",
+      "title_short": "Directive (EU) 2017/828",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0828",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "54141eb721291e0f78aabc11a5b208b0f404a2adfafa26b546577169f6c7eb07",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0828",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0828"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2017-05-17",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2017/828 du Parlement europ\u00E9en et du Conseil du 17 mai 2017 modifiant la directive 2007/36/CE en vue de promouvoir l\u2019engagement \u00E0 long terme des actionnaires (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive (UE) 2017/828 du Parlement europ\u00E9en et du Conseil du 17 mai 2017 modifiant la di\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017L0828",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a453f6d47814e7e84de6af6a8c7d7233928f6c60b7618bed9f43fb66dfce43cd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017L0828",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017L0828"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32017L0828",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "aml-corporate",
+    "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "014aa02d88d9d2175516c6248d0e1f72e90551d93c69207eeea833ac983ff58e"
+}

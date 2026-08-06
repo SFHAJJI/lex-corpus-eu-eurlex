@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32025r1003:2025-01-24",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R1003",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2025-01-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-01-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-01-24",
+      "valid_time_source": "publisher",
+      "title": "Commission Delegated Regulation (EU) 2025/1003 of 24\u00A0January 2025 supplementing Regulation (EU) No\u00A0600/2014 of the European Parliament and of the Council as regards OTC derivatives identifying reference data to be used for the purposes of the transparency requirements laid down in Article\u00A08a(2) and Articles\u00A010 and\u00A021",
+      "title_short": "Commission Delegated Regulation (EU) 2025/1003 of 24\u00A0January 2025 supplementing Regulation (EU) No\u00A0600/2014",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1003",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "0454aa707964fc549a0955d6c7f8bcc389af25450a94cab9d6efa5356986ab40",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1003",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1003"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-01-24",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2025/1003 de la Commission du 24\u00A0janvier 2025 compl\u00E9tant le r\u00E8glement (UE) no\u00A0600/2014 du Parlement europ\u00E9en et du Conseil en ce qui concerne les donn\u00E9es de r\u00E9f\u00E9rence identifiantes des produits d\u00E9riv\u00E9s de gr\u00E9 \u00E0 gr\u00E9 \u00E0 utiliser aux fins du respect des obligations de transparence pr\u00E9vues \u00E0 l\u2019article\u00A08\u00A0bis, paragraphe\u00A02, et aux articles\u00A010 et\u00A021",
+      "title_short": "R\u00E8glement d\u00E9l\u00E9gu\u00E9 (UE) 2025/1003 de la Commission du 24\u00A0janvier 2025 compl\u00E9tant le r\u00E8gleme\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1003",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4f9cb6cd0e5abd1f2d6410baaaf17fdacb2165704aab8fbcb058f4fb8c8abce0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1003",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1003"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R1003",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
+  },
+  "record_sha256": "94b3673c800194a1ed069d13bd4881e12b20407ee7ce613d28b68796285f32ce"
+}

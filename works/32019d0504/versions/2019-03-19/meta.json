@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32019d0504:2019-03-19",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019D0504",
+  "publisher": "eu-eurlex",
+  "document_type": "DEC",
+  "valid_from": "2019-03-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2019-03-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2019-03-19",
+      "valid_time_source": "publisher",
+      "title": "Decision (EU) 2019/504 of the European Parliament and of the Council of 19 March 2019 on amending Directive 2012/27/EU on energy efficiency and Regulation (EU) 2018/1999 on the Governance of the Energy Union and Climate Action, by reason of the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the Union (Text with EEA relevance.)",
+      "title_short": "Decision (EU) 2019/504",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019D0504",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "b1e4cf4c1679a5d95117dcd29986312f1e7193fa2cae0fea05c9160ef97cc21f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019D0504",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019D0504"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2019-03-19",
+      "valid_time_source": "publisher",
+      "title": "D\u00E9cision (UE) 2019/504 du Parlement europ\u00E9en et du Conseil du 19 mars 2019 modifiant la directive 2012/27/UE relative \u00E0 l\u0027efficacit\u00E9 \u00E9nerg\u00E9tique et le r\u00E8glement (UE) 2018/1999 sur la gouvernance de l\u0027union de l\u0027\u00E9nergie et de l\u0027action pour le climat en raison du retrait du Royaume-Uni de Grande-Bretagne et d\u0027Irlande du Nord de l\u0027Union (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
+      "title_short": "D\u00E9cision (UE) 2019/504 du Parlement europ\u00E9en et du Conseil du 19 mars 2019 modifiant la di\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019D0504",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a8d0cb7433ac0fe5fc9648b0bc7dcde954911f9b966686d7862f4fbd59500fec",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019D0504",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019D0504"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32019D0504",
+    "legal_form": "DEC",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "consumer-environment",
+    "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
+  },
+  "record_sha256": "8dcc0aa9a6058f6ddfe667536639966a564fe86409f6b04ed3ab42c81174d7c1"
+}

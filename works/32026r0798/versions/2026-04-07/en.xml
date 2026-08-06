@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.17.0 # generated_on:20260407-1800 # ELI version:0.2 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+   <title>L_202600798EN.000101.fmx.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="75%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+            </td>
+            <td>
+               <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+            </td>
+            <td>
+               <p class="oj-hd-lg">EN</p>
+               <p class="oj-hd-coll">L series</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="oj-separator"/>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="20%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td/>
+            <td>
+               <p class="oj-hd-uniq">2026/798</p>
+            </td>
+            <td>
+               <p class="oj-hd-date">8.4.2026</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <div class="eli-container">
+      <div class="eli-main-title" id="tit_1">
+         <p class="oj-doc-ti" id="d1e42-1-1">
+            COMMISSION IMPLEMENTING REGULATION (EU) 2026/798</p>
+         <p class="oj-doc-ti">of 7 April 2026
+         </p>
+         <p class="oj-doc-ti">laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards reference standards and specifications for the remote onboarding of users to the European Digital Identity Wallets by electronic identification means conforming to assurance level substantial in conjunction with additional remote onboarding procedures where the combination meets the requirements of assurance level high</p>
+      </div>
+      <div class="eli-subdivision" id="pbl_1">
+         <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+         <div class="eli-subdivision" id="cit_1">
+            <p class="oj-normal">Having regard to Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC <a id="ntc1-L_202600798EN.000101-E0001" href="#ntr1-L_202600798EN.000101-E0001">(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 5a(24) thereof,</p>
+         </div>
+         <p class="oj-normal">Whereas:</p>
+         <div class="eli-subdivision" id="rct_1">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The onboarding of users to the European Digital Identity Wallets (‘wallets’) is a crucial step as regards the verification of the identity of the wallet users, the binding of the personal identification data of the users to their wallets and to the user device in which the wallet units are installed.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">To foster a high level of trust and security as well as a harmonised approach across Member States for the onboarding of wallet users with remote onboarding procedures in conjunction with the electronic identification means conforming to assurance level substantial, this implementing act establishes specifications and procedures in order to facilitate the onboarding of users to the European Digital Identity Wallet by electronic identification means conforming to assurance level substantial in conjunction with additional remote onboarding procedures that together meet the requirements of assurance level high.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Those standards should reflect established practices and be widely recognised within the relevant sectors. Those standards should be adapted to include requirements ensuring the security and trustworthiness of the onboarding of users.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_4">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Commission Implementing Regulation (EU) 2015/1502 <a id="ntc2-L_202600798EN.000101-E0002" href="#ntr2-L_202600798EN.000101-E0002">(<span class="oj-super oj-note-tag">2</span>)</a> stipulates that where electronic identification means are issued at assurance level high, and taking into account the risks of a change in the person identification data, it is not required to repeat the identity proofing and verification processes. Therefore, in such a case, Member States should leverage on electronic identification means issued at assurance level high also for the onboarding process for the purpose of this Regulation.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_5">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Where Member States onboard users to wallets by using an electronic identification means that has not been notified to the Commission, the assurance level of that means should be confirmed by a conformity assessment body defined in Article 2(13) of Regulation (EC) No 765/2008 of the European Parliament and of the Council <a id="ntc3-L_202600798EN.000101-E0003" href="#ntr3-L_202600798EN.000101-E0003">(<span class="oj-super oj-note-tag">3</span>)</a> or by an equivalent body and it should be demonstrated that the results of this previous issuance procedure of an electronic identification means remain valid.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_6">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">While the Annex sets out the requirements to fulfil for a specific level of identity proofing to be achieved, equivalence has not been established with regard to level of assurance as defined in Article 8 of Regulation (EU) No 910/2014. Therefore, requirements set out in the Annex should be considered as implementing those of Implementing Regulation (EU) 2015/1502 and to be fulfilled by the provider of person identification data or an entity providing identity proofing services on behalf of that provider.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_7">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The Commission regularly assesses new technologies, practices, and technical specifications. In accordance with Recital 75 of Regulation (EU) 2024/1183 of the European Parliament and of the Council <a id="ntc4-L_202600798EN.000101-E0004" href="#ntr4-L_202600798EN.000101-E0004">(<span class="oj-super oj-note-tag">4</span>)</a>, the Commission should review and, if necessary, update this Implementing Regulation to keep it in line with global developments, new technologies, standards or technical specifications and to follow the best practices on the internal market in particular regarding the onboarding of users to the wallet.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_8">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc5-L_202600798EN.000101-E0005" href="#ntr5-L_202600798EN.000101-E0005">(<span class="oj-super oj-note-tag">5</span>)</a>, and, where relevant, Regulation (EU) 2018/1725 of the European Parliament and of the Council <a id="ntc6-L_202600798EN.000101-E0006" href="#ntr6-L_202600798EN.000101-E0006">(<span class="oj-super oj-note-tag">6</span>)</a>, Directive 2002/58/EC of the European Parliament and of the Council <a id="ntc7-L_202600798EN.000101-E0007" href="#ntr7-L_202600798EN.000101-E0007">(<span class="oj-super oj-note-tag">7</span>)</a> apply to the personal data processing activities under this Regulation.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_9">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 and delivered its opinion on 30 January 2026 <a id="ntc8-L_202600798EN.000101-E0008" href="#ntr8-L_202600798EN.000101-E0008">(<span class="oj-super oj-note-tag">8</span>)</a>.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_10">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The committee established by Article 48 of Regulation (EU) No 910/2014 has not delivered an opinion within the time limit laid down by its Chair,</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <div class="eli-subdivision" id="art_1">
+            <p id="d1e225-1-1" class="oj-ti-art">Article 1</p>
+            <p class="oj-normal">The reference standards and specifications referred to in Article 5a(24) of Regulation (EU) No 910/2014 are set out in the Annex to this Regulation.</p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p id="d1e230-1-1" class="oj-ti-art">Article 2</p>
+            <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <div class="oj-final">
+            <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+            <p class="oj-normal">Done at Brussels, 7 April 2026.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">For the Commission</span>
+               </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">The President</span>
+               </p>
+               <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-note"/>
+      <p class="oj-note">
+         <a id="ntr1-L_202600798EN.000101-E0001" href="#ntc1-L_202600798EN.000101-E0001">(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC">OJ L 257, 28.8.2014, p. 73</a>, ELI: <a href="http://data.europa.eu/eli/reg/2014/910/oj">http://data.europa.eu/eli/reg/2014/910/oj</a>.</p>
+      <p class="oj-note">
+         <a id="ntr2-L_202600798EN.000101-E0002" href="#ntc2-L_202600798EN.000101-E0002">(<span class="oj-super">2</span>)</a>  Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (<a href="http://publications.europa.eu/resource/oj/JOL_2015_235_R_TOC">OJ L 235, 9.9.2015, p. 7</a>, ELI: <a href="http://data.europa.eu/eli/reg_impl/2015/1502/oj">http://data.europa.eu/eli/reg_impl/2015/1502/oj</a>).</p>
+      <p class="oj-note">
+         <a id="ntr3-L_202600798EN.000101-E0003" href="#ntc3-L_202600798EN.000101-E0003">(<span class="oj-super">3</span>)</a>  Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (<a href="http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC">OJ L 218, 13.8.2008, p. 30</a>, ELI: <a href="http://data.europa.eu/eli/reg/2008/765/oj">http://data.europa.eu/eli/reg/2008/765/oj</a>).</p>
+      <p class="oj-note">
+         <a id="ntr4-L_202600798EN.000101-E0004" href="#ntc4-L_202600798EN.000101-E0004">(<span class="oj-super">4</span>)</a>  Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework (<a href="https://data.europa.eu/eli/reg/2024/1183/oj">OJ L, 2024/1183, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1183/oj</a>).</p>
+      <p class="oj-note">
+         <a id="ntr5-L_202600798EN.000101-E0005" href="#ntc5-L_202600798EN.000101-E0005">(<span class="oj-super">5</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC">OJ L 119, 4.5.2016, p. 1</a>, ELI: <a href="http://data.europa.eu/eli/reg/2016/679/oj">http://data.europa.eu/eli/reg/2016/679/oj</a>).</p>
+      <p class="oj-note">
+         <a id="ntr6-L_202600798EN.000101-E0006" href="#ntc6-L_202600798EN.000101-E0006">(<span class="oj-super">6</span>)</a>  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC">OJ L 295, 21.11.2018, p. 39</a>, ELI: <a href="http://data.europa.eu/eli/reg/2018/1725/oj">http://data.europa.eu/eli/reg/2018/1725/oj</a>).</p>
+      <p class="oj-note">
+         <a id="ntr7-L_202600798EN.000101-E0007" href="#ntc7-L_202600798EN.000101-E0007">(<span class="oj-super">7</span>)</a>  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC">OJ L 201, 31.7.2002, p. 37</a>, ELI: <a href="http://data.europa.eu/eli/dir/2002/58/oj">http://data.europa.eu/eli/dir/2002/58/oj</a>).</p>
+      <p class="oj-note">
+         <a id="ntr8-L_202600798EN.000101-E0008" href="#ntc8-L_202600798EN.000101-E0008">(<span class="oj-super">8</span>)</a>  
+            <a href="https://www.edps.europa.eu/data-protection/our-work/publications/formal-comments/2026-01-30-edps-commission-regulation-regards-onboarding-users-european-digital-identity-wallets_en">EDPS Formal comments on the draft Commission Implementing Regulation as regards onboarding of users to the European Digital Identity Wallets</a>.</p>
+   </div>
+   <hr class="oj-doc-sep"/>
+   <div id="L_202600798EN.000401.fmx">
+      <div class="eli-container" id="anx_1">
+         <p class="oj-doc-ti" id="d1e35-4-1">ANNEX</p>
+         <p class="oj-doc-ti">LIST OF REFERENCE STANDARDS AND SPECIFICATIONS</p>
+         <p class="oj-normal">Conformance is assessed against the clauses of ETSI TS 119 461 V2.1.1 (2025-02) listed in section 1, subject to the adaptations listed in section 2.</p>
+         <p id="d1e49-4-1" class="oj-ti-grseq-1">
+            <span class="oj-bold">Section 1 – Applicable clauses</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="21%"/>
+            <col width="21%"/>
+            <col width="58%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">5</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Operational risk assessment;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">6</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Policies and practices;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">7</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Identity proofing service management and operation;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">8</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Identity proofing service requirements;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Introduction, compliance with the present document, general requirements for all use cases;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.2.2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use cases using an identity document for attended remote identity proofing;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.2.3</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use cases using an identity document for unattended remote identity proofing;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.2.4</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use case for identity proofing by authentication using eID means;</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.5</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use cases for additional identity proofing to enhance an identity proven by use of an eID from Baseline LoIP to Extended LoIP.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p id="d1e120-4-1" class="oj-ti-grseq-1">
+            <span class="oj-bold">Section 2 – Adaptations</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="17%"/>
+            <col width="24%"/>
+            <col width="59%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(1)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">5</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Operational risk assessment</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-num">OVR-5-01: The requirements specified in ETSI EN 319 401  [1], clause 5 shall apply.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">Note 1:</span>
+                                 </p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">When the identity proofing is done by the provider of person identification data itself, the risk assessment of the provider of person identification data can cover the identity proofing.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(2)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">6.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Identity proofing service practice statement</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">OVR-6.1-02: An IPSP shall identify in its practice statement the use cases for which compliance with the present document is claimed.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">Note 1:</span>
+                                 </p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">When the identity proofing is done by the provider of person identification data itself, the identity proofing service practice statement of the provider of person identification data can cover the information on the identity proofing and there is no need for a specific practice statement for identity proofing.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(3)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">7.9</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Vulnerabilities and incident management</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">OVR-7.9-02: Reporting obligations according to ETSI EN 319401 [1] REQ-7.9.2-02X and clause 7.9.3 shall be fulfilled as required by the identity proofing context and the obligations of the provider of person identification data relying on the IPSP’s service.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">EXAMPLE: Reporting to the supervisory authority supervising a provider of European Digital Identity Wallets established in the designating Member State can be done in cooperation between the IPSP and the provider of person identification data.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(4)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">7.10</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Collection of evidence</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="3">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-num">OVR-7.10-01: The requirements specified in ETSI EN 319 401  [1], clause 7.10 shall apply.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">Note 1:</span>
+                                 </p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">Long-term requirements for retention of evidence can be fulfilled by the provider of person identification data requesting the identity proofing instead of by the IPSP when the two are different entities.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">Note 2:</span>
+                                 </p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">The requirements of clause 8.5.2 of the present document apply.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(5)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">7.11</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Business continuity management</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">OVR-7.11-02: Processes for crisis management according to ETSI EN 319401 [1], REQ-7.11.3-01X shall be as required by the identity proofing context and the obligations of the provider of person identification data relying on the IPSP’s service.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(6)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">7.12</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Termination and termination plans</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">OVR-7.12-01: The requirements specified in ETSI EN 319401 [1], clause 7.12, excluding REQ-7.12-11, shall apply.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">
+                                    <span class="oj-italic">Note:</span>
+                                 </p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">When the IPSP and the provider of person identification data requesting the identity proofing are different entities, they can agree mutual or unilateral assistance in establishing termination plans.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(7)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">8.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Initiation</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">INI-8.1-05: In the event that the remote identity proofing process is aborted or fails, the IPSP shall ensure that individuals are provided with sufficient explanations and remedies particularly in the case of unattended remote identity proofing. The information should ensure that individuals can effectively contribute to the prompt resolution of the problem and, if needed, exercise their data subject rights – such as the right to rectification or the ability to contest the decision – against the relevant controller.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(8)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">8.2.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">General requirements</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">COL-8.2.1-08: The IPSP shall implement measures to ensure compliance with the requirements of data protection by design and by default in accordance with Article 25 of Regulation (EU) 2016/679 during the onboarding process especially as regards to the processing of biometric data. Relevant measures may consist of adequate privacy-enhancing cryptographic controls, devices and organisational measures. Those measures should limit the data collection to what is strictly necessary for the processing of biometric data and any other personal data to be collected from the physical and digital sources of identification for the binding of the User’s personal identification data to their wallets and to the User’s device in which the Wallet Unit is installed.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(9)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">8.2.4</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of existing eID means as evidence</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">[CONDITIONAL] COL-8.2.4-02X: If the Baseline LoIP is targeted, the eID means shall have been notified at least at eIDAS LoA substantial or its assurance level shall have been confirmed by an accredited conformity assessment body defined in Article 2(13) of Regulation (EC) No 765/2008 or by an equivalent body, and, if all applicable requirements are fulfilled, the assessment shall result in a certificate of compliance based on a certification audit. This formal certification process shall be based on a security evaluation process that refers to the levels of assurance defined for notified electronic identification means or for certified European Digital Identity Wallets under Regulation (EU) No 910/2014 [i.25].</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">COL-8.2.4-02A: void</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(10)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">8.3.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">General requirements</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">VAL-8.3.1-11X: The identity proofing process shall verify that the evidence is valid at the time of the identity proofing.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(11)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">8.3.3</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Validation of physical identity document</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">VAL-8.3.3-21: The effectiveness of the measures for complying with the requirements VAL-8.3.3-05X, VAL-8.3.3-05A, VAL-8.3.3-05B, VAL-8.3.3-05C, VAL-8.3.3-07A and VAL-8.3.3-07X, shall be confirmed by an accredited conformity assessment body defined in Article 2(13) of Regulation (EC) no 765/2008 or an equivalent body.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">VAL-8.3.3-22: The reference face image from the physical identity document shall be collected using near field communication and the process shall perform passive or active authentication of the chip on the physical identity document.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(12)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Introduction, compliance with the present document, general requirements for all use cases</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">USE-9.1-01X: To be compliant with the present document, an identity proofing process shall conform to use case in clause 9.5 of the present document for Extended LoIP.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">USE-9.1-03X: void.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(13)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.2.3.4</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use case for automated operation</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">USE-9.2.3.4-04: The IPSP shall establish target values for the FAR and FRR, based on a risk analysis and its threats intelligence procedure, by following the methodology established in the ENISA report ‘Methodology for sectoral cybersecurity assessments’ [i.28] or an equivalent methodology, in fully automated identity proofing processes. The target values used by the IPSP shall be equal to or lower than those set for hybrid use cases, when they exist. The IPSP shall maintain these target values for FAR and FRR consistently, supported by a risk analysis and its threats intelligence procedure.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(14)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.5.1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">General requirements</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">First paragraph: Where the applicant is a natural person, including a natural person representing a legal person, and the identity of the applicant has been proven to Baseline LoIP by means of authentication using an eID, and an enhancement to Extended LoIP is required, the following requirements shall apply.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">USE-9.5.1-08: The additional identity proofing required to strengthen the reliability of an identity is only applicable for eID that have not been issued with a reliance on automated comparison between face images for the initial issuance process.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(15)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.5.2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use case for enhancing identity proofing to Extended LoIP by a full identity proofing using an identity document</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">USE-9.5.2-01: The identity proofing to enhance from Baseline to Extended LoIP shall be according to the requirements for Extended LoIP from one of the use cases described in clauses 9.2.2, or 9.2.3 of the present document for Extended LoIP.</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">(16)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">9.5.3</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use case for enhancing identity proofing to Extended LoIP by use of a previously captured reference face image</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-normal"> </p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">—</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">USE-9.5.3-01: An identity proofing process fulfilling the requirements for Extended LoIP from one of the use cases described in clauses 9.2.2, or 9.2.3 of the present document, or the identity proofing process has been peer reviewed or certified by an accredited conformity assessment body defined in Article 2(13) of Regulation (EC) No 765/2008 or an equivalent body to comply with assurance level high in accordance with Regulation (EU) No 910/2014 [i.25] shall be used to capture a reference face image and to bind the necessary identity attributes to this reference face image.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </div>
+   <hr class="oj-separator"/>
+   <p class="oj-normal">ELI: http://data.europa.eu/eli/reg_impl/2026/798/oj</p>
+   <p class="oj-normal">ISSN 1977-0677 (electronic edition)</p>
+   <hr class="oj-doc-end"/>
+</body>
+</html>

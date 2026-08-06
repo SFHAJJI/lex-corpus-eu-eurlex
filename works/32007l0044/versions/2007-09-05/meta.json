@@ -1,0 +1,77 @@
+{
+  "lex_id": "eu-eurlex:32007l0044:2007-09-05",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32007L0044",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2007-09-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2007-09-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2007-09-05",
+      "valid_time_source": "publisher",
+      "title": "Directive 2007/44/EC of the European Parliament and of the Council of 5 September 2007 amending Council Directive 92/49/EEC and Directives 2002/83/EC, 2004/39/EC, 2005/68/EC and 2006/48/EC as regards procedural rules and evaluation criteria for the prudential assessment of acquisitions and increase of holdings in the financial sector (Text with EEA relevance )",
+      "title_short": "Directive 2007/44/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0044",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "e413e73c8deb5c4e90597efb31e4fefccc69d05edb107ae7d21615f8477d7c8f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0044",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0044"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2007-09-05",
+      "valid_time_source": "publisher",
+      "title": "Directive 2007/44/CE du Parlement europ\u00E9en et du Conseil du 5 septembre 2007 modifiant la directive 92/49/CEE du Conseil et les directives 2002/83/CE, 2004/39/CE, 2005/68/CE et 2006/48/CE en ce qui concerne les r\u00E8gles de proc\u00E9dure et les crit\u00E8res d\u0027\u00E9valuation applicables \u00E0 l\u0027\u00E9valuation prudentielle des acquisitions et des augmentations de participation dans des entit\u00E9s du secteur financier (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE )",
+      "title_short": "Directive 2007/44/CE du Parlement europ\u00E9en et du Conseil du 5 septembre 2007 modifiant la \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0044",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2689988eb1cfe51c59b274151866f0471894991dfa0cb0e94545ebde1998679a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0044",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007L0044"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32007L0044",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression",
+    "domains": "financial-services,wave-1-existing-instruments",
+    "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
+  },
+  "record_sha256": "a9eb6cef298edfdd71cfb9c597e62d5a3fbcc984ec3c1e417c53fe4a18e854f6"
+}
