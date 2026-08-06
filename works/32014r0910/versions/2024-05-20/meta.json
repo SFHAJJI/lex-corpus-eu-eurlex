@@ -1,0 +1,66 @@
+{
+  "lex_id": "eu-eurlex:32014r0910:2024-05-20",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014R0910",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2024-05-20",
+  "valid_to": "2024-10-17",
+  "valid_time_source": "publisher",
+  "publication_date": "2024-05-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T03:28:03Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-05-20",
+      "valid_to": "2024-10-17",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) No\u00A0910/2014 of the European Parliament and of the Council of 23\u00A0July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC",
+      "title_short": "eIDAS \u2014 Regulation (EU) No\u00A0910/2014",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20240520",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "da2df9c7e08d1b3f9f24b903c073574f014ee97f18591b112e03ef7ed90afd23",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20240520",
+          "retrieved_at": "2026-08-06T03:28:03Z",
+          "observed_from": "2026-08-06T03:28:03Z"
+        },
+        {
+          "file": "en.fmx4/CL2014R0910EN0010010.0001.doc.xml",
+          "sha256": "48b955049dbbec9907333e93c6b5600ae49f0f3745fbb1aaec536405cdca2d61",
+          "source_uri": "https://publications.europa.eu/resource/cellar/27075751-387b-11ef-b441-01aa75ed71a1.0007.01/zip",
+          "retrieved_at": "2026-08-06T03:28:03Z",
+          "observed_from": "2026-08-06T03:28:03Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL2014R0910EN0010010.0001.xml",
+          "sha256": "98cd8e63c503fa558e67296db97768b8c6a31f944db777602d2ece438b134293",
+          "source_uri": "https://publications.europa.eu/resource/cellar/27075751-387b-11ef-b441-01aa75ed71a1.0007.01/zip",
+          "retrieved_at": "2026-08-06T03:28:03Z",
+          "observed_from": "2026-08-06T03:28:03Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20240520"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32014R0910"
+    }
+  ],
+  "raw": {
+    "celex": "02014R0910-20240520"
+  },
+  "record_sha256": "ff7c5691a7b6aa5e5bfe714ba0420df359f3bb147903bc2f2c963465ff545e49"
+}
