@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32016r1011r(02):2017-03-03",
   "work_identifier": "http://publications.europa.eu/resource/celex/32016R1011R(02)",
   "publisher": "eu-eurlex",
-  "document_type": "REG",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2017-03-03",
   "valid_time_source": "publisher",
   "publication_date": "2017-03-03",
@@ -20,6 +20,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-07T01:10:52Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-07T03:22:17Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -71,12 +77,12 @@
   "relations": [],
   "raw": {
     "celex": "32016R1011R(02)",
-    "legal_form": "REG",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_corrects_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "40e2fdb1aadd12d4050a60b496caadfd23a9ea5d38f34403acd4d30545a07bb4"
+  "record_sha256": "9fa72d82de72a59f4cacfd9d26ffcd781246d6018631ac7f65b031c2567a0aad"
 }
