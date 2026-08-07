@@ -23,10 +23,17 @@
       "title": "Sixth Council Directive of 17 May 1977 on the harmonization of the laws of the Member States relating to turnover taxes \u2014 Common system of value added tax: uniform basis of assessment (77/388/EEC)",
       "title_short": "Sixth Council Directive of 17 May 1977 on the harmonization of the laws of the Member Stat\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0388-20040101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "d68cbeba23f35467ffa13bd4ecb27c478f9caf41e3286f3b82dbbe2e30c66328",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0388-20040101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0388-20040101"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Sixi\u00E8me Directive du Conseil du 17 mai 1977 en mati\u00E8re d\u0027harmonisation des l\u00E9gislations des \u00C9tats membres relatives aux taxes sur le chiffre d\u0027affaires \u2014 Syst\u00E8me commun de taxe sur la valeur ajout\u00E9e: assiette uniforme (77/388/CEE)",
       "title_short": "Sixi\u00E8me Directive du Conseil du 17 mai 1977 en mati\u00E8re d\u0027harmonisation des l\u00E9gislations de\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0388-20040101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "2ad83ddf228dbb137a1159c9cfd6548f4c541c7a8ea52ef0b11a052b44c84a65",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0388-20040101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0388-20040101"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "ede487433ad5c6f1438f5f08dee805acdcff3e4fc20844c667474a9f20d0b585"
+  "record_sha256": "86d538924cbece150060541916f17e7278882260344cee5f8bc7b593d2713a6d"
 }

@@ -23,10 +23,17 @@
       "title": "Council Directive of 9 February 1976 on the implementation of the principle of equal treatment for men and women as regards access to employment, vocational training and promotion, and working conditions (76/207/EEC)",
       "title_short": "Council Directive of 9 February 1976 on the implementation of the principle of equal treat\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01976L0207-20021005",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "63a8085030720be5f6d367a7e5b892953a3c0beb26945da3bed0b474ba9c296e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01976L0207-20021005",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01976L0207-20021005"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive du Conseil du 9 f\u00E9vrier 1976 relative \u00E0 la mise en \u0153uvre du principe de l\u0027\u00E9galit\u00E9 de traitement entre hommes et femmes en ce qui concerne l\u0027acc\u00E8s \u00E0 l\u0027emploi, \u00E0 la formation et \u00E0 la promotion professionnelles, et les conditions de travail (76/207/CEE)",
       "title_short": "Directive du Conseil du 9 f\u00E9vrier 1976 relative \u00E0 la mise en \u0153uvre du principe de l\u0027\u00E9galit\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01976L0207-20021005",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "382341b0880c175b452e20f7abed05079227f959a0c01712e6a26883a5eed4b6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01976L0207-20021005",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01976L0207-20021005"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "c2fd0c391fcb7d40c0ddfc29576a43d56d82f003ae755493011ecce033a5b69b"
+  "record_sha256": "70391d547000bc0e1cc03da5e730f9c608fe1acc32055b6a2c720e0ba131054f"
 }

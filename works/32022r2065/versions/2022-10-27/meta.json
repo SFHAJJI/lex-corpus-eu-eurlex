@@ -33,10 +33,17 @@
       "title": "Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19\u00A0October 2022 on a Single Market For Digital Services and amending Directive\u00A02000/31/EC (Digital Services Act) (Text with EEA relevance)",
       "title_short": "DSA \u2014 Regulation (EU) 2022/2065",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2065-20221027",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "54da528a2d4890e0b2a1806c0f1b5c4b0e005b1e908335376699f42353152d3b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2065-20221027",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2065-20221027"
       }
     },
@@ -93,5 +100,5 @@
     "legal_form": "REG",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "013920863e2bf3ee6794d41189e4b400546eebf7b97f6819b118b5d381a1bcdc"
+  "record_sha256": "c613c6e3e6817803c6f3f80255d4493ad2a98d76174d98fb9b9acc9f3763ddc4"
 }

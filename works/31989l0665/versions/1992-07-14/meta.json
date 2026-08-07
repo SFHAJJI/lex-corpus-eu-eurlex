@@ -23,10 +23,17 @@
       "title": "Council Directive of 21 December 1989 on the coordination of the laws, regulations and administrative provisions relating to the application of review procedures to the award of public supply and public works contracts (89/665/EEC)",
       "title_short": "Council Directive of 21 December 1989 on the coordination of the laws, regulations and adm\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989L0665-19920714",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "4ab964c7baa51b9c47299fb44315a395f04ad13b8f2440217057351369fe646a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989L0665-19920714",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989L0665-19920714"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive du Conseil du 21 d\u00E9cembre 1989 portant coordination des dispositions l\u00E9gislatives, r\u00E9glementaires et administratives relatives \u00E0 l\u0027application des proc\u00E9dures de recours en mati\u00E8re de passation des march\u00E9s publics de fournitures et de travaux (89/665/CEE)",
       "title_short": "Directive du Conseil du 21 d\u00E9cembre 1989 portant coordination des dispositions l\u00E9gislative\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01989L0665-19920714",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "d2b40a102ddae772ed238849b055334b1b699f285849cd8ebc6910f41bd32668",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01989L0665-19920714",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01989L0665-19920714"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "3876eb3b722e3089b649379eb13972c8eb7eba8da3f4f660a5e1a70025e285eb"
+  "record_sha256": "d3bc48844f5ee12a4c9bdf68747e581044438c07279a2d60b732350452f763bf"
 }

@@ -21,10 +21,17 @@
       "title": "Directive (EU) 2023/2225 of the European Parliament and of the Council of 18\u00A0October 2023 on credit agreements for consumers and repealing Directive\u00A02008/48/EC",
       "title_short": "Directive (EU) 2023/2225",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023L2225-20231030",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "d40eae3bd756442f642a0b54532209cbcc62be8a8e66cb130e5051f14a7413e6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023L2225-20231030",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023L2225-20231030"
       }
     },
@@ -97,5 +104,5 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "e910bd8e9113aa62cac6cd44fe2932062866688309a4bb9b3c89e026e874544f"
+  "record_sha256": "bbaff6ac952f6879d9f44d61830e22e0a50ea981cadd6d131308464260e0bf2b"
 }

@@ -23,10 +23,17 @@
       "title": "Council Directive 2001/4/EC of 19 January 2001 amending the sixth Directive (77/388/EEC) on the common system of value added tax, with regard to the length of time during which the minimum standard rate is to be applied",
       "title_short": "Council Directive 2001/4/EC of 19 January 2001 amending the sixth Directive (77/388/EEC) o\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001L0004-20010101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "daed3b57fe064652f89338c816e8a5ef53c5498e5bf3fcc9c1fa760c4722593c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001L0004-20010101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001L0004-20010101"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive 2001/4/CE du Conseil du 19 janvier 2001 modifiant, en ce qui concerne la dur\u00E9e d\u0027application du minimum du taux normal, la sixi\u00E8me directive (77/388/CEE) relative au syst\u00E8me commun de taxe sur la valeur ajout\u00E9e",
       "title_short": "Directive 2001/4/CE du Conseil du 19 janvier 2001 modifiant, en ce qui concerne la dur\u00E9e d\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001L0004-20010101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "dfc77e4ccf13936b453e67ba5ea9b739aa83c94e47aef7bbd45223e2cfc91e12",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001L0004-20010101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001L0004-20010101"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "56f5f7c2b69380922eaf0af5deea8a7e01bfb4b8b6a72cfd41a6adde04d0cbc2"
+  "record_sha256": "49bbf4c710f21c3315b88966cd2869df9bc67895c47ea37a58251b7433182028"
 }

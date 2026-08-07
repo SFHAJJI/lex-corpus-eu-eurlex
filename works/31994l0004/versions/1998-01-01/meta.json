@@ -23,10 +23,17 @@
       "title": "Council Directive 94/4/EC of 14 February 1994 amending Directives 69/169/EEC and 77/388/EEC and increasing the level of allowances for travellers from third countries and the limits on tax-free purchases in intra-Community travel",
       "title_short": "Council Directive 94/4/EC of 14 February 1994 amending Directives 69/169/EEC and 77/388/EE\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01994L0004-19980101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "4c926f43dd59f520aaf91685ffa7f5bc07b2748c0bd253d1422552facf29cdb2",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01994L0004-19980101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01994L0004-19980101"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive 94/4/CE du Conseil du 14 f\u00E9vrier 1994 modifiant les directives 69/169/CEE et 77/388/CEE et augmentant le niveau des franchises pour les voyageurs en provenance des pays tiers et les limites pour les achats hors taxes effectu\u00E9s lors de voyages intracommunautaires",
       "title_short": "Directive 94/4/CE du Conseil du 14 f\u00E9vrier 1994 modifiant les directives 69/169/CEE et 77/\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01994L0004-19980101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "16af41ec4a436a09a64577876f4cc58858435bb9523f35b4e12184f43ec41abd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01994L0004-19980101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01994L0004-19980101"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "8d1935b7837bd2af53943e6489be74fade19e2126ff5be67cf69c106e61f66a1"
+  "record_sha256": "f6eb970d1593d065e7c63ad52566ccf4dec70e165330b3f7cba034f749f92d25"
 }

@@ -23,10 +23,17 @@
       "title": "Regulation (EEC) No 1017/68 of the Council of 19 July 1968 applying rules of competition to transport by rail, road and inland waterway",
       "title_short": "Regulation (EEC) No 1017/68 of the Council of 19 July 1968 applying rules of competition t\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01968R1017-20040501",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "c1c499fa3a988e52be90d3da5b601290fb36ce9714ef2087775b86689697293b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01968R1017-20040501",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01968R1017-20040501"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (CEE) n\u00B0 1017/68 du Conseil du 19 juillet 1968 portant application de r\u00E8gles de concurrence aux secteurs des transports par chemin de fer, par route et par voie navigable",
       "title_short": "R\u00E8glement (CEE) n\u00B0 1017/68 du Conseil du 19 juillet 1968 portant application de r\u00E8gles de \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01968R1017-20040501",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "377bf1487d51e6e3feb39c62c91ec0fe8cafbb30811f199bd885ca967ad7f869",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01968R1017-20040501",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01968R1017-20040501"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "89c493676afe49f00a60938847fdec288148237d4b65756933a8a702742224e2"
+  "record_sha256": "2ac7c77563e8cae8ee109ca0d8f11d1d36879834c5b0a74ccc8ae499c63a0f08"
 }

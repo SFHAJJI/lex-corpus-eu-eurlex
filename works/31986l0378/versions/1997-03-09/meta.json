@@ -23,10 +23,17 @@
       "title": "Council Directive of 24 July 1986 on the implementation of the principle of equal treatment for men and women in occupational social security schemes (86/378/EEC)",
       "title_short": "Council Directive of 24 July 1986 on the implementation of the principle of equal treatmen\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01986L0378-19970309",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "a0a534e338d3b53d9e45f739e486f26fbd8fdce514562c7088b47d4ca1801c94",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01986L0378-19970309",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01986L0378-19970309"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive du Conseil du 24 juillet 1986 relative \u00E0 la mise en \u0153uvre du principe de l\u0027\u00E9galit\u00E9 de traitement entre hommes et femmes dans les r\u00E9gimes professionnels de s\u00E9curit\u00E9 sociale (86/378/CEE)",
       "title_short": "Directive du Conseil du 24 juillet 1986 relative \u00E0 la mise en \u0153uvre du principe de l\u0027\u00E9gali\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01986L0378-19970309",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "52e765d07c32b41e4e41e25ca81a32f9276bec22b1c039f085513472da876772",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01986L0378-19970309",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01986L0378-19970309"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "36199b93358415bb85ac0b594c1abacc39395edeb9a756dc6928fa718e77f430"
+  "record_sha256": "31aa1daaebdd7d306e8faa4685f2a4275c00afb48e73bcfb574f16f9f46f1e82"
 }

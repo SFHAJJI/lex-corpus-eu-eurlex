@@ -38,10 +38,17 @@
       "valid_to": "2026-07-26",
       "valid_time_source": "publisher",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20240712",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "b2e66e3e30ddb65eeef1dd32e9bd6161bb6d3f1cfb1967ae17492fbf1d3e310d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20240712",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20240712"
       }
     },
@@ -99,5 +106,5 @@
     "legal_form": "REG",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "aa813b41ae818fac88dae1f63902b6066f96b2cea04ab8b807a9275b70453bb4"
+  "record_sha256": "52168dfd4159cff73aef5648d76bbbd0bec47116821ceb6cc4fc2c909dd71da4"
 }

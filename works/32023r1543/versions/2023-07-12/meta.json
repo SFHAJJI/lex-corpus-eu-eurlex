@@ -27,10 +27,17 @@
       "title": "Regulation (EU) 2023/1543 of the European Parliament and of the Council of 12 July 2023 on European Production Orders and European Preservation Orders for electronic evidence in criminal proceedings and for the execution of custodial sentences following criminal proceedings",
       "title_short": "Regulation (EU) 2023/1543",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1543",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "01c1ddc89bea91c3b9694349580f1295203a0e4faaacd053e1570ec406b39671",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1543",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1543"
       }
     },
@@ -41,10 +48,17 @@
       "title": "R\u00E8glement (UE) 2023/1543 du Parlement europ\u00E9en et du Conseil du 12 juillet 2023 relatif aux injonctions europ\u00E9ennes de production et aux injonctions europ\u00E9ennes de conservation concernant les preuves \u00E9lectroniques dans le cadre des proc\u00E9dures p\u00E9nales et aux fins de l\u2019ex\u00E9cution de peines privatives de libert\u00E9 prononc\u00E9es \u00E0 l\u2019issue d\u2019une proc\u00E9dure p\u00E9nale",
       "title_short": "R\u00E8glement (UE) 2023/1543 du Parlement europ\u00E9en et du Conseil du 12 juillet 2023 relatif au\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1543",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "133db76457d84036426671f20ae73a79d54afd71503d8d4dcdfdbcff5c03d9be",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1543",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1543"
       }
     }
@@ -59,5 +73,5 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:seed"
   },
-  "record_sha256": "160d61e945b16ac84b5ec809fd6af09a9828ec0a39de039396cb01407a1d8f1f"
+  "record_sha256": "6da240228ade8632583ad337abbe654f4926742d85ea7790c6901c472dc17771"
 }

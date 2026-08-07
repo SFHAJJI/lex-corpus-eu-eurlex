@@ -23,10 +23,17 @@
       "title": "Directive (EU) 2023/1791 of the European Parliament and of the Council of 13\u00A0September 2023 on energy efficiency and amending Regulation (EU)\u00A02023/955 (recast) (Text with EEA relevance)",
       "title_short": "Directive (EU) 2023/1791",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023L1791-20230920",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "fb9c9ee4da591abbe3e629ce362c039b64588f8e41c4f1a562d90b321db674da",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023L1791-20230920",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023L1791-20230920"
       }
     },
@@ -92,5 +99,5 @@
     "domains": "consumer-environment,wave-1-existing-instruments",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "bf8fb41c01fbb159498b1aa162e4a2574b61d69da6118a37455807bbd0bbf658"
+  "record_sha256": "85bbe8efa7937c6a1bc1ace59c29c19cc90e134fd0abb14ab51a933bcc9f5628"
 }

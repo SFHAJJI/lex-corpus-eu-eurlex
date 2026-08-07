@@ -23,10 +23,17 @@
       "title": "Regulation (EEC) No 2821/71 of the Council of 20 December 1971 on application of Article 85 (3) of the Treaty to categories of agreements, decisions and concerted practices",
       "title_short": "Regulation (EEC) No 2821/71 of the Council of 20 December 1971 on application of Article 8\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01971R2821-19950101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "cdbdfd9c602d205e989b0476362a3be6a818dd130017c12ac15a93a0e9776310",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01971R2821-19950101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01971R2821-19950101"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (CEE) n\u00B0 2821/71 du Conseil du 20 d\u00E9cembre 1971 concernant l\u0027application de l\u0027article 85 paragraphe 3 du trait\u00E9 \u00E0 des cat\u00E9gories d\u0027accords, de d\u00E9cisions et de pratiques concert\u00E9es",
       "title_short": "R\u00E8glement (CEE) n\u00B0 2821/71 du Conseil du 20 d\u00E9cembre 1971 concernant l\u0027application de l\u0027ar\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01971R2821-19950101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "511f32fb53142324076ecbd995ec6c318aa134d77f51095003d5603f82bc2528",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01971R2821-19950101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01971R2821-19950101"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "638b8cca23fc1d8e1d5d86af1c558e7e263d39a340b82a2eb8fc13e6777965a7"
+  "record_sha256": "06267a2116739bdcaa7f9657ec66300ecc9da1b7e9abfeda6f369673c24559d0"
 }

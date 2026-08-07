@@ -23,10 +23,17 @@
       "title": "Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC of the European Parliament and of the Council and amending Commission Regulation (EU) No 601/2012 (Text with EEA relevance.)",
       "title_short": "Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R2066-20181231",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "39a0e64b37b1d1d0a8ae3befdc24159b5b88a679e118b5480ada770d51d8d8c5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R2066-20181231",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R2066-20181231"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "a0b3ac2870231d44bc4ed10691d91a2d375b740c6d42ca082624513ac45d4a6b"
+  "record_sha256": "a4739ee320ad15b1bfdd1b4bd2840c33a6f20b8f9f003913e7ff011e5a07afd0"
 }

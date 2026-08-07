@@ -23,10 +23,17 @@
       "title": "Regulation (EU) No\u00A0575/2013 of the European Parliament and of the Council of 26\u00A0June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No\u00A0648/2012  Text with EEA relevance",
       "title_short": "CRR \u2014 Regulation (EU) No\u00A0575/2013",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "f913a2b78f9359122432a614c831a7e7ee9dcd129dcbf24df2e530b3a199863c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (UE) n \u00B0\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant les exigences prudentielles applicables aux \u00E9tablissements de cr\u00E9dit et aux entreprises d\u0027investissement et modifiant le r\u00E8glement (UE) n \u00B0\u00A0648/2012  Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE",
       "title_short": "CRR \u2014 R\u00E8glement (UE) n \u00B0\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R0575",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bb3b82cb0b606e4e16841ea188e1071018d872234a4f1e215fb5eb23616458af",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R0575",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R0575"
       }
     }
@@ -56,5 +70,5 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "a2636b173fd5256e359f03820155da5be7ef64e56f115ab63fe4a9493ca15f12"
+  "record_sha256": "362b71b1ec3679144a33339c046cfa911a833524f7cc76cc61b38ec9aa498eaf"
 }

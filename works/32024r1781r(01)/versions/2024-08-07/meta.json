@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32024r1781r(01):2024-08-07",
   "work_identifier": "http://publications.europa.eu/resource/celex/32024R1781R(01)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "REG",
   "valid_from": "2024-08-07",
   "valid_time_source": "publisher",
   "publication_date": "2024-08-07",
@@ -16,6 +16,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-07T00:17:15Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
     }
   ],
   "expressions": [
@@ -65,12 +71,12 @@
   "relations": [],
   "raw": {
     "celex": "32024R1781R(01)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "REG",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "ce5fc716a040c130bca787f80e20cfe14e5dfb2fe53b423e8b727a55a07fbc5b"
+  "record_sha256": "a019344d1b5d984efac4d96711acf21e52677688d528b1c873d94d78e62bb104"
 }

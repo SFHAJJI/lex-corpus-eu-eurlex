@@ -23,10 +23,17 @@
       "title": "Commission Delegated Regulation (EU) 2016/522 of 17 December 2015 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council as regards an exemption for certain third countries public bodies and central banks, the indicators of market manipulation, the disclosure thresholds, the competent authority for notifications of delays, the permission for trading during closed periods and types of notifiable managers\u0027 transactions (Text with EEA relevance)",
       "title_short": "Commission Delegated Regulation (EU) 2016/522 of 17 December 2015 supplementing Regulation (EU) No 596/2014",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0522-20160405",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "d6e87f76cb748f726c152cd9dae9a2f74ad9ddc81535aadd63191870f67e63b2",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0522-20160405",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0522-20160405"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "059c9de485e2e3783cc7d66196918021d601ea3bde0f4da7e5d9f47994f5e459"
+  "record_sha256": "c08f353f237f25d1639b9fbdac7ac4a951f801516bf3d4efcc51d36f8e42d0a7"
 }

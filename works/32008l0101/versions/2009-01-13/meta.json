@@ -21,10 +21,17 @@
       "title": "Directive 2008/101/EC of the European Parliament and of the Council of 19 November 2008 amending Directive 2003/87/EC so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community (Text with EEA relevance)",
       "title_short": "Directive 2008/101/EC",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0101-20090113",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "ddea07ce672577a2f681442dcf435f0ae9eb42d967c8c823e3fbc043106420c1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0101-20090113",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0101-20090113"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "18593c9032b6f9be00cc86471780ce147a73f8c50f3204f712e3d889396397b0"
+  "record_sha256": "4d3793bf4f0603361b51de8d267562baf0deae6f0f5e1eebde814cda25ed4e74"
 }

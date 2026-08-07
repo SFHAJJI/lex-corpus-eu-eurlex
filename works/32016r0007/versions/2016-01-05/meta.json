@@ -27,10 +27,17 @@
       "title": "Commission Implementing Regulation (EU) 2016/7 of 5 January 2016 establishing the standard form for the European Single Procurement Document (Text with EEA relevance)",
       "title_short": "Commission Implementing Regulation (EU) 2016/7 of 5 January 2016 establishing the standard\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0007",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "a91aacc55e37f938e6474bba50fb8b98b9e20e493703de7c976670c907a0eb81",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0007",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0007"
       }
     },
@@ -41,10 +48,17 @@
       "title": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2016/7 de la Commission du 5 janvier 2016 \u00E9tablissant le formulaire type pour le document unique de march\u00E9 europ\u00E9en (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
       "title_short": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2016/7 de la Commission du 5 janvier 2016 \u00E9tablissant le formul\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0007",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8306e1e28c04453bb40909621c8947cdbe8aa16ac34eff2e8608a4ae3ffba5e2",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0007",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0007"
       }
     }
@@ -59,5 +73,5 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "eb8d0ef6620cee2a82dc6f98f8a205bbee8f621132f4ec9aa02338303276c3fc"
+  "record_sha256": "8ed1ede5557fd197ef7ebbe17aede654bd4b046c752b3a36a060fe05207f3510"
 }

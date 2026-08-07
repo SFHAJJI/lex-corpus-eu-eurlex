@@ -21,10 +21,17 @@
       "title": "Commission Delegated Regulation (EU) 2016/1052 of 8 March 2016 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the conditions applicable to buy-back programmes and stabilisation measures (Text with EEA relevance)",
       "title_short": "Commission Delegated Regulation (EU) 2016/1052 of 8 March 2016 supplementing Regulation (EU) No 596/2014",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1052-20160630",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "f0e4d38100c9e0f6fd48d93ba57df56537aa52018b579b20687c550ba7ee3214",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1052-20160630",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1052-20160630"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "9fa02fa587c7fb3e8b25cf1b4044029086c947e9c85b3cc3d397a60716e89dfb"
+  "record_sha256": "04d240d9b55a949c9966e343ce89f51255f70a2a6027bd8b0dc52e09782a0b28"
 }

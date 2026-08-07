@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32014l0023r(06):2021-05-27",
   "work_identifier": "http://publications.europa.eu/resource/celex/32014L0023R(06)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "DIR",
   "valid_from": "2021-05-27",
   "valid_time_source": "publisher",
   "publication_date": "2021-05-27",
@@ -22,6 +22,12 @@
       "observed_from": "2026-08-06T20:32:28Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-07T00:17:15Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
     }
   ],
   "expressions": [
@@ -32,10 +38,17 @@
       "title": "Rectificatif \u00E0 la directive 2014/23/UE du Parlement europ\u00E9en et du Conseil du 26\u00A0f\u00E9vrier 2014 sur l\u2019attribution de contrats de concession (\u00ABJournal officiel de l\u2019Union europ\u00E9enne\u00BB L\u00A094 du 28\u00A0mars\u00A02014)",
       "title_short": "Rectificatif \u00E0 la directive 2014/23/UE du Parlement europ\u00E9en et du Conseil du 26\u00A0f\u00E9vrier 2\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0023R%2806%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "8cf1b28730be3dd22451038c9cd56a80ef2c2179ad1cb9d0190b4642ee871cdd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0023R%2806%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0023R%2806%29"
       }
     },
@@ -64,12 +77,12 @@
   "relations": [],
   "raw": {
     "celex": "32014L0023R(06)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "DIR",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "b5f7583ed72b86a1aa43bd1fff4bd00fe43d30c5146142553c7216cbc18414c1"
+  "record_sha256": "caff57ea6a694a775a5f4865c8b2cdabbe2b109ca30d991a7511a052aa405a98"
 }

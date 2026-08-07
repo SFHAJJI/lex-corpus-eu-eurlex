@@ -21,10 +21,17 @@
       "title": "Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 2019 on transparent and predictable working conditions in the European Union",
       "title_short": "Directive (EU) 2019/1152",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1152-20190711",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "6f8fb39760f9a141b4b2184047f7b6cbbc50ee9a42e31b77a13515152be11547",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1152-20190711",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1152-20190711"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:seed"
   },
-  "record_sha256": "c24954220dbdd949d32198c1af6a849b59313bcff23868f88c1a415b4f080ef3"
+  "record_sha256": "4f5d1473fb12aca2a2d27d0bd4dfa0ace789acb0116b319c0d5c81eae8a6bd62"
 }

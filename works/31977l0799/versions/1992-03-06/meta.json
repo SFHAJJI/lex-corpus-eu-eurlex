@@ -23,10 +23,17 @@
       "title": "Council Directive of 19 December 1977 concerning mutual assistance by the competent authorities of the Member States in the field of direct and indirect taxation (77/799/EEC)",
       "title_short": "Council Directive of 19 December 1977 concerning mutual assistance by the competent author\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0799-19920306",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "21cf9fa9349113922959eeb5be397abe8fbd2933bd120685e8ad0e5dcc7e4a8d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0799-19920306",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0799-19920306"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive du Conseil du 19 d\u00E9cembre 1977 concernant l\u0027assistance mutuelle des autorit\u00E9s comp\u00E9tentes des \u00C9tats membres dans le domaine des imp\u00F4ts directs et indirects (77/799/CEE)",
       "title_short": "Directive du Conseil du 19 d\u00E9cembre 1977 concernant l\u0027assistance mutuelle des autorit\u00E9s co\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0799-19920306",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "bbf6e9cc14cc0a0583b23c248198163699f6bb3903e3c1f27c8a593f5cff4aac",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0799-19920306",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01977L0799-19920306"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "176a86c94f3225be9841a5f474fa81f4c0a9690fa4e9a7089920f30bd67c0081"
+  "record_sha256": "f7398bded2e24358c9aa6099407bb5c46e896471cc159e164ca2389f5c6fcfef"
 }

@@ -23,10 +23,17 @@
       "title": "Commission Delegated Regulation (EU) 2019/980 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004 (Text with EEA relevance)",
       "title_short": "Commission Delegated Regulation (EU) 2019/980 of 14 March 2019 supplementing Regulation (EU) 2017/1129",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0980-20190621",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "21d745bfc71c7936f353eee7db07a4c12395461cc46073d72cd63179367a27b7",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0980-20190621",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0980-20190621"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "c6a92c98b5f54dbe968db8710d50f91115e76b6de1cd7048b0c842bf3928b174"
+  "record_sha256": "1fc9e5b444c27ea78d054883d5c2549c746d43ad0cb80849b0c436258aa5d9e9"
 }

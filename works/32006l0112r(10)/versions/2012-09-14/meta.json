@@ -47,10 +47,17 @@
       "title": "Corrigendum to Council Directive 2006/112/EC of 28\u00A0November 2006 on the common system of value added tax ( OJ L 347, 11.12.2006 )",
       "title_short": "Corrigendum to Council Directive 2006/112/EC of 28\u00A0November 2006 on the common system of v\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0112R%2810%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "91233d36bcfe57405d0e8297f546ff0a6ca1a236ea032ddb7c620d2c0dfd5668",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0112R%2810%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0112R%2810%29"
       }
     }
@@ -65,5 +72,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "def11cf7c29e6e8c519cdb411d7c292672f6e3c0a3c1c7a279ee28537ff9e1bb"
+  "record_sha256": "835055f400cc9fe9c138ade62ccc00ba29ecc145055d03b048773bcd577a55c0"
 }

@@ -26,10 +26,17 @@
       "title": "Rectificatif \u00E0 la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au syst\u00E8me commun de taxe sur la valeur ajout\u00E9e (JO L 347 du 11.12.2006)",
       "title_short": "Rectificatif \u00E0 la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au syst\u00E8me\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0112R%2812%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "f26d254946c12f5b9e8c4b3b2deab6fd6081af1c30ace62b8ff1c661ee4fde11",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0112R%2812%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0112R%2812%29"
       }
     },
@@ -65,5 +72,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "e7f252aacae07d15f1a883bbde067ebc3ad6dcfa6296271ca45c80682600a425"
+  "record_sha256": "3ef3b8fb8563689630cf5b0765519470ff1b4e637b5274fc290839b40b39ce87"
 }

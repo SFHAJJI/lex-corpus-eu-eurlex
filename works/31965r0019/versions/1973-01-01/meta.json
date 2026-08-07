@@ -23,10 +23,17 @@
       "title": "Regulation No 19/65/EEC of the Council of 2 March 1965 on application of Article 85 (3) of the Treaty to certain categories of agreements and concerted practices",
       "title_short": "Regulation No 19/65/EEC of the Council of 2 March 1965 on application of Article 85 (3) of\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01965R0019-19730101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "b474d72447ecdc40f1ab4787346b95dbd8b65b551e2dcd52d93f639d2effedbf",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01965R0019-19730101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01965R0019-19730101"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement N\u00B0 19/65/CEE du Conseil du 2 mars 1965 concernant l\u0027application de l\u0027article 85 paragraphe 3 du trait\u00E9 \u00E0 des cat\u00E9gories d\u0027accords et de pratiques concert\u00E9es",
       "title_short": "R\u00E8glement N\u00B0 19/65/CEE du Conseil du 2 mars 1965 concernant l\u0027application de l\u0027article 85 \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01965R0019-19730101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "c4ebb8ca75dd2f9b5d330283a3c203082623755a418133f8fa0fbb160fae3d4c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01965R0019-19730101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01965R0019-19730101"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "a4adb177ac64a9edfb9a13a6dbc6d3f77efb15741cc29f841ca2a6ac84bd2c49"
+  "record_sha256": "a2182d944bfc992c855f1183aeff86676d0a3c382d8e97290aac6898b94d04a1"
 }

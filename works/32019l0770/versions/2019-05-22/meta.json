@@ -21,10 +21,17 @@
       "title": "Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (Text with EEA relevance.)",
       "title_short": "Directive (EU) 2019/770",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0770-20190522",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "f40744148517f26869082c33f302d8c641de78eedcd85059faf8267212550fd8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0770-20190522",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0770-20190522"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:seed"
   },
-  "record_sha256": "2d6dab85916157096c9a33e28dcbacfc3ee1ae098f1dcb44135f6139963304b1"
+  "record_sha256": "aaf4e36af1ecc969fc0ec27e155dfc1da864926e0588b375c5145b9ca17dc865"
 }

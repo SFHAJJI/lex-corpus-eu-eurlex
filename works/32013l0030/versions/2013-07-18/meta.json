@@ -23,10 +23,17 @@
       "title": "Directive 2013/30/EU of the European Parliament and of the Council of 12\u00A0June 2013 on safety of offshore oil and gas operations and amending Directive 2004/35/EC  Text with EEA relevance",
       "title_short": "Directive 2013/30/EU",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013L0030-20130718",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "ed75938c4db128bf9630c31a468f04890a57692e34b8497e15947cbab51de8b0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013L0030-20130718",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013L0030-20130718"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "94bd90d9e1a53f48d7f19d8e0b752e657cd1933a1d34102479d47e07f4a0fae1"
+  "record_sha256": "42fcd9130355b8d2e7a2f77a080658a5566bc8f091c6132b73b82dca0fd51fa3"
 }

@@ -21,10 +21,17 @@
       "title": "Council Regulation (EC) No 1310/97 of 30 June 1997 amending Regulation (EEC) No 4064/89 on the control of concentrations between undertakings",
       "title_short": "Council Regulation (EC) No 1310/97 of 30 June 1997 amending Regulation (EEC) No 4064/89 on\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997R1310-19980301",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "ac504eb18349444500315f74e5099115ffc79decfe96af5aa189a6abc093a1cc",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997R1310-19980301",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997R1310-19980301"
       }
     },
@@ -35,10 +42,17 @@
       "title": "R\u00E8glement (CE) n\u00B0 1310/97 du Conseil du 30 juin 1997 modifiant le r\u00E8glement (CEE) n\u00B0 4064/89 relatif au contr\u00F4le des op\u00E9rations de concentration entre entreprises",
       "title_short": "R\u00E8glement (CE) n\u00B0 1310/97 du Conseil du 30 juin 1997 modifiant le r\u00E8glement (CEE) n\u00B0 4064/\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997R1310-19980301",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "ea9a9bae0918d376de2208e39c577ffb0cde440fbad81f790e5dea32670f953f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997R1310-19980301",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997R1310-19980301"
       }
     }
@@ -58,5 +72,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "d7869a2ec569d14a5f0e88ee72fc0ad848deb597b218bbcfa6e20ae3e9703ec3"
+  "record_sha256": "9912580c8d7a6b4dbd1b4f98970621da643f9204f87e9a4192fea4cca80d7725"
 }

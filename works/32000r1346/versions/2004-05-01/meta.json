@@ -23,10 +23,17 @@
       "title": "Council regulation (EC) No 1346/2000 of 29 May 2000 on insolvency proceedings",
       "title_short": "Council regulation (EC) No 1346/2000 of 29 May 2000 on insolvency proceedings",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000R1346-20040501",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "ccd248ddb2761562b72068db6c4d99970787211be5ad5a310f97fc6a74cf63c6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000R1346-20040501",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000R1346-20040501"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (CE) n\u00B0 1346/2000 du Conseil du 29 mai 2000 relatif aux proc\u00E9dures d\u0027insolvabilit\u00E9",
       "title_short": "R\u00E8glement (CE) n\u00B0 1346/2000 du Conseil du 29 mai 2000 relatif aux proc\u00E9dures d\u0027insolvabili\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000R1346-20040501",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "9a79d105d121cb2f3921900949e00f8f2a96932a62bae8a6752e0d3f3d86a018",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000R1346-20040501",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000R1346-20040501"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "7b4ad74fff5a30ae13517b3e4cec7043d6f0155615ff2de97cff7928a8629d9a"
+  "record_sha256": "2d67e126dc1e9de3868e1638fcdef108601b9afbbce64d14a129d1cfd3e86976"
 }

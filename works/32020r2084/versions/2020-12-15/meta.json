@@ -21,10 +21,17 @@
       "title": "Commission Implementing Regulation (EU) 2020/2084 of 14 December 2020 amending and correcting Implementing Regulation (EU) 2018/2067 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council (Text with EEA relevance)",
       "title_short": "Commission Implementing Regulation (EU) 2020/2084 of 14 December 2020 amending and correcting Implementing Regulation (EU) 2018/2067 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R2084-20201215",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "37e6c5f74a7bf69da6c0a10b73826c4ecb10a26364a21b3006f0843a1258a020",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R2084-20201215",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R2084-20201215"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "8a06dc33f218f5f9818c950cc8cd0661a6a2973e6fc7d01070e6bdf3943ef27c"
+  "record_sha256": "f8acd604c1df7257a66aeafdae065942670a71d10308ca480185ede0d9a7312e"
 }

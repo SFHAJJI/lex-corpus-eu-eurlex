@@ -21,10 +21,17 @@
       "title": "Council Directive 97/80/EC of 15 December 1997 on the burden of proof in cases of discrimination based on sex",
       "title_short": "Council Directive 97/80/EC of 15 December 1997 on the burden of proof in cases of discrimi\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997L0080-19980722",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "8ef110512d2c168b686708208fd589375ed40658c41c7fb89fc402bed3a2fb70",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997L0080-19980722",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997L0080-19980722"
       }
     },
@@ -35,10 +42,17 @@
       "title": "Directive 97/80/CE du Conseil du 15 d\u00E9cembre 1997 relative \u00E0 la charge de la preuve dans les cas de discrimination fond\u00E9e sur le sexe",
       "title_short": "Directive 97/80/CE du Conseil du 15 d\u00E9cembre 1997 relative \u00E0 la charge de la preuve dans l\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0080-19980722",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "5fa83e1e4c1cf012838e58793e1ad45b194aabfc660fbdab361f1ee16dee2e72",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0080-19980722",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01997L0080-19980722"
       }
     }
@@ -58,5 +72,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "26840a808681d6f141b2e54184943326069fd04cb2a6ea87bb6b54bb60f8ea8b"
+  "record_sha256": "2cc6323e26af08d2ee6726abfb92ce1ddd15b069df08fcc4f268c7e35e235b66"
 }

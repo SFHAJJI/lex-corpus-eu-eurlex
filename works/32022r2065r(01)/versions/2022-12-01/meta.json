@@ -26,10 +26,17 @@
       "title": "Rectificatif au r\u00E8glement (UE) 2022/2065 du Parlement europ\u00E9en et du Conseil du 19\u00A0octobre 2022 relatif \u00E0 un march\u00E9 unique des services num\u00E9riques et modifiant la directive 2000/31/CE (r\u00E8glement sur les services num\u00E9riques) (\u00ABJournal officiel de l\u2019Union europ\u00E9enne\u00BB L\u00A0277 du 27\u00A0octobre 2022)",
       "title_short": "Rectificatif au r\u00E8glement (UE) 2022/2065 du Parlement europ\u00E9en et du Conseil du 19\u00A0octobre\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065R%2801%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "4603dd9a035f30f54bcc2c4c9e58ea3312478603ae859cd8bb2738ac9936c833",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065R%2801%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065R%2801%29"
       }
     },
@@ -65,5 +72,5 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "7ee3a4d15c23dd847a63e8e0bae1074ca1566e64cc13198916873819ef907ff0"
+  "record_sha256": "bd05375c5d54ef9f6fbde5920f2ddf796a0458d5c7a87945c430455d29be1958"
 }

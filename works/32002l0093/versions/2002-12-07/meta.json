@@ -23,10 +23,17 @@
       "title": "Council Directive 2002/93/EC of 3 December 2002 amending Directive 77/388/EEC to extend the facility allowing Member States to apply reduced rates of VAT to certain labour-intensive services",
       "title_short": "Council Directive 2002/93/EC of 3 December 2002 amending Directive 77/388/EEC to extend th\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0093-20021207",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "ad42eff99a88b0f628fd97519f247b44d99146673b05d4f7b9d1cc6435d80663",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0093-20021207",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0093-20021207"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive 2002/93/CE du Conseil du 3 d\u00E9cembre 2002 modifiant la directive 77/388/CEE en vue de proroger la facult\u00E9 d\u0027autoriser les \u00C9tats membres \u00E0 appliquer des taux r\u00E9duits de TVA pour certains services \u00E0 forte intensit\u00E9 de main-d\u0027\u0153uvre",
       "title_short": "Directive 2002/93/CE du Conseil du 3 d\u00E9cembre 2002 modifiant la directive 77/388/CEE en vu\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02002L0093-20021207",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "40b04c05ab50a681198b38aa98e06417d523d10367571b9ffa2c6b6dc74687a6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02002L0093-20021207",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02002L0093-20021207"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "4819bc404ac642c7394e163fbf3460ff21c09bb255e16d7249e1cd52d17a4121"
+  "record_sha256": "d783d6b0f7596bff7b9cbe03d9b59190e6c25c57b3eb2d998b11771fae9c2075"
 }

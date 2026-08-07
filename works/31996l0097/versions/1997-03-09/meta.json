@@ -21,10 +21,17 @@
       "title": "Council Directive 96/97/EC of 20 December 1996 amending Directive 86/378/EEC on the implementation of the principle of equal treatment for men and women in occupational social security schemes",
       "title_short": "Council Directive 96/97/EC of 20 December 1996 amending Directive 86/378/EEC on the implem\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0097-19970309",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "f42bde1924854d2063ac24d4a1bf31b3d498a91a8eafe3af8a88e468375e57ed",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0097-19970309",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0097-19970309"
       }
     },
@@ -35,10 +42,17 @@
       "title": "Directive 96/97/CE du Conseil du 20 d\u00E9cembre 1996 modifiant la directive 86/378/CEE relative \u00E0 la mise en \u0153uvre du principe de l\u0027\u00E9galit\u00E9 de traitement entre hommes et femmes dans les r\u00E9gimes professionnels de s\u00E9curit\u00E9 sociale",
       "title_short": "Directive 96/97/CE du Conseil du 20 d\u00E9cembre 1996 modifiant la directive 86/378/CEE relati\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0097-19970309",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "02759c6cfcda2a573bd314fa7f0f17451ef6c43757f7804850023d6982fa0bf7",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0097-19970309",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0097-19970309"
       }
     }
@@ -58,5 +72,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "16327f6af1993872d62492548bdaede69e465d7dbf55766e83902773b22ef168"
+  "record_sha256": "614f6610ae5e46551e3450599bccf42d0671ae54514a0d9878219245eb8f1567"
 }

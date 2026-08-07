@@ -23,10 +23,17 @@
       "title": "Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 on corporate sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/2859 (Text with EEA relevance)",
       "title_short": "Directive (EU) 2024/1760",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L1760-20240705",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "b1bc61168cb4bcb144310d97291644aeadfa4320da1bce27a10f1098ec77d624",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L1760-20240705",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L1760-20240705"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:seed"
   },
-  "record_sha256": "fe7284df4515e49176a93c7b56c3372b5f780a464c0cc7d7f621eeb1b5676904"
+  "record_sha256": "dcfbc2400a9d598e29182c84d65a04f14e6e36b30d1f5b292b39c821d1230d86"
 }

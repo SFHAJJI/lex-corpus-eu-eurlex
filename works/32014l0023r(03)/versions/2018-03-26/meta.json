@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32014l0023r(03):2018-03-26",
   "work_identifier": "http://publications.europa.eu/resource/celex/32014L0023R(03)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "DIR",
   "valid_from": "2018-03-26",
   "valid_time_source": "publisher",
   "publication_date": "2018-03-26",
@@ -20,6 +20,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-06T20:32:28Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-07T00:17:15Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -71,12 +77,12 @@
   "relations": [],
   "raw": {
     "celex": "32014L0023R(03)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "DIR",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "b17a6603c54c1926d1ad5d7ff47db79ce6e9c71de7c24ca99332b09d7fd1dc91"
+  "record_sha256": "e39a153afe9aa7597b7d342266b83022401de7a665ba8beb4d2262ac04a65062"
 }

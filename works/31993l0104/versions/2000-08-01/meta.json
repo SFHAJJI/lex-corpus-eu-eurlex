@@ -21,10 +21,17 @@
       "title": "Council Directive 93/104/EC of 23 November 1993 concerning certain aspects of the organization of working time",
       "title_short": "Council Directive 93/104/EC of 23 November 1993 concerning certain aspects of the organiza\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0104-20000801",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "44dd83e0a4b5ca5d0fa8d03b592a0de34d03d3476bf35b54030db22bee1cc051",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0104-20000801",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0104-20000801"
       }
     },
@@ -35,10 +42,17 @@
       "title": "Directive 93/104/CE du Conseil du 23 novembre 1993 concernant certains aspects de l\u0027am\u00E9nagement du temps de travail",
       "title_short": "Directive 93/104/CE du Conseil du 23 novembre 1993 concernant certains aspects de l\u0027am\u00E9nag\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01993L0104-20000801",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "c91b8d3229cc7bd104170cc00c1f893da941400ff4c921d18ca2b9be9eac0c7a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01993L0104-20000801",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01993L0104-20000801"
       }
     }
@@ -58,5 +72,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "34db08902591f627662ce598b132de1be24e1ea7f0f2f191555fe485087a32b2"
+  "record_sha256": "717895583d8ba617eca29ff616d4fb37f469a3faed381f95fd5315dce13fb7d5"
 }

@@ -23,10 +23,17 @@
       "title": "Commission Delegated Regulation (EU) 2023/2486 of 27\u00A0June 2023 supplementing Regulation (EU)\u00A02020/852 of the European Parliament and of the Council by establishing the technical screening criteria for determining the conditions under which an economic activity qualifies as contributing substantially to the sustainable use and protection of water and marine resources, to the transition to a circular economy, to pollution prevention and control, or to the protection and restoration of biodiversity and ecosystems and for determining whether that economic activity causes no significant harm to any of the other environmental objectives and amending Commission Delegated Regulation (EU)\u00A02021/2178 as regards specific public disclosures for those economic activities",
       "title_short": "Commission Delegated Regulation (EU) 2023/2486 of 27\u00A0June 2023 supplementing Regulation (EU)\u00A02020/852",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2486",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "2b1b5b5fc1eedd67b0bb8d86ba9e2c704ec6df41a2aa1f5c65aab27b0bd9cad1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2486",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2486"
       }
     },
@@ -63,5 +70,5 @@
     "domains": "consumer-environment,wave-1-existing-instruments",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "952773ac4138749a5cca375d8e1b9fc2ca013c05f1059880ebeedb9261d9b27f"
+  "record_sha256": "9c048da432f7b2b98a49de223bce569c9316b9696d8e8500ff4ed7cb214d1a2e"
 }

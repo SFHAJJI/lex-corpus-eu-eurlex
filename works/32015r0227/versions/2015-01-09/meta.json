@@ -27,10 +27,17 @@
       "title": "Commission Implementing Regulation (EU) 2015/227 of 9\u00A0January 2015 amending Implementing Regulation (EU) No\u00A0680/2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to Regulation (EU) No\u00A0575/2013 of the European Parliament and of the Council  Text with EEA relevance",
       "title_short": "Commission Implementing Regulation (EU) 2015/227 of 9\u00A0January 2015 amending Implementing Regulation (EU) No\u00A0680/2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to Regulation (EU) No\u00A0575/2013",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0227",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "715b27bdef9cdca4a217cf991b179f03eefefe88dd737b27abd95d09b78b33f9",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0227",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0227"
       }
     },
@@ -41,10 +48,17 @@
       "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2015/227 de la Commission du 9\u00A0janvier 2015 modifiant le r\u00E8glement d\u2019ex\u00E9cution (UE) n \u00B0\u00A0680/2014 d\u00E9finissant des normes techniques d\u2019ex\u00E9cution en ce qui concerne l\u2019information prudentielle \u00E0 fournir par les \u00E9tablissements, conform\u00E9ment au r\u00E8glement (UE) n \u00B0\u00A0575/2013 du Parlement europ\u00E9en et du Conseil  Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE",
       "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2015/227 de la Commission du 9\u00A0janvier 2015 modifiant le r\u00E8glem\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R0227",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9b4f67fd5befebff887a417550f1da994ce13b16da334c44898b400d5ba41d92",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R0227",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R0227"
       }
     }
@@ -59,5 +73,5 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "e526b30cdd6fb621363c6cd557a57eacecf001e21e27075bdb1f1ac1c3e7a7d6"
+  "record_sha256": "11b422cc293f1ccdaebc8f10d3d9c6c7bd4d9bf3a92504f1e5ae8be40ccdd4c5"
 }

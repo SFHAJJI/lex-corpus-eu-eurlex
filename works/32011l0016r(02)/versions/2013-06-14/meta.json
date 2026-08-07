@@ -26,10 +26,17 @@
       "title": "Rectificatif \u00E0 la directive 2011/16/UE du Conseil du 15\u00A0f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE ( JO L 64 du 11.3.2011 )",
       "title_short": "Rectificatif \u00E0 la directive 2011/16/UE du Conseil du 15\u00A0f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ra\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0016R%2802%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "c5242aa4ebefebb3a7f3bd7d8517533b3b17dde2d881ce06b5cadf21bb473bc6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0016R%2802%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0016R%2802%29"
       }
     },
@@ -65,5 +72,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "a0b8eeaa8be2438f17769cfb3e223b68aafc51bf479ba8622e1dc93d35ebd7fe"
+  "record_sha256": "777bcbf9c735e2be4ae18afefa7941ce95aae97f30b43a68b1715f4927b7fc1d"
 }

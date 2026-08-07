@@ -27,10 +27,17 @@
       "title": "Commission Implementing Regulation (EU) 2019/439 of 15 February 2019 amending Implementing Regulation (EU) 2016/2070 as regards benchmark portfolios, reporting templates and reporting instructions to be applied in the Union for the reporting referred to in Article 78(2) of Directive 2013/36/EU of the European Parliament and of the Council (Text with EEA relevance.)",
       "title_short": "Commission Implementing Regulation (EU) 2019/439 of 15 February 2019 amending Implementing Regulation (EU) 2016/2070 as regards benchmark portfolios, reporting templates and reporting instructions to be applied in the Union for the reporting referred to in Article 78(2) of Directive 2013/36/EU",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0439",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "a55cfa08d3033c99be69478e6c504245932cf9034409f6f7a07041abb01fc90b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0439",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0439"
       }
     },
@@ -41,10 +48,17 @@
       "title": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2019/439 de la Commission du 15 f\u00E9vrier 2019 modifiant le r\u00E8glement (UE) 2016/2070 en ce qui concerne les portefeuilles de r\u00E9f\u00E9rence et les mod\u00E8les et instructions \u00E0 respecter dans l\u0027Union pour la communication d\u0027informations vis\u00E9e \u00E0 l\u0027article 78, paragraphe 2, de la directive 2013/36/UE du Parlement europ\u00E9en et du Conseil (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
       "title_short": "R\u00E8glement d\u0027ex\u00E9cution (UE) 2019/439 de la Commission du 15 f\u00E9vrier 2019 modifiant le r\u00E8gle\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0439",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "79a917540b4529ce01e5edd279460990ef23544af5c05f05761eb63a71ba4684",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0439",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0439"
       }
     }
@@ -59,5 +73,5 @@
     "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "a89483844e632e8cdaef177d4d81d1db585ffa6dc08973e60f9e94a4346c4dab"
+  "record_sha256": "177de0107cb0e89e56b86c4c1745763c95cd606452d3b5a1c534d2b79a5c140f"
 }

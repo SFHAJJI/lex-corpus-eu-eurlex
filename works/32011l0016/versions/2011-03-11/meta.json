@@ -23,10 +23,17 @@
       "title": "Council Directive 2011/16/EU of 15\u00A0February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC",
       "title_short": "Council Directive 2011/16/EU of 15\u00A0February 2011 on administrative cooperation in the fiel\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0016-20110311",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "a163419e87a11246bbc1292c21da701683aa2aa5112d961b5ea7fba08f2220fb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0016-20110311",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0016-20110311"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:seed"
   },
-  "record_sha256": "20430d427aa50944b04b91e9c2f8783bea07a4e80036491fe609cc271fb71760"
+  "record_sha256": "881942fe07bd93e8a281bd2a1e43a2f4c338320796824114c7f68fe1588568ca"
 }

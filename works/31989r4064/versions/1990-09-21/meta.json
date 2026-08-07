@@ -23,10 +23,17 @@
       "title": "Council Regulation (EEC) No 4064/89 of 21 December 1989 on the control of concentrations between undertakings",
       "title_short": "Council Regulation (EEC) No 4064/89 of 21 December 1989 on the control of concentrations b\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989R4064-19900921",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "c5255556c1ee19a2818eb8a6a652ebc9d8d7171ba50c22add378750f4d90b0d3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989R4064-19900921",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989R4064-19900921"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (CEE) n\u00B0 4064/89 du Conseil du 21 d\u00E9cembre 1989 relatif au contr\u00F4le des op\u00E9rations de concentration entre entreprises",
       "title_short": "R\u00E8glement (CEE) n\u00B0 4064/89 du Conseil du 21 d\u00E9cembre 1989 relatif au contr\u00F4le des op\u00E9ratio\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01989R4064-19900921",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "0c08bd4016f5771cce1f3253bfa4c7fdb0ae7611220ad8f12bedfd12b0c10b09",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01989R4064-19900921",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01989R4064-19900921"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "67e3dbaa7fc3e35f4cf5128f17adbbbd0f3b9afd98382c2db395532abdaf034c"
+  "record_sha256": "a177361c8d242dd98241e02764f69bc1672de84ce67754779702b29d972e10ac"
 }

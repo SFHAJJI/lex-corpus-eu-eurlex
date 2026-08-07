@@ -23,10 +23,17 @@
       "title": "First Council Directive of 11 April 1967 on the harmonisation of legislation of Member States concerning turnover taxes (67/227/EEC)",
       "title_short": "First Council Directive of 11 April 1967 on the harmonisation of legislation of Member Sta\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01967L0227-19691215",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "f13e23a90cef54c419bf8f70636d81e93cf797ff597f393280235dc429ad7210",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01967L0227-19691215",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01967L0227-19691215"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Premi\u00E8re Directive du Conseil du 11 avril 1967 en mati\u00E8re d\u0027harmonisation des l\u00E9gislations des \u00C9tats membres relatives aux taxes sur le chiffre d\u0027affaires (67/227/CEE)",
       "title_short": "Premi\u00E8re Directive du Conseil du 11 avril 1967 en mati\u00E8re d\u0027harmonisation des l\u00E9gislations\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01967L0227-19691215",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "7d06d6c897ad26ff830eee0e810bc30fbd6783014da0ab79cf09afc872301623",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01967L0227-19691215",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01967L0227-19691215"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "588506f81a02fa8cdbc0156257e7a6cede924ef4868ecbfedb8c4871a684a064"
+  "record_sha256": "4dd374f31a95530f0f58a2eadd1f1ec8314cdcb0756e6e42ace1e8bdf265736d"
 }

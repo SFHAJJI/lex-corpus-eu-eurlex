@@ -26,10 +26,17 @@
       "title": "Rectificatif au r\u00E8glement (UE) n\u00B0 575/2013 du Parlement europ\u00E9en et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux \u00E9tablissements de cr\u00E9dit et modifiant le r\u00E8glement (UE) n\u00B0 648/2012 (JO L 176 du 27.6.2013)",
       "title_short": "Rectificatif au r\u00E8glement (UE) n\u00B0 575/2013 du Parlement europ\u00E9en et du Conseil du 26 juin \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575R%2810%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "8570240d5d7931c7dda05c272c995276d48cc6a96a2eca71386414133889951c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575R%2810%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575R%2810%29"
       }
     },
@@ -65,5 +72,5 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "9d6d1cc340361be9650984882ac0e916874f228fccff255f88aeff7c424733bc"
+  "record_sha256": "060c848d97fb4bc7d9b8d90f87192691a810c065060a4ce511794a6374d6a998"
 }

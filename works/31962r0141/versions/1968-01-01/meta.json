@@ -23,10 +23,17 @@
       "title": "Regulation No 141 of the Council exempting transport from the application of Council Regulation No 17",
       "title_short": "Regulation No 141 of the Council exempting transport from the application of Council Regul\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01962R0141-19680101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "e564b65456717b5ebd29285b80dba37db88b75e765c764884b1d884d8349fbfb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01962R0141-19680101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01962R0141-19680101"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement n\u00B0 141 du Conseil portant non-application du r\u00E8glement n\u00B0 17 du Conseil au secteur des transports",
       "title_short": "R\u00E8glement n\u00B0 141 du Conseil portant non-application du r\u00E8glement n\u00B0 17 du Conseil au secte\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01962R0141-19680101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "ae02894aa59d3f00a1c0963cbdb0def31079980b617dd35a1fee0352c32ca0f1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01962R0141-19680101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01962R0141-19680101"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "31743320dc55a2cc0660324121a5cb2606664de4b954443dc5f5a9044dead182"
+  "record_sha256": "aad0bc4d645939ab1db83d05309cd774fb0ec8270d09ec8f8902a9bdae937dd6"
 }

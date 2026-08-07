@@ -27,10 +27,17 @@
       "title": "Commission Implementing Regulation (EU) No 710/2014 of 23 June 2014 laying down implementing technical standards with regard to conditions of application of the joint\u00A0decision process for institution-specific prudential requirements according to Directive 2013/36/EU of the European Parliament and of the Council  Text with EEA relevance",
       "title_short": "Commission Implementing Regulation (EU) No 710/2014 of 23 June 2014 laying down implementing technical standards with regard to conditions of application of the joint\u00A0decision process for institution-specific prudential requirements according to Directive 2013/36/EU",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0710",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "78fa3af711cf2406680c777cd28518f0c9d21b015e4ca7fd1e145cdd633175e0",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0710",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0710"
       }
     },
@@ -41,10 +48,17 @@
       "title": "R\u00E8glement d\u0027ex\u00E9cution (UE) n \u00B0\u00A0710/2014 de la Commission du 23\u00A0juin 2014 \u00E9tablissant des normes techniques d\u0027ex\u00E9cution relatives aux conditions d\u0027application du processus de d\u00E9cision commune pour les exigences prudentielles \u00E0 appliquer sp\u00E9cifiquement \u00E0 un \u00E9tablissement conform\u00E9ment \u00E0 la directive 2013/36/UE du Parlement europ\u00E9en et du Conseil  Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE",
       "title_short": "R\u00E8glement d\u0027ex\u00E9cution (UE) n \u00B0\u00A0710/2014 de la Commission du 23\u00A0juin 2014 \u00E9tablissant des n\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0710",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a9f4169937606f586a58ebe7f3d583eb57738660ccaa8d04a444ec882e0506b2",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0710",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0710"
       }
     }
@@ -59,5 +73,5 @@
     "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "97038f4d7c21f762d0050a5b3355c856cc5d0d2e8635e7ab3703e8212a6f02ee"
+  "record_sha256": "78abbda5a783f645d7962eacaacf6c2528c4f7cc40f13ffd4e41c26e38e79ab6"
 }

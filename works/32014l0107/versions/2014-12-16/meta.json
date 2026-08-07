@@ -21,10 +21,17 @@
       "title": "Council Directive 2014/107/EU of 9 December 2014 amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation",
       "title_short": "Council Directive 2014/107/EU of 9 December 2014 amending Directive 2011/16/EU as regards \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0107-20141216",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "dc90853b71cd38b784976b630fc774b568ca0e8baadb0974c04572ac313dc038",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0107-20141216",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0107-20141216"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "4f195c7825d3b1d08fb5b01ed74d370c7d24ffac967b1cf601e9c58c60ac0222"
+  "record_sha256": "9e89686026353222bed326de38c11ba1cef612d434bfb7a42eefe203791407fa"
 }

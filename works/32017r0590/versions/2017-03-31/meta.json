@@ -21,10 +21,17 @@
       "title": "Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the reporting of transactions to competent authorities (Text with EEA relevance. )",
       "title_short": "Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0590-20170331",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "05544b73cc25cfdc210a48937da41a88daa270bb344a7ed129d2d6e8900a28a8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0590-20170331",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0590-20170331"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "203745fe22052e6fd4019acc40432599aa00502898115093c6d5e72ea4d85a60"
+  "record_sha256": "769773c3e676d22cd85fc3578ff611b3be149ddd8b2be002c7095ceb31fa586a"
 }

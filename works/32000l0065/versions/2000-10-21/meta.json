@@ -23,10 +23,17 @@
       "title": "Council Directive 2000/65/EC of 17 October 2000 amending Directive 77/388/EEC as regards the determination of the person liable for payment of value added tax",
       "title_short": "Council Directive 2000/65/EC of 17 October 2000 amending Directive 77/388/EEC as regards t\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000L0065-20001021",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "9b2fc639aa51e39a9a31a09ceb274d26f8f159b1f8f28e6af813435e18bd61d4",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000L0065-20001021",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000L0065-20001021"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive 2000/65/CE du Conseil du 17 octobre 2000 modifiant la directive 77/388/CEE en ce qui concerne la d\u00E9termination du redevable de la taxe sur la valeur ajout\u00E9e",
       "title_short": "Directive 2000/65/CE du Conseil du 17 octobre 2000 modifiant la directive 77/388/CEE en ce\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000L0065-20001021",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "ebdbb30bc4a0d04106f9ea0f7cdc7b6041e7fe729ef6dbb59bbee3cd31029540",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000L0065-20001021",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02000L0065-20001021"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "24d5d8a453b969dc9842bcb68fa002d3a30eb54fb134cbfd532eaeb8a703fa16"
+  "record_sha256": "e3602c58a8e9fa14d39cfcd4c8da3d066317cc2caaa8d8c1d5d76ef490198eb6"
 }

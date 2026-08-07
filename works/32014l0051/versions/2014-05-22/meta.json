@@ -21,10 +21,17 @@
       "title": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)",
       "title_short": "Directive 2014/51/EU",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0051-20140522",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "409b8601a7441e3ef48346dc1e9a94bbdf2439784bc2bb8322a0dc22a11b334d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0051-20140522",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0051-20140522"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "462eeb1e3f38b01eff96ef60be78a0d63047c1a2e906fb82c39f0332160f674b"
+  "record_sha256": "3ce6092ab416ac88d5d086af28d70ef40a1198233d0f2cd6e7c68c2ef09b0210"
 }

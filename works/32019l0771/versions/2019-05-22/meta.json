@@ -23,10 +23,17 @@
       "title": "Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (Text with EEA relevance.)",
       "title_short": "Directive (EU) 2019/771",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0771-20190522",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "135f5ee68210fcef5c6c940e26849724b04d84114f83d7338ae557a7f9b8f3b4",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0771-20190522",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0771-20190522"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_implicitly_repeals_resource_legal,domain:consumer-environment:seed,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "970505bdc378720771ef0627d677bc628d8670223d9105fd9cae4a42ab648edf"
+  "record_sha256": "588f4a92788b57ea7858a3f7831f4fe1107f498b8a0739d042c4c97cf234b8ea"
 }

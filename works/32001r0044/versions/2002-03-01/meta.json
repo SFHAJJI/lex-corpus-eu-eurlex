@@ -23,10 +23,17 @@
       "title": "Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters",
       "title_short": "Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001R0044-20020301",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "9ba3f0a8848c4eda8c6811ed734b863d02a46ca7d9c8717263a7d0b136a98d9a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001R0044-20020301",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001R0044-20020301"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (CE) n\u00B0 44/2001 du Conseil du 22 d\u00E9cembre 2000 concernant la comp\u00E9tence judiciaire, la reconnaissance et l\u0027ex\u00E9cution des d\u00E9cisions en mati\u00E8re civile et commerciale",
       "title_short": "R\u00E8glement (CE) n\u00B0 44/2001 du Conseil du 22 d\u00E9cembre 2000 concernant la comp\u00E9tence judiciai\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001R0044-20020301",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "4c30850683588a2d99d00a16f692f020d9fde2adb48b1141b3cf14af6d5f936c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001R0044-20020301",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001R0044-20020301"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "9dc750404e3166d6aa4f66f83ee4a5953d94c632006eef2f60c486ff91b3d6dd"
+  "record_sha256": "dad8bfc262b0c5006a730fc8239d578248f38e9c2ad36fddbe72749d14445fc4"
 }

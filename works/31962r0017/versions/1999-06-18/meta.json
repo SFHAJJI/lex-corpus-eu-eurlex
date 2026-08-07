@@ -23,10 +23,17 @@
       "title": "Regulation No 17 First Regulation implementing Articles 85 and 86 of the Treaty",
       "title_short": "Regulation No 17 First Regulation implementing Articles 85 and 86 of the Treaty",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01962R0017-19990618",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "70434b9cf3832212e873e9fcfae49d07c70b211367514a6149a746e279fd6836",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01962R0017-19990618",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01962R0017-19990618"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement n\u00B0 17 Premier r\u00E8glement d\u0027application des articles 85 et 86 du trait\u00E9",
       "title_short": "R\u00E8glement n\u00B0 17 Premier r\u00E8glement d\u0027application des articles 85 et 86 du trait\u00E9",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01962R0017-19990618",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "d7d55d190d8a578f0e5a89c2925aca54ba5c68da45b87b45949db90060220a2f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01962R0017-19990618",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01962R0017-19990618"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "31824dd0d9462f296c2aa4ec0f8eee85fe5bbf7b6f14eab126666d9c75d58aff"
+  "record_sha256": "23961adbbbb48946e8cad376e2dcd2bbd744a08942b883f9a8b1f9d14a4cf717"
 }

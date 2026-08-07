@@ -23,10 +23,17 @@
       "title": "Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (Text with EEA relevance)",
       "title_short": "Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules o\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003R0001-20040501",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "7a422c3b6e5e1130104c94ed3be703ff90b0abda2e048268c3bb620706a5245d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003R0001-20040501",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003R0001-20040501"
       }
     },
@@ -38,10 +45,17 @@
       "title": "R\u00E8glement (CE) n\u00B0 1/2003 du Conseil du 16 d\u00E9cembre 2002 relatif \u00E0 la mise en \u0153uvre des r\u00E8gles de concurrence pr\u00E9vues aux articles 81 et 82 du trait\u00E9 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
       "title_short": "R\u00E8glement (CE) n\u00B0 1/2003 du Conseil du 16 d\u00E9cembre 2002 relatif \u00E0 la mise en \u0153uvre des r\u00E8g\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003R0001-20040501",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "84a2ea43c921043363d187448f1c53d7c17b4ae36924c44031c47592ebe4504d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003R0001-20040501",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003R0001-20040501"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:seed"
   },
-  "record_sha256": "7ddbd57aaff8c4fbebab374421123cf14d62ac377e3d2275edf4234a23cec2c2"
+  "record_sha256": "dd107f940757ff0246e09ac647a488bc9869ef3e48f528a0141723aefd79980d"
 }

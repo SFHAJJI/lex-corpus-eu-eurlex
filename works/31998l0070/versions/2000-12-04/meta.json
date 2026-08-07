@@ -23,10 +23,17 @@
       "title": "Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC",
       "title_short": "Directive 98/70/EC",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0070-20001204",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "dccdbf12cb6445f8f54821405f441c097208d2600f6fafe0c87df7958c6eb4a8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0070-20001204",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0070-20001204"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive 98/70/CE du Parlement Europ\u00E9en et du Conseil du 13 octobre 1998 concernant la qualit\u00E9 de l\u0027essence et des carburants diesel et modifiant la directive 93/12/CEE du Conseil",
       "title_short": "Directive 98/70/CE du Parlement Europ\u00E9en et du Conseil du 13 octobre 1998 concernant la qu\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01998L0070-20001204",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a7a8de77c566616884607c064c0cbea4709cb302e53ed6f012ab676fce71dcff",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01998L0070-20001204",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01998L0070-20001204"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "47ba2946ef982665e56a752dd3c27d14a3684a556641f2c2f572cb3468f22f2d"
+  "record_sha256": "2ec4144dceafc699dbe312b9bcc07f408b084feef8eaf0e3b4a0a27a9169a610"
 }

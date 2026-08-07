@@ -23,10 +23,17 @@
       "title": "Directive 96/71/EC of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services",
       "title_short": "Directive 96/71/EC",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0071-19970210",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "2f301b4d614d84de6f980569234554cd20bc07474150d9bc7a631dcfe82bf839",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0071-19970210",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0071-19970210"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "fe5c76b421953cc80e24038248846058a941fe0ef5c3e05e2e3849088dcf5c65"
+  "record_sha256": "686a816af200af17ae8429a7b77f8809f000807a042d834334d2303e75e76578"
 }

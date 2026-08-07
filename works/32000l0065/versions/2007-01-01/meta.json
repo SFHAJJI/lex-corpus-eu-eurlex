@@ -21,10 +21,17 @@
       "title": "Council Directive 2000/65/EC of 17 October 2000 amending Directive 77/388/EEC as regards the determination of the person liable for payment of value added tax",
       "title_short": "Council Directive 2000/65/EC of 17 October 2000 amending Directive 77/388/EEC as regards t\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000L0065-20070101",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "2cc5a4866f807c77c2b135a12018b8ef04abba4de60828a3802ebb89f294d17f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000L0065-20070101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02000L0065-20070101"
       }
     },
@@ -81,5 +88,5 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "a6f2b3ce4b769db9a998374f4d5ecbbd06a40b7c1d769e0acb66333135270259"
+  "record_sha256": "98fe9a11a2d574a6e2f5e4f468ad39a3c08d805e4b29106b76677c7971f653b2"
 }

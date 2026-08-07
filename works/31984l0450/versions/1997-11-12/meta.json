@@ -23,10 +23,17 @@
       "title": "Council Directive of 10 September 1984 concerning misleading and comparative advertising",
       "title_short": "Council Directive of 10 September 1984 concerning misleading and comparative advertising",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01984L0450-19971112",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "5627b5369aa5cefe7553bd9f6c1e622713695f7200a5107dbcf15c6b98161985",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01984L0450-19971112",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01984L0450-19971112"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive du Conseil du 10 septembre 1984 en mati\u00E8re de publicit\u00E9 trompeuse et de publicit\u00E9 comparative",
       "title_short": "Directive du Conseil du 10 septembre 1984 en mati\u00E8re de publicit\u00E9 trompeuse et de publicit\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01984L0450-19971112",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "0ac2424456d9266628e1aad7b8b0465bbabfc644fc5f18c9340c9e6d01beb3b5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01984L0450-19971112",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01984L0450-19971112"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "016881ec516d884b7baac98fe941b281526861a18a2eda70dd049c478290f2d8"
+  "record_sha256": "3a0c1d1326def7b07fef0bd46fa6616c49ff873151b392b6ee8c65959f8a16cf"
 }

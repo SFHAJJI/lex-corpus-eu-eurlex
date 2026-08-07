@@ -27,10 +27,17 @@
       "title": "Treaty establishing the European Community (consolidated version)#Part Three - Community policies#TITLE III - Free movement of persons, services and capital#Chapter 2 - Right of establishment#Article 44",
       "title_short": "Treaty establishing the European Community (consolidated version)#Part Three - Community p\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12006E044",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "095a0f39fc2d7ba4c4450a4dc748acf19142b58dcdd32d9f9cf2eeb2152f6aaa",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12006E044",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12006E044"
       }
     },
@@ -41,10 +48,17 @@
       "title": "Trait\u00E9 instituant la Communaut\u00E9 europ\u00E9enne (Version consolid\u00E9e)#Troisi\u00E8me partie - Les politiques de la Communaut\u00E9#TITRE III - La libre circulation des personnes, des services et des capitaux#Chapitre 2 - Le droit d\u0027\u00E9tablissement#Article 44",
       "title_short": "Trait\u00E9 instituant la Communaut\u00E9 europ\u00E9enne (Version consolid\u00E9e)#Troisi\u00E8me partie - Les pol\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12006E044",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "a85b9721a9ddd5fd3f473f4c051008f0477da1cb7cf23af3f99a750bbe5d37e4",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12006E044",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12006E044"
       }
     }
@@ -59,5 +73,5 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "9afdc520769b7eb90109ed406b4b677639917ced758813d67c7eacddcfcf18ee"
+  "record_sha256": "c2a2e4ac944cbc3d246b30a97e4e1486ba3010806b9e97ecff5f78f1ed4fedf4"
 }

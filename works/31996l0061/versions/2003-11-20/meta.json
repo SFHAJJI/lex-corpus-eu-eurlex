@@ -23,10 +23,17 @@
       "title": "Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control",
       "title_short": "Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0061-20031120",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "3f24bbc38ecbfe324fd89c322448abc2027e96485137674907705d8161dc4fd2",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0061-20031120",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01996L0061-20031120"
       }
     },
@@ -38,10 +45,17 @@
       "title": "Directive 96/61/CE du Conseil du 24 septembre 1996 relative \u00E0 la pr\u00E9vention et \u00E0 la r\u00E9duction int\u00E9gr\u00E9es de la pollution",
       "title_short": "Directive 96/61/CE du Conseil du 24 septembre 1996 relative \u00E0 la pr\u00E9vention et \u00E0 la r\u00E9duct\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0061-20031120",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "ea251ade7db945bef2f5d5c36350b86d6dfe779262e34a669d8ffbe981c4ef13",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0061-20031120",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01996L0061-20031120"
       }
     }
@@ -61,5 +75,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "6ea00a2db57c6c95233f415f8586f73379365ba778711ed4b74dd9515c886fe8"
+  "record_sha256": "9c8efd9d0a917910a20728f5ed9bafddc4d628148bec756a320e1cd45c10cacb"
 }

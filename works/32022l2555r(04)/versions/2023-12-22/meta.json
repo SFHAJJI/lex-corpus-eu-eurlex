@@ -47,10 +47,17 @@
       "title": "Corrigendum to Directive (EU)\u00A02022/2555 of the European Parliament and of the Council of 14\u00A0December\u00A02022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No\u00A0910/2014 and Directive (EU)\u00A02018/1972, and repealing Directive (EU)\u00A02016/1148 (NIS 2 Directive) (OJ\u00A0L\u00A0333, 27.12.2022)",
       "title_short": "Corrigendum to Directive (EU)\u00A02022/2555",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2555R%2804%29",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "80baba94403175e88c9123a5e6d529cfdc179bd33bd531546b28f380ee22d0b1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2555R%2804%29",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2555R%2804%29"
       }
     }
@@ -65,5 +72,5 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "b451aacd8a56f60658ec609016979a1c51b73b8a8726dde17d7ec1becc2e9724"
+  "record_sha256": "63522f4c8588af401ea1e1ff7e87a23b8e2c74bfd35648ad7b4ba834030bdd7a"
 }

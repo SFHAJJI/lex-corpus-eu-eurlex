@@ -23,10 +23,17 @@
       "title": "Commission Implementing Regulation (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council (Text with EEA relevance.)",
       "title_short": "Commission Implementing Regulation (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R2067-20181231",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "84d871a4e7e546dd74f9d230811de4f4010f318aefe47233e0dafb34021613dd",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R2067-20181231",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
+        "available": true,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R2067-20181231"
       }
     },
@@ -84,5 +91,5 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "eb7ebaceda3314f4a41c557470c8a5c8aa633f3fb3654ab127042e0874aa2a8e"
+  "record_sha256": "09750458512d2a664aee6095833f51facacfe9a8d186f59c8b31e65fae68fda2"
 }
