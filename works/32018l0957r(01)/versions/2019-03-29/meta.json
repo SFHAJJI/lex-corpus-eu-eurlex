@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32018l0957r(01):2019-03-29",
   "work_identifier": "http://publications.europa.eu/resource/celex/32018L0957R(01)",
   "publisher": "eu-eurlex",
-  "document_type": "DIR",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2019-03-29",
   "valid_time_source": "publisher",
   "publication_date": "2019-03-29",
@@ -20,6 +20,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-07T01:10:52Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-08T03:00:14Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -71,12 +77,12 @@
   "relations": [],
   "raw": {
     "celex": "32018L0957R(01)",
-    "legal_form": "DIR",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "12dca844ac788117f936fb266941db0ad00c66045e35b6d0477857dd49892cce"
+  "record_sha256": "fad1b57afc1620e33291e4f3eaf0cd08616ee8128958ba706d175fc968378e88"
 }

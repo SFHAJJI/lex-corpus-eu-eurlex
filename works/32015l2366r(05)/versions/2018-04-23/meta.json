@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32015l2366r(05):2018-04-23",
   "work_identifier": "http://publications.europa.eu/resource/celex/32015L2366R(05)",
   "publisher": "eu-eurlex",
-  "document_type": "DIR",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2018-04-23",
   "valid_time_source": "publisher",
   "publication_date": "2018-04-23",
@@ -20,6 +20,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-07T03:22:17Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-08T03:00:14Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -71,12 +77,12 @@
   "relations": [],
   "raw": {
     "celex": "32015L2366R(05)",
-    "legal_form": "DIR",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_corrects_resource_legal,domain:financial-services:relationship:resource_legal_corrects_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "d2e2fae07e1ee9fca8181250bc24a9da5f52ddc0814d7c588d9a42484511fb68"
+  "record_sha256": "a6c63de54d8a199a678e6df148f030099d0b87fda8a7109040c503b801b8b3c3"
 }

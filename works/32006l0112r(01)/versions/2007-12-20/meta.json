@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32006l0112r(01):2007-12-20",
   "work_identifier": "http://publications.europa.eu/resource/celex/32006L0112R(01)",
   "publisher": "eu-eurlex",
-  "document_type": "DIR",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2007-12-20",
   "valid_time_source": "publisher",
   "publication_date": "2007-12-20",
@@ -26,6 +26,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-07T00:17:15Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-08T03:00:14Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -77,12 +83,12 @@
   "relations": [],
   "raw": {
     "celex": "32006L0112R(01)",
-    "legal_form": "DIR",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "b5f09a853b205dcf8c6175d4dc02a0b55720e24bf724544a3af8df5ba7c1707c"
+  "record_sha256": "504203834e9f49127c66dbd7ee1d79e2889cecfc06059481e41af89df09239c9"
 }
