@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "134969f4414cf42a5dc668c5b4f3d9a13367465e879bee21d0a64c7f1997ea52"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "investment",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1812",
+      "language": "en",
+      "label": "official market",
+      "source_uri": "http://eurovoc.europa.eu/1812"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1812",
+      "language": "fr",
+      "label": "march\u00E9 r\u00E9glement\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1812"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/248",
+      "language": "en",
+      "label": "stock-exchange listing",
+      "source_uri": "http://eurovoc.europa.eu/248"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/248",
+      "language": "fr",
+      "label": "cotation boursi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/248"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3233",
+      "language": "en",
+      "label": "stock exchange",
+      "source_uri": "http://eurovoc.europa.eu/3233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3233",
+      "language": "fr",
+      "label": "Bourse des valeurs",
+      "source_uri": "http://eurovoc.europa.eu/3233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "en",
+      "label": "dissemination of information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "fr",
+      "label": "diffusion de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "en",
+      "label": "securities",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "fr",
+      "label": "valeur mobili\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/492",
+      "language": "en",
+      "label": "official document",
+      "source_uri": "http://eurovoc.europa.eu/492"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/492",
+      "language": "fr",
+      "label": "document officiel",
+      "source_uri": "http://eurovoc.europa.eu/492"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "82e8289492e4b3433248fb97448422db3ef05e29978b365ff216e0f68bd17664"
 }

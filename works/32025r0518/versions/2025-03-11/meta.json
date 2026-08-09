@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,165 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "8195a4c82b2a0bb4d7747c7ff4e162cba5b24f913b2855075702ec6a05ab582c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1687",
+      "language": "en",
+      "label": "property leasing",
+      "source_uri": "http://eurovoc.europa.eu/1687"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1687",
+      "language": "fr",
+      "label": "location immobili\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1687"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/170",
+      "language": "en",
+      "label": "taxpayer",
+      "source_uri": "http://eurovoc.europa.eu/170"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/170",
+      "language": "fr",
+      "label": "contribuable",
+      "source_uri": "http://eurovoc.europa.eu/170"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "en",
+      "label": "goods and services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "fr",
+      "label": "biens et services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4509",
+      "language": "en",
+      "label": "carriage of goods",
+      "source_uri": "http://eurovoc.europa.eu/4509"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4509",
+      "language": "fr",
+      "label": "transport de marchandises",
+      "source_uri": "http://eurovoc.europa.eu/4509"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4511",
+      "language": "en",
+      "label": "carriage of passengers",
+      "source_uri": "http://eurovoc.europa.eu/4511"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4511",
+      "language": "fr",
+      "label": "transport de voyageurs",
+      "source_uri": "http://eurovoc.europa.eu/4511"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4673",
+      "language": "en",
+      "label": "distance selling",
+      "source_uri": "http://eurovoc.europa.eu/4673"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4673",
+      "language": "fr",
+      "label": "vente \u00E0 distance",
+      "source_uri": "http://eurovoc.europa.eu/4673"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6088",
+      "language": "en",
+      "label": "Internet",
+      "source_uri": "http://eurovoc.europa.eu/6088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6088",
+      "language": "fr",
+      "label": "Internet",
+      "source_uri": "http://eurovoc.europa.eu/6088"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "e60fdecdd2490e32329970359ced5c2c88d9e3fd0eb0600246a363b84cd55af5"
 }

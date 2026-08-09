@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,171 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "b1277109f360cd374d9f0977d87aaf06e0383ff4a6f30fa46ef73fde0ffb1d17"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133013",
+      "language": "en",
+      "label": "Electrical material",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133013"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133013",
+      "language": "fr",
+      "label": "Mat\u00E9riel \u00E9lectrique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133013"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103030",
+      "language": "en",
+      "label": "Waste management and clean technology",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103030",
+      "language": "fr",
+      "label": "Gestion des d\u00E9chets et technologies propres",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1158",
+      "language": "en",
+      "label": "waste management",
+      "source_uri": "http://eurovoc.europa.eu/1158"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1158",
+      "language": "fr",
+      "label": "gestion des d\u00E9chets",
+      "source_uri": "http://eurovoc.europa.eu/1158"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4036",
+      "language": "en",
+      "label": "product safety",
+      "source_uri": "http://eurovoc.europa.eu/4036"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4036",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 du produit",
+      "source_uri": "http://eurovoc.europa.eu/4036"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5410",
+      "language": "en",
+      "label": "electricity storage device",
+      "source_uri": "http://eurovoc.europa.eu/5410"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5410",
+      "language": "fr",
+      "label": "accumulateur \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/5410"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "en",
+      "label": "EC conformity marking",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "fr",
+      "label": "marquage CE de conformit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6103",
+      "language": "en",
+      "label": "hazardous waste",
+      "source_uri": "http://eurovoc.europa.eu/6103"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6103",
+      "language": "fr",
+      "label": "d\u00E9chet dangereux",
+      "source_uri": "http://eurovoc.europa.eu/6103"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6411",
+      "language": "en",
+      "label": "electronic waste",
+      "source_uri": "http://eurovoc.europa.eu/6411"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6411",
+      "language": "fr",
+      "label": "d\u00E9chet \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6411"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/893",
+      "language": "en",
+      "label": "labelling",
+      "source_uri": "http://eurovoc.europa.eu/893"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/893",
+      "language": "fr",
+      "label": "\u00E9tiquetage",
+      "source_uri": "http://eurovoc.europa.eu/893"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Batteries Regulation",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1542"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "f287b3d55da9c170316558f89769ccd575b0da4a1eccf7991e398b431509dc4d"
 }

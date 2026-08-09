@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,91 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "d0a6103bbfac57f9ec2264cb1e0281bc85c37f467e027c20ad5350f58c63714a"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "en",
+      "label": "contract",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "fr",
+      "label": "contrat",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4665",
+      "language": "en",
+      "label": "door-to-door selling",
+      "source_uri": "http://eurovoc.europa.eu/4665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4665",
+      "language": "fr",
+      "label": "vente \u00E0 domicile",
+      "source_uri": "http://eurovoc.europa.eu/4665"
+    }
+  ],
+  "record_sha256": "245f0dff705662023550a5b690a60fe9aade6ca43a1fbb8894a6f526abb6e8d4"
 }

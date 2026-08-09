@@ -24,6 +24,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "fr",
       "detail": "language=fr"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -520,7 +526,7 @@
       "valid_to": "2022-12-31",
       "valid_time_source": "publisher",
       "title": "R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant les exigences prudentielles applicables aux \u00E9tablissements de cr\u00E9dit et modifiant le r\u00E8glement (UE) no\u00A0648/2012 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
-      "title_short": "CRR \u2014 R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant \u2026",
+      "title_short": "R\u00E8glement (UE) no\u00A0575/2013 du Parlement europ\u00E9en et du Conseil du 26\u00A0juin 2013 concernant \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013R0575-20220708",
       "observations": [
         {
@@ -1049,5 +1055,151 @@
     "legal_form": "REG",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "e63c1bd5be3b9457c1f24a9fbd8b189ac0a9f982687d0995a680153298ff8a09"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "en",
+      "label": "Banks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "fr",
+      "label": "Banques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "en",
+      "label": "trade information",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "fr",
+      "label": "information commerciale",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "en",
+      "label": "financial control",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "fr",
+      "label": "contr\u00F4le financier",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2447",
+      "language": "en",
+      "label": "banking policy",
+      "source_uri": "http://eurovoc.europa.eu/2447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2447",
+      "language": "fr",
+      "label": "politique bancaire",
+      "source_uri": "http://eurovoc.europa.eu/2447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3220",
+      "language": "en",
+      "label": "private-sector liquidity",
+      "source_uri": "http://eurovoc.europa.eu/3220"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3220",
+      "language": "fr",
+      "label": "disponibilit\u00E9 mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/3220"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Capital Requirements Regulation,crr",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "crr",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R0575"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "e48008e6c4f059eb46562ff4f40f33fe7d66f4f3ed5aefea0f8e336030c43169"
 }

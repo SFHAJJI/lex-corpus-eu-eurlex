@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,192 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "a0b95fbf1f039ced5426f6547e545ad5222ed8a1865784b481e55aa22a6921be"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060",
+      "language": "en",
+      "label": "Forests and forestry",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060",
+      "language": "fr",
+      "label": "For\u00EAts et sylviculture",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010",
+      "language": "en",
+      "label": "Management and efficient use of space, the environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010",
+      "language": "fr",
+      "label": "Gestion et utilisation rationnelle de l\u0027espace, de l\u0027environnement et des ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1270",
+      "language": "en",
+      "label": "vegetable oil",
+      "source_uri": "http://eurovoc.europa.eu/1270"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1270",
+      "language": "fr",
+      "label": "huile v\u00E9g\u00E9tale",
+      "source_uri": "http://eurovoc.europa.eu/1270"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "en",
+      "label": "application of EU law",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "fr",
+      "label": "application du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2418",
+      "language": "en",
+      "label": "tropical plant",
+      "source_uri": "http://eurovoc.europa.eu/2418"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2418",
+      "language": "fr",
+      "label": "plante tropicale",
+      "source_uri": "http://eurovoc.europa.eu/2418"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2754",
+      "language": "en",
+      "label": "wood product",
+      "source_uri": "http://eurovoc.europa.eu/2754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2754",
+      "language": "fr",
+      "label": "produit du bois",
+      "source_uri": "http://eurovoc.europa.eu/2754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3190",
+      "language": "en",
+      "label": "export (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3190",
+      "language": "fr",
+      "label": "exportation (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/339",
+      "language": "en",
+      "label": "deforestation",
+      "source_uri": "http://eurovoc.europa.eu/339"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/339",
+      "language": "fr",
+      "label": "d\u00E9boisement",
+      "source_uri": "http://eurovoc.europa.eu/339"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4210",
+      "language": "en",
+      "label": "soya bean",
+      "source_uri": "http://eurovoc.europa.eu/4210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4210",
+      "language": "fr",
+      "label": "soja",
+      "source_uri": "http://eurovoc.europa.eu/4210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5034",
+      "language": "en",
+      "label": "cattle",
+      "source_uri": "http://eurovoc.europa.eu/5034"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5034",
+      "language": "fr",
+      "label": "bovin",
+      "source_uri": "http://eurovoc.europa.eu/5034"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5242",
+      "language": "en",
+      "label": "natural rubber",
+      "source_uri": "http://eurovoc.europa.eu/5242"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5242",
+      "language": "fr",
+      "label": "caoutchouc naturel",
+      "source_uri": "http://eurovoc.europa.eu/5242"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "fe35603573368d384d25de6ee335c18f2ae55e37a91576ab1e3212e338b0a66c"
 }

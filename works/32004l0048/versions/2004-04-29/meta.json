@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,91 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:seed"
   },
-  "record_sha256": "057c797578cfa910b79f0643da4af97ec6e74f11e46fbcfca31d4b8807fe430c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2701",
+      "language": "en",
+      "label": "judicial proceedings",
+      "source_uri": "http://eurovoc.europa.eu/2701"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2701",
+      "language": "fr",
+      "label": "proc\u00E9dure judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/2701"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "en",
+      "label": "industrial property",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 industrielle",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/516",
+      "language": "en",
+      "label": "right to justice",
+      "source_uri": "http://eurovoc.europa.eu/516"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/516",
+      "language": "fr",
+      "label": "droit \u00E0 la justice",
+      "source_uri": "http://eurovoc.europa.eu/516"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5596",
+      "language": "en",
+      "label": "right of action",
+      "source_uri": "http://eurovoc.europa.eu/5596"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5596",
+      "language": "fr",
+      "label": "droit d\u0027agir en justice",
+      "source_uri": "http://eurovoc.europa.eu/5596"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6146",
+      "language": "en",
+      "label": "TRIPS",
+      "source_uri": "http://eurovoc.europa.eu/6146"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6146",
+      "language": "fr",
+      "label": "TRIPS",
+      "source_uri": "http://eurovoc.europa.eu/6146"
+    }
+  ],
+  "record_sha256": "cc2e3a7c3dd90b9db1ebe30226ff440ad5491c36e72d2d62ddedb83b56b48c84"
 }

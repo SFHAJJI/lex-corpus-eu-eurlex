@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,136 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "970160002b2b0c243476ee1fb710d5397541b066fa15fa314470a0fe17b137ed"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "en",
+      "label": "Other measures relating to oil or gas",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "fr",
+      "label": "Autres mesures relatives aux hydrocarbures",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3771",
+      "language": "en",
+      "label": "petrol",
+      "source_uri": "http://eurovoc.europa.eu/3771"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3771",
+      "language": "fr",
+      "label": "essence",
+      "source_uri": "http://eurovoc.europa.eu/3771"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3772",
+      "language": "en",
+      "label": "diesel fuel",
+      "source_uri": "http://eurovoc.europa.eu/3772"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3772",
+      "language": "fr",
+      "label": "gazole",
+      "source_uri": "http://eurovoc.europa.eu/3772"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5233",
+      "language": "en",
+      "label": "quality standard",
+      "source_uri": "http://eurovoc.europa.eu/5233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5233",
+      "language": "fr",
+      "label": "norme de qualit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5754",
+      "language": "en",
+      "label": "environmental standard",
+      "source_uri": "http://eurovoc.europa.eu/5754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5754",
+      "language": "fr",
+      "label": "norme environnementale",
+      "source_uri": "http://eurovoc.europa.eu/5754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6271",
+      "language": "en",
+      "label": "qualitative analysis",
+      "source_uri": "http://eurovoc.europa.eu/6271"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6271",
+      "language": "fr",
+      "label": "analyse qualitative",
+      "source_uri": "http://eurovoc.europa.eu/6271"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "a684f082be77309ffac3df1599ae46c3b3cb277328f66646df72b34f40d0dd16"
 }

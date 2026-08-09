@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "4d114b1c2ec3a6488578719e93c060f2fd2ff7e592d6564537c8814f7d4ce749"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "en",
+      "label": "Service activities",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "fr",
+      "label": "Activit\u00E9s de service",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1156",
+      "language": "en",
+      "label": "business management",
+      "source_uri": "http://eurovoc.europa.eu/1156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1156",
+      "language": "fr",
+      "label": "gestion d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/1156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "en",
+      "label": "banking supervision",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "fr",
+      "label": "contr\u00F4le bancaire",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5092",
+      "language": "en",
+      "label": "costing",
+      "source_uri": "http://eurovoc.europa.eu/5092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5092",
+      "language": "fr",
+      "label": "calcul des co\u00FBts",
+      "source_uri": "http://eurovoc.europa.eu/5092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "a4a73271af33a36b1b01801efdfbb8fdc858a2a51f7d23fda956c89a6c290e5a"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,80 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "74475df16696f2885aaea26ccf1b55409d2ba350ac45a1442f43bd6f2f70c301"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1562",
+      "language": "en",
+      "label": "quality label",
+      "source_uri": "http://eurovoc.europa.eu/1562"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1562",
+      "language": "fr",
+      "label": "label de qualit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1562"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435330",
+      "language": "en",
+      "label": "EU competition policy",
+      "source_uri": "http://eurovoc.europa.eu/435330"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435330",
+      "language": "fr",
+      "label": "politique de la concurrence de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/435330"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "electronic commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "21e58edd3cef9c110e342ba4bedd18fd7e27e21b2663b8e2172f43c7b39951fc"
 }

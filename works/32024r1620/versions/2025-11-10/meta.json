@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,172 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:seed"
   },
-  "record_sha256": "1332dfc876f07e1f1273ce822b952e6cd3ed3e6fd41b2182a1976f9012e398d7"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0140",
+      "language": "en",
+      "label": "Provisions governing the institutions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0140"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0140",
+      "language": "fr",
+      "label": "Dispositions institutionnelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0140"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "en",
+      "label": "Judicial cooperation in criminal matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re p\u00E9nale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "en",
+      "label": "financial institution",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "fr",
+      "label": "institution financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "en",
+      "label": "fight against crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "fr",
+      "label": "lutte contre le crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "en",
+      "label": "banking supervision",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "fr",
+      "label": "contr\u00F4le bancaire",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4491",
+      "language": "en",
+      "label": "financial transaction",
+      "source_uri": "http://eurovoc.europa.eu/4491"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4491",
+      "language": "fr",
+      "label": "transaction financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4491"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "en",
+      "label": "operation of the Institutions",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "fr",
+      "label": "fonctionnement institutionnel",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "en",
+      "label": "economic offence",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "fr",
+      "label": "d\u00E9lit \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "en",
+      "label": "financial supervision",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "fr",
+      "label": "surveillance financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9d09fbc3",
+      "language": "en",
+      "label": "terrorism financing\u00A0",
+      "source_uri": "http://eurovoc.europa.eu/c_9d09fbc3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9d09fbc3",
+      "language": "fr",
+      "label": "financement du terrorisme\u00A0",
+      "source_uri": "http://eurovoc.europa.eu/c_9d09fbc3"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "AMLAR",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1620"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "667d651a03f1233466cd1f0dc057e8f90cf4939e548a7a0eb909e053e1259977"
 }

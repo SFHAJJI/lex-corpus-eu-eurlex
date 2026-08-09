@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,91 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,domain:consumer-environment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "4fe9f914b6df9b9f865981212a9e2cb5e588d7ec6bd5993b5badc8f4a2016c47"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4673",
+      "language": "en",
+      "label": "distance selling",
+      "source_uri": "http://eurovoc.europa.eu/4673"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4673",
+      "language": "fr",
+      "label": "vente \u00E0 distance",
+      "source_uri": "http://eurovoc.europa.eu/4673"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    }
+  ],
+  "record_sha256": "ffb4de1133c1da347bda03497256201cd0cb21dc3be521832f03b63eabebd9be"
 }

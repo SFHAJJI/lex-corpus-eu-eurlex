@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "9b0789bb8346aea022b02b476b020a6037246f207a9dee9e125566605f360deb"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "en",
+      "label": "trade information",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "fr",
+      "label": "information commerciale",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4491",
+      "language": "en",
+      "label": "financial transaction",
+      "source_uri": "http://eurovoc.europa.eu/4491"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4491",
+      "language": "fr",
+      "label": "transaction financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4491"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "531aea55ccbd21c9c1e0c9f174c61a30499a0e7a928ccc566aced33a6459c448"
 }

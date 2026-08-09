@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "1b4225d53d0a12fc307c50d39f63ced0cf277efd43faa8c89224783b6b9576c2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "en",
+      "label": "financial market",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "fr",
+      "label": "march\u00E9 financier",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "en",
+      "label": "technical specification",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "fr",
+      "label": "sp\u00E9cification technique",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/895",
+      "language": "en",
+      "label": "market research",
+      "source_uri": "http://eurovoc.europa.eu/895"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/895",
+      "language": "fr",
+      "label": "\u00E9tude de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/895"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "en",
+      "label": "confidentiality",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "fr",
+      "label": "confidentialit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "9f37b27f4323c39093b69288a5c5ec87b2e0f004b1674b88dd8b59cea705619c"
 }

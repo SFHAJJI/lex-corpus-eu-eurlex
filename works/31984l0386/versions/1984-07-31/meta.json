@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,66 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "9ecddf2a551774fd12c6e15b9e5b4b976de12518c1f8d5addc9ed0d97e5de0cb"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/817",
+      "language": "en",
+      "label": "rental business",
+      "source_uri": "http://eurovoc.europa.eu/817"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/817",
+      "language": "fr",
+      "label": "entreprise de location",
+      "source_uri": "http://eurovoc.europa.eu/817"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "7400e67a5ada5ee63872decbb29e1184a21da6a67f324b0eb96d6436f45e5916"
 }

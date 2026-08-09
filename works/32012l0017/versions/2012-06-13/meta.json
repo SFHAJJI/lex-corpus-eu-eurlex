@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,136 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "73df1163684f1bbe2fbd7ef997378aecd5ca2067712e0de6e9b52b5e13e22c20"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1301",
+      "language": "en",
+      "label": "registration of a company",
+      "source_uri": "http://eurovoc.europa.eu/1301"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1301",
+      "language": "fr",
+      "label": "immatriculation de soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1301"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4189",
+      "language": "en",
+      "label": "organisation",
+      "source_uri": "http://eurovoc.europa.eu/4189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4189",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4313",
+      "language": "en",
+      "label": "branch",
+      "source_uri": "http://eurovoc.europa.eu/4313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4313",
+      "language": "fr",
+      "label": "succursale",
+      "source_uri": "http://eurovoc.europa.eu/4313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5358",
+      "language": "en",
+      "label": "on line data service",
+      "source_uri": "http://eurovoc.europa.eu/5358"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5358",
+      "language": "fr",
+      "label": "centre serveur",
+      "source_uri": "http://eurovoc.europa.eu/5358"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "systems interconnection",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "fr",
+      "label": "interconnexion de syst\u00E8mes",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "346f3fab841db9c5d6d46381cb2b31a5bccfcf059841c930b516cb4965a6103e"
 }

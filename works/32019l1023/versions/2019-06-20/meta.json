@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,136 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "56193afc748c14219f5d45a23fea07ed1dad6386479034d1150da776bdd87324"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1672",
+      "language": "en",
+      "label": "liquidation",
+      "source_uri": "http://eurovoc.europa.eu/1672"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1672",
+      "language": "fr",
+      "label": "liquidation de soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1672"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3069",
+      "language": "en",
+      "label": "aid for restructuring",
+      "source_uri": "http://eurovoc.europa.eu/3069"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3069",
+      "language": "fr",
+      "label": "aide \u00E0 la restructuration",
+      "source_uri": "http://eurovoc.europa.eu/3069"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "en",
+      "label": "company in difficulties",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "fr",
+      "label": "entreprise en difficult\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/835",
+      "language": "en",
+      "label": "aid to undertakings",
+      "source_uri": "http://eurovoc.europa.eu/835"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/835",
+      "language": "fr",
+      "label": "aide aux entreprises",
+      "source_uri": "http://eurovoc.europa.eu/835"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "3dee2f19c606c48bd58b13f0aa878fa339988f50ca059f21faf83182485bed25"
 }

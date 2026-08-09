@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,80 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "1b5245f85ba5f59f2880bf81d11b2ddff54465cc3dd4f4ed61771821021e3214"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "en",
+      "label": "application of EU law",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "fr",
+      "label": "application du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "infringement procedure (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "fr",
+      "label": "proc\u00E9dure d\u0027infraction (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "679b133accd4615dc3ba8c6ba9d412e6e4679858ac7947d0cb6d6bd6411749d3"
 }

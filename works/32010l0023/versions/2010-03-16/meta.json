@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "405bc150f0fb67a77981d511b04a6911876efced3ce57498e9bb32ac096985f2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "en",
+      "label": "fraud",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "fr",
+      "label": "fraude",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "en",
+      "label": "delivery",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "fr",
+      "label": "livraison",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/561",
+      "language": "en",
+      "label": "tax law",
+      "source_uri": "http://eurovoc.europa.eu/561"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/561",
+      "language": "fr",
+      "label": "droit fiscal",
+      "source_uri": "http://eurovoc.europa.eu/561"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "en",
+      "label": "tradeable emission permit",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "fr",
+      "label": "permis de pollution n\u00E9gociable",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "93141dc75dc37f162af1b260423cd982bf4072ee60a0678195639fb0970248d2"
 }

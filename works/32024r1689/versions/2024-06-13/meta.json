@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -21,7 +27,7 @@
       "valid_to": "2024-07-11",
       "valid_time_source": "publisher",
       "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)",
-      "title_short": "AI Act \u2014 Regulation (EU) 2024/1689",
+      "title_short": "Regulation (EU) 2024/1689",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
       "observations": [
         {
@@ -43,7 +49,7 @@
       "valid_to": "2024-07-11",
       "valid_time_source": "publisher",
       "title": "R\u00E8glement (UE) 2024/1689 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 \u00E9tablissant des r\u00E8gles harmonis\u00E9es concernant l\u2019intelligence artificielle et modifiant les r\u00E8glements (CE) n\u00B0 300/2008, (UE) n\u00B0 167/2013, (UE) n\u00B0 168/2013, (UE) 2018/858, (UE) 2018/1139 et (UE) 2019/2144 et les directives 2014/90/UE, (UE) 2016/797 et (UE) 2020/1828 (r\u00E8glement sur l\u2019intelligence artificielle) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
-      "title_short": "AI Act \u2014 R\u00E8glement (UE) 2024/1689 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 \u00E9tablissant d\u2026",
+      "title_short": "R\u00E8glement (UE) 2024/1689 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 \u00E9tablissant d\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1689",
       "observations": [
         {
@@ -70,5 +76,122 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "40a08a6dd5f5636f08e5718229748f4210aef4d57595265d7baad8e6adfbd78e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030",
+      "language": "en",
+      "label": "Research and technological development",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030",
+      "language": "fr",
+      "label": "Recherche et d\u00E9veloppement technologique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3030",
+      "language": "en",
+      "label": "artificial intelligence",
+      "source_uri": "http://eurovoc.europa.eu/3030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3030",
+      "language": "fr",
+      "label": "intelligence artificielle",
+      "source_uri": "http://eurovoc.europa.eu/3030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "en",
+      "label": "new technology",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "fr",
+      "label": "nouvelle technologie",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "en",
+      "label": "harmonisation of standards",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "fr",
+      "label": "harmonisation des normes",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_5a195ffd",
+      "language": "en",
+      "label": "smart technology",
+      "source_uri": "http://eurovoc.europa.eu/c_5a195ffd"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_5a195ffd",
+      "language": "fr",
+      "label": "technologie intelligente",
+      "source_uri": "http://eurovoc.europa.eu/c_5a195ffd"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "9101a7bd8706bb3db9a30e4f504e2ae34181abfd5008ef7b67b30e1169f5e283"
 }

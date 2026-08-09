@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "6d49f93cfdee8bd801fb0724d05299e4b0b20ea5babfa04553feef16f089fcf2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "en",
+      "label": "Consumer information, education and representation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "fr",
+      "label": "Information, \u00E9ducation et repr\u00E9sentation des consommateurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/08133",
+      "language": "en",
+      "label": "goods",
+      "source_uri": "http://eurovoc.europa.eu/08133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/08133",
+      "language": "fr",
+      "label": "biens",
+      "source_uri": "http://eurovoc.europa.eu/08133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "en",
+      "label": "contract",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "fr",
+      "label": "contrat",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3635",
+      "language": "en",
+      "label": "producer\u0027s liability",
+      "source_uri": "http://eurovoc.europa.eu/3635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3635",
+      "language": "fr",
+      "label": "responsabilit\u00E9 du producteur",
+      "source_uri": "http://eurovoc.europa.eu/3635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3642",
+      "language": "en",
+      "label": "product life",
+      "source_uri": "http://eurovoc.europa.eu/3642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3642",
+      "language": "fr",
+      "label": "dur\u00E9e de vie du produit",
+      "source_uri": "http://eurovoc.europa.eu/3642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "en",
+      "label": "harmonisation of standards",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "fr",
+      "label": "harmonisation des normes",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "en",
+      "label": "EC conformity marking",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "fr",
+      "label": "marquage CE de conformit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/893",
+      "language": "en",
+      "label": "labelling",
+      "source_uri": "http://eurovoc.europa.eu/893"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/893",
+      "language": "fr",
+      "label": "\u00E9tiquetage",
+      "source_uri": "http://eurovoc.europa.eu/893"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_e5dbcb63",
+      "language": "en",
+      "label": "consumer law",
+      "source_uri": "http://eurovoc.europa.eu/c_e5dbcb63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_e5dbcb63",
+      "language": "fr",
+      "label": "droit des consommateurs",
+      "source_uri": "http://eurovoc.europa.eu/c_e5dbcb63"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "a2adae0d43e0ede5525adcd5427472ad60afd400720c4a307430952b50384313"
 }

@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32013r0575r(10):2026-03-13",
   "work_identifier": "http://publications.europa.eu/resource/celex/32013R0575R(10)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "REG",
   "valid_from": "2026-03-13",
   "valid_time_source": "publisher",
   "publication_date": "2026-03-13",
@@ -28,6 +28,12 @@
       "observed_from": "2026-08-08T03:00:14Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form,publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -77,12 +83,129 @@
   "relations": [],
   "raw": {
     "celex": "32013R0575R(10)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "REG",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "4b8f3c429ad36a946354465149e3d4cff02b11f08b4d05f6695d58d85b176303"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "en",
+      "label": "trade information",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "fr",
+      "label": "information commerciale",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "en",
+      "label": "financial control",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "fr",
+      "label": "contr\u00F4le financier",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2447",
+      "language": "en",
+      "label": "banking policy",
+      "source_uri": "http://eurovoc.europa.eu/2447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2447",
+      "language": "fr",
+      "label": "politique bancaire",
+      "source_uri": "http://eurovoc.europa.eu/2447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3220",
+      "language": "en",
+      "label": "private-sector liquidity",
+      "source_uri": "http://eurovoc.europa.eu/3220"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3220",
+      "language": "fr",
+      "label": "disponibilit\u00E9 mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/3220"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "707dd5b644e151ccf198923561cc923197b99da00745dfdb9bea71cb2abcebbf"
 }

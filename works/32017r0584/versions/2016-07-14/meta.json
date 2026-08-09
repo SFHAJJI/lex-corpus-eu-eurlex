@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "ad5b10aa08e1683353eab5e9b082f08e0d6225ba7ec91bdc62bf0dbccaf3ae60"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/174",
+      "language": "en",
+      "label": "management audit",
+      "source_uri": "http://eurovoc.europa.eu/174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/174",
+      "language": "fr",
+      "label": "contr\u00F4le de gestion",
+      "source_uri": "http://eurovoc.europa.eu/174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "en",
+      "label": "financial control",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "fr",
+      "label": "contr\u00F4le financier",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2449",
+      "language": "en",
+      "label": "trade policy",
+      "source_uri": "http://eurovoc.europa.eu/2449"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2449",
+      "language": "fr",
+      "label": "politique commerciale",
+      "source_uri": "http://eurovoc.europa.eu/2449"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "electronic commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "7c6c64cf88ea9408c24d2f3ae077c1280f35adafc258862e1f4e7979f2ab4917"
 }

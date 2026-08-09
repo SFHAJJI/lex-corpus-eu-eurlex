@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,80 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "063329cfe9aa6b40b957bb2c9fd8b7858a86a63163098a904686a864e0bb98db"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "en",
+      "label": "Judicial cooperation in civil matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re civile",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1672",
+      "language": "en",
+      "label": "liquidation",
+      "source_uri": "http://eurovoc.europa.eu/1672"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1672",
+      "language": "fr",
+      "label": "liquidation de soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1672"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2699",
+      "language": "en",
+      "label": "civil procedure",
+      "source_uri": "http://eurovoc.europa.eu/2699"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2699",
+      "language": "fr",
+      "label": "proc\u00E9dure civile",
+      "source_uri": "http://eurovoc.europa.eu/2699"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "a652708d21dc357abd745cb48aff8f19304222711c4fe3fe8f5b150efa45dacd"
 }

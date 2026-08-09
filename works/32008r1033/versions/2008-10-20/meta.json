@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,80 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "7184c9c6d1bfe0fce9cb3e942f4077b37bcce3c57849f26ce91a673377350b50"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0840",
+      "language": "en",
+      "label": "Concentrations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0840"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0840",
+      "language": "fr",
+      "label": "Concentrations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0840"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "en",
+      "label": "merger control",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "fr",
+      "label": "contr\u00F4le des concentrations",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "en",
+      "label": "application of EU law",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "fr",
+      "label": "application du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/69",
+      "language": "en",
+      "label": "economic concentration",
+      "source_uri": "http://eurovoc.europa.eu/69"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/69",
+      "language": "fr",
+      "label": "concentration \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/69"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "669a46e245cbd84a83bef39c6645f35f6b9f8d7ad3c3a950d8f5513ddea10bfa"
 }

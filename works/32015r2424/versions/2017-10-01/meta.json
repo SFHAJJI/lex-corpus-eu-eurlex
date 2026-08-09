@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,95 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "fbebf4df9d7d57e66efcfcee907048509fe3713621eae7d925c5f01fe5316b63"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3661",
+      "language": "en",
+      "label": "brand name",
+      "source_uri": "http://eurovoc.europa.eu/3661"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3661",
+      "language": "fr",
+      "label": "marque commerciale",
+      "source_uri": "http://eurovoc.europa.eu/3661"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3662",
+      "language": "en",
+      "label": "registered trade mark",
+      "source_uri": "http://eurovoc.europa.eu/3662"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3662",
+      "language": "fr",
+      "label": "marque d\u00E9pos\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/3662"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3665",
+      "language": "en",
+      "label": "trade-mark law",
+      "source_uri": "http://eurovoc.europa.eu/3665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3665",
+      "language": "fr",
+      "label": "droit des marques",
+      "source_uri": "http://eurovoc.europa.eu/3665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3666",
+      "language": "en",
+      "label": "EU trade mark",
+      "source_uri": "http://eurovoc.europa.eu/3666"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3666",
+      "language": "fr",
+      "label": "marque de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/3666"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6128",
+      "language": "en",
+      "label": "European Union Intellectual Property Office",
+      "source_uri": "http://eurovoc.europa.eu/6128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6128",
+      "language": "fr",
+      "label": "Office de l\u0027Union europ\u00E9enne pour la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/6128"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "e82809446f6599a05970f36c674be1e2ef9baaed5cc4f1964870bd95e71c8d45"
 }

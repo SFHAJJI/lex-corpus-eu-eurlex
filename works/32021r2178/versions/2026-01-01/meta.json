@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,179 @@
     "domains": "consumer-environment,wave-1-existing-instruments",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "58adfb896cc9117daee273b1babcb6f4cefdc2cea343f9027b5ff73faff56e52"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "en",
+      "label": "Instruments of economic policy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "fr",
+      "label": "Instruments de politique \u00E9conomique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510",
+      "language": "en",
+      "label": "Environment",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510",
+      "language": "fr",
+      "label": "Environnement",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "investment",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "en",
+      "label": "insurance company",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "fr",
+      "label": "compagnie d\u0027assurances",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "en",
+      "label": "technical specification",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "fr",
+      "label": "sp\u00E9cification technique",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate change policy",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "fr",
+      "label": "politique en mati\u00E8re de changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "economic instrument for the environment",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "fr",
+      "label": "instrument \u00E9conomique pour l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "en",
+      "label": "EU environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "fr",
+      "label": "politique de l\u0027environnement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5992",
+      "language": "en",
+      "label": "economic activity",
+      "source_uri": "http://eurovoc.europa.eu/5992"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5992",
+      "language": "fr",
+      "label": "activit\u00E9 \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/5992"
+    }
+  ],
+  "document_roles": [
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "7ecf805c256a15136df18dc2a8add46605932dd81a15ae970c8969910146b0be"
 }

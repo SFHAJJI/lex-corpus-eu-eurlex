@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,122 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "82dd5f31d0f0ebe6623f08ec4c5cf2288b724eff865c313f86348aa67652949c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "en",
+      "label": "application of EU law",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "fr",
+      "label": "application du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3003",
+      "language": "en",
+      "label": "aid system",
+      "source_uri": "http://eurovoc.europa.eu/3003"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3003",
+      "language": "fr",
+      "label": "r\u00E9gime d\u0027aide",
+      "source_uri": "http://eurovoc.europa.eu/3003"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "en",
+      "label": "European Commission",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "fr",
+      "label": "Commission europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "en",
+      "label": "codification of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "fr",
+      "label": "codification du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "d8da8e6c6fedf00035bcff684fba7399e98bbacfb2d140ffba0ded971695f93d"
 }

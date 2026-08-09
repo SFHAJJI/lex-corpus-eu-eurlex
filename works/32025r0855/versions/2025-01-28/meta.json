@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,123 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "761f44a27a8492b05129c88deffe333158d98a2b01435ba04aa2492f03219475"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "en",
+      "label": "Banks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "fr",
+      "label": "Banques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2665",
+      "language": "en",
+      "label": "commodity price",
+      "source_uri": "http://eurovoc.europa.eu/2665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2665",
+      "language": "fr",
+      "label": "prix des produits de base",
+      "source_uri": "http://eurovoc.europa.eu/2665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_18180cde",
+      "language": "en",
+      "label": "option contract",
+      "source_uri": "http://eurovoc.europa.eu/c_18180cde"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_18180cde",
+      "language": "fr",
+      "label": "contrat d\u2019option",
+      "source_uri": "http://eurovoc.europa.eu/c_18180cde"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "en",
+      "label": "financial supervision",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "fr",
+      "label": "surveillance financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_dcf3f7c0",
+      "language": "en",
+      "label": "financial risk",
+      "source_uri": "http://eurovoc.europa.eu/c_dcf3f7c0"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_dcf3f7c0",
+      "language": "fr",
+      "label": "risque financier",
+      "source_uri": "http://eurovoc.europa.eu/c_dcf3f7c0"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "ee35e96dddc5986f42e8a4e48d196811f1c7bff2790a9f4acfe4e7347e7e5b1f"
 }

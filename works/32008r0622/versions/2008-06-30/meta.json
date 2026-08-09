@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,80 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "b20342a8dbdce6a797470f3e0eb0e2738e7608d072296f9f0ba5b4c1071cf31d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "en",
+      "label": "complaint to the Commission",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "fr",
+      "label": "plainte \u00E0 la Commission",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "infringement procedure (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "fr",
+      "label": "proc\u00E9dure d\u0027infraction (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "d1b8e7631325cd20f788c67e3de6bba09d47976a81fac497c9cf9f86ea93fe9d"
 }

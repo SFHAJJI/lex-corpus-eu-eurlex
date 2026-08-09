@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "779eefdabd74603a0f593f4c748d3158fc651a400180d4416fd389cb61f0dc24"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1122",
+      "language": "en",
+      "label": "merger",
+      "source_uri": "http://eurovoc.europa.eu/1122"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1122",
+      "language": "fr",
+      "label": "fusion d\u0027entreprises",
+      "source_uri": "http://eurovoc.europa.eu/1122"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2891",
+      "language": "en",
+      "label": "report",
+      "source_uri": "http://eurovoc.europa.eu/2891"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2891",
+      "language": "fr",
+      "label": "rapport",
+      "source_uri": "http://eurovoc.europa.eu/2891"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3004",
+      "language": "en",
+      "label": "demerger",
+      "source_uri": "http://eurovoc.europa.eu/3004"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3004",
+      "language": "fr",
+      "label": "scission d\u0027entreprises",
+      "source_uri": "http://eurovoc.europa.eu/3004"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4190",
+      "language": "en",
+      "label": "public limited company",
+      "source_uri": "http://eurovoc.europa.eu/4190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4190",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 anonyme",
+      "source_uri": "http://eurovoc.europa.eu/4190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5532",
+      "language": "en",
+      "label": "consultancy",
+      "source_uri": "http://eurovoc.europa.eu/5532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5532",
+      "language": "fr",
+      "label": "conseil et expertise",
+      "source_uri": "http://eurovoc.europa.eu/5532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1cf55720f19fd73bc7b61f261d1768b78081a3273a6120be8d78010056a48587"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,136 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "465c54449ec2bb20dc29f8acc033ef11a1b019ac049e047e561a28be549e4e0c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2150",
+      "language": "en",
+      "label": "stock-exchange transaction",
+      "source_uri": "http://eurovoc.europa.eu/2150"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2150",
+      "language": "fr",
+      "label": "op\u00E9ration de bourse",
+      "source_uri": "http://eurovoc.europa.eu/2150"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3347",
+      "language": "en",
+      "label": "prevention of delinquency",
+      "source_uri": "http://eurovoc.europa.eu/3347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3347",
+      "language": "fr",
+      "label": "lutte contre la d\u00E9linquance",
+      "source_uri": "http://eurovoc.europa.eu/3347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "en",
+      "label": "dissemination of information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "fr",
+      "label": "diffusion de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5570",
+      "language": "en",
+      "label": "insider trading",
+      "source_uri": "http://eurovoc.europa.eu/5570"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5570",
+      "language": "fr",
+      "label": "d\u00E9lit d\u0027initi\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/5570"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "en",
+      "label": "confidentiality",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "fr",
+      "label": "confidentialit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "2bc8b34133a1066098044beb01f84717451c95258358728cf694739a617d814b"
 }

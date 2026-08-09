@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "73098342d53d7add352b2d840a6080c353463be4645189d3e78755be4ca9d5d2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020",
+      "language": "en",
+      "label": "Rational utilisation and conservation of energy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020",
+      "language": "fr",
+      "label": "Utilisation rationnelle et \u00E9conomies d\u0027\u00E9nergie",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330",
+      "language": "en",
+      "label": "Internal market: approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330",
+      "language": "fr",
+      "label": "March\u00E9 int\u00E9rieur: rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510",
+      "language": "en",
+      "label": "Environment",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510",
+      "language": "fr",
+      "label": "Environnement",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "en",
+      "label": "technical specification",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "fr",
+      "label": "sp\u00E9cification technique",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4488",
+      "language": "en",
+      "label": "data processing",
+      "source_uri": "http://eurovoc.europa.eu/4488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4488",
+      "language": "fr",
+      "label": "traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5573",
+      "language": "en",
+      "label": "product designation",
+      "source_uri": "http://eurovoc.europa.eu/5573"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5573",
+      "language": "fr",
+      "label": "d\u00E9nomination du produit",
+      "source_uri": "http://eurovoc.europa.eu/5573"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5949",
+      "language": "en",
+      "label": "information technology user",
+      "source_uri": "http://eurovoc.europa.eu/5949"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5949",
+      "language": "fr",
+      "label": "utilisateur de l\u0027informatique",
+      "source_uri": "http://eurovoc.europa.eu/5949"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_18802d13",
+      "language": "en",
+      "label": "ecodesign",
+      "source_uri": "http://eurovoc.europa.eu/c_18802d13"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_18802d13",
+      "language": "fr",
+      "label": "\u00E9coconception",
+      "source_uri": "http://eurovoc.europa.eu/c_18802d13"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_ab46334d",
+      "language": "en",
+      "label": "value chain",
+      "source_uri": "http://eurovoc.europa.eu/c_ab46334d"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_ab46334d",
+      "language": "fr",
+      "label": "cha\u00EEne de valorisation",
+      "source_uri": "http://eurovoc.europa.eu/c_ab46334d"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b46c2b62",
+      "language": "en",
+      "label": "sustainable product",
+      "source_uri": "http://eurovoc.europa.eu/c_b46c2b62"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b46c2b62",
+      "language": "fr",
+      "label": "produit durable",
+      "source_uri": "http://eurovoc.europa.eu/c_b46c2b62"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "a7ad331e6dcd2439f840d9f4a8071b2575e489e00dbec31e894e045faa2d7e4c"
 }

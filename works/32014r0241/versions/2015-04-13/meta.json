@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,109 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "628526cbf2f538d2dc81534eb165219afa1eaf57932ead74e54a5543dba6f3e4"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1711",
+      "language": "en",
+      "label": "cost-benefit analysis",
+      "source_uri": "http://eurovoc.europa.eu/1711"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1711",
+      "language": "fr",
+      "label": "analyse co\u00FBt-b\u00E9n\u00E9fice",
+      "source_uri": "http://eurovoc.europa.eu/1711"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "en",
+      "label": "financial control",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "fr",
+      "label": "contr\u00F4le financier",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4189",
+      "language": "en",
+      "label": "organisation",
+      "source_uri": "http://eurovoc.europa.eu/4189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4189",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5218",
+      "language": "en",
+      "label": "share capital",
+      "source_uri": "http://eurovoc.europa.eu/5218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5218",
+      "language": "fr",
+      "label": "capital social",
+      "source_uri": "http://eurovoc.europa.eu/5218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    }
+  ],
+  "document_roles": [
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "79d73727d03a8ed173566ba100a5aa95f7856678cc4203c6bf5e0bd4e5ceb6bd"
 }

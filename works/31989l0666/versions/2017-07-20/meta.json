@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,95 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "0ecc435866fa961c282c12002fc0fc5dae8789e6201a8e2e350ca2d363bf553d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1156",
+      "language": "en",
+      "label": "business management",
+      "source_uri": "http://eurovoc.europa.eu/1156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1156",
+      "language": "fr",
+      "label": "gestion d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/1156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2864",
+      "language": "en",
+      "label": "publication of accounts",
+      "source_uri": "http://eurovoc.europa.eu/2864"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2864",
+      "language": "fr",
+      "label": "publicit\u00E9 des comptes",
+      "source_uri": "http://eurovoc.europa.eu/2864"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4189",
+      "language": "en",
+      "label": "organisation",
+      "source_uri": "http://eurovoc.europa.eu/4189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4189",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4313",
+      "language": "en",
+      "label": "branch",
+      "source_uri": "http://eurovoc.europa.eu/4313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4313",
+      "language": "fr",
+      "label": "succursale",
+      "source_uri": "http://eurovoc.europa.eu/4313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "4ffff9ec2797cae9267fb690c0a7858e60642aa855165414b923f51fb3236fdb"
 }

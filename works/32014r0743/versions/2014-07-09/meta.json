@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "92f64b355a96f7796d2e9e6afbe68a8e6e5de987050a403ca4711296598941b1"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "en",
+      "label": "environmental monitoring",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "fr",
+      "label": "surveillance de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435007",
+      "language": "en",
+      "label": "EU emission allowance",
+      "source_uri": "http://eurovoc.europa.eu/435007"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435007",
+      "language": "fr",
+      "label": "droits d\u0027\u00E9missions UE",
+      "source_uri": "http://eurovoc.europa.eu/435007"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5300",
+      "language": "en",
+      "label": "analytical chemistry",
+      "source_uri": "http://eurovoc.europa.eu/5300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5300",
+      "language": "fr",
+      "label": "chimie analytique",
+      "source_uri": "http://eurovoc.europa.eu/5300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6043",
+      "language": "en",
+      "label": "fuel",
+      "source_uri": "http://eurovoc.europa.eu/6043"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6043",
+      "language": "fr",
+      "label": "combustible",
+      "source_uri": "http://eurovoc.europa.eu/6043"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "8dc3e720dd2a81569ec30f7f877489dadb3eee69c25cd3fecbeb3371d022080b"
 }

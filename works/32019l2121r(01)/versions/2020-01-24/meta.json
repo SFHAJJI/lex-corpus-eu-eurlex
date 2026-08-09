@@ -28,6 +28,12 @@
       "observed_from": "2026-08-07T03:22:17Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -84,5 +90,150 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "3b0188e4f1114c2d2a8b2bc0306a9fad43d64206628b0baf1e3d3d36621c1751"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "en",
+      "label": "merger control",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "fr",
+      "label": "contr\u00F4le des concentrations",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4196",
+      "language": "en",
+      "label": "company with share capital",
+      "source_uri": "http://eurovoc.europa.eu/4196"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4196",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de capitaux",
+      "source_uri": "http://eurovoc.europa.eu/4196"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4492",
+      "language": "en",
+      "label": "transfer of businesses",
+      "source_uri": "http://eurovoc.europa.eu/4492"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4492",
+      "language": "fr",
+      "label": "transfert d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/4492"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/532",
+      "language": "en",
+      "label": "right of establishment",
+      "source_uri": "http://eurovoc.europa.eu/532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/532",
+      "language": "fr",
+      "label": "droit d\u0027\u00E9tablissement",
+      "source_uri": "http://eurovoc.europa.eu/532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/69",
+      "language": "en",
+      "label": "economic concentration",
+      "source_uri": "http://eurovoc.europa.eu/69"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/69",
+      "language": "fr",
+      "label": "concentration \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/69"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "178760d0887a0ce27f8e2d19aa4f12e5309f691d2165989cb583364d8b8f6903"
 }

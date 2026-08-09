@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "891ad7faa91fba1745051cf93746b7af3c5d14cb2ed8f15297e984e66b49af90"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1567",
+      "language": "en",
+      "label": "trade agreement",
+      "source_uri": "http://eurovoc.europa.eu/1567"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1567",
+      "language": "fr",
+      "label": "accord commercial",
+      "source_uri": "http://eurovoc.europa.eu/1567"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3663",
+      "language": "en",
+      "label": "designs and models",
+      "source_uri": "http://eurovoc.europa.eu/3663"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3663",
+      "language": "fr",
+      "label": "dessin et mod\u00E8le",
+      "source_uri": "http://eurovoc.europa.eu/3663"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3665",
+      "language": "en",
+      "label": "trade-mark law",
+      "source_uri": "http://eurovoc.europa.eu/3665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3665",
+      "language": "fr",
+      "label": "droit des marques",
+      "source_uri": "http://eurovoc.europa.eu/3665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "inter-company agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/550",
+      "language": "en",
+      "label": "patent law",
+      "source_uri": "http://eurovoc.europa.eu/550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/550",
+      "language": "fr",
+      "label": "droit des brevets",
+      "source_uri": "http://eurovoc.europa.eu/550"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1022438834609551981e944b34fba3552de329272341bf11cd06aca0e5c7459d"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "3ea7f9636e8c765ea1e1543d7c78cd22714e624193ef9fa29c0be103fe25d029"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "en",
+      "label": "Prohibited agreements",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "fr",
+      "label": "Accords interdits",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "en",
+      "label": "air transport",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "fr",
+      "label": "transport a\u00E9rien",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/518",
+      "language": "en",
+      "label": "air law",
+      "source_uri": "http://eurovoc.europa.eu/518"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/518",
+      "language": "fr",
+      "label": "droit a\u00E9rien",
+      "source_uri": "http://eurovoc.europa.eu/518"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "en",
+      "label": "EU law",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "fr",
+      "label": "droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "en",
+      "label": "codification of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "fr",
+      "label": "codification du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6257",
+      "language": "en",
+      "label": "simplification of legislation",
+      "source_uri": "http://eurovoc.europa.eu/6257"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6257",
+      "language": "fr",
+      "label": "simplification l\u00E9gislative",
+      "source_uri": "http://eurovoc.europa.eu/6257"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "8693ce867951ac74bc8f5872ead7eb109207cc60d841faaaab7767d1c565fed7"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,130 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "6320073bfe15dc28eac619089e356a81b7c6e6f596b2a63a043e900330920123"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202010",
+      "language": "en",
+      "label": "Insurance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202010",
+      "language": "fr",
+      "label": "Assurances",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1638",
+      "language": "en",
+      "label": "freedom to provide services",
+      "source_uri": "http://eurovoc.europa.eu/1638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1638",
+      "language": "fr",
+      "label": "libre prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/1638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "en",
+      "label": "insurance company",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "fr",
+      "label": "compagnie d\u0027assurances",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3723",
+      "language": "en",
+      "label": "life assurance",
+      "source_uri": "http://eurovoc.europa.eu/3723"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3723",
+      "language": "fr",
+      "label": "assurance vie",
+      "source_uri": "http://eurovoc.europa.eu/3723"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/532",
+      "language": "en",
+      "label": "right of establishment",
+      "source_uri": "http://eurovoc.europa.eu/532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/532",
+      "language": "fr",
+      "label": "droit d\u0027\u00E9tablissement",
+      "source_uri": "http://eurovoc.europa.eu/532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/549",
+      "language": "en",
+      "label": "insurance law",
+      "source_uri": "http://eurovoc.europa.eu/549"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/549",
+      "language": "fr",
+      "label": "droit des assurances",
+      "source_uri": "http://eurovoc.europa.eu/549"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "solvency ii directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "886fe6118eca0fb1ac3a2a0a1a8767d9d0b900f1356de403ed6d999535238888"
 }

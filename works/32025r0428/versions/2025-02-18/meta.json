@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,137 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "c916be046d71a5ea80ce09b35e931c2fef0a0482a3a34b3a2f60314d2aa04124"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/170",
+      "language": "en",
+      "label": "taxpayer",
+      "source_uri": "http://eurovoc.europa.eu/170"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/170",
+      "language": "fr",
+      "label": "contribuable",
+      "source_uri": "http://eurovoc.europa.eu/170"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "en",
+      "label": "goods and services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "fr",
+      "label": "biens et services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6191",
+      "language": "en",
+      "label": "digitisation",
+      "source_uri": "http://eurovoc.europa.eu/6191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6191",
+      "language": "fr",
+      "label": "num\u00E9risation",
+      "source_uri": "http://eurovoc.europa.eu/6191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6767",
+      "language": "en",
+      "label": "electronic document",
+      "source_uri": "http://eurovoc.europa.eu/6767"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6767",
+      "language": "fr",
+      "label": "document \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6767"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6894",
+      "language": "en",
+      "label": "electronic government",
+      "source_uri": "http://eurovoc.europa.eu/6894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6894",
+      "language": "fr",
+      "label": "administration \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "en",
+      "label": "tax exemption",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exon\u00E9ration fiscale",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "91e0beb30025f1a4eece341dd58e1f1192e213c3a9da9dd8bdd4771731262b4c"
 }

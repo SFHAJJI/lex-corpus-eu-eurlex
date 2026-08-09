@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,147 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:seed"
   },
-  "record_sha256": "0bb982eb7b44c07dea708db3ba5d830d4210b53ea81a8fbe6d988d1a7f8771ca"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520",
+      "language": "en",
+      "label": "Gender equality",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520",
+      "language": "fr",
+      "label": "\u00C9galit\u00E9 entre les femmes et les hommes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "en",
+      "label": "Wages, income and working hours",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "fr",
+      "label": "Salaires, revenus et dur\u00E9e du travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "EU employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique de l\u0027emploi de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3273",
+      "language": "en",
+      "label": "remuneration of work",
+      "source_uri": "http://eurovoc.europa.eu/3273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3273",
+      "language": "fr",
+      "label": "r\u00E9mun\u00E9ration du travail",
+      "source_uri": "http://eurovoc.europa.eu/3273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "en",
+      "label": "gender equality",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 homme-femme",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/454",
+      "language": "en",
+      "label": "sexual discrimination",
+      "source_uri": "http://eurovoc.europa.eu/454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/454",
+      "language": "fr",
+      "label": "discrimination sexuelle",
+      "source_uri": "http://eurovoc.europa.eu/454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/455",
+      "language": "en",
+      "label": "economic discrimination",
+      "source_uri": "http://eurovoc.europa.eu/455"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/455",
+      "language": "fr",
+      "label": "discrimination \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/455"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/687",
+      "language": "en",
+      "label": "equal pay",
+      "source_uri": "http://eurovoc.europa.eu/687"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/687",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de r\u00E9mun\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/687"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "en",
+      "label": "equal treatment",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de traitement",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    }
+  ],
+  "record_sha256": "f1393ef38d7606b6280c8e4cf9389326b33aca2e8fb13d662db4438c9ce0a95a"
 }

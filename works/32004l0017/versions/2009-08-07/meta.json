@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,150 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "324b8d2aea7cf439a8c96e9b16d5c382e769659f1527354ecfc3162564338a6f"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1655",
+      "language": "en",
+      "label": "transport lines",
+      "source_uri": "http://eurovoc.europa.eu/1655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1655",
+      "language": "fr",
+      "label": "ligne de transport",
+      "source_uri": "http://eurovoc.europa.eu/1655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award of contract",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2821",
+      "language": "en",
+      "label": "mineral prospecting",
+      "source_uri": "http://eurovoc.europa.eu/2821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2821",
+      "language": "fr",
+      "label": "prospection mini\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/2821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3764",
+      "language": "en",
+      "label": "petroleum exploration",
+      "source_uri": "http://eurovoc.europa.eu/3764"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3764",
+      "language": "fr",
+      "label": "exploration p\u00E9troli\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3764"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4133",
+      "language": "en",
+      "label": "postal service",
+      "source_uri": "http://eurovoc.europa.eu/4133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4133",
+      "language": "fr",
+      "label": "service postal",
+      "source_uri": "http://eurovoc.europa.eu/4133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/475",
+      "language": "en",
+      "label": "energy distribution",
+      "source_uri": "http://eurovoc.europa.eu/475"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/475",
+      "language": "fr",
+      "label": "distribution d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/475"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "en",
+      "label": "services contract",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "fr",
+      "label": "march\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/597",
+      "language": "en",
+      "label": "water",
+      "source_uri": "http://eurovoc.europa.eu/597"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/597",
+      "language": "fr",
+      "label": "eau",
+      "source_uri": "http://eurovoc.europa.eu/597"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6365",
+      "language": "en",
+      "label": "service concession",
+      "source_uri": "http://eurovoc.europa.eu/6365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6365",
+      "language": "fr",
+      "label": "concession de services",
+      "source_uri": "http://eurovoc.europa.eu/6365"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "237abfc3e16e7e7804bc1571c5eb7e75d3f8d0718e8db4afd97a4f936be0da7a"
 }

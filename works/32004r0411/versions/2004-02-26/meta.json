@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "a012d871f79f3ce2b1a079491af510d7e66ab8ed48cd4785a402f0200b425e1b"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "en",
+      "label": "Prohibited agreements",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "fr",
+      "label": "Accords interdits",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0930",
+      "language": "en",
+      "label": "Indirect taxation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0930"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0930",
+      "language": "fr",
+      "label": "Fiscalit\u00E9 indirecte",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0930"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "inter-company agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "en",
+      "label": "air transport",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "fr",
+      "label": "transport a\u00E9rien",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/75",
+      "language": "en",
+      "label": "competition",
+      "source_uri": "http://eurovoc.europa.eu/75"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/75",
+      "language": "fr",
+      "label": "concurrence",
+      "source_uri": "http://eurovoc.europa.eu/75"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/818",
+      "language": "en",
+      "label": "transport company",
+      "source_uri": "http://eurovoc.europa.eu/818"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/818",
+      "language": "fr",
+      "label": "entreprise de transport",
+      "source_uri": "http://eurovoc.europa.eu/818"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "07b7fd15e5f10f859b585e732cb02fd5d63040df00a860f28214771c8e43e921"
 }

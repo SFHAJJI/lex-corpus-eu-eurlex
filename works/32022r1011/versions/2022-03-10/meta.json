@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "ab802b90e067c0bbb8eb2f69a99b859092d6eee0f66688b84564ead61566edb2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "en",
+      "label": "Banks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "fr",
+      "label": "Banques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "en",
+      "label": "contract",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "fr",
+      "label": "contrat",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "en",
+      "label": "financial supervision",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "fr",
+      "label": "surveillance financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_a18525ab",
+      "language": "en",
+      "label": "financial derivative",
+      "source_uri": "http://eurovoc.europa.eu/c_a18525ab"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_a18525ab",
+      "language": "fr",
+      "label": "d\u00E9riv\u00E9 financier",
+      "source_uri": "http://eurovoc.europa.eu/c_a18525ab"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_dcf3f7c0",
+      "language": "en",
+      "label": "financial risk",
+      "source_uri": "http://eurovoc.europa.eu/c_dcf3f7c0"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_dcf3f7c0",
+      "language": "fr",
+      "label": "risque financier",
+      "source_uri": "http://eurovoc.europa.eu/c_dcf3f7c0"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "3e8a7558d2774fc6c9532bdbe4daaefbfe897d468127b4b4e7083a6e59391646"
 }

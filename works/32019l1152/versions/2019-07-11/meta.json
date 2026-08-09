@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -88,5 +94,122 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:seed"
   },
-  "record_sha256": "4f5d1473fb12aca2a2d27d0bd4dfa0ace789acb0116b319c0d5c81eae8a6bd62"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "en",
+      "label": "Working conditions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "fr",
+      "label": "Conditions de travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "en",
+      "label": "worker information",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "fr",
+      "label": "information des travailleurs",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1646",
+      "language": "en",
+      "label": "dismissal",
+      "source_uri": "http://eurovoc.europa.eu/1646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1646",
+      "language": "fr",
+      "label": "licenciement",
+      "source_uri": "http://eurovoc.europa.eu/1646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/166",
+      "language": "en",
+      "label": "work contract",
+      "source_uri": "http://eurovoc.europa.eu/166"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/166",
+      "language": "fr",
+      "label": "contrat de travail",
+      "source_uri": "http://eurovoc.europa.eu/166"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "en",
+      "label": "collective agreement",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "fr",
+      "label": "convention collective",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "EU employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique de l\u0027emploi de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3562",
+      "language": "en",
+      "label": "probationary period",
+      "source_uri": "http://eurovoc.europa.eu/3562"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3562",
+      "language": "fr",
+      "label": "p\u00E9riode de stage",
+      "source_uri": "http://eurovoc.europa.eu/3562"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "440e4c420328ebdfec90698ac1dec04128f0545c91083d89502741d8bcc30211"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,192 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:seed"
   },
-  "record_sha256": "c29a2faca57d2155c16e4f71de44cd7f2e4a4622e591b4d1b264b518dfacfb46"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330",
+      "language": "en",
+      "label": "Internal market: approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330",
+      "language": "fr",
+      "label": "March\u00E9 int\u00E9rieur: rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1330"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "en",
+      "label": "contract",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "fr",
+      "label": "contrat",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4099",
+      "language": "en",
+      "label": "service",
+      "source_uri": "http://eurovoc.europa.eu/4099"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4099",
+      "language": "fr",
+      "label": "service",
+      "source_uri": "http://eurovoc.europa.eu/4099"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6191",
+      "language": "en",
+      "label": "digitisation",
+      "source_uri": "http://eurovoc.europa.eu/6191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6191",
+      "language": "fr",
+      "label": "num\u00E9risation",
+      "source_uri": "http://eurovoc.europa.eu/6191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "en",
+      "label": "digital technology",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "fr",
+      "label": "technologie num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_6f7bbe63",
+      "language": "en",
+      "label": "digital single market",
+      "source_uri": "http://eurovoc.europa.eu/c_6f7bbe63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_6f7bbe63",
+      "language": "fr",
+      "label": "march\u00E9 unique num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/c_6f7bbe63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f56da2a",
+      "language": "en",
+      "label": "digital distribution",
+      "source_uri": "http://eurovoc.europa.eu/c_8f56da2a"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f56da2a",
+      "language": "fr",
+      "label": "diffusion num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/c_8f56da2a"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "5b4ccb9bfa782bb904ade497c1945e22d85b05d06bf6a52d42c908bb4b3e1644"
 }

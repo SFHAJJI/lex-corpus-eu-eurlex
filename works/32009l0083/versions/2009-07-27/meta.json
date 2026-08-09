@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "8b9d2df60b721ce7d0b94ad87ba47f7054a8148b547081d9169252389e1bbcc0"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "en",
+      "label": "Banks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "fr",
+      "label": "Banques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1130",
+      "language": "en",
+      "label": "credit guarantee",
+      "source_uri": "http://eurovoc.europa.eu/1130"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1130",
+      "language": "fr",
+      "label": "garantie de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/1130"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/174",
+      "language": "en",
+      "label": "management audit",
+      "source_uri": "http://eurovoc.europa.eu/174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/174",
+      "language": "fr",
+      "label": "contr\u00F4le de gestion",
+      "source_uri": "http://eurovoc.europa.eu/174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4074",
+      "language": "en",
+      "label": "environmental risk prevention",
+      "source_uri": "http://eurovoc.europa.eu/4074"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4074",
+      "language": "fr",
+      "label": "pr\u00E9vention des risques pour l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/4074"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "ada532de444a6da78152f9c7cce37c199bf99e27b3703150556239fa8188d8e8"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,66 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "7d07a276a09bc05124b42d2a0abcd36b96eaca5d346ab095d95a0eb989faa169"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5494",
+      "language": "en",
+      "label": "opt-out clause",
+      "source_uri": "http://eurovoc.europa.eu/5494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5494",
+      "language": "fr",
+      "label": "clause d\u0027exemption",
+      "source_uri": "http://eurovoc.europa.eu/5494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "6f9b7a8a8beb10cda463ea2672af5470c9727fd5b38662d1f6fe2ac6ad344bb3"
 }

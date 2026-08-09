@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "c71070973918e15a67bd6062d928279a0273f30f735a5efc62d7ccd2f04da36d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2150",
+      "language": "en",
+      "label": "stock-exchange transaction",
+      "source_uri": "http://eurovoc.europa.eu/2150"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2150",
+      "language": "fr",
+      "label": "op\u00E9ration de bourse",
+      "source_uri": "http://eurovoc.europa.eu/2150"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "small and medium-sized enterprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "petites et moyennes entreprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/310",
+      "language": "en",
+      "label": "economic growth",
+      "source_uri": "http://eurovoc.europa.eu/310"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/310",
+      "language": "fr",
+      "label": "croissance \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/310"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "en",
+      "label": "dissemination of information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "fr",
+      "label": "diffusion de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5156",
+      "language": "en",
+      "label": "capital market",
+      "source_uri": "http://eurovoc.europa.eu/5156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5156",
+      "language": "fr",
+      "label": "march\u00E9 des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/5156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/728",
+      "language": "en",
+      "label": "issue of securities",
+      "source_uri": "http://eurovoc.europa.eu/728"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/728",
+      "language": "fr",
+      "label": "\u00E9mission de valeurs",
+      "source_uri": "http://eurovoc.europa.eu/728"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "8df999f20edc9ba60231a3cc71ae668ef6afbacbfbd2f3ed60b96464d846a481"
 }

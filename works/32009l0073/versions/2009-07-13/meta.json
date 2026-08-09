@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,161 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "991a68e840c039d25ccc9bcf989ed12c77a029d3fb81ce27af942c80aec19a06"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "en",
+      "label": "Other measures relating to oil or gas",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "fr",
+      "label": "Autres mesures relatives aux hydrocarbures",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "en",
+      "label": "natural gas",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "fr",
+      "label": "gaz naturel",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4293",
+      "language": "en",
+      "label": "energy storage",
+      "source_uri": "http://eurovoc.europa.eu/4293"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4293",
+      "language": "fr",
+      "label": "stockage de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4293"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/475",
+      "language": "en",
+      "label": "energy distribution",
+      "source_uri": "http://eurovoc.europa.eu/475"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/475",
+      "language": "fr",
+      "label": "distribution d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/475"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "en",
+      "label": "biogas",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "fr",
+      "label": "biogaz",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "en",
+      "label": "energy grid",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "fr",
+      "label": "r\u00E9seau \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/635",
+      "language": "en",
+      "label": "market access",
+      "source_uri": "http://eurovoc.europa.eu/635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/635",
+      "language": "fr",
+      "label": "acc\u00E8s au march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7395",
+      "language": "en",
+      "label": "gas supply",
+      "source_uri": "http://eurovoc.europa.eu/7395"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7395",
+      "language": "fr",
+      "label": "distribution du gaz",
+      "source_uri": "http://eurovoc.europa.eu/7395"
+    }
+  ],
+  "record_sha256": "50901d27604be5240d301612ed83f2f3873fa5d2e227daa3330b3b46f2eb5622"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,262 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "3823c5ef57033e9c9d64b6783de24611173361e55f5c936e19b49afb17a85363"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120",
+      "language": "en",
+      "label": "General provisions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120",
+      "language": "fr",
+      "label": "Dispositions g\u00E9n\u00E9rales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "en",
+      "label": "tax system",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "fr",
+      "label": "fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/114",
+      "language": "en",
+      "label": "Council of the European Union",
+      "source_uri": "http://eurovoc.europa.eu/114"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/114",
+      "language": "fr",
+      "label": "Conseil de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/114"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "accession to the European Union",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "adh\u00E9sion \u00E0 l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1631",
+      "language": "en",
+      "label": "free movement of goods",
+      "source_uri": "http://eurovoc.europa.eu/1631"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1631",
+      "language": "fr",
+      "label": "libre circulation des marchandises",
+      "source_uri": "http://eurovoc.europa.eu/1631"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1633",
+      "language": "en",
+      "label": "free movement of persons",
+      "source_uri": "http://eurovoc.europa.eu/1633"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1633",
+      "language": "fr",
+      "label": "libre circulation des personnes",
+      "source_uri": "http://eurovoc.europa.eu/1633"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2443",
+      "language": "en",
+      "label": "common agricultural policy",
+      "source_uri": "http://eurovoc.europa.eu/2443"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2443",
+      "language": "fr",
+      "label": "politique agricole commune",
+      "source_uri": "http://eurovoc.europa.eu/2443"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2457",
+      "language": "en",
+      "label": "common transport policy",
+      "source_uri": "http://eurovoc.europa.eu/2457"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2457",
+      "language": "fr",
+      "label": "politique commune des transports",
+      "source_uri": "http://eurovoc.europa.eu/2457"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "en",
+      "label": "competition policy",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "fr",
+      "label": "politique de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "en",
+      "label": "energy policy",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3763",
+      "language": "en",
+      "label": "Romania",
+      "source_uri": "http://eurovoc.europa.eu/3763"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3763",
+      "language": "fr",
+      "label": "Roumanie",
+      "source_uri": "http://eurovoc.europa.eu/3763"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4022",
+      "language": "en",
+      "label": "EC Regulation",
+      "source_uri": "http://eurovoc.europa.eu/4022"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4022",
+      "language": "fr",
+      "label": "r\u00E8glement CE",
+      "source_uri": "http://eurovoc.europa.eu/4022"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5063",
+      "language": "en",
+      "label": "Bulgaria",
+      "source_uri": "http://eurovoc.europa.eu/5063"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5063",
+      "language": "fr",
+      "label": "Bulgarie",
+      "source_uri": "http://eurovoc.europa.eu/5063"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "judicial cooperation in criminal matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5788",
+      "language": "en",
+      "label": "common foreign and security policy",
+      "source_uri": "http://eurovoc.europa.eu/5788"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5788",
+      "language": "fr",
+      "label": "politique \u00E9trang\u00E8re et de s\u00E9curit\u00E9 commune",
+      "source_uri": "http://eurovoc.europa.eu/5788"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "en",
+      "label": "EU environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "fr",
+      "label": "politique de l\u0027environnement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "25c0bba246d88c76b149a4a313fe9e478fe56a8249d1e67792f3110b6c260f14"
 }

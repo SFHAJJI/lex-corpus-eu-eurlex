@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,108 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "ff107cd6f516062bc5ee96d775075a71cb315314b3a85a2d62a3dc9b0a5228ac"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510",
+      "language": "en",
+      "label": "Environment",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510",
+      "language": "fr",
+      "label": "Environnement",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1510"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "en",
+      "label": "environmental monitoring",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "fr",
+      "label": "surveillance de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3422",
+      "language": "en",
+      "label": "information network",
+      "source_uri": "http://eurovoc.europa.eu/3422"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3422",
+      "language": "fr",
+      "label": "r\u00E9seau d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/3422"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5310",
+      "language": "en",
+      "label": "European Environment Agency",
+      "source_uri": "http://eurovoc.europa.eu/5310"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5310",
+      "language": "fr",
+      "label": "Agence europ\u00E9enne pour l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/5310"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "en",
+      "label": "codification of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "fr",
+      "label": "codification du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "en",
+      "label": "powers of the institutions (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "fr",
+      "label": "comp\u00E9tence institutionnelle (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "en",
+      "label": "operation of the Institutions",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "fr",
+      "label": "fonctionnement institutionnel",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "b564d62713232ae54c37f6c9795d155b1874c1f786584d8679b71d2db6f04f6e"
 }

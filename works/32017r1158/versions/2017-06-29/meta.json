@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "83674b3275e856ac89ae64b6f68a4c41501ab002ed564211ea2f521f53139e6e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "en",
+      "label": "administrative sanction",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "fr",
+      "label": "sanction administrative",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3878",
+      "language": "en",
+      "label": "penalty",
+      "source_uri": "http://eurovoc.europa.eu/3878"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3878",
+      "language": "fr",
+      "label": "sanction p\u00E9nale",
+      "source_uri": "http://eurovoc.europa.eu/3878"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "en",
+      "label": "securities",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "fr",
+      "label": "valeur mobili\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5217",
+      "language": "en",
+      "label": "administrative measure",
+      "source_uri": "http://eurovoc.europa.eu/5217"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5217",
+      "language": "fr",
+      "label": "acte administratif",
+      "source_uri": "http://eurovoc.europa.eu/5217"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "en",
+      "label": "EU office or agency",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "fr",
+      "label": "organisme de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "cefd59a1ed2cdddbedb505cabfcf37a72ab351f049020abe3eab422f060d6c23"
 }

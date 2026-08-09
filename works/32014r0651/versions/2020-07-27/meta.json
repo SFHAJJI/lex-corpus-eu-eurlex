@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -139,5 +145,80 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:seed"
   },
-  "record_sha256": "96cc791d47d9e8ca9f95b2a2afd8271003af41bea398f3a6f57fa4ff2fc25250"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5494",
+      "language": "en",
+      "label": "opt-out clause",
+      "source_uri": "http://eurovoc.europa.eu/5494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5494",
+      "language": "fr",
+      "label": "clause d\u0027exemption",
+      "source_uri": "http://eurovoc.europa.eu/5494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "General Block Exemption Regulation, GBER",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0651"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "rgec",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0651"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "653d1f4614d5c3830b54ac377661f9ca1b1ba92ac14a73f5cbed75a38b106e54"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,164 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "761455e19965f311accd4ab3e8fb7a28f9e4091e7d71e338fdbe9ce694342a4d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1132",
+      "language": "en",
+      "label": "investment protection",
+      "source_uri": "http://eurovoc.europa.eu/1132"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1132",
+      "language": "fr",
+      "label": "garantie des investissements",
+      "source_uri": "http://eurovoc.europa.eu/1132"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "en",
+      "label": "trade information",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "fr",
+      "label": "information commerciale",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1812",
+      "language": "en",
+      "label": "official market",
+      "source_uri": "http://eurovoc.europa.eu/1812"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1812",
+      "language": "fr",
+      "label": "march\u00E9 r\u00E9glement\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1812"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/248",
+      "language": "en",
+      "label": "stock-exchange listing",
+      "source_uri": "http://eurovoc.europa.eu/248"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/248",
+      "language": "fr",
+      "label": "cotation boursi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/248"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2862",
+      "language": "en",
+      "label": "advertising",
+      "source_uri": "http://eurovoc.europa.eu/2862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2862",
+      "language": "fr",
+      "label": "publicit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/2862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "en",
+      "label": "securities",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "fr",
+      "label": "valeur mobili\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5156",
+      "language": "en",
+      "label": "capital market",
+      "source_uri": "http://eurovoc.europa.eu/5156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5156",
+      "language": "fr",
+      "label": "march\u00E9 des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/5156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/728",
+      "language": "en",
+      "label": "issue of securities",
+      "source_uri": "http://eurovoc.europa.eu/728"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/728",
+      "language": "fr",
+      "label": "\u00E9mission de valeurs",
+      "source_uri": "http://eurovoc.europa.eu/728"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "6d525bfccb1ac54876daf033842070a77331f0f12946c0d8827eef6440f2212c"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,84 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "f9ef36a39fcf23fe13447ec1cbfa24f217824209a005742df810f3e396cf749d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "en",
+      "label": "Wages, income and working hours",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "fr",
+      "label": "Salaires, revenus et dur\u00E9e du travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "en",
+      "label": "worker information",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "fr",
+      "label": "information des travailleurs",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/166",
+      "language": "en",
+      "label": "work contract",
+      "source_uri": "http://eurovoc.europa.eu/166"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/166",
+      "language": "fr",
+      "label": "contrat de travail",
+      "source_uri": "http://eurovoc.europa.eu/166"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Employment Information Directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991L0533"
+    }
+  ],
+  "record_sha256": "3d38239dcf422818f859f5e4fd035e97f983dada5633f254f9a3f303c7563283"
 }

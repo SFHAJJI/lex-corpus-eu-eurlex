@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,123 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "f5f6f3fc4b35c08f2c6c579498bf9f6f3c28cb85aac8d82e19b926b06e271ad4"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "en",
+      "label": "supplies contract",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "fr",
+      "label": "march\u00E9 de fournitures",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "en",
+      "label": "works contract",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "fr",
+      "label": "march\u00E9 de travaux",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award of contract",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "en",
+      "label": "services contract",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "fr",
+      "label": "march\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "en",
+      "label": "administrative transparency",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "fr",
+      "label": "transparence administrative",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6709",
+      "language": "en",
+      "label": "common security and defence policy",
+      "source_uri": "http://eurovoc.europa.eu/6709"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6709",
+      "language": "fr",
+      "label": "politique de s\u00E9curit\u00E9 et de d\u00E9fense commune",
+      "source_uri": "http://eurovoc.europa.eu/6709"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "bf71baa1bdbcfd024ddffc9a1c87c629ff768cf24a2aeb0fac9c0d8c7ff7a0d1"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "2fcb515ae84183c333143d262ade0645e10b8ec94d4298d6a69fce5396ce7828"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "en",
+      "label": "Consumer information, education and representation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "fr",
+      "label": "Information, \u00E9ducation et repr\u00E9sentation des consommateurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "en",
+      "label": "goods and services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "fr",
+      "label": "biens et services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3642",
+      "language": "en",
+      "label": "product life",
+      "source_uri": "http://eurovoc.europa.eu/3642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3642",
+      "language": "fr",
+      "label": "dur\u00E9e de vie du produit",
+      "source_uri": "http://eurovoc.europa.eu/3642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4104",
+      "language": "en",
+      "label": "after-sales service",
+      "source_uri": "http://eurovoc.europa.eu/4104"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4104",
+      "language": "fr",
+      "label": "service apr\u00E8s-vente",
+      "source_uri": "http://eurovoc.europa.eu/4104"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6088",
+      "language": "en",
+      "label": "Internet",
+      "source_uri": "http://eurovoc.europa.eu/6088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6088",
+      "language": "fr",
+      "label": "Internet",
+      "source_uri": "http://eurovoc.europa.eu/6088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/831",
+      "language": "en",
+      "label": "maintenance",
+      "source_uri": "http://eurovoc.europa.eu/831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/831",
+      "language": "fr",
+      "label": "entretien",
+      "source_uri": "http://eurovoc.europa.eu/831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b46c2b62",
+      "language": "en",
+      "label": "sustainable product",
+      "source_uri": "http://eurovoc.europa.eu/c_b46c2b62"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b46c2b62",
+      "language": "fr",
+      "label": "produit durable",
+      "source_uri": "http://eurovoc.europa.eu/c_b46c2b62"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_e5dbcb63",
+      "language": "en",
+      "label": "consumer law",
+      "source_uri": "http://eurovoc.europa.eu/c_e5dbcb63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_e5dbcb63",
+      "language": "fr",
+      "label": "droit des consommateurs",
+      "source_uri": "http://eurovoc.europa.eu/c_e5dbcb63"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "6b9aea00a4ff3af07ef45535ed63d6ebd9e4c08cac05349df86e6580287f5b8d"
 }

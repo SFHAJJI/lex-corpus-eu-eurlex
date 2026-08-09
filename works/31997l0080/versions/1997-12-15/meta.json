@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,77 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "9233b02cb8a08f353a5f6bccfe57b61a011a2ac2fbb06b4108c4374dbe909687"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520",
+      "language": "en",
+      "label": "Gender equality",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520",
+      "language": "fr",
+      "label": "\u00C9galit\u00E9 entre les femmes et les hommes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3346",
+      "language": "en",
+      "label": "European social policy",
+      "source_uri": "http://eurovoc.europa.eu/3346"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3346",
+      "language": "fr",
+      "label": "politique sociale europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/3346"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/454",
+      "language": "en",
+      "label": "sexual discrimination",
+      "source_uri": "http://eurovoc.europa.eu/454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/454",
+      "language": "fr",
+      "label": "discrimination sexuelle",
+      "source_uri": "http://eurovoc.europa.eu/454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "en",
+      "label": "proof",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "fr",
+      "label": "preuve",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "en",
+      "label": "equal treatment",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de traitement",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    }
+  ],
+  "record_sha256": "e1466e813feb8d93829b639c35c5aaff2ebc8e03ea4bedfc196665e7fbbe4eed"
 }

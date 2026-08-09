@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "a595af55f7d06986473759b6d41d6b7795f5d1b5b7c22c56059d7167843734a6"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/214",
+      "language": "en",
+      "label": "institutional cooperation",
+      "source_uri": "http://eurovoc.europa.eu/214"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/214",
+      "language": "fr",
+      "label": "coop\u00E9ration institutionnelle",
+      "source_uri": "http://eurovoc.europa.eu/214"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2150",
+      "language": "en",
+      "label": "stock-exchange transaction",
+      "source_uri": "http://eurovoc.europa.eu/2150"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2150",
+      "language": "fr",
+      "label": "op\u00E9ration de bourse",
+      "source_uri": "http://eurovoc.europa.eu/2150"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2839",
+      "language": "en",
+      "label": "market protection",
+      "source_uri": "http://eurovoc.europa.eu/2839"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2839",
+      "language": "fr",
+      "label": "protection du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/2839"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/447917",
+      "language": "en",
+      "label": "European Union Agency for the Cooperation of Energy Regulators",
+      "source_uri": "http://eurovoc.europa.eu/447917"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/447917",
+      "language": "fr",
+      "label": "Agence de l\u2019Union europ\u00E9enne pour la coop\u00E9ration des r\u00E9gulateurs de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/447917"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_96124aaf",
+      "language": "en",
+      "label": "European Securities and Markets Authority",
+      "source_uri": "http://eurovoc.europa.eu/c_96124aaf"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_96124aaf",
+      "language": "fr",
+      "label": "Autorit\u00E9 europ\u00E9enne des march\u00E9s financiers",
+      "source_uri": "http://eurovoc.europa.eu/c_96124aaf"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b499ede2",
+      "language": "en",
+      "label": "market abuse",
+      "source_uri": "http://eurovoc.europa.eu/c_b499ede2"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b499ede2",
+      "language": "fr",
+      "label": "abus de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/c_b499ede2"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "a319c88f9323a08922a430c54f01d43982a38c5d932c347dc24c467fff16e8ab"
 }

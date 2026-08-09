@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,133 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "b96d9f62489c981095dc2c3c86c45c218b7229793d52ea637be6dddefc608268"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2236",
+      "language": "en",
+      "label": "application of the law",
+      "source_uri": "http://eurovoc.europa.eu/2236"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2236",
+      "language": "fr",
+      "label": "application de la loi",
+      "source_uri": "http://eurovoc.europa.eu/2236"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "en",
+      "label": "administrative sanction",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "fr",
+      "label": "sanction administrative",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3965",
+      "language": "en",
+      "label": "limitation of legal proceedings",
+      "source_uri": "http://eurovoc.europa.eu/3965"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3965",
+      "language": "fr",
+      "label": "prescription d\u0027action",
+      "source_uri": "http://eurovoc.europa.eu/3965"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/555",
+      "language": "en",
+      "label": "transport law",
+      "source_uri": "http://eurovoc.europa.eu/555"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/555",
+      "language": "fr",
+      "label": "droit des transports",
+      "source_uri": "http://eurovoc.europa.eu/555"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5802",
+      "language": "en",
+      "label": "legal process",
+      "source_uri": "http://eurovoc.europa.eu/5802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5802",
+      "language": "fr",
+      "label": "poursuite judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/5802"
+    }
+  ],
+  "record_sha256": "8167ba2bd40adf3fef5ff63a86451f846b26afb653a9da034c5dcbdba9af35c7"
 }

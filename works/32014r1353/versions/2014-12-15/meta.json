@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,123 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "84f087c5177ae40151ce2d4fc03813cc195f37e9aab2599af463ca1be8f311e6"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092010",
+      "language": "en",
+      "label": "Income tax",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092010",
+      "language": "fr",
+      "label": "Imp\u00F4t sur le revenu",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1322",
+      "language": "en",
+      "label": "wealth tax",
+      "source_uri": "http://eurovoc.europa.eu/1322"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1322",
+      "language": "fr",
+      "label": "imp\u00F4t sur la fortune",
+      "source_uri": "http://eurovoc.europa.eu/1322"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1326",
+      "language": "en",
+      "label": "tax on income",
+      "source_uri": "http://eurovoc.europa.eu/1326"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1326",
+      "language": "fr",
+      "label": "imp\u00F4t sur le revenu",
+      "source_uri": "http://eurovoc.europa.eu/1326"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/206",
+      "language": "en",
+      "label": "administrative cooperation",
+      "source_uri": "http://eurovoc.europa.eu/206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/206",
+      "language": "fr",
+      "label": "coop\u00E9ration administrative",
+      "source_uri": "http://eurovoc.europa.eu/206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6342",
+      "language": "en",
+      "label": "European tax cooperation",
+      "source_uri": "http://eurovoc.europa.eu/6342"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6342",
+      "language": "fr",
+      "label": "coop\u00E9ration fiscale europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/6342"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6767",
+      "language": "en",
+      "label": "electronic document",
+      "source_uri": "http://eurovoc.europa.eu/6767"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6767",
+      "language": "fr",
+      "label": "document \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6767"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "6e3b915ede5e20d6d280dc5df4913b35a25970c0caa49e0a3de284623ee3b985"
 }

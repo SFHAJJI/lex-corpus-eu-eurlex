@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,150 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:seed"
   },
-  "record_sha256": "51eb62c0cd37e41292599156e3d7426ea36cfbe207587771de0e478303130a64"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1930",
+      "language": "en",
+      "label": "Police and judicial cooperation in criminal and customs matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1930"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1930",
+      "language": "fr",
+      "label": "Coop\u00E9ration polici\u00E8re et judiciaire en mati\u00E8re p\u00E9nale et douani\u00E8re",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1930"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "en",
+      "label": "fight against crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "fr",
+      "label": "lutte contre le crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "en",
+      "label": "protection of privacy",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "fr",
+      "label": "protection de la vie priv\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "en",
+      "label": "data transmission",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "fr",
+      "label": "transmission de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "judicial cooperation in criminal matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5552",
+      "language": "en",
+      "label": "EU police cooperation",
+      "source_uri": "http://eurovoc.europa.eu/5552"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5552",
+      "language": "fr",
+      "label": "coop\u00E9ration polici\u00E8re (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5552"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Law Enforcement Directive; LED",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "r\u00E8glement bruxelles ii ter",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L0680"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "d4fa0763c67dac724f764e9309e268f7e2c37e71d641ed8c31b6f9e7ba5c0ba9"
 }

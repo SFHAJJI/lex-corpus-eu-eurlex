@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,136 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "502a04ed5f4210e645aa10c701acae6c8978d82059f67b16c949d0babcae0c01"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102020",
+      "language": "en",
+      "label": "Water protection and management",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102020",
+      "language": "fr",
+      "label": "Protection et gestion des eaux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "en",
+      "label": "gas",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "fr",
+      "label": "gaz",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2532",
+      "language": "en",
+      "label": "coastal pollution",
+      "source_uri": "http://eurovoc.europa.eu/2532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2532",
+      "language": "fr",
+      "label": "pollution des c\u00F4tes",
+      "source_uri": "http://eurovoc.europa.eu/2532"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2535",
+      "language": "en",
+      "label": "marine pollution",
+      "source_uri": "http://eurovoc.europa.eu/2535"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2535",
+      "language": "fr",
+      "label": "pollution marine",
+      "source_uri": "http://eurovoc.europa.eu/2535"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2611",
+      "language": "en",
+      "label": "prevention of pollution",
+      "source_uri": "http://eurovoc.europa.eu/2611"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2611",
+      "language": "fr",
+      "label": "pr\u00E9vention de la pollution",
+      "source_uri": "http://eurovoc.europa.eu/2611"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3161",
+      "language": "en",
+      "label": "oil pollution",
+      "source_uri": "http://eurovoc.europa.eu/3161"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3161",
+      "language": "fr",
+      "label": "pollution par les hydrocarbures",
+      "source_uri": "http://eurovoc.europa.eu/3161"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3764",
+      "language": "en",
+      "label": "petroleum exploration",
+      "source_uri": "http://eurovoc.europa.eu/3764"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3764",
+      "language": "fr",
+      "label": "exploration p\u00E9troli\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3764"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3765",
+      "language": "en",
+      "label": "extraction of oil",
+      "source_uri": "http://eurovoc.europa.eu/3765"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3765",
+      "language": "fr",
+      "label": "extraction du p\u00E9trole",
+      "source_uri": "http://eurovoc.europa.eu/3765"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3766",
+      "language": "en",
+      "label": "offshore oil structure",
+      "source_uri": "http://eurovoc.europa.eu/3766"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3766",
+      "language": "fr",
+      "label": "structure p\u00E9troli\u00E8re en mer",
+      "source_uri": "http://eurovoc.europa.eu/3766"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "986b2d00c3c3b8bf020281c3eeb260f090e3a025d040d98605442f07de26e222"
 }

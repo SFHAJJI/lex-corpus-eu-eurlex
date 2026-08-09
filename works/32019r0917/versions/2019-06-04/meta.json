@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,136 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "8deb337d2c008ce930ba2af6d884e12061e46c42bad0b7db446e4bc3a9eab4f8"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "en",
+      "label": "Judicial cooperation in civil matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re civile",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "en",
+      "label": "cross-border cooperation",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "fr",
+      "label": "coop\u00E9ration transfrontali\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "en",
+      "label": "technical specification",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "fr",
+      "label": "sp\u00E9cification technique",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4366",
+      "language": "en",
+      "label": "information service",
+      "source_uri": "http://eurovoc.europa.eu/4366"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4366",
+      "language": "fr",
+      "label": "syst\u00E8me documentaire",
+      "source_uri": "http://eurovoc.europa.eu/4366"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8480",
+      "language": "en",
+      "label": "judicial cooperation in civil matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/8480"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8480",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire civile (UE)",
+      "source_uri": "http://eurovoc.europa.eu/8480"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "84287e00ccc66adfdde30e4bbdf30146e3995fcfc7f7c83ca0e4c08e10cff0ba"
 }

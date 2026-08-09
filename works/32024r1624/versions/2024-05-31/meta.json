@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,168 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:seed"
   },
-  "record_sha256": "c0dc336c76d73c439dd2124c89ab0bbe0611220f0d188a446ac3b720ba616f45"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "en",
+      "label": "Judicial cooperation in criminal matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re p\u00E9nale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "en",
+      "label": "financial institution",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "fr",
+      "label": "institution financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "en",
+      "label": "fight against crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "fr",
+      "label": "lutte contre le crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "en",
+      "label": "banking supervision",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "fr",
+      "label": "contr\u00F4le bancaire",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3929",
+      "language": "en",
+      "label": "ownership",
+      "source_uri": "http://eurovoc.europa.eu/3929"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3929",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 des biens",
+      "source_uri": "http://eurovoc.europa.eu/3929"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "en",
+      "label": "economic offence",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "fr",
+      "label": "d\u00E9lit \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_34746c6e",
+      "language": "en",
+      "label": "financial transparency",
+      "source_uri": "http://eurovoc.europa.eu/c_34746c6e"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_34746c6e",
+      "language": "fr",
+      "label": "transparence financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/c_34746c6e"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "en",
+      "label": "financial supervision",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8f89faac",
+      "language": "fr",
+      "label": "surveillance financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/c_8f89faac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9d09fbc3",
+      "language": "en",
+      "label": "terrorism financing\u00A0",
+      "source_uri": "http://eurovoc.europa.eu/c_9d09fbc3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9d09fbc3",
+      "language": "fr",
+      "label": "financement du terrorisme\u00A0",
+      "source_uri": "http://eurovoc.europa.eu/c_9d09fbc3"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "AMLR, Anit Money Laundering Regulation",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624"
+    }
+  ],
+  "record_sha256": "efdb3fc1a0ea3db6ac7548efc7be61abee8e5b50461d5036c1666a019ac5cac8"
 }

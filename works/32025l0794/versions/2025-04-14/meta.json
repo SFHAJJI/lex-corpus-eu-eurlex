@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "e99d520a0b3eaa15211b4393f0a1403f6f95628d19c20c0e671627a9fa524717"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1178",
+      "language": "en",
+      "label": "large business",
+      "source_uri": "http://eurovoc.europa.eu/1178"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1178",
+      "language": "fr",
+      "label": "grande entreprise",
+      "source_uri": "http://eurovoc.europa.eu/1178"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "en",
+      "label": "trade information",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1423",
+      "language": "fr",
+      "label": "information commerciale",
+      "source_uri": "http://eurovoc.europa.eu/1423"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2077",
+      "language": "en",
+      "label": "standard",
+      "source_uri": "http://eurovoc.europa.eu/2077"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2077",
+      "language": "fr",
+      "label": "norme",
+      "source_uri": "http://eurovoc.europa.eu/2077"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "small and medium-sized enterprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "petites et moyennes entreprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2894",
+      "language": "en",
+      "label": "activity report",
+      "source_uri": "http://eurovoc.europa.eu/2894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2894",
+      "language": "fr",
+      "label": "rapport d\u0027activit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/2894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental impact",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "impact sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5585",
+      "language": "en",
+      "label": "sustainable development",
+      "source_uri": "http://eurovoc.europa.eu/5585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5585",
+      "language": "fr",
+      "label": "d\u00E9veloppement durable",
+      "source_uri": "http://eurovoc.europa.eu/5585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "en",
+      "label": "corporate social responsibility",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "responsabilit\u00E9 sociale de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "ce1c4b491d00bb3b7825c0befea405b11d7e213dfd067a6ba85e5043a024845c"
 }

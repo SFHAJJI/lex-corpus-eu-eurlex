@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -520,5 +526,179 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "ce682551891e7d6acd860e4750c88bc9910c7be5bb4003534f2a6efde9755355"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "en",
+      "label": "Instruments of economic policy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "fr",
+      "label": "Instruments de politique \u00E9conomique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "en",
+      "label": "Free movement of capital",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "fr",
+      "label": "Libre circulation des capitaux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2787",
+      "language": "en",
+      "label": "financial occupation",
+      "source_uri": "http://eurovoc.europa.eu/2787"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2787",
+      "language": "fr",
+      "label": "profession financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/2787"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3151",
+      "language": "en",
+      "label": "insurance",
+      "source_uri": "http://eurovoc.europa.eu/3151"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3151",
+      "language": "fr",
+      "label": "assurance",
+      "source_uri": "http://eurovoc.europa.eu/3151"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8469",
+      "language": "en",
+      "label": "financial services",
+      "source_uri": "http://eurovoc.europa.eu/8469"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8469",
+      "language": "fr",
+      "label": "services financiers",
+      "source_uri": "http://eurovoc.europa.eu/8469"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_406ad4cc",
+      "language": "en",
+      "label": "risk management",
+      "source_uri": "http://eurovoc.europa.eu/c_406ad4cc"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_406ad4cc",
+      "language": "fr",
+      "label": "gestion du risque",
+      "source_uri": "http://eurovoc.europa.eu/c_406ad4cc"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_537931f1",
+      "language": "en",
+      "label": "sustainable finance",
+      "source_uri": "http://eurovoc.europa.eu/c_537931f1"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_537931f1",
+      "language": "fr",
+      "label": "finance durable",
+      "source_uri": "http://eurovoc.europa.eu/c_537931f1"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_dcf3f7c0",
+      "language": "en",
+      "label": "financial risk",
+      "source_uri": "http://eurovoc.europa.eu/c_dcf3f7c0"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_dcf3f7c0",
+      "language": "fr",
+      "label": "risque financier",
+      "source_uri": "http://eurovoc.europa.eu/c_dcf3f7c0"
+    }
+  ],
+  "document_roles": [
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "50bb2a3f021533eefa225fe361bc4cfcfdb57f2860b03761920368ab7fa994d2"
 }

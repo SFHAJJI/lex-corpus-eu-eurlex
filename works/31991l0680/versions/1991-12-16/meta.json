@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,150 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "598252efc79171e3c9487e6f30d2f3dc0d297dabbedbd24ac70612851f8b26ab"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2358",
+      "language": "en",
+      "label": "small business",
+      "source_uri": "http://eurovoc.europa.eu/2358"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2358",
+      "language": "fr",
+      "label": "petite entreprise",
+      "source_uri": "http://eurovoc.europa.eu/2358"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2709",
+      "language": "en",
+      "label": "agricultural production",
+      "source_uri": "http://eurovoc.europa.eu/2709"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2709",
+      "language": "fr",
+      "label": "production agricole",
+      "source_uri": "http://eurovoc.europa.eu/2709"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2900",
+      "language": "en",
+      "label": "basis of tax assessment",
+      "source_uri": "http://eurovoc.europa.eu/2900"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2900",
+      "language": "fr",
+      "label": "assiette de l\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/2900"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax relief",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "d\u00E9duction fiscale",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/619",
+      "language": "en",
+      "label": "intra-EU trade",
+      "source_uri": "http://eurovoc.europa.eu/619"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/619",
+      "language": "fr",
+      "label": "\u00E9change intra-UE",
+      "source_uri": "http://eurovoc.europa.eu/619"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "en",
+      "label": "tax exemption",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exon\u00E9ration fiscale",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "624c285947eb8602d4e3eace4ba058f7493dcf47912e4b1a3bdd649087033610"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,8 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "39c8958a8f6b6dd57932c476f3c49b6ebb0074f033118c0ef6d3754415647f32"
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "87135490693114549fbe07247860510c61a00abc63bf234378a77511dcc77889"
 }

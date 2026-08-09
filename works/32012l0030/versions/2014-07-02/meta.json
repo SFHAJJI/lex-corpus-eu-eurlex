@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,123 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "7f25a69ae3e60a29fb1cd7c6a6ca656dc0537dd49b21a2022c53d6bcd42f52d8"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1301",
+      "language": "en",
+      "label": "registration of a company",
+      "source_uri": "http://eurovoc.europa.eu/1301"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1301",
+      "language": "fr",
+      "label": "immatriculation de soci\u00E9t\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1301"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2264",
+      "language": "en",
+      "label": "shareholding",
+      "source_uri": "http://eurovoc.europa.eu/2264"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2264",
+      "language": "fr",
+      "label": "participation",
+      "source_uri": "http://eurovoc.europa.eu/2264"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2831",
+      "language": "en",
+      "label": "protection of shareholders",
+      "source_uri": "http://eurovoc.europa.eu/2831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2831",
+      "language": "fr",
+      "label": "protection des associ\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/2831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4190",
+      "language": "en",
+      "label": "public limited company",
+      "source_uri": "http://eurovoc.europa.eu/4190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4190",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 anonyme",
+      "source_uri": "http://eurovoc.europa.eu/4190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5218",
+      "language": "en",
+      "label": "share capital",
+      "source_uri": "http://eurovoc.europa.eu/5218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5218",
+      "language": "fr",
+      "label": "capital social",
+      "source_uri": "http://eurovoc.europa.eu/5218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5362",
+      "language": "en",
+      "label": "share",
+      "source_uri": "http://eurovoc.europa.eu/5362"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5362",
+      "language": "fr",
+      "label": "action financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/5362"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5389",
+      "language": "en",
+      "label": "shareholder",
+      "source_uri": "http://eurovoc.europa.eu/5389"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5389",
+      "language": "fr",
+      "label": "actionnaire",
+      "source_uri": "http://eurovoc.europa.eu/5389"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "305fc76265c6c0081f4cc8ca4c20b54deddd22c736aeb83547748073b5f64afb"
 }

@@ -24,6 +24,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "fr",
       "detail": "language=fr"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -33,7 +39,7 @@
       "valid_to": "2024-10-17",
       "valid_time_source": "publisher",
       "title": "Regulation (EU) No\u00A0910/2014 of the European Parliament and of the Council of 23\u00A0July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC",
-      "title_short": "eIDAS \u2014 Regulation (EU) No\u00A0910/2014",
+      "title_short": "Regulation (EU) No\u00A0910/2014",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20240520",
       "observations": [
         {
@@ -71,7 +77,7 @@
       "valid_to": "2024-10-17",
       "valid_time_source": "publisher",
       "title": "R\u00E8glement (UE) no\u00A0910/2014 du Parlement europ\u00E9en et du Conseil du 23\u00A0juillet 2014 sur l\u2019identification \u00E9lectronique et les services de confiance pour les transactions \u00E9lectroniques au sein du march\u00E9 int\u00E9rieur et abrogeant la directive 1999/93/CE",
-      "title_short": "eIDAS \u2014 R\u00E8glement (UE) no\u00A0910/2014 du Parlement europ\u00E9en et du Conseil du 23\u00A0juillet 2014 sur l\u2019id\u2026",
+      "title_short": "R\u00E8glement (UE) no\u00A0910/2014 du Parlement europ\u00E9en et du Conseil du 23\u00A0juillet 2014 sur l\u2019id\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0910-20240520",
       "observations": [
         {
@@ -119,5 +125,137 @@
     "legal_form": "REG",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:seed,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "2d3ff2d2e3bda5fdb3f17adbccc6e2981ac0d5b0f5336c142f4cc61c1f7dde66"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "criminalit\u00E9 informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/437655",
+      "language": "en",
+      "label": "digital literacy",
+      "source_uri": "http://eurovoc.europa.eu/437655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/437655",
+      "language": "fr",
+      "label": "habilet\u00E9 num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/437655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6370",
+      "language": "en",
+      "label": "electronic signature",
+      "source_uri": "http://eurovoc.europa.eu/6370"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6370",
+      "language": "fr",
+      "label": "signature \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6370"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "e-IDAS, eIDAS",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "e-IDAS, eIDAS",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0910"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "b47af59f29aca52f8155c619a885a680f8f7df13d36ea1bac4aaffd2e7cf2d85"
 }

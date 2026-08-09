@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "2e692219ac7829e81a9e4e69ba666dc48dfb4f75ec2e303de5da5d88b59f0ceb"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "en",
+      "label": "financial institution",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "fr",
+      "label": "institution financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "en",
+      "label": "fight against crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "fr",
+      "label": "lutte contre le crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "electronic money",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "monnaie \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "en",
+      "label": "banking supervision",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "fr",
+      "label": "contr\u00F4le bancaire",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "en",
+      "label": "terrorism",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "fr",
+      "label": "terrorisme",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "en",
+      "label": "economic offence",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "fr",
+      "label": "d\u00E9lit \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/729",
+      "language": "en",
+      "label": "issuing of currency",
+      "source_uri": "http://eurovoc.europa.eu/729"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/729",
+      "language": "fr",
+      "label": "\u00E9mission mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/729"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8469",
+      "language": "en",
+      "label": "financial services",
+      "source_uri": "http://eurovoc.europa.eu/8469"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8469",
+      "language": "fr",
+      "label": "services financiers",
+      "source_uri": "http://eurovoc.europa.eu/8469"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "4dd783c5df40ffb43a286e25cf34b9a208b531359a81ba94797a0b62eefaeb02"
 }

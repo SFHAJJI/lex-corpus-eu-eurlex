@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "84a78299de3403bac9b47012afbb78a3af93761da7207fa82a4b132090285736"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1433",
+      "language": "en",
+      "label": "transport infrastructure",
+      "source_uri": "http://eurovoc.europa.eu/1433"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1433",
+      "language": "fr",
+      "label": "infrastructure de transport",
+      "source_uri": "http://eurovoc.europa.eu/1433"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1447",
+      "language": "en",
+      "label": "harbour installation",
+      "source_uri": "http://eurovoc.europa.eu/1447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1447",
+      "language": "fr",
+      "label": "installation portuaire",
+      "source_uri": "http://eurovoc.europa.eu/1447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1700",
+      "language": "en",
+      "label": "leisure",
+      "source_uri": "http://eurovoc.europa.eu/1700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1700",
+      "language": "fr",
+      "label": "loisir",
+      "source_uri": "http://eurovoc.europa.eu/1700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/195",
+      "language": "en",
+      "label": "airport",
+      "source_uri": "http://eurovoc.europa.eu/195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/195",
+      "language": "fr",
+      "label": "a\u00E9roport",
+      "source_uri": "http://eurovoc.europa.eu/195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2840",
+      "language": "en",
+      "label": "heritage protection",
+      "source_uri": "http://eurovoc.europa.eu/2840"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2840",
+      "language": "fr",
+      "label": "protection du patrimoine",
+      "source_uri": "http://eurovoc.europa.eu/2840"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4128",
+      "language": "en",
+      "label": "peripheral region",
+      "source_uri": "http://eurovoc.europa.eu/4128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4128",
+      "language": "fr",
+      "label": "r\u00E9gion p\u00E9riph\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/4128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6563",
+      "language": "en",
+      "label": "cultural promotion",
+      "source_uri": "http://eurovoc.europa.eu/6563"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6563",
+      "language": "fr",
+      "label": "promotion culturelle",
+      "source_uri": "http://eurovoc.europa.eu/6563"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/976",
+      "language": "en",
+      "label": "regional aid",
+      "source_uri": "http://eurovoc.europa.eu/976"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/976",
+      "language": "fr",
+      "label": "aide r\u00E9gionale",
+      "source_uri": "http://eurovoc.europa.eu/976"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "e958fe0e702755cf830243d8f1b58bc7a705fe9e9dc84204856301d20ee898b7"
 }

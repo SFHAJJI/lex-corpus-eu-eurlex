@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,84 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "34f42886853abfc5be0e7585a176b2fdbe91d9d91e994ee080e5fa8908cd3005"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "en",
+      "label": "contract",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/164",
+      "language": "fr",
+      "label": "contrat",
+      "source_uri": "http://eurovoc.europa.eu/164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/289",
+      "language": "en",
+      "label": "consumer credit",
+      "source_uri": "http://eurovoc.europa.eu/289"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/289",
+      "language": "fr",
+      "label": "cr\u00E9dit \u00E0 la consommation",
+      "source_uri": "http://eurovoc.europa.eu/289"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "consumer credit directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0048"
+    }
+  ],
+  "record_sha256": "5713e2d1e288e66d5b5da2bd507c9e7f6c9e4b5901644dd9ab582ece3ab3dca7"
 }

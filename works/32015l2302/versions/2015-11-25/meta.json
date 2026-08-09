@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,178 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "b17f6602e12aa57a76aca7d4a2f52a23dde3701afc99e86eeb479522870cb9b2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "en",
+      "label": "Consumer information, education and representation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "fr",
+      "label": "Information, \u00E9ducation et repr\u00E9sentation des consommateurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1404",
+      "language": "en",
+      "label": "hotel industry",
+      "source_uri": "http://eurovoc.europa.eu/1404"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1404",
+      "language": "fr",
+      "label": "industrie h\u00F4teli\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1404"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3097",
+      "language": "en",
+      "label": "vehicle rental",
+      "source_uri": "http://eurovoc.europa.eu/3097"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3097",
+      "language": "fr",
+      "label": "location de v\u00E9hicule",
+      "source_uri": "http://eurovoc.europa.eu/3097"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3118",
+      "language": "en",
+      "label": "travel agency",
+      "source_uri": "http://eurovoc.europa.eu/3118"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3118",
+      "language": "fr",
+      "label": "agence de tourisme",
+      "source_uri": "http://eurovoc.europa.eu/3118"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3927",
+      "language": "en",
+      "label": "contractual liability",
+      "source_uri": "http://eurovoc.europa.eu/3927"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3927",
+      "language": "fr",
+      "label": "responsabilit\u00E9 contractuelle",
+      "source_uri": "http://eurovoc.europa.eu/3927"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4511",
+      "language": "en",
+      "label": "carriage of passengers",
+      "source_uri": "http://eurovoc.europa.eu/4511"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4511",
+      "language": "fr",
+      "label": "transport de voyageurs",
+      "source_uri": "http://eurovoc.europa.eu/4511"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4767",
+      "language": "en",
+      "label": "travel",
+      "source_uri": "http://eurovoc.europa.eu/4767"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4767",
+      "language": "fr",
+      "label": "voyage",
+      "source_uri": "http://eurovoc.europa.eu/4767"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "b091a5087dd15c418644dc887c1a2917ddf0cfcd149cf9850efbfcc82518faa0"
 }

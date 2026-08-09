@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "6bcd852f6106687b56f29a672ffc227519fc30a7049fc28e0648ec81289e5e0b"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010",
+      "language": "en",
+      "label": "Supplies and stocks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010",
+      "language": "fr",
+      "label": "Approvisionnement et stocks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "en",
+      "label": "natural gas",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "fr",
+      "label": "gaz naturel",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1275",
+      "language": "en",
+      "label": "hydrogen",
+      "source_uri": "http://eurovoc.europa.eu/1275"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1275",
+      "language": "fr",
+      "label": "hydrog\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1275"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "en",
+      "label": "energy cooperation",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "fr",
+      "label": "coop\u00E9ration \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4507",
+      "language": "en",
+      "label": "energy transport",
+      "source_uri": "http://eurovoc.europa.eu/4507"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4507",
+      "language": "fr",
+      "label": "transport d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4507"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "energy market",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "fr",
+      "label": "march\u00E9 de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "en",
+      "label": "energy grid",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "fr",
+      "label": "r\u00E9seau \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7395",
+      "language": "en",
+      "label": "gas supply",
+      "source_uri": "http://eurovoc.europa.eu/7395"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7395",
+      "language": "fr",
+      "label": "distribution du gaz",
+      "source_uri": "http://eurovoc.europa.eu/7395"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "en",
+      "label": "carbon neutrality",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "fr",
+      "label": "neutralit\u00E9 carbone",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "8c7360317a9fc8d695b1646bbbdc0b3249454caac9c17626a99da99f6726ce54"
 }

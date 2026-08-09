@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,133 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:seed"
   },
-  "record_sha256": "f6c968d3a9dd55ff771cbf6fd7f55c419ea3be1359b694ca85139832326f4058"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092020",
+      "language": "en",
+      "label": "Corporation tax",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092020",
+      "language": "fr",
+      "label": "Imp\u00F4t sur les soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/092020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1193",
+      "language": "en",
+      "label": "group of companies",
+      "source_uri": "http://eurovoc.europa.eu/1193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1193",
+      "language": "fr",
+      "label": "groupe de soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/1193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1313",
+      "language": "en",
+      "label": "direct tax",
+      "source_uri": "http://eurovoc.europa.eu/1313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1313",
+      "language": "fr",
+      "label": "imp\u00F4t direct",
+      "source_uri": "http://eurovoc.europa.eu/1313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1331",
+      "language": "en",
+      "label": "corporation tax",
+      "source_uri": "http://eurovoc.europa.eu/1331"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1331",
+      "language": "fr",
+      "label": "imp\u00F4t sur les soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/1331"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4203",
+      "language": "en",
+      "label": "parent company",
+      "source_uri": "http://eurovoc.europa.eu/4203"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4203",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 m\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4203"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/561",
+      "language": "en",
+      "label": "tax law",
+      "source_uri": "http://eurovoc.europa.eu/561"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/561",
+      "language": "fr",
+      "label": "droit fiscal",
+      "source_uri": "http://eurovoc.europa.eu/561"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/828",
+      "language": "en",
+      "label": "multinational enterprise",
+      "source_uri": "http://eurovoc.europa.eu/828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/828",
+      "language": "fr",
+      "label": "entreprise multinationale",
+      "source_uri": "http://eurovoc.europa.eu/828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "en",
+      "label": "tax avoidance",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "fr",
+      "label": "\u00E9vasion fiscale",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    }
+  ],
+  "record_sha256": "9439baaf5e0f42ea601e5b7469070b4842c0cfc5f2455bb55e0f93acdd7bb228"
 }

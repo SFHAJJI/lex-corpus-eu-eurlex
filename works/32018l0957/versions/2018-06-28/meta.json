@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:seed"
   },
-  "record_sha256": "d83c6929da0f64df82e7684745a8cf063862cddf65aa21f35e2139297ffa9336"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "en",
+      "label": "Working conditions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "fr",
+      "label": "Conditions de travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "en",
+      "label": "Service activities",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "fr",
+      "label": "Activit\u00E9s de service",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1634",
+      "language": "en",
+      "label": "free movement of workers",
+      "source_uri": "http://eurovoc.europa.eu/1634"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1634",
+      "language": "fr",
+      "label": "libre circulation des travailleurs",
+      "source_uri": "http://eurovoc.europa.eu/1634"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1638",
+      "language": "en",
+      "label": "freedom to provide services",
+      "source_uri": "http://eurovoc.europa.eu/1638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1638",
+      "language": "fr",
+      "label": "libre prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/1638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3273",
+      "language": "en",
+      "label": "remuneration of work",
+      "source_uri": "http://eurovoc.europa.eu/3273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3273",
+      "language": "fr",
+      "label": "r\u00E9mun\u00E9ration du travail",
+      "source_uri": "http://eurovoc.europa.eu/3273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3540",
+      "language": "en",
+      "label": "expatriate worker",
+      "source_uri": "http://eurovoc.europa.eu/3540"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3540",
+      "language": "fr",
+      "label": "travailleur expatri\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/3540"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "en",
+      "label": "equal treatment",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de traitement",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9eb9cbaa",
+      "language": "en",
+      "label": "posted worker",
+      "source_uri": "http://eurovoc.europa.eu/c_9eb9cbaa"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9eb9cbaa",
+      "language": "fr",
+      "label": "travailleur d\u00E9tach\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/c_9eb9cbaa"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "03b7305106133eda15380fb9a833e82f26179a9c020bc65a9528c7cbaf0cf3d3"
 }

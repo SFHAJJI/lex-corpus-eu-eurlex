@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "4dd1deac8c00b8939ad550e43219ae1dfc19d8ac857840433dd1015a70db8f37"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "en",
+      "label": "application of EU law",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "fr",
+      "label": "application du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "en",
+      "label": "technical specification",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "fr",
+      "label": "sp\u00E9cification technique",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6370",
+      "language": "en",
+      "label": "electronic signature",
+      "source_uri": "http://eurovoc.europa.eu/6370"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6370",
+      "language": "fr",
+      "label": "signature \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6370"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "en",
+      "label": "digital technology",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "fr",
+      "label": "technologie num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8414",
+      "language": "en",
+      "label": "official seal",
+      "source_uri": "http://eurovoc.europa.eu/8414"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8414",
+      "language": "fr",
+      "label": "cachet officiel",
+      "source_uri": "http://eurovoc.europa.eu/8414"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "information security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des syst\u00E8mes d\u2019information",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_6f7bbe63",
+      "language": "en",
+      "label": "digital single market",
+      "source_uri": "http://eurovoc.europa.eu/c_6f7bbe63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_6f7bbe63",
+      "language": "fr",
+      "label": "march\u00E9 unique num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/c_6f7bbe63"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "f37d2c1f8af2de8fbf6b56381dcff146fc0a27790a60eea367ac58097616742a"
 }

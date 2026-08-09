@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "924efa81c33c5fb9d42b8b7d6df8073baa02f35479ebdcdf2824112384f72949"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2122",
+      "language": "en",
+      "label": "work of art",
+      "source_uri": "http://eurovoc.europa.eu/2122"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2122",
+      "language": "fr",
+      "label": "\u0153uvre d\u0027art",
+      "source_uri": "http://eurovoc.europa.eu/2122"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3198",
+      "language": "en",
+      "label": "used goods",
+      "source_uri": "http://eurovoc.europa.eu/3198"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3198",
+      "language": "fr",
+      "label": "bien d\u0027occasion",
+      "source_uri": "http://eurovoc.europa.eu/3198"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/619",
+      "language": "en",
+      "label": "intra-EU trade",
+      "source_uri": "http://eurovoc.europa.eu/619"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/619",
+      "language": "fr",
+      "label": "\u00E9change intra-UE",
+      "source_uri": "http://eurovoc.europa.eu/619"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "883ad6311e28bc48582f672a0bbb6451e5b0cd83d9e74dcca5c4e0eadfaa9af9"
 }

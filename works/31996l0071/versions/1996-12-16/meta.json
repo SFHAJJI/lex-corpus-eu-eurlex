@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,112 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "a1ad373ba5a625f54457f1a539cfef6e12abf44a6bfde955cdbf3e62c738778f"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "en",
+      "label": "Working conditions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "fr",
+      "label": "Conditions de travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "en",
+      "label": "Service activities",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "fr",
+      "label": "Activit\u00E9s de service",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "en",
+      "label": "worker information",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "fr",
+      "label": "information des travailleurs",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1946",
+      "language": "en",
+      "label": "labour mobility",
+      "source_uri": "http://eurovoc.europa.eu/1946"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1946",
+      "language": "fr",
+      "label": "mobilit\u00E9 de la main-d\u0027\u0153uvre",
+      "source_uri": "http://eurovoc.europa.eu/1946"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3005",
+      "language": "en",
+      "label": "transnational corporation",
+      "source_uri": "http://eurovoc.europa.eu/3005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3005",
+      "language": "fr",
+      "label": "entreprise transnationale",
+      "source_uri": "http://eurovoc.europa.eu/3005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5206",
+      "language": "en",
+      "label": "services company",
+      "source_uri": "http://eurovoc.europa.eu/5206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5206",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Posted Workers Directive,  Posting of Workers Directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0071"
+    }
+  ],
+  "record_sha256": "797a29c13d1e228416be5ba96a1d73f2e2be05822de688959d48659f65770ae0"
 }

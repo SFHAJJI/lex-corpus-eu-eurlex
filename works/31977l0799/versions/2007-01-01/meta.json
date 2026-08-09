@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,108 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "6136f51790d2a466cce1767fd7fa686bae669bcb1077b25b4aea77cb8f0bb0e1"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1095",
+      "language": "en",
+      "label": "tax evasion",
+      "source_uri": "http://eurovoc.europa.eu/1095"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1095",
+      "language": "fr",
+      "label": "fraude fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1095"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1313",
+      "language": "en",
+      "label": "direct tax",
+      "source_uri": "http://eurovoc.europa.eu/1313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1313",
+      "language": "fr",
+      "label": "imp\u00F4t direct",
+      "source_uri": "http://eurovoc.europa.eu/1313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "en",
+      "label": "mutual recognition principle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "fr",
+      "label": "principe de reconnaissance mutuelle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "a8c5621a670fc2eea1b64075eb98aaa8d1dffa66fe32013a345e1cd9193807ee"
 }

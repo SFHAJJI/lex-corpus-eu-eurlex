@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,105 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "1e181f649ec468cdb08654871f341d3db8d3674e805a4e28f547f92b239bd6b8"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1025",
+      "language": "en",
+      "label": "fixing of prices",
+      "source_uri": "http://eurovoc.europa.eu/1025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1025",
+      "language": "fr",
+      "label": "fixation des prix",
+      "source_uri": "http://eurovoc.europa.eu/1025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "en",
+      "label": "competition policy",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "fr",
+      "label": "politique de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2494",
+      "language": "en",
+      "label": "transport policy",
+      "source_uri": "http://eurovoc.europa.eu/2494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2494",
+      "language": "fr",
+      "label": "politique des transports",
+      "source_uri": "http://eurovoc.europa.eu/2494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3101",
+      "language": "en",
+      "label": "transport price",
+      "source_uri": "http://eurovoc.europa.eu/3101"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3101",
+      "language": "fr",
+      "label": "prix de transport",
+      "source_uri": "http://eurovoc.europa.eu/3101"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3160",
+      "language": "en",
+      "label": "transport regulations",
+      "source_uri": "http://eurovoc.europa.eu/3160"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3160",
+      "language": "fr",
+      "label": "r\u00E9glementation du transport",
+      "source_uri": "http://eurovoc.europa.eu/3160"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    }
+  ],
+  "record_sha256": "f18ce65cdad4900bf781601088bfbaa91f1380a0be1a5a0cac5683e0f01cc81d"
 }

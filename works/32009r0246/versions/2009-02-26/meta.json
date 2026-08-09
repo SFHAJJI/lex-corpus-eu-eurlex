@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "7e47e3cb1bea95efc1f05fa7886200330b71e5ced5f32a14d679ccd219e34737"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4509",
+      "language": "en",
+      "label": "carriage of goods",
+      "source_uri": "http://eurovoc.europa.eu/4509"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4509",
+      "language": "fr",
+      "label": "transport de marchandises",
+      "source_uri": "http://eurovoc.europa.eu/4509"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4519",
+      "language": "en",
+      "label": "international transport",
+      "source_uri": "http://eurovoc.europa.eu/4519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4519",
+      "language": "fr",
+      "label": "transport international",
+      "source_uri": "http://eurovoc.europa.eu/4519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4522",
+      "language": "en",
+      "label": "maritime transport",
+      "source_uri": "http://eurovoc.europa.eu/4522"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4522",
+      "language": "fr",
+      "label": "transport maritime",
+      "source_uri": "http://eurovoc.europa.eu/4522"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "d82ab0d971682667e6b48cdb1a24098165f5c6bf171476906a9c4f3e9befc19a"
 }

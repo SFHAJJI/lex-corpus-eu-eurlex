@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,147 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "b9cd09fbbc2240572ac0f8fb9a2c2ad6b97957354cff71e93a601358af08b6bc"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/171",
+      "language": "en",
+      "label": "administrative check",
+      "source_uri": "http://eurovoc.europa.eu/171"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/171",
+      "language": "fr",
+      "label": "contr\u00F4le administratif",
+      "source_uri": "http://eurovoc.europa.eu/171"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2522",
+      "language": "en",
+      "label": "atmospheric pollutant",
+      "source_uri": "http://eurovoc.europa.eu/2522"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2522",
+      "language": "fr",
+      "label": "polluant atmosph\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/2522"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "en",
+      "label": "environmental monitoring",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "fr",
+      "label": "surveillance de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6064",
+      "language": "en",
+      "label": "audit",
+      "source_uri": "http://eurovoc.europa.eu/6064"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6064",
+      "language": "fr",
+      "label": "audit",
+      "source_uri": "http://eurovoc.europa.eu/6064"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6402",
+      "language": "en",
+      "label": "environmental statistics",
+      "source_uri": "http://eurovoc.europa.eu/6402"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6402",
+      "language": "fr",
+      "label": "statistique de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/6402"
+    }
+  ],
+  "record_sha256": "c3e6ac77bec8c5606e774bdf640a89f67bb4dff8dbbba8bcc602744ccbffdb71"
 }

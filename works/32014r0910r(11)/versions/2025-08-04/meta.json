@@ -28,6 +28,12 @@
       "observed_from": "2026-08-08T03:00:14Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -84,5 +90,108 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "3086333f9789403d76cd9e605a379f3e09adb32ad56fd433ae8cdba0861b8fb8"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "criminalit\u00E9 informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/437655",
+      "language": "en",
+      "label": "digital literacy",
+      "source_uri": "http://eurovoc.europa.eu/437655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/437655",
+      "language": "fr",
+      "label": "habilet\u00E9 num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/437655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6370",
+      "language": "en",
+      "label": "electronic signature",
+      "source_uri": "http://eurovoc.europa.eu/6370"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6370",
+      "language": "fr",
+      "label": "signature \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6370"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "32bee56ad84c8c2325640402b86f8710174c76f358d7dc908999e9060399b6c1"
 }

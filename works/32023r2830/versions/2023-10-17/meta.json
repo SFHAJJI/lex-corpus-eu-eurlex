@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,136 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "3d52b0fcf67183cb6f8a605aa253efe0c03f7ea2756c3b7cb5dd5dbc2d7f5916"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15",
+      "language": "en",
+      "label": "Environment, consumers and health protection",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15",
+      "language": "fr",
+      "label": "Environnement, consommateurs et protection de la sant\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1707",
+      "language": "en",
+      "label": "pollution control measures",
+      "source_uri": "http://eurovoc.europa.eu/1707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1707",
+      "language": "fr",
+      "label": "lutte contre la pollution",
+      "source_uri": "http://eurovoc.europa.eu/1707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2527",
+      "language": "en",
+      "label": "air quality",
+      "source_uri": "http://eurovoc.europa.eu/2527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2527",
+      "language": "fr",
+      "label": "qualit\u00E9 de l\u2019air",
+      "source_uri": "http://eurovoc.europa.eu/2527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434843",
+      "language": "en",
+      "label": "emission trading",
+      "source_uri": "http://eurovoc.europa.eu/434843"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434843",
+      "language": "fr",
+      "label": "\u00E9change de droits d\u0027\u00E9mission",
+      "source_uri": "http://eurovoc.europa.eu/434843"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4668",
+      "language": "en",
+      "label": "auction sale",
+      "source_uri": "http://eurovoc.europa.eu/4668"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4668",
+      "language": "fr",
+      "label": "vente aux ench\u00E8res",
+      "source_uri": "http://eurovoc.europa.eu/4668"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "en",
+      "label": "tradeable emission permit",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "fr",
+      "label": "permis de pollution n\u00E9gociable",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "en",
+      "label": "EU environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "fr",
+      "label": "politique de l\u0027environnement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "8e4421ab8f888b1ff6062e0abbe1cc7d3002be6d636e31b2ab8db4e4a74c79f8"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,165 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "9286501edf3938427fef6bcc205e71c49581129d43c6b7f64c2d5f1a47a44fed"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "en",
+      "label": "General principles and programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "fr",
+      "label": "Programmes et principes g\u00E9n\u00E9raux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2894",
+      "language": "en",
+      "label": "activity report",
+      "source_uri": "http://eurovoc.europa.eu/2894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2894",
+      "language": "fr",
+      "label": "rapport d\u0027activit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/2894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2917",
+      "language": "en",
+      "label": "energy research",
+      "source_uri": "http://eurovoc.europa.eu/2917"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2917",
+      "language": "fr",
+      "label": "recherche \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2917"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "en",
+      "label": "technical specification",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3645",
+      "language": "fr",
+      "label": "sp\u00E9cification technique",
+      "source_uri": "http://eurovoc.europa.eu/3645"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434786",
+      "language": "en",
+      "label": "adaptation to climate change",
+      "source_uri": "http://eurovoc.europa.eu/434786"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434786",
+      "language": "fr",
+      "label": "adaptation au changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434786"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "en",
+      "label": "EU energy policy",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "c876fb0866c400e49bfd63ba97832f9bf9c1d01d3db1f89faeceed3d02341f60"
 }

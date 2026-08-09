@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,192 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:seed"
   },
-  "record_sha256": "a5434cd6da9dfb012173526af3d1b075942b8b4cf1f2f33fdc7ae4b9d5a09964"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1366",
+      "language": "en",
+      "label": "audiovisual industry",
+      "source_uri": "http://eurovoc.europa.eu/1366"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1366",
+      "language": "fr",
+      "label": "industrie de l\u0027audiovisuel",
+      "source_uri": "http://eurovoc.europa.eu/1366"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2278",
+      "language": "en",
+      "label": "cultural heritage",
+      "source_uri": "http://eurovoc.europa.eu/2278"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2278",
+      "language": "fr",
+      "label": "patrimoine culturel",
+      "source_uri": "http://eurovoc.europa.eu/2278"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "transmission network",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "r\u00E9seau de transmission",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3404",
+      "language": "en",
+      "label": "reprography",
+      "source_uri": "http://eurovoc.europa.eu/3404"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3404",
+      "language": "fr",
+      "label": "reprographie",
+      "source_uri": "http://eurovoc.europa.eu/3404"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "en",
+      "label": "copyright",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "fr",
+      "label": "droit d\u0027auteur",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5864",
+      "language": "en",
+      "label": "trans-European network",
+      "source_uri": "http://eurovoc.europa.eu/5864"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5864",
+      "language": "fr",
+      "label": "r\u00E9seau transeurop\u00E9en",
+      "source_uri": "http://eurovoc.europa.eu/5864"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6088",
+      "language": "en",
+      "label": "Internet",
+      "source_uri": "http://eurovoc.europa.eu/6088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6088",
+      "language": "fr",
+      "label": "Internet",
+      "source_uri": "http://eurovoc.europa.eu/6088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "en",
+      "label": "digital technology",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "fr",
+      "label": "technologie num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_6f7bbe63",
+      "language": "en",
+      "label": "digital single market",
+      "source_uri": "http://eurovoc.europa.eu/c_6f7bbe63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_6f7bbe63",
+      "language": "fr",
+      "label": "march\u00E9 unique num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/c_6f7bbe63"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "dsm, dsm directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0790"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "directive droit d\u0027auteur, droit d\u0027auteur",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0790"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "02a8efa120f10e33aa5bf86f6006fe35e8b6756614d18d87f4c24eaa3df0fbdf"
 }

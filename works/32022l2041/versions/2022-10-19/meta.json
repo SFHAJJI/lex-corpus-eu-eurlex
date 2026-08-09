@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,161 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:seed"
   },
-  "record_sha256": "cf26b510f3b5407694c5b72e669c773454705f8815c2b552a63e28d9058062ac"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "en",
+      "label": "Wages, income and working hours",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "fr",
+      "label": "Salaires, revenus et dur\u00E9e du travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "wage determination",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "fr",
+      "label": "fixation du salaire",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "en",
+      "label": "collective agreement",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "fr",
+      "label": "convention collective",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2046",
+      "language": "en",
+      "label": "collective bargaining",
+      "source_uri": "http://eurovoc.europa.eu/2046"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2046",
+      "language": "fr",
+      "label": "n\u00E9gociation collective",
+      "source_uri": "http://eurovoc.europa.eu/2046"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2062",
+      "language": "en",
+      "label": "standard of living",
+      "source_uri": "http://eurovoc.europa.eu/2062"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2062",
+      "language": "fr",
+      "label": "niveau de vie",
+      "source_uri": "http://eurovoc.europa.eu/2062"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "EU employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique de l\u0027emploi de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "en",
+      "label": "minimum pay",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "fr",
+      "label": "salaire minimal",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "en",
+      "label": "living conditions",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "condition de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    }
+  ],
+  "record_sha256": "9a3df0c742e878d2c2c84285d2a89c468ff59de53fbaa86b15f5570256e6e150"
 }

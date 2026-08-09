@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,165 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "11d1fd481eed611098db23a057a453e67b8b983450f559ddcae20eced803ed14"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133005",
+      "language": "en",
+      "label": "General, programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133005"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133005",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s et programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1806",
+      "language": "en",
+      "label": "domestic market",
+      "source_uri": "http://eurovoc.europa.eu/1806"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1806",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur",
+      "source_uri": "http://eurovoc.europa.eu/1806"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "en",
+      "label": "cross-border cooperation",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "fr",
+      "label": "coop\u00E9ration transfrontali\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "en",
+      "label": "import (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "fr",
+      "label": "importation (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "en",
+      "label": "harmonisation of standards",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "fr",
+      "label": "harmonisation des normes",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5545",
+      "language": "en",
+      "label": "customs cooperation",
+      "source_uri": "http://eurovoc.europa.eu/5545"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5545",
+      "language": "fr",
+      "label": "coop\u00E9ration douani\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/5545"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "electronic commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "94930b161580493abf2cf0f8e8f587fb8befcb1f34e0fd8d422f287c2372a56a"
 }

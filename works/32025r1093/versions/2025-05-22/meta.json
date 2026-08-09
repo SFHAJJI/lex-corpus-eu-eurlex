@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,192 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "b0d5ac9fad6ad6fea267028d73ace5e7354b062f61ae6c591149f1b08c77114c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060",
+      "language": "en",
+      "label": "Forests and forestry",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060",
+      "language": "fr",
+      "label": "For\u00EAts et sylviculture",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010",
+      "language": "en",
+      "label": "Management and efficient use of space, the environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010",
+      "language": "fr",
+      "label": "Gestion et utilisation rationnelle de l\u0027espace, de l\u0027environnement et des ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1801",
+      "language": "en",
+      "label": "commodities market",
+      "source_uri": "http://eurovoc.europa.eu/1801"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1801",
+      "language": "fr",
+      "label": "march\u00E9 des produits de base",
+      "source_uri": "http://eurovoc.europa.eu/1801"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "en",
+      "label": "third country",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "fr",
+      "label": "pays tiers",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental impact",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "impact sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3190",
+      "language": "en",
+      "label": "export (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3190",
+      "language": "fr",
+      "label": "exportation (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/339",
+      "language": "en",
+      "label": "deforestation",
+      "source_uri": "http://eurovoc.europa.eu/339"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/339",
+      "language": "fr",
+      "label": "d\u00E9boisement",
+      "source_uri": "http://eurovoc.europa.eu/339"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "environmental liability",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "fr",
+      "label": "responsabilit\u00E9 des dommages environnementaux",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "f329d9a3b2c7efe0215d50f6fd06d58c1c43b690cafeea3c427f1dfd4beda7b9"
 }

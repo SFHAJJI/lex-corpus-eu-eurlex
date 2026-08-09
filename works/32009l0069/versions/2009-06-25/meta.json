@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "47bafb078a613a2effa94b6e581558693a79b3c9f40b0a0dcb46ae17089235cf"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "en",
+      "label": "tax system",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "fr",
+      "label": "fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "en",
+      "label": "fraud",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "fr",
+      "label": "fraude",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1095",
+      "language": "en",
+      "label": "tax evasion",
+      "source_uri": "http://eurovoc.europa.eu/1095"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1095",
+      "language": "fr",
+      "label": "fraude fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1095"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1806",
+      "language": "en",
+      "label": "domestic market",
+      "source_uri": "http://eurovoc.europa.eu/1806"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1806",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur",
+      "source_uri": "http://eurovoc.europa.eu/1806"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5070",
+      "language": "en",
+      "label": "administrative formalities",
+      "source_uri": "http://eurovoc.europa.eu/5070"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5070",
+      "language": "fr",
+      "label": "formalit\u00E9 administrative",
+      "source_uri": "http://eurovoc.europa.eu/5070"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/619",
+      "language": "en",
+      "label": "intra-EU trade",
+      "source_uri": "http://eurovoc.europa.eu/619"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/619",
+      "language": "fr",
+      "label": "\u00E9change intra-UE",
+      "source_uri": "http://eurovoc.europa.eu/619"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "74180468de69a9d158583b41d96ececb0e2bfa8a92df47d8c86b5737447ba9ff"
 }

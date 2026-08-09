@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32020r1783r(01):2023-10-26",
   "work_identifier": "http://publications.europa.eu/resource/celex/32020R1783R(01)",
   "publisher": "eu-eurlex",
-  "document_type": "REG",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2023-10-26",
   "valid_time_source": "publisher",
   "publication_date": "2023-10-26",
@@ -22,6 +22,12 @@
       "observed_from": "2026-08-07T00:17:15Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form,publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -71,12 +77,101 @@
   "relations": [],
   "raw": {
     "celex": "32020R1783R(01)",
-    "legal_form": "REG",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "cd7fcf40e881ee3afe380f201ea0ff1c4f8d830fe1da4bf286ed974effa2d220"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "en",
+      "label": "cross-border cooperation",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "fr",
+      "label": "coop\u00E9ration transfrontali\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "en",
+      "label": "new technology",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "fr",
+      "label": "nouvelle technologie",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "en",
+      "label": "judicial inquiry",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "fr",
+      "label": "enqu\u00EAte judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4434",
+      "language": "en",
+      "label": "evidence",
+      "source_uri": "http://eurovoc.europa.eu/4434"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4434",
+      "language": "fr",
+      "label": "t\u00E9moignage",
+      "source_uri": "http://eurovoc.europa.eu/4434"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5190",
+      "language": "en",
+      "label": "video communications",
+      "source_uri": "http://eurovoc.europa.eu/5190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5190",
+      "language": "fr",
+      "label": "vid\u00E9ocommunication",
+      "source_uri": "http://eurovoc.europa.eu/5190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8480",
+      "language": "en",
+      "label": "judicial cooperation in civil matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/8480"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8480",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire civile (UE)",
+      "source_uri": "http://eurovoc.europa.eu/8480"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "9db26934221cedc0421315da9b72d79afcb80a4b7c7b398e683bd9e521d720ae"
 }

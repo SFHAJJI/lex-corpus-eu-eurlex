@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,136 @@
     "domains": "financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "a675bc8bd335efcaa68fc6d6767b1c801708f7c72939ea4aae62f3d5f2a43a06"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "en",
+      "label": "Banks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020",
+      "language": "fr",
+      "label": "Banques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "price index",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "fr",
+      "label": "indice des prix",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "en",
+      "label": "financial instrument",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1459",
+      "language": "fr",
+      "label": "instrument financier",
+      "source_uri": "http://eurovoc.europa.eu/1459"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "en",
+      "label": "financial control",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "fr",
+      "label": "contr\u00F4le financier",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3086",
+      "language": "en",
+      "label": "economic consequence",
+      "source_uri": "http://eurovoc.europa.eu/3086"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3086",
+      "language": "fr",
+      "label": "cons\u00E9quence \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/3086"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5493",
+      "language": "en",
+      "label": "contract terms",
+      "source_uri": "http://eurovoc.europa.eu/5493"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5493",
+      "language": "fr",
+      "label": "clause contractuelle",
+      "source_uri": "http://eurovoc.europa.eu/5493"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6334",
+      "language": "en",
+      "label": "Euribor",
+      "source_uri": "http://eurovoc.europa.eu/6334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6334",
+      "language": "fr",
+      "label": "Euribor",
+      "source_uri": "http://eurovoc.europa.eu/6334"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "0a73f4ef0d604ffd6996a6ecae6976ef98827f34c33de40b67158918c841e2e0"
 }

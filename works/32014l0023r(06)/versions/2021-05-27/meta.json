@@ -28,6 +28,12 @@
       "observed_from": "2026-08-07T00:17:15Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -84,5 +90,108 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "caff57ea6a694a775a5f4865c8b2cdabbe2b109ca30d991a7511a052aa405a98"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "en",
+      "label": "works contract",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "fr",
+      "label": "march\u00E9 de travaux",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award of contract",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "en",
+      "label": "invitation to tender",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "fr",
+      "label": "appel d\u0027offres",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "en",
+      "label": "services contract",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "fr",
+      "label": "march\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "en",
+      "label": "administrative transparency",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "fr",
+      "label": "transparence administrative",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8468",
+      "language": "en",
+      "label": "principle of legal certainty",
+      "source_uri": "http://eurovoc.europa.eu/8468"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8468",
+      "language": "fr",
+      "label": "principe de s\u00E9curit\u00E9 juridique",
+      "source_uri": "http://eurovoc.europa.eu/8468"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "f721ed56fed3f117842728650bc1273051961e3705212b8a44e1b01f9598fa20"
 }

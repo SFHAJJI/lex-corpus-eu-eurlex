@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,123 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:seed"
   },
-  "record_sha256": "d12f056e0a523bbe1e2600112e8eefe8ee7bdcf563ab81a7fb8d81e65a33369f"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award of contract",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3428",
+      "language": "en",
+      "label": "transport network",
+      "source_uri": "http://eurovoc.europa.eu/3428"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3428",
+      "language": "fr",
+      "label": "r\u00E9seau de transport",
+      "source_uri": "http://eurovoc.europa.eu/3428"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/378",
+      "language": "en",
+      "label": "energy demand",
+      "source_uri": "http://eurovoc.europa.eu/378"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/378",
+      "language": "fr",
+      "label": "demande \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/378"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4133",
+      "language": "en",
+      "label": "postal service",
+      "source_uri": "http://eurovoc.europa.eu/4133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4133",
+      "language": "fr",
+      "label": "service postal",
+      "source_uri": "http://eurovoc.europa.eu/4133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/476",
+      "language": "en",
+      "label": "water supply",
+      "source_uri": "http://eurovoc.europa.eu/476"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/476",
+      "language": "fr",
+      "label": "distribution de l\u0027eau",
+      "source_uri": "http://eurovoc.europa.eu/476"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5585",
+      "language": "en",
+      "label": "sustainable development",
+      "source_uri": "http://eurovoc.europa.eu/5585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5585",
+      "language": "fr",
+      "label": "d\u00E9veloppement durable",
+      "source_uri": "http://eurovoc.europa.eu/5585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6369",
+      "language": "en",
+      "label": "services of general interest",
+      "source_uri": "http://eurovoc.europa.eu/6369"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6369",
+      "language": "fr",
+      "label": "service d\u0027int\u00E9r\u00EAt g\u00E9n\u00E9ral",
+      "source_uri": "http://eurovoc.europa.eu/6369"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "f3c57115d7951f215658c4d32e6492ee24ca4b0518ac75ea204ec1b401fd4dc6"
 }

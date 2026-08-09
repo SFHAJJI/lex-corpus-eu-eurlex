@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -21,7 +27,7 @@
       "valid_to": "2022-06-22",
       "valid_time_source": "publisher",
       "title": "Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (recast) (Text with EEA relevance.)",
-      "title_short": "Electricity Market Directive \u2014 Directive (EU) 2019/944",
+      "title_short": "Directive (EU) 2019/944",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944",
       "observations": [
         {
@@ -43,7 +49,7 @@
       "valid_to": "2022-06-22",
       "valid_time_source": "publisher",
       "title": "Directive (UE) 2019/944 du Parlement europ\u00E9en et du Conseil du 5 juin 2019 concernant des r\u00E8gles communes pour le march\u00E9 int\u00E9rieur de l\u0027\u00E9lectricit\u00E9 et modifiant la directive 2012/27/UE (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
-      "title_short": "Electricity Market Directive \u2014 Directive (UE) 2019/944 du Parlement europ\u00E9en et du Conseil du 5 juin 2019 concernant des \u2026",
+      "title_short": "Directive (UE) 2019/944 du Parlement europ\u00E9en et du Conseil du 5 juin 2019 concernant des \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0944",
       "observations": [
         {
@@ -70,5 +76,150 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "df562a873a6dbd1a73cd0b6b432bb29f761ca3f803406a2e0d8fbb41737217f7"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "en",
+      "label": "Electricity",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "fr",
+      "label": "\u00C9lectricit\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "en",
+      "label": "consumer",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "fr",
+      "label": "consommateur",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2654",
+      "language": "en",
+      "label": "price of energy",
+      "source_uri": "http://eurovoc.europa.eu/2654"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2654",
+      "language": "fr",
+      "label": "prix de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/2654"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity supply",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "fr",
+      "label": "distribution de l\u0027\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "2bc5e0ec4a9206995bf398297bf74861a4ef0d0a1d637d7448ee4d14be3d255e"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,178 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "6d6b61ebb091745a400867943b9f1fcb4b6356bd3ef27b2e88d2cb3e13a45f12"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113070",
+      "language": "en",
+      "label": "Other spheres of multilateral cooperation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113070"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113070",
+      "language": "fr",
+      "label": "Autres domaines de coop\u00E9ration multilat\u00E9rale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113070"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/180",
+      "language": "en",
+      "label": "quality control of industrial products",
+      "source_uri": "http://eurovoc.europa.eu/180"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/180",
+      "language": "fr",
+      "label": "contr\u00F4le de qualit\u00E9 des produits industriels",
+      "source_uri": "http://eurovoc.europa.eu/180"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2143",
+      "language": "en",
+      "label": "World Intellectual Property Organisation",
+      "source_uri": "http://eurovoc.europa.eu/2143"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2143",
+      "language": "fr",
+      "label": "Organisation mondiale de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/2143"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2712",
+      "language": "en",
+      "label": "craft production",
+      "source_uri": "http://eurovoc.europa.eu/2712"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2712",
+      "language": "fr",
+      "label": "production artisanale",
+      "source_uri": "http://eurovoc.europa.eu/2712"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2758",
+      "language": "en",
+      "label": "industrial product",
+      "source_uri": "http://eurovoc.europa.eu/2758"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2758",
+      "language": "fr",
+      "label": "produit industriel",
+      "source_uri": "http://eurovoc.europa.eu/2758"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "en",
+      "label": "intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3173",
+      "language": "en",
+      "label": "designation of origin",
+      "source_uri": "http://eurovoc.europa.eu/3173"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3173",
+      "language": "fr",
+      "label": "appellation d\u0027origine",
+      "source_uri": "http://eurovoc.europa.eu/3173"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3461",
+      "language": "en",
+      "label": "international agreement",
+      "source_uri": "http://eurovoc.europa.eu/3461"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3461",
+      "language": "fr",
+      "label": "accord international",
+      "source_uri": "http://eurovoc.europa.eu/3461"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5573",
+      "language": "en",
+      "label": "product designation",
+      "source_uri": "http://eurovoc.europa.eu/5573"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5573",
+      "language": "fr",
+      "label": "d\u00E9nomination du produit",
+      "source_uri": "http://eurovoc.europa.eu/5573"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/893",
+      "language": "en",
+      "label": "labelling",
+      "source_uri": "http://eurovoc.europa.eu/893"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/893",
+      "language": "fr",
+      "label": "\u00E9tiquetage",
+      "source_uri": "http://eurovoc.europa.eu/893"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "0f4f07fa507733b75b7c6f6b4b5d9d706c8da979384dc1aaa697d3384340b339"
 }

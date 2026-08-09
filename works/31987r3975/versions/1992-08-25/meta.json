@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -75,5 +81,136 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "e2e5670296422b3f2082a6348365eec86a1ef3feef4b24cea0777673bc5ce8e1"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "en",
+      "label": "Prohibited agreements",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "fr",
+      "label": "Accords interdits",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830",
+      "language": "en",
+      "label": "Dominant positions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830",
+      "language": "fr",
+      "label": "Positions dominantes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2565",
+      "language": "en",
+      "label": "dominant position",
+      "source_uri": "http://eurovoc.europa.eu/2565"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2565",
+      "language": "fr",
+      "label": "position dominante",
+      "source_uri": "http://eurovoc.europa.eu/2565"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "en",
+      "label": "air transport",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "fr",
+      "label": "transport a\u00E9rien",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4521",
+      "language": "en",
+      "label": "intra-EU transport",
+      "source_uri": "http://eurovoc.europa.eu/4521"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4521",
+      "language": "fr",
+      "label": "transport intra-UE",
+      "source_uri": "http://eurovoc.europa.eu/4521"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6050",
+      "language": "en",
+      "label": "advisory committee (EU)",
+      "source_uri": "http://eurovoc.europa.eu/6050"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6050",
+      "language": "fr",
+      "label": "comit\u00E9 consultatif (UE)",
+      "source_uri": "http://eurovoc.europa.eu/6050"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/818",
+      "language": "en",
+      "label": "transport company",
+      "source_uri": "http://eurovoc.europa.eu/818"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/818",
+      "language": "fr",
+      "label": "entreprise de transport",
+      "source_uri": "http://eurovoc.europa.eu/818"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "c90cf9f4a188955741236617238d8e24cac6e135cc0e3b6a84ba8e592c239b62"
 }

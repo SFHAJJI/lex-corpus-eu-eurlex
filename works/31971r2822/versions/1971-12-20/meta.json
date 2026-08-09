@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,77 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "0c1837f0dfec8db79c674af7f5609dcd4779ec51160efb8787a5a8eb1f2acc8d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "en",
+      "label": "competition policy",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "fr",
+      "label": "politique de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2837",
+      "language": "en",
+      "label": "specialisation agreement",
+      "source_uri": "http://eurovoc.europa.eu/2837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2837",
+      "language": "fr",
+      "label": "accord de sp\u00E9cialisation",
+      "source_uri": "http://eurovoc.europa.eu/2837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3145",
+      "language": "en",
+      "label": "control of restrictive practices",
+      "source_uri": "http://eurovoc.europa.eu/3145"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3145",
+      "language": "fr",
+      "label": "r\u00E9glementation des ententes",
+      "source_uri": "http://eurovoc.europa.eu/3145"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    }
+  ],
+  "record_sha256": "1696c9821fe4611f41531278f74c07044540c678ac0a20a5686812a25895ebfc"
 }

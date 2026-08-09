@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,122 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:seed"
   },
-  "record_sha256": "2e8d7326cfcdd922f12b8b20d5ea5f21b6f755bda3072edb5e99588786a53ccb"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0820",
+      "language": "en",
+      "label": "Restrictive practices",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0820"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0820",
+      "language": "fr",
+      "label": "Pratiques restrictives",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0820"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830",
+      "language": "en",
+      "label": "Dominant positions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830",
+      "language": "fr",
+      "label": "Positions dominantes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "en",
+      "label": "merger control",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "fr",
+      "label": "contr\u00F4le des concentrations",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "en",
+      "label": "competition policy",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "fr",
+      "label": "politique de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2565",
+      "language": "en",
+      "label": "dominant position",
+      "source_uri": "http://eurovoc.europa.eu/2565"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2565",
+      "language": "fr",
+      "label": "position dominante",
+      "source_uri": "http://eurovoc.europa.eu/2565"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5953",
+      "language": "en",
+      "label": "infringement of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5953"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5953",
+      "language": "fr",
+      "label": "violation du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5953"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/69",
+      "language": "en",
+      "label": "economic concentration",
+      "source_uri": "http://eurovoc.europa.eu/69"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/69",
+      "language": "fr",
+      "label": "concentration \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/69"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1c9c0cded8a0850753d735476e2e6b058683fbe23c98de8db904b2330cece603"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -75,5 +81,122 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "23961adbbbb48946e8cad376e2dcd2bbd744a08942b883f9a8b1f9d14a4cf717"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "en",
+      "label": "merger control",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/183",
+      "language": "fr",
+      "label": "contr\u00F4le des concentrations",
+      "source_uri": "http://eurovoc.europa.eu/183"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2565",
+      "language": "en",
+      "label": "dominant position",
+      "source_uri": "http://eurovoc.europa.eu/2565"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2565",
+      "language": "fr",
+      "label": "position dominante",
+      "source_uri": "http://eurovoc.europa.eu/2565"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3145",
+      "language": "en",
+      "label": "control of restrictive practices",
+      "source_uri": "http://eurovoc.europa.eu/3145"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3145",
+      "language": "fr",
+      "label": "r\u00E9glementation des ententes",
+      "source_uri": "http://eurovoc.europa.eu/3145"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "inter-company agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "en",
+      "label": "administrative sanction",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "fr",
+      "label": "sanction administrative",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3866",
+      "language": "en",
+      "label": "sanction (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3866"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3866",
+      "language": "fr",
+      "label": "sanction (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3866"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "2a30a0bc840cd3b953cc2159ba2cca268c35c83448562c6d1761296ccc44fe09"
 }

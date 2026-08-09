@@ -34,6 +34,12 @@
       "observed_from": "2026-08-08T03:00:14Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -90,5 +96,94 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "c4b50b1191e6a220e78f9d169d2d7581f99cf90dcac44eecab635d5477ed422c"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "criminalit\u00E9 informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3453",
+      "language": "en",
+      "label": "European security",
+      "source_uri": "http://eurovoc.europa.eu/3453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3453",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/3453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "information security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des syst\u00E8mes d\u2019information",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_406ad4cc",
+      "language": "en",
+      "label": "risk management",
+      "source_uri": "http://eurovoc.europa.eu/c_406ad4cc"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_406ad4cc",
+      "language": "fr",
+      "label": "gestion du risque",
+      "source_uri": "http://eurovoc.europa.eu/c_406ad4cc"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_57f3c49f",
+      "language": "en",
+      "label": "critical infrastructure security",
+      "source_uri": "http://eurovoc.europa.eu/c_57f3c49f"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_57f3c49f",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des infrastructures critiques",
+      "source_uri": "http://eurovoc.europa.eu/c_57f3c49f"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "b22b95b12f6100ac3ee3b7534b66497755e0528926a581ada6f4b60332e42301"
 }

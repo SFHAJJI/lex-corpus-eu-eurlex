@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,91 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "1cc2c78a12be7d89ebfe29122edda6bdc8ca020e08533d41916712ed09fb5e8b"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "en",
+      "label": "Judicial cooperation in civil matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re civile",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/210",
+      "language": "en",
+      "label": "European cooperation",
+      "source_uri": "http://eurovoc.europa.eu/210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/210",
+      "language": "fr",
+      "label": "coop\u00E9ration europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/217",
+      "language": "en",
+      "label": "judicial cooperation",
+      "source_uri": "http://eurovoc.europa.eu/217"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/217",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/217"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/523",
+      "language": "en",
+      "label": "civil law",
+      "source_uri": "http://eurovoc.europa.eu/523"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/523",
+      "language": "fr",
+      "label": "droit civil",
+      "source_uri": "http://eurovoc.europa.eu/523"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/524",
+      "language": "en",
+      "label": "commercial law",
+      "source_uri": "http://eurovoc.europa.eu/524"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/524",
+      "language": "fr",
+      "label": "droit commercial",
+      "source_uri": "http://eurovoc.europa.eu/524"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    }
+  ],
+  "record_sha256": "03aa0a56fc4aa59e74dcb5cdb2ff8ce6450f4525fbdb4f2a1fec6b45712c9995"
 }

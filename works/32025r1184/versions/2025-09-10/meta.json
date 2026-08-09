@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,138 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "0f5614da11c33ea767d855a25b4ce2bad05f24f3317002ec5ac9d516159fcc66"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "en",
+      "label": "Judicial cooperation in criminal matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re p\u00E9nale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "en",
+      "label": "fight against crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "fr",
+      "label": "lutte contre le crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/211",
+      "language": "en",
+      "label": "financial cooperation",
+      "source_uri": "http://eurovoc.europa.eu/211"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/211",
+      "language": "fr",
+      "label": "coop\u00E9ration financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/211"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "en",
+      "label": "third country",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "fr",
+      "label": "pays tiers",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2792",
+      "language": "en",
+      "label": "action programme",
+      "source_uri": "http://eurovoc.europa.eu/2792"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2792",
+      "language": "fr",
+      "label": "programme d\u0027action",
+      "source_uri": "http://eurovoc.europa.eu/2792"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5157",
+      "language": "en",
+      "label": "venture capital",
+      "source_uri": "http://eurovoc.europa.eu/5157"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5157",
+      "language": "fr",
+      "label": "capitaux \u00E0 risque",
+      "source_uri": "http://eurovoc.europa.eu/5157"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "en",
+      "label": "economic offence",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "fr",
+      "label": "d\u00E9lit \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9d09fbc3",
+      "language": "en",
+      "label": "terrorism financing\u00A0",
+      "source_uri": "http://eurovoc.europa.eu/c_9d09fbc3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_9d09fbc3",
+      "language": "fr",
+      "label": "financement du terrorisme\u00A0",
+      "source_uri": "http://eurovoc.europa.eu/c_9d09fbc3"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "7a5bf0af7a81a57993a659b898341fbb45ea5a82d03d6a782382d0a783187f1d"
 }

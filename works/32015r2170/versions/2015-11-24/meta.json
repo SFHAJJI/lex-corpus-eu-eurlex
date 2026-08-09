@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,109 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "5d4aeff9c1b60aca2d54e3e9aabed565e0fce911da6925548a2fcb02d6f92b0e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "en",
+      "label": "Public contracts",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "fr",
+      "label": "March\u00E9s publics",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "en",
+      "label": "supplies contract",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "fr",
+      "label": "march\u00E9 de fournitures",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "en",
+      "label": "works contract",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "fr",
+      "label": "march\u00E9 de travaux",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award of contract",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "en",
+      "label": "invitation to tender",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "fr",
+      "label": "appel d\u0027offres",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "en",
+      "label": "services contract",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "fr",
+      "label": "march\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "ca86c640fbf4bfac74bbf51b8c76dfaab902d4195a22ac344cd4bbdc75e3da46"
 }

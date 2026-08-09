@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "4c2b9d9fdb962ed98b91634b2ab23b23a5efbfe71531b71ae512ae248204439e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3662",
+      "language": "en",
+      "label": "registered trade mark",
+      "source_uri": "http://eurovoc.europa.eu/3662"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3662",
+      "language": "fr",
+      "label": "marque d\u00E9pos\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/3662"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3665",
+      "language": "en",
+      "label": "trade-mark law",
+      "source_uri": "http://eurovoc.europa.eu/3665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3665",
+      "language": "fr",
+      "label": "droit des marques",
+      "source_uri": "http://eurovoc.europa.eu/3665"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3666",
+      "language": "en",
+      "label": "EU trade mark",
+      "source_uri": "http://eurovoc.europa.eu/3666"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3666",
+      "language": "fr",
+      "label": "marque de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/3666"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "en",
+      "label": "codification of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "fr",
+      "label": "codification du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6128",
+      "language": "en",
+      "label": "European Union Intellectual Property Office",
+      "source_uri": "http://eurovoc.europa.eu/6128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6128",
+      "language": "fr",
+      "label": "Office de l\u0027Union europ\u00E9enne pour la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/6128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6257",
+      "language": "en",
+      "label": "simplification of legislation",
+      "source_uri": "http://eurovoc.europa.eu/6257"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6257",
+      "language": "fr",
+      "label": "simplification l\u00E9gislative",
+      "source_uri": "http://eurovoc.europa.eu/6257"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "a93a3aa93922fbd5593647c6d2df2b091ac380a4ed9efee1ac980511db9c81d0"
 }

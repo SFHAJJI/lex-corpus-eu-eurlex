@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -25,7 +31,7 @@
       "valid_from": "2023-12-13",
       "valid_time_source": "publisher",
       "title": "Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13\u00A0December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU)\u00A02017/2394 and Directive (EU)\u00A02020/1828 (Data Act) (Text with EEA relevance)",
-      "title_short": "Data Act \u2014 Regulation (EU) 2023/2854",
+      "title_short": "Regulation (EU) 2023/2854",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854",
       "observations": [
         {
@@ -46,7 +52,7 @@
       "valid_from": "2023-12-13",
       "valid_time_source": "publisher",
       "title": "R\u00E8glement (UE) 2023/2854 du Parlement europ\u00E9en et du Conseil du 13\u00A0d\u00E9cembre 2023 concernant des r\u00E8gles harmonis\u00E9es portant sur l\u0027\u00E9quit\u00E9 de l\u2019acc\u00E8s aux donn\u00E9es et de l\u2019utilisation des donn\u00E9es et modifiant le r\u00E8glement (UE)\u00A02017/2394 et la directive (UE)\u00A02020/1828 (r\u00E8glement sur les donn\u00E9es) (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
-      "title_short": "Data Act \u2014 R\u00E8glement (UE) 2023/2854 du Parlement europ\u00E9en et du Conseil du 13\u00A0d\u00E9cembre 2023 concernan\u2026",
+      "title_short": "R\u00E8glement (UE) 2023/2854 du Parlement europ\u00E9en et du Conseil du 13\u00A0d\u00E9cembre 2023 concernan\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2854",
       "observations": [
         {
@@ -73,5 +79,171 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "1dd761ca00da882858b3ad843dd65538439abab244dd7c17e22b0f554dd6d318"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3028",
+      "language": "en",
+      "label": "data-processing law",
+      "source_uri": "http://eurovoc.europa.eu/3028"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3028",
+      "language": "fr",
+      "label": "droit de l\u0027informatique",
+      "source_uri": "http://eurovoc.europa.eu/3028"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "en",
+      "label": "harmonisation of standards",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "fr",
+      "label": "harmonisation des normes",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "en",
+      "label": "data transmission",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "fr",
+      "label": "transmission de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_eaccd9f4",
+      "language": "en",
+      "label": "data sharing",
+      "source_uri": "http://eurovoc.europa.eu/c_eaccd9f4"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_eaccd9f4",
+      "language": "fr",
+      "label": "partage de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/c_eaccd9f4"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Data Act",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "365faf3490f5db537d3a281a54a2a7f021c18b6c60b340f1242898e4b9366ad7"
 }

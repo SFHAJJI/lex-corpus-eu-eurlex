@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,137 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "6cf1669189b389635785120426e0193cb1eff15ca42aaf4811492f99c8b0ac58"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133011",
+      "language": "en",
+      "label": "Agricultural and forestry tractors",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133011"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133011",
+      "language": "fr",
+      "label": "Tracteurs agricoles et forestiers",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "environmental protection",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "protection de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4033",
+      "language": "en",
+      "label": "transport safety",
+      "source_uri": "http://eurovoc.europa.eu/4033"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4033",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des transports",
+      "source_uri": "http://eurovoc.europa.eu/4033"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4476",
+      "language": "en",
+      "label": "tractor",
+      "source_uri": "http://eurovoc.europa.eu/4476"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4476",
+      "language": "fr",
+      "label": "tracteur",
+      "source_uri": "http://eurovoc.europa.eu/4476"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4655",
+      "language": "en",
+      "label": "agricultural vehicle",
+      "source_uri": "http://eurovoc.europa.eu/4655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4655",
+      "language": "fr",
+      "label": "v\u00E9hicule agricole",
+      "source_uri": "http://eurovoc.europa.eu/4655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5481",
+      "language": "en",
+      "label": "Community certification",
+      "source_uri": "http://eurovoc.europa.eu/5481"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5481",
+      "language": "fr",
+      "label": "certification communautaire",
+      "source_uri": "http://eurovoc.europa.eu/5481"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "en",
+      "label": "EC conformity marking",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "fr",
+      "label": "marquage CE de conformit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/848",
+      "language": "en",
+      "label": "vehicle parts",
+      "source_uri": "http://eurovoc.europa.eu/848"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/848",
+      "language": "fr",
+      "label": "\u00E9quipement de v\u00E9hicule",
+      "source_uri": "http://eurovoc.europa.eu/848"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "c671dfa0db87ee9f7450ddf63482d158685863ceec60ba09652d5c0c992c1537"
 }

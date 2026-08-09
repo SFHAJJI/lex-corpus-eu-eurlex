@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -21,7 +27,7 @@
       "valid_to": "2016-05-03",
       "valid_time_source": "publisher",
       "title": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance)",
-      "title_short": "GDPR \u2014 Regulation (EU) 2016/679",
+      "title_short": "Regulation (EU) 2016/679",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679",
       "observations": [
         {
@@ -43,7 +49,7 @@
       "valid_to": "2016-05-03",
       "valid_time_source": "publisher",
       "title": "R\u00E8glement (UE) 2016/679 du Parlement europ\u00E9en et du Conseil du 27 avril 2016 relatif \u00E0 la protection des personnes physiques \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel et \u00E0 la libre circulation de ces donn\u00E9es, et abrogeant la directive 95/46/CE (r\u00E8glement g\u00E9n\u00E9ral sur la protection des donn\u00E9es) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
-      "title_short": "GDPR \u2014 R\u00E8glement (UE) 2016/679 du Parlement europ\u00E9en et du Conseil du 27 avril 2016 relatif \u00E0 la \u2026",
+      "title_short": "R\u00E8glement (UE) 2016/679 du Parlement europ\u00E9en et du Conseil du 27 avril 2016 relatif \u00E0 la \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679",
       "observations": [
         {
@@ -70,5 +76,175 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "4258f516b1bff8ebab092bccf92b576d4f20981d032a13f3b22f3dd83d0e7104"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "en",
+      "label": "Consumer information, education and representation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "fr",
+      "label": "Information, \u00E9ducation et repr\u00E9sentation des consommateurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940",
+      "language": "en",
+      "label": "Programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940",
+      "language": "fr",
+      "label": "Programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2338",
+      "language": "en",
+      "label": "natural person",
+      "source_uri": "http://eurovoc.europa.eu/2338"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2338",
+      "language": "fr",
+      "label": "personne physique",
+      "source_uri": "http://eurovoc.europa.eu/2338"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "en",
+      "label": "protection of privacy",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "fr",
+      "label": "protection de la vie priv\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3028",
+      "language": "en",
+      "label": "data-processing law",
+      "source_uri": "http://eurovoc.europa.eu/3028"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3028",
+      "language": "fr",
+      "label": "droit de l\u0027informatique",
+      "source_uri": "http://eurovoc.europa.eu/3028"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6222",
+      "language": "en",
+      "label": "area of freedom, security and justice",
+      "source_uri": "http://eurovoc.europa.eu/6222"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6222",
+      "language": "fr",
+      "label": "espace de libert\u00E9, s\u00E9curit\u00E9 et justice",
+      "source_uri": "http://eurovoc.europa.eu/6222"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "gdpr, personal data, personal data protection",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "rgdp, GDPR, Protection des donn\u00E9es \u00E0 caract\u00E8re personnel",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679"
+    }
+  ],
+  "record_sha256": "0ff65035b299460d5ab55898e969ae5218671b93585aafb359d8fc48d2a97fd3"
 }

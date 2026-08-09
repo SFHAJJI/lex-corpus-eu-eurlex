@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,200 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:seed"
   },
-  "record_sha256": "5683715e48af68a8a4215f3b07f66f9a49e8f3e2f44381acb29b0fa131d7f1b6"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010",
+      "language": "en",
+      "label": "General provisions and programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010",
+      "language": "fr",
+      "label": "Dispositions g\u00E9n\u00E9rales et programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "environmental protection",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "protection de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental impact",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "impact sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate change policy",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "fr",
+      "label": "politique en mati\u00E8re de changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "economic instrument for the environment",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "fr",
+      "label": "instrument \u00E9conomique pour l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "en",
+      "label": "human rights",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "fr",
+      "label": "droits de l\u0027homme",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "environmental liability",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "fr",
+      "label": "responsabilit\u00E9 des dommages environnementaux",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "en",
+      "label": "corporate governance",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "fr",
+      "label": "gouvernement d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "en",
+      "label": "corporate social responsibility",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "responsabilit\u00E9 sociale de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "CSDDD, Corporate Sustainability Due Diligence Directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "b216ca54279f31fa22b07af3c03e3b80883adc380bd4e1c8f1381a42c19c78e0"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "889b1520624f579b976f154553464dff6573554df2a81fe6fdfaaf6f64691098"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1313",
+      "language": "en",
+      "label": "direct tax",
+      "source_uri": "http://eurovoc.europa.eu/1313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1313",
+      "language": "fr",
+      "label": "imp\u00F4t direct",
+      "source_uri": "http://eurovoc.europa.eu/1313"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1316",
+      "language": "en",
+      "label": "indirect tax",
+      "source_uri": "http://eurovoc.europa.eu/1316"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1316",
+      "language": "fr",
+      "label": "imp\u00F4t indirect",
+      "source_uri": "http://eurovoc.europa.eu/1316"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6342",
+      "language": "en",
+      "label": "European tax cooperation",
+      "source_uri": "http://eurovoc.europa.eu/6342"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6342",
+      "language": "fr",
+      "label": "coop\u00E9ration fiscale europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/6342"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "e00a1780c7021cd27d7f3ca784122b68de1b56d096a68b832c1ec2aff2b5e7e4"
 }

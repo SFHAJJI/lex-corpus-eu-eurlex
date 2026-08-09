@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,108 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "bea5aa75e230fefe1e50403254fa040c59a7770cf41439af36d7a2d2bd9da99c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010",
+      "language": "en",
+      "label": "Supplies and stocks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010",
+      "language": "fr",
+      "label": "Approvisionnement et stocks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2312",
+      "language": "en",
+      "label": "energy supply",
+      "source_uri": "http://eurovoc.europa.eu/2312"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2312",
+      "language": "fr",
+      "label": "approvisionnement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2312"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2772",
+      "language": "en",
+      "label": "petroleum product",
+      "source_uri": "http://eurovoc.europa.eu/2772"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2772",
+      "language": "fr",
+      "label": "produit p\u00E9trolier",
+      "source_uri": "http://eurovoc.europa.eu/2772"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "en",
+      "label": "import (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "fr",
+      "label": "importation (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3770",
+      "language": "en",
+      "label": "crude oil",
+      "source_uri": "http://eurovoc.europa.eu/3770"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3770",
+      "language": "fr",
+      "label": "p\u00E9trole brut",
+      "source_uri": "http://eurovoc.europa.eu/3770"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4286",
+      "language": "en",
+      "label": "minimum stock",
+      "source_uri": "http://eurovoc.europa.eu/4286"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4286",
+      "language": "fr",
+      "label": "stock minimal",
+      "source_uri": "http://eurovoc.europa.eu/4286"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "f69b78cb9337db2a99478cf40e254534ad86e57cb979ab11c04f6f6bc41580c7"
 }

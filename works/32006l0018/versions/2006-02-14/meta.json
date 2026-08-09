@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "7ffd861e8124dfd6670ae9a485735d0168a578ba992f713f7dc884002162c671"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "en",
+      "label": "natural gas",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "fr",
+      "label": "gaz naturel",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax relief",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "d\u00E9duction fiscale",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4392",
+      "language": "en",
+      "label": "VAT rate",
+      "source_uri": "http://eurovoc.europa.eu/4392"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4392",
+      "language": "fr",
+      "label": "taux de TVA",
+      "source_uri": "http://eurovoc.europa.eu/4392"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heating",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "chauffage",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "23a2d31dcc64ad2ba53161e73142cc59d1f2323f0ead879c4261a2f322009c0f"
 }

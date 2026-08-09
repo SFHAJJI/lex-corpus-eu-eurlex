@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,91 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "d22d0e7433aca8c4082e04c42820e5d46ea0196afcd7d790f87b890347196d94"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520",
+      "language": "en",
+      "label": "Gender equality",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520",
+      "language": "fr",
+      "label": "\u00C9galit\u00E9 entre les femmes et les hommes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05200520"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1073",
+      "language": "en",
+      "label": "in-service training",
+      "source_uri": "http://eurovoc.europa.eu/1073"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1073",
+      "language": "fr",
+      "label": "formation en cours d\u0027emploi",
+      "source_uri": "http://eurovoc.europa.eu/1073"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2807",
+      "language": "en",
+      "label": "promotion",
+      "source_uri": "http://eurovoc.europa.eu/2807"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2807",
+      "language": "fr",
+      "label": "promotion professionnelle",
+      "source_uri": "http://eurovoc.europa.eu/2807"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/372",
+      "language": "en",
+      "label": "job access",
+      "source_uri": "http://eurovoc.europa.eu/372"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/372",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027emploi",
+      "source_uri": "http://eurovoc.europa.eu/372"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "en",
+      "label": "gender equality",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 homme-femme",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    }
+  ],
+  "record_sha256": "93f263a19da024edae72a14746c36479c68ebe21037dfd302a5f7f1e1cc2337e"
 }

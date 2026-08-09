@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,14 @@
     "domains": "primary-eu-law",
     "scope_reasons": "domain:primary-eu-law:seed"
   },
-  "record_sha256": "d9f9275856eda0b464dce495ce542232194ce4251518ae32fb93c0970c771fc9"
+  "publisher_metadata": [
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "tfeu",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012E%2FTXT"
+    }
+  ],
+  "record_sha256": "8d1838b707f8a74a3c050e3cbabedd5d32f1ffde07afafe0723ebfc2899c980b"
 }

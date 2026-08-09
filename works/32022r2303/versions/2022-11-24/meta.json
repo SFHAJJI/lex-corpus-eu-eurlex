@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,137 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "078f9b01437832ed285b4621788eece13d6b1708ff7f4caa41aae3d7578d1eeb"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "en",
+      "label": "Public contracts",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "fr",
+      "label": "March\u00E9s publics",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1076",
+      "language": "en",
+      "label": "form",
+      "source_uri": "http://eurovoc.europa.eu/1076"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1076",
+      "language": "fr",
+      "label": "formulaire",
+      "source_uri": "http://eurovoc.europa.eu/1076"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "en",
+      "label": "supplies contract",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "fr",
+      "label": "march\u00E9 de fournitures",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "en",
+      "label": "invitation to tender",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "fr",
+      "label": "appel d\u0027offres",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3136",
+      "language": "en",
+      "label": "non-polluting vehicle",
+      "source_uri": "http://eurovoc.europa.eu/3136"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3136",
+      "language": "fr",
+      "label": "v\u00E9hicule non polluant",
+      "source_uri": "http://eurovoc.europa.eu/3136"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4219",
+      "language": "en",
+      "label": "tendering",
+      "source_uri": "http://eurovoc.europa.eu/4219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4219",
+      "language": "fr",
+      "label": "soumission d\u0027offres",
+      "source_uri": "http://eurovoc.europa.eu/4219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_163e1e96",
+      "language": "en",
+      "label": "green public procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_163e1e96"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_163e1e96",
+      "language": "fr",
+      "label": "march\u00E9 public \u00E9cologique",
+      "source_uri": "http://eurovoc.europa.eu/c_163e1e96"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_34465dac",
+      "language": "en",
+      "label": "e-procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_34465dac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_34465dac",
+      "language": "fr",
+      "label": "march\u00E9 public \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/c_34465dac"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "9d0b9228833cbbc68873dffcfb391e7bb99f6caf018156f35387406bf61fbc8f"
 }

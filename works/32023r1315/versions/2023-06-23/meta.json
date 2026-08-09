@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "60b17bab9ecefe610b2931626ef7328846152f7680f955790c9ab3fd7416185c"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/041040",
+      "language": "en",
+      "label": "State aids",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/041040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/041040",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/041040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/13",
+      "language": "en",
+      "label": "marketing",
+      "source_uri": "http://eurovoc.europa.eu/13"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/13",
+      "language": "fr",
+      "label": "commercialisation",
+      "source_uri": "http://eurovoc.europa.eu/13"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1377",
+      "language": "en",
+      "label": "processing industry",
+      "source_uri": "http://eurovoc.europa.eu/1377"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1377",
+      "language": "fr",
+      "label": "industrie de transformation",
+      "source_uri": "http://eurovoc.europa.eu/1377"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2320",
+      "language": "en",
+      "label": "aquaculture",
+      "source_uri": "http://eurovoc.europa.eu/2320"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2320",
+      "language": "fr",
+      "label": "aquiculture",
+      "source_uri": "http://eurovoc.europa.eu/2320"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2718",
+      "language": "en",
+      "label": "fishery product",
+      "source_uri": "http://eurovoc.europa.eu/2718"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2718",
+      "language": "fr",
+      "label": "produit de la p\u00EAche",
+      "source_uri": "http://eurovoc.europa.eu/2718"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5494",
+      "language": "en",
+      "label": "opt-out clause",
+      "source_uri": "http://eurovoc.europa.eu/5494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5494",
+      "language": "fr",
+      "label": "clause d\u0027exemption",
+      "source_uri": "http://eurovoc.europa.eu/5494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "en",
+      "label": "company in difficulties",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "fr",
+      "label": "entreprise en difficult\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/797",
+      "language": "en",
+      "label": "production aid",
+      "source_uri": "http://eurovoc.europa.eu/797"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/797",
+      "language": "fr",
+      "label": "aide \u00E0 la production",
+      "source_uri": "http://eurovoc.europa.eu/797"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/835",
+      "language": "en",
+      "label": "aid to undertakings",
+      "source_uri": "http://eurovoc.europa.eu/835"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/835",
+      "language": "fr",
+      "label": "aide aux entreprises",
+      "source_uri": "http://eurovoc.europa.eu/835"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "b9b923634a65df95004263849d9b1f3187a2b7459cef79a60dd2c0a224372a0a"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,192 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "c901e36f72da354855739a303328062650eb1a270d00d600d7dadd1e6429b569"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "en",
+      "label": "Instruments of economic policy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "fr",
+      "label": "Instruments de politique \u00E9conomique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020",
+      "language": "en",
+      "label": "Rational utilisation and conservation of energy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020",
+      "language": "fr",
+      "label": "Utilisation rationnelle et \u00E9conomies d\u0027\u00E9nergie",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/121020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1005",
+      "language": "en",
+      "label": "EU financing",
+      "source_uri": "http://eurovoc.europa.eu/1005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1005",
+      "language": "fr",
+      "label": "financement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/1005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "investment",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2443",
+      "language": "en",
+      "label": "common agricultural policy",
+      "source_uri": "http://eurovoc.europa.eu/2443"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2443",
+      "language": "fr",
+      "label": "politique agricole commune",
+      "source_uri": "http://eurovoc.europa.eu/2443"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3400",
+      "language": "en",
+      "label": "economic recovery",
+      "source_uri": "http://eurovoc.europa.eu/3400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3400",
+      "language": "fr",
+      "label": "reprise \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/3400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate change policy",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "fr",
+      "label": "politique en mati\u00E8re de changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5201",
+      "language": "en",
+      "label": "self-sufficiency in energy",
+      "source_uri": "http://eurovoc.europa.eu/5201"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5201",
+      "language": "fr",
+      "label": "ind\u00E9pendance \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/5201"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "energy saving",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "\u00E9conomie d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_86d7db98",
+      "language": "en",
+      "label": "energy transition",
+      "source_uri": "http://eurovoc.europa.eu/c_86d7db98"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_86d7db98",
+      "language": "fr",
+      "label": "transition \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/c_86d7db98"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "en",
+      "label": "EU energy policy",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "b55e9d1a144d34c1f05928af23c5e3a69ac6078f09e2ea00dbbba184981561d5"
 }

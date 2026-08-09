@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -21,7 +27,7 @@
       "valid_to": "2024-11-19",
       "valid_time_source": "publisher",
       "title": "Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive (EU) 2020/1828 (Cyber Resilience Act) (Text with EEA relevance)",
-      "title_short": "Cyber Resilience Act \u2014 Regulation (EU) 2024/2847",
+      "title_short": "Regulation (EU) 2024/2847",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2847",
       "observations": [
         {
@@ -43,7 +49,7 @@
       "valid_to": "2024-11-19",
       "valid_time_source": "publisher",
       "title": "R\u00E8glement (UE) 2024/2847 du Parlement europ\u00E9en et du Conseil du 23 octobre 2024 concernant des exigences de cybers\u00E9curit\u00E9 horizontales pour les produits comportant des \u00E9l\u00E9ments num\u00E9riques et modifiant les r\u00E8glements (UE) n\u00B0 168/2013 et (UE) 2019/1020 et la directive (UE) 2020/1828 (r\u00E8glement sur la cyberr\u00E9silience) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
-      "title_short": "Cyber Resilience Act \u2014 R\u00E8glement (UE) 2024/2847 du Parlement europ\u00E9en et du Conseil du 23 octobre 2024 concernant\u2026",
+      "title_short": "R\u00E8glement (UE) 2024/2847 du Parlement europ\u00E9en et du Conseil du 23 octobre 2024 concernant\u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2847",
       "observations": [
         {
@@ -70,5 +76,164 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "619a8d4b249d027a0d153967b64642aceef457e1f23280f4acff9f2c31cb5f18"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "software",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "logiciel",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "criminalit\u00E9 informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5613",
+      "language": "en",
+      "label": "computer equipment",
+      "source_uri": "http://eurovoc.europa.eu/5613"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5613",
+      "language": "fr",
+      "label": "\u00E9quipement informatique",
+      "source_uri": "http://eurovoc.europa.eu/5613"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "en",
+      "label": "EC conformity marking",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5726",
+      "language": "fr",
+      "label": "marquage CE de conformit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5726"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "en",
+      "label": "digital technology",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "fr",
+      "label": "technologie num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "information security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des syst\u00E8mes d\u2019information",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_4e75f061",
+      "language": "en",
+      "label": "information warfare",
+      "source_uri": "http://eurovoc.europa.eu/c_4e75f061"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_4e75f061",
+      "language": "fr",
+      "label": "guerre de l\u2019information",
+      "source_uri": "http://eurovoc.europa.eu/c_4e75f061"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "4da41df7d3d0b6b40d6edcf78521dde144fb040313e75015e3b2f311a80af0df"
 }

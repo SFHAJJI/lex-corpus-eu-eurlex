@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,123 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "708b9be1a75992bb9c058b9d9792ac59322a3596c038d71a7aa6f78851b39449"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "en",
+      "label": "Public contracts",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "fr",
+      "label": "March\u00E9s publics",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1076",
+      "language": "en",
+      "label": "form",
+      "source_uri": "http://eurovoc.europa.eu/1076"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1076",
+      "language": "fr",
+      "label": "formulaire",
+      "source_uri": "http://eurovoc.europa.eu/1076"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "en",
+      "label": "supplies contract",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "fr",
+      "label": "march\u00E9 de fournitures",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "en",
+      "label": "works contract",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "fr",
+      "label": "march\u00E9 de travaux",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "en",
+      "label": "invitation to tender",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2218",
+      "language": "fr",
+      "label": "appel d\u0027offres",
+      "source_uri": "http://eurovoc.europa.eu/2218"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "en",
+      "label": "services contract",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "fr",
+      "label": "march\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6894",
+      "language": "en",
+      "label": "electronic government",
+      "source_uri": "http://eurovoc.europa.eu/6894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6894",
+      "language": "fr",
+      "label": "administration \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6894"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_34465dac",
+      "language": "en",
+      "label": "e-procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_34465dac"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_34465dac",
+      "language": "fr",
+      "label": "march\u00E9 public \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/c_34465dac"
+    }
+  ],
+  "document_roles": [
+    "consolidated",
+    "implementing"
+  ],
+  "record_sha256": "223c047d90da09557de859bd808fdc84d2dbda9d03863cebc6e94b2c46326dc0"
 }

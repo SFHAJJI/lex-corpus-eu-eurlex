@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,81 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "7f6d871d0dabb73a1ba4d99ed068297cfee9476e1bf611fd87d71d094807b94f"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "en",
+      "label": "Public contracts",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630",
+      "language": "fr",
+      "label": "March\u00E9s publics",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2850",
+      "language": "en",
+      "label": "protocol to an agreement",
+      "source_uri": "http://eurovoc.europa.eu/2850"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2850",
+      "language": "fr",
+      "label": "protocole d\u0027accord",
+      "source_uri": "http://eurovoc.europa.eu/2850"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6365",
+      "language": "en",
+      "label": "service concession",
+      "source_uri": "http://eurovoc.europa.eu/6365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6365",
+      "language": "fr",
+      "label": "concession de services",
+      "source_uri": "http://eurovoc.europa.eu/6365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_4c7717f3",
+      "language": "en",
+      "label": "public procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_4c7717f3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_4c7717f3",
+      "language": "fr",
+      "label": "march\u00E9 public",
+      "source_uri": "http://eurovoc.europa.eu/c_4c7717f3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8150867f",
+      "language": "en",
+      "label": "agreement on government procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_8150867f"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8150867f",
+      "language": "fr",
+      "label": "accord sur les march\u00E9s publics",
+      "source_uri": "http://eurovoc.europa.eu/c_8150867f"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "3bae48f2f66bc976843fab01e4e6d47f4df0e25ac70b7feff66b46eeb48d93d2"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -75,5 +81,94 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "a2182d944bfc992c855f1183aeff86676d0a3c382d8e97290aac6898b94d04a1"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1635",
+      "language": "en",
+      "label": "free competition",
+      "source_uri": "http://eurovoc.europa.eu/1635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1635",
+      "language": "fr",
+      "label": "libre concurrence",
+      "source_uri": "http://eurovoc.europa.eu/1635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "en",
+      "label": "industrial property",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 industrielle",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "inter-company agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "ba4f1febe9e3cab3a83d794f7411584f5087170eb43452ce5728496baff881ce"
 }

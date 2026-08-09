@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "c540f94954dfd32ce26ee6a195acb90014d0fa868c260073bf6ab24d4debdf14"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2093",
+      "language": "en",
+      "label": "International Civil Aviation Organisation",
+      "source_uri": "http://eurovoc.europa.eu/2093"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2093",
+      "language": "fr",
+      "label": "Organisation de l\u0027aviation civile internationale",
+      "source_uri": "http://eurovoc.europa.eu/2093"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "en",
+      "label": "third country",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "fr",
+      "label": "pays tiers",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434843",
+      "language": "en",
+      "label": "emission trading",
+      "source_uri": "http://eurovoc.europa.eu/434843"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434843",
+      "language": "fr",
+      "label": "\u00E9change de droits d\u0027\u00E9mission",
+      "source_uri": "http://eurovoc.europa.eu/434843"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434966",
+      "language": "en",
+      "label": "emission allowance",
+      "source_uri": "http://eurovoc.europa.eu/434966"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434966",
+      "language": "fr",
+      "label": "quota d\u0027\u00E9mission",
+      "source_uri": "http://eurovoc.europa.eu/434966"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "en",
+      "label": "air transport",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4505",
+      "language": "fr",
+      "label": "transport a\u00E9rien",
+      "source_uri": "http://eurovoc.europa.eu/4505"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4519",
+      "language": "en",
+      "label": "international transport",
+      "source_uri": "http://eurovoc.europa.eu/4519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4519",
+      "language": "fr",
+      "label": "transport international",
+      "source_uri": "http://eurovoc.europa.eu/4519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "en",
+      "label": "tradeable emission permit",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "fr",
+      "label": "permis de pollution n\u00E9gociable",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "c8c0cb4bd3867ada2daa3c3ad6cb138ecd7bbc9b5e6a633d80b5ac2fd0b00dae"
 }

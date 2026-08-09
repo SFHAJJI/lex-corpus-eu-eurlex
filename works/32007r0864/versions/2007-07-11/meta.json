@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,119 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:seed"
   },
-  "record_sha256": "050ad1eba541e0de40dc8062fa27406290ff79bb11dcf0f163f9cf93575b279d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120",
+      "language": "en",
+      "label": "General provisions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120",
+      "language": "fr",
+      "label": "Dispositions g\u00E9n\u00E9rales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "en",
+      "label": "Judicial cooperation in civil matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re civile",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/524",
+      "language": "en",
+      "label": "commercial law",
+      "source_uri": "http://eurovoc.europa.eu/524"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/524",
+      "language": "fr",
+      "label": "droit commercial",
+      "source_uri": "http://eurovoc.europa.eu/524"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "en",
+      "label": "EU law",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "fr",
+      "label": "droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5598",
+      "language": "en",
+      "label": "law of obligations",
+      "source_uri": "http://eurovoc.europa.eu/5598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5598",
+      "language": "fr",
+      "label": "droit des obligations",
+      "source_uri": "http://eurovoc.europa.eu/5598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "en",
+      "label": "mutual recognition principle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "fr",
+      "label": "principe de reconnaissance mutuelle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "Rome II Regulation, Rome II, Rome 2",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0864"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "fr",
+      "label": "r\u00E8glement rome ii",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32007R0864"
+    }
+  ],
+  "record_sha256": "7db3bc5187e3073bb8de46a718634f7fcea96480203359989a2a38d656d826ac"
 }

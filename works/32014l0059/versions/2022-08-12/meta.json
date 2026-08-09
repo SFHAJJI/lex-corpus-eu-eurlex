@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,144 @@
     "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,domain:aml-corporate:relationship:resource_legal_implicitly_repeals_resource_legal,domain:financial-services:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "0c6587466af929076d1e6f5ccfc5f08105c4d5b1c13334fbff5db8e99060a953"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103010",
+      "language": "en",
+      "label": "Institutional economic provisions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103010",
+      "language": "fr",
+      "label": "Dispositions \u00E9conomiques institutionnelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1485",
+      "language": "en",
+      "label": "financial intervention",
+      "source_uri": "http://eurovoc.europa.eu/1485"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1485",
+      "language": "fr",
+      "label": "intervention financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1485"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3069",
+      "language": "en",
+      "label": "aid for restructuring",
+      "source_uri": "http://eurovoc.europa.eu/3069"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3069",
+      "language": "fr",
+      "label": "aide \u00E0 la restructuration",
+      "source_uri": "http://eurovoc.europa.eu/3069"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "en",
+      "label": "credit institution",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3246",
+      "language": "fr",
+      "label": "\u00E9tablissement de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/3246"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "en",
+      "label": "financial solvency",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3942",
+      "language": "fr",
+      "label": "solvabilit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/3942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4250",
+      "language": "en",
+      "label": "economic stabilisation",
+      "source_uri": "http://eurovoc.europa.eu/4250"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4250",
+      "language": "fr",
+      "label": "stabilisation \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/4250"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "en",
+      "label": "company in difficulties",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "fr",
+      "label": "entreprise en difficult\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/922",
+      "language": "en",
+      "label": "financial aid",
+      "source_uri": "http://eurovoc.europa.eu/922"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/922",
+      "language": "fr",
+      "label": "aide financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/922"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "brrd, brrd directive, Bank Recovery and Resolution Directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0059"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "e25cbd0d0c4e813e48af981b1733b496c89736b260ed78e77c0a5b72ac6aed50"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "43c93310a6a5a315ba90a9575ff76f123fbca8eef42572eb1a01d26cb57f0c84"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040",
+      "language": "en",
+      "label": "Commission",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040",
+      "language": "fr",
+      "label": "Commission",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "en",
+      "label": "financial market",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "fr",
+      "label": "march\u00E9 financier",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2577",
+      "language": "en",
+      "label": "power of implementation",
+      "source_uri": "http://eurovoc.europa.eu/2577"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2577",
+      "language": "fr",
+      "label": "pouvoir d\u0027ex\u00E9cution",
+      "source_uri": "http://eurovoc.europa.eu/2577"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4125",
+      "language": "en",
+      "label": "EU control",
+      "source_uri": "http://eurovoc.europa.eu/4125"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4125",
+      "language": "fr",
+      "label": "contr\u00F4le de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/4125"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4256",
+      "language": "en",
+      "label": "statistics",
+      "source_uri": "http://eurovoc.europa.eu/4256"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4256",
+      "language": "fr",
+      "label": "statistique",
+      "source_uri": "http://eurovoc.europa.eu/4256"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5110",
+      "language": "en",
+      "label": "capacity to exercise rights",
+      "source_uri": "http://eurovoc.europa.eu/5110"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5110",
+      "language": "fr",
+      "label": "capacit\u00E9 d\u0027exercice",
+      "source_uri": "http://eurovoc.europa.eu/5110"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5455",
+      "language": "en",
+      "label": "European Central Bank",
+      "source_uri": "http://eurovoc.europa.eu/5455"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5455",
+      "language": "fr",
+      "label": "Banque centrale europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5455"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "en",
+      "label": "powers of the institutions (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "fr",
+      "label": "comp\u00E9tence institutionnelle (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "971179388ad1e621b47616fa9c4141df35b7f70189ede10d6312cf76f1a825dc"
 }

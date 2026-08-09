@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,179 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "780649e926ab1243bc9435637673f980b6614fb82bb322a9609bf166e3cd2e57"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "en",
+      "label": "General principles and programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "fr",
+      "label": "Programmes et principes g\u00E9n\u00E9raux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1360",
+      "language": "en",
+      "label": "Trans-European networks",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1360"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1360",
+      "language": "fr",
+      "label": "R\u00E9seaux transeurop\u00E9ens",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1360"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "en",
+      "label": "energy cooperation",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "fr",
+      "label": "coop\u00E9ration \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity supply",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "fr",
+      "label": "distribution de l\u0027\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5824",
+      "language": "en",
+      "label": "project of common interest",
+      "source_uri": "http://eurovoc.europa.eu/5824"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5824",
+      "language": "fr",
+      "label": "projet d\u0027int\u00E9r\u00EAt commun",
+      "source_uri": "http://eurovoc.europa.eu/5824"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "en",
+      "label": "energy grid",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "fr",
+      "label": "r\u00E9seau \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5864",
+      "language": "en",
+      "label": "trans-European network",
+      "source_uri": "http://eurovoc.europa.eu/5864"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5864",
+      "language": "fr",
+      "label": "r\u00E9seau transeurop\u00E9en",
+      "source_uri": "http://eurovoc.europa.eu/5864"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7395",
+      "language": "en",
+      "label": "gas supply",
+      "source_uri": "http://eurovoc.europa.eu/7395"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7395",
+      "language": "fr",
+      "label": "distribution du gaz",
+      "source_uri": "http://eurovoc.europa.eu/7395"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "en",
+      "label": "carbon neutrality",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "fr",
+      "label": "neutralit\u00E9 carbone",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "en",
+      "label": "EU energy policy",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "7423ac511b154c53bb6c98118037204a02b9d585eb3ab95f11ff956208ea1cc8"
 }

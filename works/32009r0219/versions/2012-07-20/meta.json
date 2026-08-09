@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,109 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "1574e7eeee634a248bc891cc1b29eb96162bce7cb331bf4d341e27e6d767a8f2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040",
+      "language": "en",
+      "label": "Commission",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040",
+      "language": "fr",
+      "label": "Commission",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/014040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2577",
+      "language": "en",
+      "label": "power of implementation",
+      "source_uri": "http://eurovoc.europa.eu/2577"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2577",
+      "language": "fr",
+      "label": "pouvoir d\u0027ex\u00E9cution",
+      "source_uri": "http://eurovoc.europa.eu/2577"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "en",
+      "label": "European Commission",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "fr",
+      "label": "Commission europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5110",
+      "language": "en",
+      "label": "capacity to exercise rights",
+      "source_uri": "http://eurovoc.europa.eu/5110"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5110",
+      "language": "fr",
+      "label": "capacit\u00E9 d\u0027exercice",
+      "source_uri": "http://eurovoc.europa.eu/5110"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5258",
+      "language": "en",
+      "label": "EU act",
+      "source_uri": "http://eurovoc.europa.eu/5258"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5258",
+      "language": "fr",
+      "label": "acte de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5258"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "en",
+      "label": "powers of the institutions (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "fr",
+      "label": "comp\u00E9tence institutionnelle (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5606",
+      "language": "en",
+      "label": "drafting of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5606"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5606",
+      "language": "fr",
+      "label": "\u00E9laboration du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5606"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "2a58ae7e2af8f44b32fe9d4c5e47134ac6965f716547be7415cb609127b288e2"
 }

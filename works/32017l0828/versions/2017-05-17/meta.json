@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "014aa02d88d9d2175516c6248d0e1f72e90551d93c69207eeea833ac983ff58e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1156",
+      "language": "en",
+      "label": "business management",
+      "source_uri": "http://eurovoc.europa.eu/1156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1156",
+      "language": "fr",
+      "label": "gestion d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/1156"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "investment",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/174",
+      "language": "en",
+      "label": "management audit",
+      "source_uri": "http://eurovoc.europa.eu/174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/174",
+      "language": "fr",
+      "label": "contr\u00F4le de gestion",
+      "source_uri": "http://eurovoc.europa.eu/174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2264",
+      "language": "en",
+      "label": "shareholding",
+      "source_uri": "http://eurovoc.europa.eu/2264"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2264",
+      "language": "fr",
+      "label": "participation",
+      "source_uri": "http://eurovoc.europa.eu/2264"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2831",
+      "language": "en",
+      "label": "protection of shareholders",
+      "source_uri": "http://eurovoc.europa.eu/2831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2831",
+      "language": "fr",
+      "label": "protection des associ\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/2831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4196",
+      "language": "en",
+      "label": "company with share capital",
+      "source_uri": "http://eurovoc.europa.eu/4196"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4196",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de capitaux",
+      "source_uri": "http://eurovoc.europa.eu/4196"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/447",
+      "language": "en",
+      "label": "board of management",
+      "source_uri": "http://eurovoc.europa.eu/447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/447",
+      "language": "fr",
+      "label": "conseil de direction",
+      "source_uri": "http://eurovoc.europa.eu/447"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5389",
+      "language": "en",
+      "label": "shareholder",
+      "source_uri": "http://eurovoc.europa.eu/5389"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5389",
+      "language": "fr",
+      "label": "actionnaire",
+      "source_uri": "http://eurovoc.europa.eu/5389"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "en",
+      "label": "administrative transparency",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "fr",
+      "label": "transparence administrative",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "5ce238e85811ecfa536cc8e8e6102baca40087c59507367355cba7b22ef743a5"
 }

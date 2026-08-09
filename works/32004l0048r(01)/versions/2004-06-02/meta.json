@@ -16,6 +16,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -72,5 +78,66 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "ddb80331d7deea94915fc1150544373ea85aa146e2031d032444364740d282c6"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "en",
+      "label": "industrial property",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 industrielle",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "en",
+      "label": "intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6146",
+      "language": "en",
+      "label": "TRIPS",
+      "source_uri": "http://eurovoc.europa.eu/6146"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6146",
+      "language": "fr",
+      "label": "TRIPS",
+      "source_uri": "http://eurovoc.europa.eu/6146"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "5822d99dd0b95e3c91877880c1aab770227a2974d9effa33e88647f5b2c06009"
 }

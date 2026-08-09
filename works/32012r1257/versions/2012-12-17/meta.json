@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,91 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:seed"
   },
-  "record_sha256": "ad807bdfbee74d6e0330c86762c148c4ba4a88e5154351dfcdd0d06c0597ce68"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1640",
+      "language": "en",
+      "label": "patents licence",
+      "source_uri": "http://eurovoc.europa.eu/1640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1640",
+      "language": "fr",
+      "label": "licence de brevet",
+      "source_uri": "http://eurovoc.europa.eu/1640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2123",
+      "language": "en",
+      "label": "European Patent Office",
+      "source_uri": "http://eurovoc.europa.eu/2123"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2123",
+      "language": "fr",
+      "label": "Office europ\u00E9en des brevets",
+      "source_uri": "http://eurovoc.europa.eu/2123"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5043",
+      "language": "en",
+      "label": "European patent",
+      "source_uri": "http://eurovoc.europa.eu/5043"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5043",
+      "language": "fr",
+      "label": "brevet europ\u00E9en",
+      "source_uri": "http://eurovoc.europa.eu/5043"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/550",
+      "language": "en",
+      "label": "patent law",
+      "source_uri": "http://eurovoc.europa.eu/550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/550",
+      "language": "fr",
+      "label": "droit des brevets",
+      "source_uri": "http://eurovoc.europa.eu/550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6274",
+      "language": "en",
+      "label": "enhanced cooperation",
+      "source_uri": "http://eurovoc.europa.eu/6274"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6274",
+      "language": "fr",
+      "label": "coop\u00E9ration renforc\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/6274"
+    }
+  ],
+  "record_sha256": "8575cbd34798363bdb5cea192a755ef1daeb3b6662da9b71cc74cfb0a7c20f9b"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,165 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "d6ba97fc4fdc9525614b0cbf31338c99184518c35b1f076dc309808933013b5d"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1707",
+      "language": "en",
+      "label": "pollution control measures",
+      "source_uri": "http://eurovoc.europa.eu/1707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1707",
+      "language": "fr",
+      "label": "lutte contre la pollution",
+      "source_uri": "http://eurovoc.europa.eu/1707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3638",
+      "language": "en",
+      "label": "clean technology",
+      "source_uri": "http://eurovoc.europa.eu/3638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3638",
+      "language": "fr",
+      "label": "technologie propre",
+      "source_uri": "http://eurovoc.europa.eu/3638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434880",
+      "language": "en",
+      "label": "EU Emissions Trading Scheme",
+      "source_uri": "http://eurovoc.europa.eu/434880"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434880",
+      "language": "fr",
+      "label": "M\u00E9canisme UE d\u0027\u00E9change de droits d\u0027\u00E9mission",
+      "source_uri": "http://eurovoc.europa.eu/434880"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435007",
+      "language": "en",
+      "label": "EU emission allowance",
+      "source_uri": "http://eurovoc.europa.eu/435007"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435007",
+      "language": "fr",
+      "label": "droits d\u0027\u00E9missions UE",
+      "source_uri": "http://eurovoc.europa.eu/435007"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heating",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "chauffage",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "en",
+      "label": "tradeable emission permit",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "fr",
+      "label": "permis de pollution n\u00E9gociable",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "en",
+      "label": "carbon neutrality",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "fr",
+      "label": "neutralit\u00E9 carbone",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "en",
+      "label": "EU energy policy",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_d8d35f08",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/c_d8d35f08"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "d8491177cd99afe87b2a2a6e94e4066e7baea409497e420f0c9b889dfc81d6c0"
 }

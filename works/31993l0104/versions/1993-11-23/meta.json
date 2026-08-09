@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,105 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "b6dc8e457015f9fec273863a385d296384de6a35d2c3f7b7f9063d2764e15a7a"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "en",
+      "label": "Working conditions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020",
+      "language": "fr",
+      "label": "Conditions de travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/052020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "en",
+      "label": "Wages, income and working hours",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "fr",
+      "label": "Salaires, revenus et dur\u00E9e du travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1273",
+      "language": "en",
+      "label": "humanisation of work",
+      "source_uri": "http://eurovoc.europa.eu/1273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1273",
+      "language": "fr",
+      "label": "humanisation du travail",
+      "source_uri": "http://eurovoc.europa.eu/1273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1503",
+      "language": "en",
+      "label": "arrangement of working time",
+      "source_uri": "http://eurovoc.europa.eu/1503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1503",
+      "language": "fr",
+      "label": "am\u00E9nagement du temps de travail",
+      "source_uri": "http://eurovoc.europa.eu/1503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2184",
+      "language": "en",
+      "label": "organisation of work",
+      "source_uri": "http://eurovoc.europa.eu/2184"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2184",
+      "language": "fr",
+      "label": "organisation du travail",
+      "source_uri": "http://eurovoc.europa.eu/2184"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4039",
+      "language": "en",
+      "label": "occupational safety",
+      "source_uri": "http://eurovoc.europa.eu/4039"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4039",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 du travail",
+      "source_uri": "http://eurovoc.europa.eu/4039"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/592",
+      "language": "en",
+      "label": "working time",
+      "source_uri": "http://eurovoc.europa.eu/592"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/592",
+      "language": "fr",
+      "label": "dur\u00E9e du travail",
+      "source_uri": "http://eurovoc.europa.eu/592"
+    }
+  ],
+  "record_sha256": "0ff6b8cc472e886a7f9fedcda88b77d01fd9e1bbd65a042d7016d454a19abdd5"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,150 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "ac27a4e794feffe2f0a7c293eeb9358f677ed6a732681692887e460721bf45e8"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1646",
+      "language": "en",
+      "label": "dismissal",
+      "source_uri": "http://eurovoc.europa.eu/1646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1646",
+      "language": "fr",
+      "label": "licenciement",
+      "source_uri": "http://eurovoc.europa.eu/1646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1759",
+      "language": "en",
+      "label": "infectious disease",
+      "source_uri": "http://eurovoc.europa.eu/1759"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1759",
+      "language": "fr",
+      "label": "maladie infectieuse",
+      "source_uri": "http://eurovoc.europa.eu/1759"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "en",
+      "label": "company in difficulties",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6174",
+      "language": "fr",
+      "label": "entreprise en difficult\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/6174"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/835",
+      "language": "en",
+      "label": "aid to undertakings",
+      "source_uri": "http://eurovoc.europa.eu/835"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/835",
+      "language": "fr",
+      "label": "aide aux entreprises",
+      "source_uri": "http://eurovoc.europa.eu/835"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/837",
+      "language": "en",
+      "label": "epidemic",
+      "source_uri": "http://eurovoc.europa.eu/837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/837",
+      "language": "fr",
+      "label": "\u00E9pid\u00E9mie",
+      "source_uri": "http://eurovoc.europa.eu/837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/976",
+      "language": "en",
+      "label": "regional aid",
+      "source_uri": "http://eurovoc.europa.eu/976"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/976",
+      "language": "fr",
+      "label": "aide r\u00E9gionale",
+      "source_uri": "http://eurovoc.europa.eu/976"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "4c9f41ab3f6f1825369b0c798497ba4a9fdbf39f088c4b296916ea73064ece19"
 }

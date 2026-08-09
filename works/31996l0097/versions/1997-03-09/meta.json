@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -72,5 +78,109 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "614f6610ae5e46551e3450599bccf42d0671ae54514a0d9878219245eb8f1567"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010",
+      "language": "en",
+      "label": "Principles of social security",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010",
+      "language": "fr",
+      "label": "Principes de s\u00E9curit\u00E9 sociale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1926",
+      "language": "en",
+      "label": "working environment",
+      "source_uri": "http://eurovoc.europa.eu/1926"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1926",
+      "language": "fr",
+      "label": "milieu de travail",
+      "source_uri": "http://eurovoc.europa.eu/1926"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3751",
+      "language": "en",
+      "label": "pension scheme",
+      "source_uri": "http://eurovoc.europa.eu/3751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3751",
+      "language": "fr",
+      "label": "r\u00E9gime de retraite",
+      "source_uri": "http://eurovoc.europa.eu/3751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "en",
+      "label": "gender equality",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 homme-femme",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4050",
+      "language": "en",
+      "label": "social security",
+      "source_uri": "http://eurovoc.europa.eu/4050"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4050",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 sociale",
+      "source_uri": "http://eurovoc.europa.eu/4050"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5329",
+      "language": "en",
+      "label": "retirement conditions",
+      "source_uri": "http://eurovoc.europa.eu/5329"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5329",
+      "language": "fr",
+      "label": "condition de la retraite",
+      "source_uri": "http://eurovoc.europa.eu/5329"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "en",
+      "label": "equal treatment",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de traitement",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "95445a6f65773d6e776520647828aa9b53535433fabbc6d1dcef7555eba2a17d"
 }

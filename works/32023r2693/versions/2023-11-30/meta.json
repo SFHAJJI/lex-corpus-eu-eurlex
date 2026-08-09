@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "b5cb9f2b14618be5237ffd707cf606a6f0078a5ea2d7d3bc615feab11018c5ac"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "en",
+      "label": "tax system",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "fr",
+      "label": "fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1687",
+      "language": "en",
+      "label": "property leasing",
+      "source_uri": "http://eurovoc.europa.eu/1687"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1687",
+      "language": "fr",
+      "label": "location immobili\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1687"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/206",
+      "language": "en",
+      "label": "administrative cooperation",
+      "source_uri": "http://eurovoc.europa.eu/206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/206",
+      "language": "fr",
+      "label": "coop\u00E9ration administrative",
+      "source_uri": "http://eurovoc.europa.eu/206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2089",
+      "language": "en",
+      "label": "New Zealand",
+      "source_uri": "http://eurovoc.europa.eu/2089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2089",
+      "language": "fr",
+      "label": "Nouvelle-Z\u00E9lande",
+      "source_uri": "http://eurovoc.europa.eu/2089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3097",
+      "language": "en",
+      "label": "vehicle rental",
+      "source_uri": "http://eurovoc.europa.eu/3097"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3097",
+      "language": "fr",
+      "label": "location de v\u00E9hicule",
+      "source_uri": "http://eurovoc.europa.eu/3097"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "en",
+      "label": "goods and services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "fr",
+      "label": "biens et services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3463",
+      "language": "en",
+      "label": "multilateral agreement",
+      "source_uri": "http://eurovoc.europa.eu/3463"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3463",
+      "language": "fr",
+      "label": "accord multilat\u00E9ral",
+      "source_uri": "http://eurovoc.europa.eu/3463"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4663",
+      "language": "en",
+      "label": "sale",
+      "source_uri": "http://eurovoc.europa.eu/4663"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4663",
+      "language": "fr",
+      "label": "vente",
+      "source_uri": "http://eurovoc.europa.eu/4663"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/561",
+      "language": "en",
+      "label": "tax law",
+      "source_uri": "http://eurovoc.europa.eu/561"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/561",
+      "language": "fr",
+      "label": "droit fiscal",
+      "source_uri": "http://eurovoc.europa.eu/561"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_71b063b1",
+      "language": "en",
+      "label": "national competent authority",
+      "source_uri": "http://eurovoc.europa.eu/c_71b063b1"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_71b063b1",
+      "language": "fr",
+      "label": "autorit\u00E9 nationale comp\u00E9tente",
+      "source_uri": "http://eurovoc.europa.eu/c_71b063b1"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "8b7c5ca909d90e3085c4efe9f5f843dc25db465b71f2085ab64f72ba34916992"
 }

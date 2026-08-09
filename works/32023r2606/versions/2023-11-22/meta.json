@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,151 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "896664b9a589562d18b7df8e76d15b671a5322a31b33e654ce0e93a9de993aaf"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "en",
+      "label": "General principles and programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "fr",
+      "label": "Programmes et principes g\u00E9n\u00E9raux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1052",
+      "language": "en",
+      "label": "fund (EU)",
+      "source_uri": "http://eurovoc.europa.eu/1052"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1052",
+      "language": "fr",
+      "label": "fonds (UE)",
+      "source_uri": "http://eurovoc.europa.eu/1052"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "investment",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "en",
+      "label": "energy cooperation",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "fr",
+      "label": "coop\u00E9ration \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5856",
+      "language": "en",
+      "label": "distribution of EU funding",
+      "source_uri": "http://eurovoc.europa.eu/5856"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5856",
+      "language": "fr",
+      "label": "r\u00E9partition du financement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5856"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "energy saving",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "\u00E9conomie d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/766",
+      "language": "en",
+      "label": "investment aid",
+      "source_uri": "http://eurovoc.europa.eu/766"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/766",
+      "language": "fr",
+      "label": "aide \u00E0 l\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/766"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/786",
+      "language": "en",
+      "label": "modernisation aid",
+      "source_uri": "http://eurovoc.europa.eu/786"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/786",
+      "language": "fr",
+      "label": "aide \u00E0 la modernisation",
+      "source_uri": "http://eurovoc.europa.eu/786"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "417258a8314d87bc3bc9d604765a8c51336c5ef2156863403a4ac674f395029a"
 }

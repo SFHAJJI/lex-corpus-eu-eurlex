@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,122 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "60c99d4972ff1b02b321e7c89cc8b5810cfc0085a61084c5afbe8521cdc02026"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1030",
+      "language": "en",
+      "label": "Economic policy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1030",
+      "language": "fr",
+      "label": "Politique \u00E9conomique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "en",
+      "label": "General principles and programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210",
+      "language": "fr",
+      "label": "Programmes et principes g\u00E9n\u00E9raux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1210"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "en",
+      "label": "gas",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "fr",
+      "label": "gaz",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3400",
+      "language": "en",
+      "label": "economic recovery",
+      "source_uri": "http://eurovoc.europa.eu/3400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3400",
+      "language": "fr",
+      "label": "reprise \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/3400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3538",
+      "language": "en",
+      "label": "energy resources",
+      "source_uri": "http://eurovoc.europa.eu/3538"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3538",
+      "language": "fr",
+      "label": "ressource \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/3538"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5824",
+      "language": "en",
+      "label": "project of common interest",
+      "source_uri": "http://eurovoc.europa.eu/5824"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5824",
+      "language": "fr",
+      "label": "projet d\u0027int\u00E9r\u00EAt commun",
+      "source_uri": "http://eurovoc.europa.eu/5824"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/712",
+      "language": "en",
+      "label": "economic support",
+      "source_uri": "http://eurovoc.europa.eu/712"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/712",
+      "language": "fr",
+      "label": "soutien \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/712"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "427ee649b41044bfd6762b0c0d59619df781aca78e4e66b55ae6cc24009cd126"
 }

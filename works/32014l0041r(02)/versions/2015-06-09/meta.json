@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32014l0041r(02):2015-06-09",
   "work_identifier": "http://publications.europa.eu/resource/celex/32014L0041R(02)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "DIR",
   "valid_from": "2015-06-09",
   "valid_time_source": "publisher",
   "publication_date": "2015-06-09",
@@ -16,6 +16,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form,publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -65,12 +71,87 @@
   "relations": [],
   "raw": {
     "celex": "32014L0041R(02)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "DIR",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "53119b9414f6139e411edebc71f27599f1ed0717fa525db4913748e94a742b37"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "en",
+      "label": "ruling",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "fr",
+      "label": "jugement",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "en",
+      "label": "judicial inquiry",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "fr",
+      "label": "enqu\u00EAte judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "judicial cooperation in criminal matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "en",
+      "label": "proof",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "fr",
+      "label": "preuve",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "en",
+      "label": "mutual recognition principle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "fr",
+      "label": "principe de reconnaissance mutuelle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "f3c018a01db3d6060dbca70f27165e64ca6cdd13820236bd5179ca6ddf0d7731"
 }

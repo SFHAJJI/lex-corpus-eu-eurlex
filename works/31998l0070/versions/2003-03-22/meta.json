@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -75,5 +81,151 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "5cb8d98c5c128e80cbd30c410d2feb72249fdff8543975ead5d3777aafa4c2b9"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2081",
+      "language": "en",
+      "label": "marketing standard",
+      "source_uri": "http://eurovoc.europa.eu/2081"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2081",
+      "language": "fr",
+      "label": "norme de commercialisation",
+      "source_uri": "http://eurovoc.europa.eu/2081"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2527",
+      "language": "en",
+      "label": "air quality",
+      "source_uri": "http://eurovoc.europa.eu/2527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2527",
+      "language": "fr",
+      "label": "qualit\u00E9 de l\u2019air",
+      "source_uri": "http://eurovoc.europa.eu/2527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3771",
+      "language": "en",
+      "label": "petrol",
+      "source_uri": "http://eurovoc.europa.eu/3771"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3771",
+      "language": "fr",
+      "label": "essence",
+      "source_uri": "http://eurovoc.europa.eu/3771"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3772",
+      "language": "en",
+      "label": "diesel fuel",
+      "source_uri": "http://eurovoc.europa.eu/3772"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3772",
+      "language": "fr",
+      "label": "gazole",
+      "source_uri": "http://eurovoc.europa.eu/3772"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4654",
+      "language": "en",
+      "label": "motor vehicle",
+      "source_uri": "http://eurovoc.europa.eu/4654"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4654",
+      "language": "fr",
+      "label": "v\u00E9hicule \u00E0 moteur",
+      "source_uri": "http://eurovoc.europa.eu/4654"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5233",
+      "language": "en",
+      "label": "quality standard",
+      "source_uri": "http://eurovoc.europa.eu/5233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5233",
+      "language": "fr",
+      "label": "norme de qualit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5262",
+      "language": "en",
+      "label": "motor fuel",
+      "source_uri": "http://eurovoc.europa.eu/5262"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5262",
+      "language": "fr",
+      "label": "carburant",
+      "source_uri": "http://eurovoc.europa.eu/5262"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5754",
+      "language": "en",
+      "label": "environmental standard",
+      "source_uri": "http://eurovoc.europa.eu/5754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5754",
+      "language": "fr",
+      "label": "norme environnementale",
+      "source_uri": "http://eurovoc.europa.eu/5754"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "f16224a72d4db3b9faead00b5ad8c7f906af0206f9c9a72c77a874ec52869f4f"
 }

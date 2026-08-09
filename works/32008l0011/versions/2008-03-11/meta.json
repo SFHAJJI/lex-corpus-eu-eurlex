@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "72ef16cbfae6b9489978568608a8d61a3a7a169350399ac6e6286352571ea0ed"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2129",
+      "language": "en",
+      "label": "takeover bid",
+      "source_uri": "http://eurovoc.europa.eu/2129"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2129",
+      "language": "fr",
+      "label": "offre publique d\u0027achat",
+      "source_uri": "http://eurovoc.europa.eu/2129"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2862",
+      "language": "en",
+      "label": "advertising",
+      "source_uri": "http://eurovoc.europa.eu/2862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2862",
+      "language": "fr",
+      "label": "publicit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/2862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "en",
+      "label": "European Commission",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "fr",
+      "label": "Commission europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "en",
+      "label": "securities",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4646",
+      "language": "fr",
+      "label": "valeur mobili\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/4646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "en",
+      "label": "powers of the institutions (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "fr",
+      "label": "comp\u00E9tence institutionnelle (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "f159fe9ccecbe9bd59cb1f8c1c104ebc07eb9020858d51559dac2ba65cd1df6d"
 }

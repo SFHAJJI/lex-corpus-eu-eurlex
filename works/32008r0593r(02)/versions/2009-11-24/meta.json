@@ -16,6 +16,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -72,5 +78,94 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "ab31e84c25dd6339d7751b7e6ede736708cd5caf2d0f98a1694556033dceb46d"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/42",
+      "language": "en",
+      "label": "jurisdiction",
+      "source_uri": "http://eurovoc.europa.eu/42"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/42",
+      "language": "fr",
+      "label": "comp\u00E9tence juridictionnelle",
+      "source_uri": "http://eurovoc.europa.eu/42"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/524",
+      "language": "en",
+      "label": "commercial law",
+      "source_uri": "http://eurovoc.europa.eu/524"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/524",
+      "language": "fr",
+      "label": "droit commercial",
+      "source_uri": "http://eurovoc.europa.eu/524"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "judicial cooperation in criminal matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5598",
+      "language": "en",
+      "label": "law of obligations",
+      "source_uri": "http://eurovoc.europa.eu/5598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5598",
+      "language": "fr",
+      "label": "droit des obligations",
+      "source_uri": "http://eurovoc.europa.eu/5598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "en",
+      "label": "mutual recognition principle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5811",
+      "language": "fr",
+      "label": "principe de reconnaissance mutuelle",
+      "source_uri": "http://eurovoc.europa.eu/5811"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/860",
+      "language": "en",
+      "label": "European judicial area",
+      "source_uri": "http://eurovoc.europa.eu/860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/860",
+      "language": "fr",
+      "label": "espace judiciaire europ\u00E9en",
+      "source_uri": "http://eurovoc.europa.eu/860"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "6a527ac9ec54a5e0273260b45cad5b7803fc95d367d11b2442c2eba81e1d3cd0"
 }

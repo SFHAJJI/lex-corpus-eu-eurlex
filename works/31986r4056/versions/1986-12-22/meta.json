@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,147 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "67316c13b7e7418ceab1a1b2cdd3d03940c6980a0277af895aa521280e1a916e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010",
+      "language": "en",
+      "label": "Competition rules",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010",
+      "language": "fr",
+      "label": "R\u00E8gles de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/07302030",
+      "language": "en",
+      "label": "Market access",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/07302030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/07302030",
+      "language": "fr",
+      "label": "Acc\u00E8s au march\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/07302030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073050",
+      "language": "en",
+      "label": "International relations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073050"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073050",
+      "language": "fr",
+      "label": "Relations internationales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/073050"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "en",
+      "label": "Prohibited agreements",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010",
+      "language": "fr",
+      "label": "Accords interdits",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/082010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830",
+      "language": "en",
+      "label": "Dominant positions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830",
+      "language": "fr",
+      "label": "Positions dominantes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0830"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2457",
+      "language": "en",
+      "label": "common transport policy",
+      "source_uri": "http://eurovoc.europa.eu/2457"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2457",
+      "language": "fr",
+      "label": "politique commune des transports",
+      "source_uri": "http://eurovoc.europa.eu/2457"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4379",
+      "language": "en",
+      "label": "transportation tariff",
+      "source_uri": "http://eurovoc.europa.eu/4379"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4379",
+      "language": "fr",
+      "label": "tarif de transport",
+      "source_uri": "http://eurovoc.europa.eu/4379"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4522",
+      "language": "en",
+      "label": "maritime transport",
+      "source_uri": "http://eurovoc.europa.eu/4522"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4522",
+      "language": "fr",
+      "label": "transport maritime",
+      "source_uri": "http://eurovoc.europa.eu/4522"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    }
+  ],
+  "record_sha256": "1e308122a4f7e9e4e0b37afc8eaa216844c2cce50fc873489d0987160edfd0cb"
 }

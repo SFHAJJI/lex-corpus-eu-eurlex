@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,137 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "4296f26b5999b401cb43869a7d2406f3235619d98380d7009b55220450303ea4"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010",
+      "language": "en",
+      "label": "General provisions and programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010",
+      "language": "fr",
+      "label": "Dispositions g\u00E9n\u00E9rales et programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental impact",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "impact sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "en",
+      "label": "new technology",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "fr",
+      "label": "nouvelle technologie",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4293",
+      "language": "en",
+      "label": "energy storage",
+      "source_uri": "http://eurovoc.europa.eu/4293"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4293",
+      "language": "fr",
+      "label": "stockage de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4293"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "en",
+      "label": "EU environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "fr",
+      "label": "politique de l\u0027environnement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "41a00fc6db562d1ed5063351826ad1151eed1755e92622652cfbc7f5a0467d51"
 }

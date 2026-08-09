@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "9a18e4fcc62eb19febd76de5941b2d8b42ad6dde08575284072e20c12e499cab"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "en",
+      "label": "Judicial cooperation in civil matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re civile",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1774",
+      "language": "en",
+      "label": "Malta",
+      "source_uri": "http://eurovoc.europa.eu/1774"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1774",
+      "language": "fr",
+      "label": "Malte",
+      "source_uri": "http://eurovoc.europa.eu/1774"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3316",
+      "language": "en",
+      "label": "parental responsibility",
+      "source_uri": "http://eurovoc.europa.eu/3316"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3316",
+      "language": "fr",
+      "label": "responsabilit\u00E9 parentale",
+      "source_uri": "http://eurovoc.europa.eu/3316"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/42",
+      "language": "en",
+      "label": "jurisdiction",
+      "source_uri": "http://eurovoc.europa.eu/42"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/42",
+      "language": "fr",
+      "label": "comp\u00E9tence juridictionnelle",
+      "source_uri": "http://eurovoc.europa.eu/42"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4649",
+      "language": "en",
+      "label": "Holy See",
+      "source_uri": "http://eurovoc.europa.eu/4649"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4649",
+      "language": "fr",
+      "label": "Saint-Si\u00E8ge",
+      "source_uri": "http://eurovoc.europa.eu/4649"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/570",
+      "language": "en",
+      "label": "matrimonial law",
+      "source_uri": "http://eurovoc.europa.eu/570"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/570",
+      "language": "fr",
+      "label": "droit matrimonial",
+      "source_uri": "http://eurovoc.europa.eu/570"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6731",
+      "language": "en",
+      "label": "canon law",
+      "source_uri": "http://eurovoc.europa.eu/6731"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6731",
+      "language": "fr",
+      "label": "droit canonique",
+      "source_uri": "http://eurovoc.europa.eu/6731"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "f915555049bb322ca0c3e70cfa7b5e6054da91493a8393ac2797b31c2b1e4b77"
 }

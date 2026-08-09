@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,94 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "fd2c4a38bf34dd9fe58a4ada8f1f365ca7994917baa497c8e91090a567e3d651"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1810",
+      "language": "en",
+      "label": "public contract",
+      "source_uri": "http://eurovoc.europa.eu/1810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1810",
+      "language": "fr",
+      "label": "contrat public",
+      "source_uri": "http://eurovoc.europa.eu/1810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2066",
+      "language": "en",
+      "label": "statistical nomenclature",
+      "source_uri": "http://eurovoc.europa.eu/2066"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2066",
+      "language": "fr",
+      "label": "nomenclature statistique",
+      "source_uri": "http://eurovoc.europa.eu/2066"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2076",
+      "language": "en",
+      "label": "standardisation",
+      "source_uri": "http://eurovoc.europa.eu/2076"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2076",
+      "language": "fr",
+      "label": "normalisation",
+      "source_uri": "http://eurovoc.europa.eu/2076"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/438",
+      "language": "en",
+      "label": "dictionary",
+      "source_uri": "http://eurovoc.europa.eu/438"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/438",
+      "language": "fr",
+      "label": "dictionnaire",
+      "source_uri": "http://eurovoc.europa.eu/438"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6004",
+      "language": "en",
+      "label": "classification",
+      "source_uri": "http://eurovoc.europa.eu/6004"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6004",
+      "language": "fr",
+      "label": "classification",
+      "source_uri": "http://eurovoc.europa.eu/6004"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1628515fa8a1db04be8267da6a38ff62a43fb0427c60df8f452b261883b0061e"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,178 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "d54c7c9c0322b36f65f9938a8e1022f1ea4219ca4818774ddda9b18d207f9fdf"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260",
+      "language": "en",
+      "label": "Other sources of energy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260",
+      "language": "fr",
+      "label": "Autres sources d\u0027\u00E9nergie",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "en",
+      "label": "Space, environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "fr",
+      "label": "Espace, environnement et ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4630",
+      "language": "en",
+      "label": "land use",
+      "source_uri": "http://eurovoc.europa.eu/4630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4630",
+      "language": "fr",
+      "label": "utilisation des terres",
+      "source_uri": "http://eurovoc.europa.eu/4630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4892",
+      "language": "en",
+      "label": "bioenergy",
+      "source_uri": "http://eurovoc.europa.eu/4892"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4892",
+      "language": "fr",
+      "label": "bio\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4892"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4930",
+      "language": "en",
+      "label": "biomass",
+      "source_uri": "http://eurovoc.europa.eu/4930"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4930",
+      "language": "fr",
+      "label": "biomasse",
+      "source_uri": "http://eurovoc.europa.eu/4930"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6064",
+      "language": "en",
+      "label": "audit",
+      "source_uri": "http://eurovoc.europa.eu/6064"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6064",
+      "language": "fr",
+      "label": "audit",
+      "source_uri": "http://eurovoc.europa.eu/6064"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6320",
+      "language": "en",
+      "label": "energy crop",
+      "source_uri": "http://eurovoc.europa.eu/6320"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6320",
+      "language": "fr",
+      "label": "culture \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6320"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "energy saving",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "\u00E9conomie d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "en",
+      "label": "biofuel",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "biocarburant",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "6e90ef3418b0efcf3222a0de7a36a0d671a832168fba938f55191405054fc191"
 }

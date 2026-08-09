@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -107,5 +113,172 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,domain:aml-corporate:relationship:resource_legal_repeals_resource_legal,domain:aml-corporate:seed,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "3be026747169c1bf92ad47d1579d8f9c9bb60b438f5ae29f885f941993fa1cde"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "en",
+      "label": "financial institution",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "fr",
+      "label": "institution financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1527",
+      "language": "en",
+      "label": "game of chance",
+      "source_uri": "http://eurovoc.europa.eu/1527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1527",
+      "language": "fr",
+      "label": "jeu de hasard",
+      "source_uri": "http://eurovoc.europa.eu/1527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2337",
+      "language": "en",
+      "label": "legal person",
+      "source_uri": "http://eurovoc.europa.eu/2337"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2337",
+      "language": "fr",
+      "label": "personne morale",
+      "source_uri": "http://eurovoc.europa.eu/2337"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2338",
+      "language": "en",
+      "label": "natural person",
+      "source_uri": "http://eurovoc.europa.eu/2338"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2338",
+      "language": "fr",
+      "label": "personne physique",
+      "source_uri": "http://eurovoc.europa.eu/2338"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "en",
+      "label": "banking supervision",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3251",
+      "language": "fr",
+      "label": "contr\u00F4le bancaire",
+      "source_uri": "http://eurovoc.europa.eu/3251"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "en",
+      "label": "terrorism",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "fr",
+      "label": "terrorisme",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "en",
+      "label": "economic offence",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/574",
+      "language": "fr",
+      "label": "d\u00E9lit \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6010",
+      "language": "en",
+      "label": "customers",
+      "source_uri": "http://eurovoc.europa.eu/6010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6010",
+      "language": "fr",
+      "label": "client\u00E8le",
+      "source_uri": "http://eurovoc.europa.eu/6010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "aml directive, Fourth Anti-Money Laundering Directive, 4th Anti-Money Laundering Directive, AMLD 4",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0849"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "ee59527cd8376935d994d9bd305597ff1567ce4102beca0a95dd4c0fe8b67d5b"
 }

@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,108 @@
     "domains": "judicial-cooperation",
     "scope_reasons": "domain:judicial-cooperation:seed"
   },
-  "record_sha256": "679970b2fc2ee1cc482b4199bc22d36d025f81db9abf8d2f737484dcd185ffad"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "en",
+      "label": "Judicial cooperation in civil matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re civile",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1920"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "en",
+      "label": "cross-border cooperation",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "fr",
+      "label": "coop\u00E9ration transfrontali\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "en",
+      "label": "new technology",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "fr",
+      "label": "nouvelle technologie",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "en",
+      "label": "judicial inquiry",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "fr",
+      "label": "enqu\u00EAte judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4434",
+      "language": "en",
+      "label": "evidence",
+      "source_uri": "http://eurovoc.europa.eu/4434"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4434",
+      "language": "fr",
+      "label": "t\u00E9moignage",
+      "source_uri": "http://eurovoc.europa.eu/4434"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5190",
+      "language": "en",
+      "label": "video communications",
+      "source_uri": "http://eurovoc.europa.eu/5190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5190",
+      "language": "fr",
+      "label": "vid\u00E9ocommunication",
+      "source_uri": "http://eurovoc.europa.eu/5190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8480",
+      "language": "en",
+      "label": "judicial cooperation in civil matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/8480"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8480",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire civile (UE)",
+      "source_uri": "http://eurovoc.europa.eu/8480"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "2b3b5fc00cc9afec75cecb01ae41afcca1351ce4f3c44e787a5279592fe22e9d"
 }

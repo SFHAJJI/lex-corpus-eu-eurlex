@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,8 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "a4f786597f40977b9abccb6d42bf2d694d095636849059f9ebfa91522b5c2d60"
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "364f77355e5be49bec361b31965f87370aa05eca286d06d0e8ca4058aac1d8b7"
 }

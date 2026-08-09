@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,122 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "aaddaa57bea1e3bb6975ef0c4497b273d373f579bbf12ab766898f50c25b060f"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020",
+      "language": "en",
+      "label": "Other production and processing activities",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020",
+      "language": "fr",
+      "label": "Autres activit\u00E9s de production et de transformation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "en",
+      "label": "Other measures relating to oil or gas",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "fr",
+      "label": "Autres mesures relatives aux hydrocarbures",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1160",
+      "language": "en",
+      "label": "management of resources",
+      "source_uri": "http://eurovoc.europa.eu/1160"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1160",
+      "language": "fr",
+      "label": "gestion des ressources",
+      "source_uri": "http://eurovoc.europa.eu/1160"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "hydrocarbon",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "hydrocarbure",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1685",
+      "language": "en",
+      "label": "energy site",
+      "source_uri": "http://eurovoc.europa.eu/1685"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1685",
+      "language": "fr",
+      "label": "localisation de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/1685"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2312",
+      "language": "en",
+      "label": "energy supply",
+      "source_uri": "http://eurovoc.europa.eu/2312"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2312",
+      "language": "fr",
+      "label": "approvisionnement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2312"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/941",
+      "language": "en",
+      "label": "exploitation of resources",
+      "source_uri": "http://eurovoc.europa.eu/941"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/941",
+      "language": "fr",
+      "label": "exploitation des ressources",
+      "source_uri": "http://eurovoc.europa.eu/941"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "ba3e7c48e887e342c532b431ffde0c8e05d21b8252e8f58f6fee16ed7187f576"
 }

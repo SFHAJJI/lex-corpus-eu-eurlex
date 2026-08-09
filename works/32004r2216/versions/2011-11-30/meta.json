@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -139,5 +145,122 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "9fa40601543d24fd3c9b4c7abb938d96713615b5cfdc245aca5d1706580900ff"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113060",
+      "language": "en",
+      "label": "Multilateral cooperation for protection of the environment, wild fauna and flora and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113060",
+      "language": "fr",
+      "label": "Coop\u00E9ration multilat\u00E9rale pour la protection de l\u0027environnement, de la faune et de la flore sauvages et des ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/113060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151040",
+      "language": "en",
+      "label": "International cooperation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151040",
+      "language": "fr",
+      "label": "Coop\u00E9ration internationale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3172",
+      "language": "en",
+      "label": "regulation of transactions",
+      "source_uri": "http://eurovoc.europa.eu/3172"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3172",
+      "language": "fr",
+      "label": "r\u00E9gulation des transactions",
+      "source_uri": "http://eurovoc.europa.eu/3172"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4821",
+      "language": "en",
+      "label": "database",
+      "source_uri": "http://eurovoc.europa.eu/4821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4821",
+      "language": "fr",
+      "label": "base de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "en",
+      "label": "operation of the Institutions",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "fr",
+      "label": "fonctionnement institutionnel",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "en",
+      "label": "tradeable emission permit",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5782",
+      "language": "fr",
+      "label": "permis de pollution n\u00E9gociable",
+      "source_uri": "http://eurovoc.europa.eu/5782"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/774",
+      "language": "en",
+      "label": "documentary reference recording",
+      "source_uri": "http://eurovoc.europa.eu/774"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/774",
+      "language": "fr",
+      "label": "enregistrement documentaire",
+      "source_uri": "http://eurovoc.europa.eu/774"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "d6d90132b0c65f623dc411c67e09026bc3194c63c668365ee8c5c9a516323da0"
 }

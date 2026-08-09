@@ -28,6 +28,12 @@
       "observed_from": "2026-08-07T03:22:17Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -84,5 +90,108 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "f213978af82225813a0e40d4acbe61ba791c2e2a369024e57a57e1066e4b2930"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "en",
+      "label": "worker information",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1424",
+      "language": "fr",
+      "label": "information des travailleurs",
+      "source_uri": "http://eurovoc.europa.eu/1424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1646",
+      "language": "en",
+      "label": "dismissal",
+      "source_uri": "http://eurovoc.europa.eu/1646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1646",
+      "language": "fr",
+      "label": "licenciement",
+      "source_uri": "http://eurovoc.europa.eu/1646"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/166",
+      "language": "en",
+      "label": "work contract",
+      "source_uri": "http://eurovoc.europa.eu/166"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/166",
+      "language": "fr",
+      "label": "contrat de travail",
+      "source_uri": "http://eurovoc.europa.eu/166"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "en",
+      "label": "collective agreement",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "fr",
+      "label": "convention collective",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "EU employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique de l\u0027emploi de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3562",
+      "language": "en",
+      "label": "probationary period",
+      "source_uri": "http://eurovoc.europa.eu/3562"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3562",
+      "language": "fr",
+      "label": "p\u00E9riode de stage",
+      "source_uri": "http://eurovoc.europa.eu/3562"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "96a2846298e58b163f3154b32d0319eab967121e88512c2e43e200f6fdf50aa3"
 }

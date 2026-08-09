@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "ce24b2e0273b21abc43c6b69817a9d0486b9e0b623d0c91ca70e617736198853"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152030",
+      "language": "en",
+      "label": "Protection of health and safety",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152030",
+      "language": "fr",
+      "label": "Protection de la sant\u00E9 et de la s\u00E9curit\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax relief",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "d\u00E9duction fiscale",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3844",
+      "language": "en",
+      "label": "medical device",
+      "source_uri": "http://eurovoc.europa.eu/3844"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3844",
+      "language": "fr",
+      "label": "mat\u00E9riel m\u00E9dical",
+      "source_uri": "http://eurovoc.europa.eu/3844"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4635",
+      "language": "en",
+      "label": "vaccine",
+      "source_uri": "http://eurovoc.europa.eu/4635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4635",
+      "language": "fr",
+      "label": "vaccin",
+      "source_uri": "http://eurovoc.europa.eu/4635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "en",
+      "label": "tax collection",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "fr",
+      "label": "collecte de l\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/837",
+      "language": "en",
+      "label": "epidemic",
+      "source_uri": "http://eurovoc.europa.eu/837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/837",
+      "language": "fr",
+      "label": "\u00E9pid\u00E9mie",
+      "source_uri": "http://eurovoc.europa.eu/837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "en",
+      "label": "tax exemption",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exon\u00E9ration fiscale",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_814bb9e4",
+      "language": "en",
+      "label": "coronavirus disease",
+      "source_uri": "http://eurovoc.europa.eu/c_814bb9e4"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_814bb9e4",
+      "language": "fr",
+      "label": "maladie \u00E0 coronavirus",
+      "source_uri": "http://eurovoc.europa.eu/c_814bb9e4"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "ee804672cd75864f1bbad4165caf04ce44e38068adc3b6cf78332242f30188be"
 }

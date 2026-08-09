@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "9ad1005e3eb5a3baa5803fbf5ba06d38f825a1a4a752172381d7b3f585b46dd2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "en",
+      "label": "Monitoring of atmospheric pollution",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030",
+      "language": "fr",
+      "label": "Contr\u00F4le de la pollution atmosph\u00E9rique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15102030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1707",
+      "language": "en",
+      "label": "pollution control measures",
+      "source_uri": "http://eurovoc.europa.eu/1707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1707",
+      "language": "fr",
+      "label": "lutte contre la pollution",
+      "source_uri": "http://eurovoc.europa.eu/1707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "en",
+      "label": "environmental monitoring",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3140",
+      "language": "fr",
+      "label": "surveillance de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3140"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434786",
+      "language": "en",
+      "label": "adaptation to climate change",
+      "source_uri": "http://eurovoc.europa.eu/434786"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434786",
+      "language": "fr",
+      "label": "adaptation au changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434786"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4630",
+      "language": "en",
+      "label": "land use",
+      "source_uri": "http://eurovoc.europa.eu/4630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4630",
+      "language": "fr",
+      "label": "utilisation des terres",
+      "source_uri": "http://eurovoc.europa.eu/4630"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "en",
+      "label": "EU environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5794",
+      "language": "fr",
+      "label": "politique de l\u0027environnement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5794"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5886",
+      "language": "en",
+      "label": "farming sector",
+      "source_uri": "http://eurovoc.europa.eu/5886"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5886",
+      "language": "fr",
+      "label": "secteur agricole",
+      "source_uri": "http://eurovoc.europa.eu/5886"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6326",
+      "language": "en",
+      "label": "European forestry policy",
+      "source_uri": "http://eurovoc.europa.eu/6326"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6326",
+      "language": "fr",
+      "label": "politique europ\u00E9enne de la for\u00EAt",
+      "source_uri": "http://eurovoc.europa.eu/6326"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "en",
+      "label": "carbon neutrality",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_c9724a74",
+      "language": "fr",
+      "label": "neutralit\u00E9 carbone",
+      "source_uri": "http://eurovoc.europa.eu/c_c9724a74"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "81489848fe82d485cff2a8b11542bf9c52b173bb4da1b88c762bdff620420d0a"
 }

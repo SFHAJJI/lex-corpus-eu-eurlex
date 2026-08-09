@@ -24,6 +24,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "fr",
       "detail": "language=fr"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
     }
   ],
   "expressions": [
@@ -33,7 +39,7 @@
       "valid_to": "2024-06-05",
       "valid_time_source": "publisher",
       "title": "Directive (EU) 2018/2001 of the European Parliament and of the Council of 11\u00A0December 2018 on the promotion of the use of energy from renewable sources (recast) (Text with EEA relevance)",
-      "title_short": "RED II \u2014 Directive (EU) 2018/2001",
+      "title_short": "Directive (EU) 2018/2001",
       "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018L2001-20231120",
       "observations": [
         {
@@ -247,7 +253,7 @@
       "valid_to": "2024-06-05",
       "valid_time_source": "publisher",
       "title": "Directive (UE) 2018/2001 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 11\u00A0d\u00E9cembre 2018 relative \u00E0\u00A0la\u00A0promotion de\u00A0l\u0027utilisation de\u00A0l\u0027\u00E9nergie produite \u00E0\u00A0partir de\u00A0sources renouvelables (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
-      "title_short": "RED II \u2014 Directive (UE) 2018/2001 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 11\u00A0d\u00E9cembre 2018 relative \u2026",
+      "title_short": "Directive (UE) 2018/2001 du Parlement europ\u00E9en et\u00A0du\u00A0Conseil du 11\u00A0d\u00E9cembre 2018 relative \u2026",
       "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02018L2001-20231120",
       "observations": [
         {
@@ -471,5 +477,157 @@
     "legal_form": "DIR",
     "scope_reasons": "domain:wave-1-existing-instruments:seed"
   },
-  "record_sha256": "02ada5b30e364e873f6a368809a46a55e7becd5395db5d2f19e2c97cd1508957"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "en",
+      "label": "Space, environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "fr",
+      "label": "Espace, environnement et ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/142",
+      "language": "en",
+      "label": "energy consumption",
+      "source_uri": "http://eurovoc.europa.eu/142"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/142",
+      "language": "fr",
+      "label": "consommation d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/142"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2527",
+      "language": "en",
+      "label": "air quality",
+      "source_uri": "http://eurovoc.europa.eu/2527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2527",
+      "language": "fr",
+      "label": "qualit\u00E9 de l\u2019air",
+      "source_uri": "http://eurovoc.europa.eu/2527"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "en",
+      "label": "renewable resources",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "fr",
+      "label": "ressource renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "en",
+      "label": "EU programme",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "fr",
+      "label": "programme de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5546",
+      "language": "en",
+      "label": "environmental cooperation",
+      "source_uri": "http://eurovoc.europa.eu/5546"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5546",
+      "language": "fr",
+      "label": "coop\u00E9ration environnementale",
+      "source_uri": "http://eurovoc.europa.eu/5546"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "energy saving",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "\u00E9conomie d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "RED II, red ii, RED 2",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2001"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "4b765daf434e75c9dd4d39dcbf63ae4beed27efcfbe04e0cba1d0833af7305c8"
 }

@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,193 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "c907748fcdf8be4b3c421dda4ec361b00a2f7b4e273dbd504b69c4a09768f671"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0705",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0705"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0705",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0705"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260",
+      "language": "en",
+      "label": "Other sources of energy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260",
+      "language": "fr",
+      "label": "Autres sources d\u0027\u00E9nergie",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "en",
+      "label": "Space, environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "fr",
+      "label": "Espace, environnement et ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1275",
+      "language": "en",
+      "label": "hydrogen",
+      "source_uri": "http://eurovoc.europa.eu/1275"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1275",
+      "language": "fr",
+      "label": "hydrog\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1275"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2693",
+      "language": "en",
+      "label": "electrical process",
+      "source_uri": "http://eurovoc.europa.eu/2693"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2693",
+      "language": "fr",
+      "label": "proc\u00E9d\u00E9 \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/2693"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2715",
+      "language": "en",
+      "label": "energy production",
+      "source_uri": "http://eurovoc.europa.eu/2715"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2715",
+      "language": "fr",
+      "label": "production d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/2715"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2716",
+      "language": "en",
+      "label": "hydrogen production",
+      "source_uri": "http://eurovoc.europa.eu/2716"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2716",
+      "language": "fr",
+      "label": "production d\u0027hydrog\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/2716"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "en",
+      "label": "renewable resources",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "fr",
+      "label": "ressource renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5262",
+      "language": "en",
+      "label": "motor fuel",
+      "source_uri": "http://eurovoc.europa.eu/5262"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5262",
+      "language": "fr",
+      "label": "carburant",
+      "source_uri": "http://eurovoc.europa.eu/5262"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6044",
+      "language": "en",
+      "label": "substitute fuel",
+      "source_uri": "http://eurovoc.europa.eu/6044"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6044",
+      "language": "fr",
+      "label": "combustible de remplacement",
+      "source_uri": "http://eurovoc.europa.eu/6044"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    }
+  ],
+  "document_roles": [
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "5764fc164e3192fc30d80d796a70b6ea4e79ffe5bcff447edff61ac65bd858a4"
 }

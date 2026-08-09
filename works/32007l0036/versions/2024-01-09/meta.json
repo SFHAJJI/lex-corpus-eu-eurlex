@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,150 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:seed"
   },
-  "record_sha256": "b042e2f6a096543ada74776ceeb18d9409faf0dcec99a0a59e7b1aabac58f1fc"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "en",
+      "label": "Company law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710",
+      "language": "fr",
+      "label": "Droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1710"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2264",
+      "language": "en",
+      "label": "shareholding",
+      "source_uri": "http://eurovoc.europa.eu/2264"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2264",
+      "language": "fr",
+      "label": "participation",
+      "source_uri": "http://eurovoc.europa.eu/2264"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4196",
+      "language": "en",
+      "label": "company with share capital",
+      "source_uri": "http://eurovoc.europa.eu/4196"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4196",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de capitaux",
+      "source_uri": "http://eurovoc.europa.eu/4196"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4760",
+      "language": "en",
+      "label": "postal vote",
+      "source_uri": "http://eurovoc.europa.eu/4760"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4760",
+      "language": "fr",
+      "label": "vote par correspondance",
+      "source_uri": "http://eurovoc.europa.eu/4760"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4761",
+      "language": "en",
+      "label": "proxy vote",
+      "source_uri": "http://eurovoc.europa.eu/4761"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4761",
+      "language": "fr",
+      "label": "vote par procuration",
+      "source_uri": "http://eurovoc.europa.eu/4761"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5389",
+      "language": "en",
+      "label": "shareholder",
+      "source_uri": "http://eurovoc.europa.eu/5389"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5389",
+      "language": "fr",
+      "label": "actionnaire",
+      "source_uri": "http://eurovoc.europa.eu/5389"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/548",
+      "language": "en",
+      "label": "right to vote",
+      "source_uri": "http://eurovoc.europa.eu/548"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/548",
+      "language": "fr",
+      "label": "droit de vote",
+      "source_uri": "http://eurovoc.europa.eu/548"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "en",
+      "label": "corporate governance",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "fr",
+      "label": "gouvernement d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/709",
+      "language": "en",
+      "label": "electronics",
+      "source_uri": "http://eurovoc.europa.eu/709"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/709",
+      "language": "fr",
+      "label": "\u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/709"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "57f924de52d725d2b490e0f05e4359eea4c618b2d77a44f8658c8c157570240f"
 }

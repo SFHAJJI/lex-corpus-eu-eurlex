@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -70,5 +76,137 @@
     "domains": "financial-services",
     "scope_reasons": "domain:financial-services:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "e692f8faa2834799da7cfaacc0886577a734ebe0b25c9b06616d22dc5071172e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3774",
+      "language": "en",
+      "label": "United Kingdom",
+      "source_uri": "http://eurovoc.europa.eu/3774"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3774",
+      "language": "fr",
+      "label": "Royaume-Uni",
+      "source_uri": "http://eurovoc.europa.eu/3774"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/424",
+      "language": "en",
+      "label": "public debt",
+      "source_uri": "http://eurovoc.europa.eu/424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/424",
+      "language": "fr",
+      "label": "dette publique",
+      "source_uri": "http://eurovoc.europa.eu/424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434880",
+      "language": "en",
+      "label": "EU Emissions Trading Scheme",
+      "source_uri": "http://eurovoc.europa.eu/434880"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434880",
+      "language": "fr",
+      "label": "M\u00E9canisme UE d\u0027\u00E9change de droits d\u0027\u00E9mission",
+      "source_uri": "http://eurovoc.europa.eu/434880"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435007",
+      "language": "en",
+      "label": "EU emission allowance",
+      "source_uri": "http://eurovoc.europa.eu/435007"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435007",
+      "language": "fr",
+      "label": "droits d\u0027\u00E9missions UE",
+      "source_uri": "http://eurovoc.europa.eu/435007"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4763",
+      "language": "en",
+      "label": "central bank",
+      "source_uri": "http://eurovoc.europa.eu/4763"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4763",
+      "language": "fr",
+      "label": "banque centrale",
+      "source_uri": "http://eurovoc.europa.eu/4763"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5883",
+      "language": "en",
+      "label": "European System of Central Banks",
+      "source_uri": "http://eurovoc.europa.eu/5883"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5883",
+      "language": "fr",
+      "label": "Syst\u00E8me europ\u00E9en de banques centrales",
+      "source_uri": "http://eurovoc.europa.eu/5883"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8a6f744c",
+      "language": "en",
+      "label": "withdrawal from the EU",
+      "source_uri": "http://eurovoc.europa.eu/c_8a6f744c"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8a6f744c",
+      "language": "fr",
+      "label": "retrait de l\u2019UE",
+      "source_uri": "http://eurovoc.europa.eu/c_8a6f744c"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b499ede2",
+      "language": "en",
+      "label": "market abuse",
+      "source_uri": "http://eurovoc.europa.eu/c_b499ede2"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b499ede2",
+      "language": "fr",
+      "label": "abus de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/c_b499ede2"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "bdd0f0c6939dac8f247844cdb03663de2eca1b64439d4817f4ef90589f9cef72"
 }

@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,98 @@
     "domains": "aml-corporate,competition,consumer-environment,wave-1-existing-instruments",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_amends_resource_legal,domain:competition:relationship:resource_legal_amends_resource_legal,domain:consumer-environment:relationship:resource_legal_amends_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "feba730f45e4db970c2a08cc432eae5ea4ca800508a0eed0d8e2dfa4a0962d08"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120",
+      "language": "en",
+      "label": "General provisions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120",
+      "language": "fr",
+      "label": "Dispositions g\u00E9n\u00E9rales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0120"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940",
+      "language": "en",
+      "label": "Programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940",
+      "language": "fr",
+      "label": "Programmes",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1940"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/513",
+      "language": "en",
+      "label": "right to information",
+      "source_uri": "http://eurovoc.europa.eu/513"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/513",
+      "language": "fr",
+      "label": "droit \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/513"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5953",
+      "language": "en",
+      "label": "infringement of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5953"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5953",
+      "language": "fr",
+      "label": "violation du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5953"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_2f00dd5a",
+      "language": "en",
+      "label": "whistleblowing",
+      "source_uri": "http://eurovoc.europa.eu/c_2f00dd5a"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_2f00dd5a",
+      "language": "fr",
+      "label": "d\u00E9nonciation des dysfonctionnements",
+      "source_uri": "http://eurovoc.europa.eu/c_2f00dd5a"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "eu whistleblowing directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1937"
+    }
+  ],
+  "record_sha256": "a61cca975bf21c4680efba59993c5b825a1de940db3624954e7819f546767fb3"
 }

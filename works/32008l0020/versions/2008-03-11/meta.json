@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal"
   },
-  "record_sha256": "16aa738aaee6caff6445c83ff888261bb669303d4a7ca4e87e044dac71102d93"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "en",
+      "label": "Free movement of capital",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "fr",
+      "label": "Libre circulation des capitaux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "en",
+      "label": "European Commission",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "fr",
+      "label": "Commission europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "en",
+      "label": "terrorism",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "fr",
+      "label": "terrorisme",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/521",
+      "language": "en",
+      "label": "law of banking",
+      "source_uri": "http://eurovoc.europa.eu/521"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/521",
+      "language": "fr",
+      "label": "droit bancaire",
+      "source_uri": "http://eurovoc.europa.eu/521"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "en",
+      "label": "powers of the institutions (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5519",
+      "language": "fr",
+      "label": "comp\u00E9tence institutionnelle (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5519"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "b76180c47459bc076a81510b0b64b8bf8cd48522ed195ec43f37eb4f1958b576"
 }

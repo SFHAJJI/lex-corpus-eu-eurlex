@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "547b79f7ac17c5350011f9373b58d98074ec1c2f683bd8eb3f89c310d1c3b803"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072020",
+      "language": "en",
+      "label": "State intervention",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072020",
+      "language": "fr",
+      "label": "Interventions publiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/072020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2494",
+      "language": "en",
+      "label": "transport policy",
+      "source_uri": "http://eurovoc.europa.eu/2494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2494",
+      "language": "fr",
+      "label": "politique des transports",
+      "source_uri": "http://eurovoc.europa.eu/2494"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4514",
+      "language": "en",
+      "label": "rail transport",
+      "source_uri": "http://eurovoc.europa.eu/4514"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4514",
+      "language": "fr",
+      "label": "transport ferroviaire",
+      "source_uri": "http://eurovoc.europa.eu/4514"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4515",
+      "language": "en",
+      "label": "inland waterway transport",
+      "source_uri": "http://eurovoc.europa.eu/4515"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4515",
+      "language": "fr",
+      "label": "transport par voie navigable",
+      "source_uri": "http://eurovoc.europa.eu/4515"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4533",
+      "language": "en",
+      "label": "road transport",
+      "source_uri": "http://eurovoc.europa.eu/4533"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4533",
+      "language": "fr",
+      "label": "transport routier",
+      "source_uri": "http://eurovoc.europa.eu/4533"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5129",
+      "language": "en",
+      "label": "ESC opinion",
+      "source_uri": "http://eurovoc.europa.eu/5129"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5129",
+      "language": "fr",
+      "label": "avis CESE",
+      "source_uri": "http://eurovoc.europa.eu/5129"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "en",
+      "label": "codification of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5498",
+      "language": "fr",
+      "label": "codification du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5498"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1d1336c70905a65f0530ea481b80304fa485bf81916131b4e433c87890fb771c"
 }

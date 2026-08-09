@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "8ddbc7db363a66bb6637515da80cae6716d03be60c434ee9e1add119c54bda68"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030",
+      "language": "en",
+      "label": "Research and technological development",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030",
+      "language": "fr",
+      "label": "Recherche et d\u00E9veloppement technologique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/131030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "small and medium-sized enterprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "petites et moyennes entreprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3030",
+      "language": "en",
+      "label": "artificial intelligence",
+      "source_uri": "http://eurovoc.europa.eu/3030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3030",
+      "language": "fr",
+      "label": "intelligence artificielle",
+      "source_uri": "http://eurovoc.europa.eu/3030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "en",
+      "label": "new technology",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3636",
+      "language": "fr",
+      "label": "nouvelle technologie",
+      "source_uri": "http://eurovoc.europa.eu/3636"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "en",
+      "label": "harmonisation of standards",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3648",
+      "language": "fr",
+      "label": "harmonisation des normes",
+      "source_uri": "http://eurovoc.europa.eu/3648"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/437655",
+      "language": "en",
+      "label": "digital literacy",
+      "source_uri": "http://eurovoc.europa.eu/437655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/437655",
+      "language": "fr",
+      "label": "habilet\u00E9 num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/437655"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "en",
+      "label": "market approval",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5451",
+      "language": "fr",
+      "label": "autorisation de vente",
+      "source_uri": "http://eurovoc.europa.eu/5451"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_5a195ffd",
+      "language": "en",
+      "label": "smart technology",
+      "source_uri": "http://eurovoc.europa.eu/c_5a195ffd"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_5a195ffd",
+      "language": "fr",
+      "label": "technologie intelligente",
+      "source_uri": "http://eurovoc.europa.eu/c_5a195ffd"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "468d64ba9deb556e1f0414bf3ea984c9b5ae1653cb213400ec609915590bd2ec"
 }

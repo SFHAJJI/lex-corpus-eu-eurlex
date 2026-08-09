@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,108 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "711e29cb8d165cfcce2eb5849491e112f9d9925a209d8ea465be6edb477d9fee"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "inter-company agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3960",
+      "language": "en",
+      "label": "reduction of sentence",
+      "source_uri": "http://eurovoc.europa.eu/3960"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3960",
+      "language": "fr",
+      "label": "all\u00E9gement de peine",
+      "source_uri": "http://eurovoc.europa.eu/3960"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5267",
+      "language": "en",
+      "label": "cartel",
+      "source_uri": "http://eurovoc.europa.eu/5267"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5267",
+      "language": "fr",
+      "label": "cartel",
+      "source_uri": "http://eurovoc.europa.eu/5267"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5399",
+      "language": "en",
+      "label": "access to EU information",
+      "source_uri": "http://eurovoc.europa.eu/5399"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5399",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5399"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "en",
+      "label": "complaint to the Commission",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "fr",
+      "label": "plainte \u00E0 la Commission",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "2d71588702f60c42f2f23c8739da25b2c9079213ea30e13a7ea464e00713f644"
 }

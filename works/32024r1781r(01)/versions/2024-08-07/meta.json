@@ -22,6 +22,12 @@
       "observed_from": "2026-08-07T00:17:15Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -78,5 +84,150 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_corrects_resource_legal,relationship:resource_legal_corrects_resource_legal"
   },
-  "record_sha256": "a019344d1b5d984efac4d96711acf21e52677688d528b1c873d94d78e62bb104"
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1631",
+      "language": "en",
+      "label": "free movement of goods",
+      "source_uri": "http://eurovoc.europa.eu/1631"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1631",
+      "language": "fr",
+      "label": "libre circulation des marchandises",
+      "source_uri": "http://eurovoc.europa.eu/1631"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2947",
+      "language": "en",
+      "label": "waste recycling",
+      "source_uri": "http://eurovoc.europa.eu/2947"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2947",
+      "language": "fr",
+      "label": "recyclage des d\u00E9chets",
+      "source_uri": "http://eurovoc.europa.eu/2947"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental impact",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "impact sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3642",
+      "language": "en",
+      "label": "product life",
+      "source_uri": "http://eurovoc.europa.eu/3642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3642",
+      "language": "fr",
+      "label": "dur\u00E9e de vie du produit",
+      "source_uri": "http://eurovoc.europa.eu/3642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/831",
+      "language": "en",
+      "label": "maintenance",
+      "source_uri": "http://eurovoc.europa.eu/831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/831",
+      "language": "fr",
+      "label": "entretien",
+      "source_uri": "http://eurovoc.europa.eu/831"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_1138d9d2",
+      "language": "en",
+      "label": "circular economy",
+      "source_uri": "http://eurovoc.europa.eu/c_1138d9d2"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_1138d9d2",
+      "language": "fr",
+      "label": "\u00E9conomie circulaire",
+      "source_uri": "http://eurovoc.europa.eu/c_1138d9d2"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_18802d13",
+      "language": "en",
+      "label": "ecodesign",
+      "source_uri": "http://eurovoc.europa.eu/c_18802d13"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_18802d13",
+      "language": "fr",
+      "label": "\u00E9coconception",
+      "source_uri": "http://eurovoc.europa.eu/c_18802d13"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b46c2b62",
+      "language": "en",
+      "label": "sustainable product",
+      "source_uri": "http://eurovoc.europa.eu/c_b46c2b62"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_b46c2b62",
+      "language": "fr",
+      "label": "produit durable",
+      "source_uri": "http://eurovoc.europa.eu/c_b46c2b62"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "05c9a515d49ceac418ef7cfbcbc6303a94020bf67ef082d156b09c7a858f56ea"
 }

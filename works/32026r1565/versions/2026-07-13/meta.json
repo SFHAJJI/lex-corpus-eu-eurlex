@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,193 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "84ad24cad68c2af8ffd7f62bfab92b745b432b4ee3e2cc2ce1262c5904b95b20"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060",
+      "language": "en",
+      "label": "Forests and forestry",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060",
+      "language": "fr",
+      "label": "For\u00EAts et sylviculture",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/033060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010",
+      "language": "en",
+      "label": "Management and efficient use of space, the environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010",
+      "language": "fr",
+      "label": "Gestion et utilisation rationnelle de l\u0027espace, de l\u0027environnement et des ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/15103010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1801",
+      "language": "en",
+      "label": "commodities market",
+      "source_uri": "http://eurovoc.europa.eu/1801"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1801",
+      "language": "fr",
+      "label": "march\u00E9 des produits de base",
+      "source_uri": "http://eurovoc.europa.eu/1801"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2358",
+      "language": "en",
+      "label": "small business",
+      "source_uri": "http://eurovoc.europa.eu/2358"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2358",
+      "language": "fr",
+      "label": "petite entreprise",
+      "source_uri": "http://eurovoc.europa.eu/2358"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2754",
+      "language": "en",
+      "label": "wood product",
+      "source_uri": "http://eurovoc.europa.eu/2754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2754",
+      "language": "fr",
+      "label": "produit du bois",
+      "source_uri": "http://eurovoc.europa.eu/2754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3181",
+      "language": "en",
+      "label": "simplification of formalities",
+      "source_uri": "http://eurovoc.europa.eu/3181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3181",
+      "language": "fr",
+      "label": "simplification des formalit\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/3181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3190",
+      "language": "en",
+      "label": "export (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3190",
+      "language": "fr",
+      "label": "exportation (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3190"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/339",
+      "language": "en",
+      "label": "deforestation",
+      "source_uri": "http://eurovoc.europa.eu/339"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/339",
+      "language": "fr",
+      "label": "d\u00E9boisement",
+      "source_uri": "http://eurovoc.europa.eu/339"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5070",
+      "language": "en",
+      "label": "administrative formalities",
+      "source_uri": "http://eurovoc.europa.eu/5070"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5070",
+      "language": "fr",
+      "label": "formalit\u00E9 administrative",
+      "source_uri": "http://eurovoc.europa.eu/5070"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5219",
+      "language": "en",
+      "label": "forest conservation",
+      "source_uri": "http://eurovoc.europa.eu/5219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5219",
+      "language": "fr",
+      "label": "protection de la for\u00EAt",
+      "source_uri": "http://eurovoc.europa.eu/5219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "d47b149ea773976f027e33ba902714a60bd066a43e548b19a6825ba80b4be4a3"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,164 @@
     "domains": "aml-corporate,financial-services,wave-1-existing-instruments",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,domain:financial-services:relationship:resource_legal_based_on_resource_legal,domain:wave-1-existing-instruments:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "2f6f09f57561a52b2076800aa5c3679f267c3f1f6412556bf8bf8b157ea8a2d7"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "en",
+      "label": "Free movement of capital",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "fr",
+      "label": "Libre circulation des capitaux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1193",
+      "language": "en",
+      "label": "group of companies",
+      "source_uri": "http://eurovoc.europa.eu/1193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1193",
+      "language": "fr",
+      "label": "groupe de soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/1193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3273",
+      "language": "en",
+      "label": "remuneration of work",
+      "source_uri": "http://eurovoc.europa.eu/3273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3273",
+      "language": "fr",
+      "label": "r\u00E9mun\u00E9ration du travail",
+      "source_uri": "http://eurovoc.europa.eu/3273"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4300",
+      "language": "en",
+      "label": "company structure",
+      "source_uri": "http://eurovoc.europa.eu/4300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4300",
+      "language": "fr",
+      "label": "structure de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/4300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "en",
+      "label": "technical standard",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5235",
+      "language": "fr",
+      "label": "norme technique",
+      "source_uri": "http://eurovoc.europa.eu/5235"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8416",
+      "language": "en",
+      "label": "conflict of interest",
+      "source_uri": "http://eurovoc.europa.eu/8416"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8416",
+      "language": "fr",
+      "label": "conflit d\u0027int\u00E9r\u00EAt",
+      "source_uri": "http://eurovoc.europa.eu/8416"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "virtual currency",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "monnaie virtuelle",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    }
+  ],
+  "document_roles": [
+    "delegated"
+  ],
+  "record_sha256": "d5b052b63ef8dc8ac19b0ed0fe8e43fab94ef0cd2b57c8a4b909809c0edc4c47"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "1201c40fb4200a58e89e3bf28f69d30cabafe24de2a57dec91f68f2d36007723"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020",
+      "language": "en",
+      "label": "Excise duties",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020",
+      "language": "fr",
+      "label": "Droit d\u0027accise",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1015",
+      "language": "en",
+      "label": "excise duty",
+      "source_uri": "http://eurovoc.europa.eu/1015"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1015",
+      "language": "fr",
+      "label": "accise",
+      "source_uri": "http://eurovoc.europa.eu/1015"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1088",
+      "language": "en",
+      "label": "regions of France",
+      "source_uri": "http://eurovoc.europa.eu/1088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1088",
+      "language": "fr",
+      "label": "r\u00E9gions de la France",
+      "source_uri": "http://eurovoc.europa.eu/1088"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1843",
+      "language": "en",
+      "label": "Mayotte",
+      "source_uri": "http://eurovoc.europa.eu/1843"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1843",
+      "language": "fr",
+      "label": "Mayotte",
+      "source_uri": "http://eurovoc.europa.eu/1843"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "en",
+      "label": "application of EU law",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2247",
+      "language": "fr",
+      "label": "application du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2247"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4128",
+      "language": "en",
+      "label": "peripheral region",
+      "source_uri": "http://eurovoc.europa.eu/4128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4128",
+      "language": "fr",
+      "label": "r\u00E9gion p\u00E9riph\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/4128"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "79e5dd17aefe4e8ce6d8cbe0064acc04062ff953387c53200388261002b9f967"
 }

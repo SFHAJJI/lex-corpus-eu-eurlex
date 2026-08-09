@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,161 @@
     "domains": "competition",
     "scope_reasons": "domain:competition:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "2e0d757db93256e62b820f7cb82e7753fbf1e943f3a1016b2f4474bb04b2b50e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "en",
+      "label": "State aids and other subsidies",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860",
+      "language": "fr",
+      "label": "Aides d\u0027\u00C9tat et autres subventions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0860"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1074",
+      "language": "en",
+      "label": "vocational training",
+      "source_uri": "http://eurovoc.europa.eu/1074"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1074",
+      "language": "fr",
+      "label": "formation professionnelle",
+      "source_uri": "http://eurovoc.europa.eu/1074"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "environmental protection",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "protection de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3530",
+      "language": "en",
+      "label": "female work",
+      "source_uri": "http://eurovoc.europa.eu/3530"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3530",
+      "language": "fr",
+      "label": "travail f\u00E9minin",
+      "source_uri": "http://eurovoc.europa.eu/3530"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/431",
+      "language": "en",
+      "label": "regional development",
+      "source_uri": "http://eurovoc.europa.eu/431"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/431",
+      "language": "fr",
+      "label": "d\u00E9veloppement r\u00E9gional",
+      "source_uri": "http://eurovoc.europa.eu/431"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4559",
+      "language": "en",
+      "label": "worker with disabilities",
+      "source_uri": "http://eurovoc.europa.eu/4559"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4559",
+      "language": "fr",
+      "label": "travailleur handicap\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4559"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5237",
+      "language": "en",
+      "label": "research and development",
+      "source_uri": "http://eurovoc.europa.eu/5237"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5237",
+      "language": "fr",
+      "label": "recherche et d\u00E9veloppement",
+      "source_uri": "http://eurovoc.europa.eu/5237"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "en",
+      "label": "control of State aid",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5541",
+      "language": "fr",
+      "label": "contr\u00F4le des aides d\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/5541"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/723",
+      "language": "en",
+      "label": "employment aid",
+      "source_uri": "http://eurovoc.europa.eu/723"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/723",
+      "language": "fr",
+      "label": "aide \u00E0 l\u0027emploi",
+      "source_uri": "http://eurovoc.europa.eu/723"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/766",
+      "language": "en",
+      "label": "investment aid",
+      "source_uri": "http://eurovoc.europa.eu/766"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/766",
+      "language": "fr",
+      "label": "aide \u00E0 l\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/766"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "en",
+      "label": "State aid",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/889",
+      "language": "fr",
+      "label": "aide de l\u0027\u00C9tat",
+      "source_uri": "http://eurovoc.europa.eu/889"
+    }
+  ],
+  "record_sha256": "7fc67bf1a9d5043c0e8ab45c842b872a0e956db4ea30549fbb5090088bab14bc"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -73,5 +79,147 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "bf36b5e9195d482ea41d2dad79407ae860dd1974bcf76a04845067870d683776"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "en",
+      "label": "Electricity",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "fr",
+      "label": "\u00C9lectricit\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "en",
+      "label": "Other sectors for approximation of laws",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099",
+      "language": "fr",
+      "label": "Autres secteurs de rapprochement des l\u00E9gislations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/133099"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1631",
+      "language": "en",
+      "label": "free movement of goods",
+      "source_uri": "http://eurovoc.europa.eu/1631"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1631",
+      "language": "fr",
+      "label": "libre circulation des marchandises",
+      "source_uri": "http://eurovoc.europa.eu/1631"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1806",
+      "language": "en",
+      "label": "domestic market",
+      "source_uri": "http://eurovoc.europa.eu/1806"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1806",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur",
+      "source_uri": "http://eurovoc.europa.eu/1806"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3737",
+      "language": "en",
+      "label": "energy industry",
+      "source_uri": "http://eurovoc.europa.eu/3737"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3737",
+      "language": "fr",
+      "label": "industrie \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/3737"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "en",
+      "label": "electrical industry",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "fr",
+      "label": "industrie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5707",
+      "language": "en",
+      "label": "liberalisation of the market",
+      "source_uri": "http://eurovoc.europa.eu/5707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5707",
+      "language": "fr",
+      "label": "lib\u00E9ralisation du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5707"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "en",
+      "label": "energy grid",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5861",
+      "language": "fr",
+      "label": "r\u00E9seau \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/5861"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/635",
+      "language": "en",
+      "label": "market access",
+      "source_uri": "http://eurovoc.europa.eu/635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/635",
+      "language": "fr",
+      "label": "acc\u00E8s au march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/75",
+      "language": "en",
+      "label": "competition",
+      "source_uri": "http://eurovoc.europa.eu/75"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/75",
+      "language": "fr",
+      "label": "concurrence",
+      "source_uri": "http://eurovoc.europa.eu/75"
+    }
+  ],
+  "record_sha256": "d807e66a1258ef4b8fc8292946922b221f5978dbb5a3d56861f8c304e6e41ac4"
 }

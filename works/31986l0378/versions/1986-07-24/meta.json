@@ -12,6 +12,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
     }
   ],
   "expressions": [
@@ -70,5 +76,91 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "c3efd9bd871660f90289c2e809ad3e32155bd5f5b759b6e41e68b072e673bbf1"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010",
+      "language": "en",
+      "label": "Principles of social security",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010",
+      "language": "fr",
+      "label": "Principes de s\u00E9curit\u00E9 sociale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05204010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2604",
+      "language": "en",
+      "label": "family benefit",
+      "source_uri": "http://eurovoc.europa.eu/2604"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2604",
+      "language": "fr",
+      "label": "prestation familiale",
+      "source_uri": "http://eurovoc.europa.eu/2604"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2605",
+      "language": "en",
+      "label": "social-security benefit",
+      "source_uri": "http://eurovoc.europa.eu/2605"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2605",
+      "language": "fr",
+      "label": "prestation sociale",
+      "source_uri": "http://eurovoc.europa.eu/2605"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "en",
+      "label": "gender equality",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3913",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 homme-femme",
+      "source_uri": "http://eurovoc.europa.eu/3913"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4050",
+      "language": "en",
+      "label": "social security",
+      "source_uri": "http://eurovoc.europa.eu/4050"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4050",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 sociale",
+      "source_uri": "http://eurovoc.europa.eu/4050"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "en",
+      "label": "equal treatment",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de traitement",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    }
+  ],
+  "record_sha256": "f5f54dd9de4a7f0abd418ecffb94d75638642028ed1c571b92501b3e92e1c1be"
 }

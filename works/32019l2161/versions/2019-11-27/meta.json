@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,185 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "52c725f6ba74589b747f852c264eae5517db32f949ce7b2b43bbbcedc9106652"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "en",
+      "label": "Consumer information, education and representation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "fr",
+      "label": "Information, \u00E9ducation et repr\u00E9sentation des consommateurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "en",
+      "label": "Protection of economic interests",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040",
+      "language": "fr",
+      "label": "Protection des int\u00E9r\u00EAts \u00E9conomiques",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "en",
+      "label": "consumer information",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1425",
+      "language": "fr",
+      "label": "information du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/1425"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/233",
+      "language": "en",
+      "label": "publishing of prices",
+      "source_uri": "http://eurovoc.europa.eu/233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/233",
+      "language": "fr",
+      "label": "publicit\u00E9 des prix",
+      "source_uri": "http://eurovoc.europa.eu/233"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2863",
+      "language": "en",
+      "label": "advertising malpractice",
+      "source_uri": "http://eurovoc.europa.eu/2863"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2863",
+      "language": "fr",
+      "label": "publicit\u00E9 abusive",
+      "source_uri": "http://eurovoc.europa.eu/2863"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3878",
+      "language": "en",
+      "label": "penalty",
+      "source_uri": "http://eurovoc.europa.eu/3878"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3878",
+      "language": "fr",
+      "label": "sanction p\u00E9nale",
+      "source_uri": "http://eurovoc.europa.eu/3878"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5492",
+      "language": "en",
+      "label": "unfair terms of contract",
+      "source_uri": "http://eurovoc.europa.eu/5492"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5492",
+      "language": "fr",
+      "label": "clause abusive",
+      "source_uri": "http://eurovoc.europa.eu/5492"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "electronic commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6134",
+      "language": "en",
+      "label": "comparative advertising",
+      "source_uri": "http://eurovoc.europa.eu/6134"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6134",
+      "language": "fr",
+      "label": "publicit\u00E9 comparative",
+      "source_uri": "http://eurovoc.europa.eu/6134"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6216",
+      "language": "en",
+      "label": "consumer policy",
+      "source_uri": "http://eurovoc.europa.eu/6216"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6216",
+      "language": "fr",
+      "label": "politique des consommateurs",
+      "source_uri": "http://eurovoc.europa.eu/6216"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_e5dbcb63",
+      "language": "en",
+      "label": "consumer law",
+      "source_uri": "http://eurovoc.europa.eu/c_e5dbcb63"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_e5dbcb63",
+      "language": "fr",
+      "label": "droit des consommateurs",
+      "source_uri": "http://eurovoc.europa.eu/c_e5dbcb63"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "omnibus directive",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2161"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "33bed4551ff2fe431fcae6e2c846ddad9fc362ccbafb0f3fde44054c88e517b6"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,136 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_implicitly_repeals_resource_legal,domain:tax:relationship:resource_legal_repeals_resource_legal,relationship:resource_legal_implicitly_repeals_resource_legal,relationship:resource_legal_repeals_resource_legal"
   },
-  "record_sha256": "b9a7c76d83cc8d036c989572e296c8679dbcd1afab59a374cbcf609fb8399092"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0110",
+      "language": "en",
+      "label": "Principles, objectives and tasks of the Treaties",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0110"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0110",
+      "language": "fr",
+      "label": "Principes, objectifs et mission des trait\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0110"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0910",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0910"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0910",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0910"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "en",
+      "label": "tax system",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "fr",
+      "label": "fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/114",
+      "language": "en",
+      "label": "Council of the European Union",
+      "source_uri": "http://eurovoc.europa.eu/114"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/114",
+      "language": "fr",
+      "label": "Conseil de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/114"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "accession to the European Union",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "adh\u00E9sion \u00E0 l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3763",
+      "language": "en",
+      "label": "Romania",
+      "source_uri": "http://eurovoc.europa.eu/3763"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3763",
+      "language": "fr",
+      "label": "Roumanie",
+      "source_uri": "http://eurovoc.europa.eu/3763"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4015",
+      "language": "en",
+      "label": "EC Directive",
+      "source_uri": "http://eurovoc.europa.eu/4015"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4015",
+      "language": "fr",
+      "label": "directive CE",
+      "source_uri": "http://eurovoc.europa.eu/4015"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5063",
+      "language": "en",
+      "label": "Bulgaria",
+      "source_uri": "http://eurovoc.europa.eu/5063"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5063",
+      "language": "fr",
+      "label": "Bulgarie",
+      "source_uri": "http://eurovoc.europa.eu/5063"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "65b075220e2913f66adab9a2a956d2c5f85dec26491b6f5070d6078778bc31f3"
 }

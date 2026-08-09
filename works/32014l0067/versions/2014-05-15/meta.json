@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,178 @@
     "domains": "employment",
     "scope_reasons": "domain:employment:seed"
   },
-  "record_sha256": "6e48e977fba874bbc74fb77087a9d29d98513c517b56a8f1dd5b249fffae544e"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0510",
+      "language": "en",
+      "label": "Freedom of movement for workers",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0510"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0510",
+      "language": "fr",
+      "label": "Libre circulation des travailleurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0510"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1634",
+      "language": "en",
+      "label": "free movement of workers",
+      "source_uri": "http://eurovoc.europa.eu/1634"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1634",
+      "language": "fr",
+      "label": "libre circulation des travailleurs",
+      "source_uri": "http://eurovoc.europa.eu/1634"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1638",
+      "language": "en",
+      "label": "freedom to provide services",
+      "source_uri": "http://eurovoc.europa.eu/1638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1638",
+      "language": "fr",
+      "label": "libre prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/1638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/206",
+      "language": "en",
+      "label": "administrative cooperation",
+      "source_uri": "http://eurovoc.europa.eu/206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/206",
+      "language": "fr",
+      "label": "coop\u00E9ration administrative",
+      "source_uri": "http://eurovoc.europa.eu/206"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "en",
+      "label": "administrative sanction",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3862",
+      "language": "fr",
+      "label": "sanction administrative",
+      "source_uri": "http://eurovoc.europa.eu/3862"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4125",
+      "language": "en",
+      "label": "EU control",
+      "source_uri": "http://eurovoc.europa.eu/4125"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4125",
+      "language": "fr",
+      "label": "contr\u00F4le de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/4125"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "en",
+      "label": "equal treatment",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/688",
+      "language": "fr",
+      "label": "\u00E9galit\u00E9 de traitement",
+      "source_uri": "http://eurovoc.europa.eu/688"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "5761e8e665043c247e3a96b118e1cd81dc35fdaab1bbcf4fec1db570a0c878a6"
 }

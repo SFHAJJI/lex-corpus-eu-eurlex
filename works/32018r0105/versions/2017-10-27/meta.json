@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,123 @@
     "domains": "aml-corporate",
     "scope_reasons": "domain:aml-corporate:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "31251ca7cadf820f6c6411376dc17f21e8391f653f6d3e9aed63f68ca100cad6"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/18",
+      "language": "en",
+      "label": "Common Foreign and Security Policy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/18"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/18",
+      "language": "fr",
+      "label": "Politique \u00E9trang\u00E8re et de s\u00E9curit\u00E9 commune",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/18"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1950",
+      "language": "en",
+      "label": "External relations",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1950",
+      "language": "fr",
+      "label": "Relations ext\u00E9rieures",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "en",
+      "label": "fight against crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1708",
+      "language": "fr",
+      "label": "lutte contre le crime",
+      "source_uri": "http://eurovoc.europa.eu/1708"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3453",
+      "language": "en",
+      "label": "European security",
+      "source_uri": "http://eurovoc.europa.eu/3453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3453",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/3453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "en",
+      "label": "terrorism",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4452",
+      "language": "fr",
+      "label": "terrorisme",
+      "source_uri": "http://eurovoc.europa.eu/4452"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "en",
+      "label": "money laundering",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5465",
+      "language": "fr",
+      "label": "blanchiment d\u0027argent",
+      "source_uri": "http://eurovoc.europa.eu/5465"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6222",
+      "language": "en",
+      "label": "area of freedom, security and justice",
+      "source_uri": "http://eurovoc.europa.eu/6222"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6222",
+      "language": "fr",
+      "label": "espace de libert\u00E9, s\u00E9curit\u00E9 et justice",
+      "source_uri": "http://eurovoc.europa.eu/6222"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/891",
+      "language": "en",
+      "label": "Ethiopia",
+      "source_uri": "http://eurovoc.europa.eu/891"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/891",
+      "language": "fr",
+      "label": "\u00C9thiopie",
+      "source_uri": "http://eurovoc.europa.eu/891"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "424d9f83e0c8f861adc5f33e1f09d031edd5244cd2613edff4e9ae39b9a6d0e3"
 }

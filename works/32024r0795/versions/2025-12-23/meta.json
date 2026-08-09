@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,179 @@
     "domains": "consumer-environment",
     "scope_reasons": "domain:consumer-environment:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "91c42f1df3fd17fad0e13cbd402ae58f13d35af77b4010bc1cf9bdf9849bf842"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0160",
+      "language": "en",
+      "label": "Financial and budgetary provisions",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0160"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0160",
+      "language": "fr",
+      "label": "Dispositions financi\u00E8res et budg\u00E9taires",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0160"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "en",
+      "label": "Instruments of economic policy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020",
+      "language": "fr",
+      "label": "Instruments de politique \u00E9conomique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/103020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1310",
+      "language": "en",
+      "label": "Industrial policy: general, programmes, statistics and research",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1310"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1310",
+      "language": "fr",
+      "label": "Politique industrielle: g\u00E9n\u00E9ralit\u00E9s, programmes, statistiques et recherche",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1310"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1005",
+      "language": "en",
+      "label": "EU financing",
+      "source_uri": "http://eurovoc.europa.eu/1005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1005",
+      "language": "fr",
+      "label": "financement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/1005"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1490",
+      "language": "en",
+      "label": "EU investment",
+      "source_uri": "http://eurovoc.europa.eu/1490"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1490",
+      "language": "fr",
+      "label": "investissement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/1490"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2805",
+      "language": "en",
+      "label": "investment promotion",
+      "source_uri": "http://eurovoc.europa.eu/2805"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2805",
+      "language": "fr",
+      "label": "promotion des investissements",
+      "source_uri": "http://eurovoc.europa.eu/2805"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3638",
+      "language": "en",
+      "label": "clean technology",
+      "source_uri": "http://eurovoc.europa.eu/3638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3638",
+      "language": "fr",
+      "label": "technologie propre",
+      "source_uri": "http://eurovoc.europa.eu/3638"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3797",
+      "language": "en",
+      "label": "biotechnology",
+      "source_uri": "http://eurovoc.europa.eu/3797"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3797",
+      "language": "fr",
+      "label": "biotechnologie",
+      "source_uri": "http://eurovoc.europa.eu/3797"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/429",
+      "language": "en",
+      "label": "industrial development",
+      "source_uri": "http://eurovoc.europa.eu/429"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/429",
+      "language": "fr",
+      "label": "d\u00E9veloppement industriel",
+      "source_uri": "http://eurovoc.europa.eu/429"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/45",
+      "language": "en",
+      "label": "competitiveness",
+      "source_uri": "http://eurovoc.europa.eu/45"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/45",
+      "language": "fr",
+      "label": "comp\u00E9titivit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/45"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_658ff033",
+      "language": "en",
+      "label": "digital transformation",
+      "source_uri": "http://eurovoc.europa.eu/c_658ff033"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_658ff033",
+      "language": "fr",
+      "label": "transformation num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/c_658ff033"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_749f2ce9",
+      "language": "en",
+      "label": "green economy",
+      "source_uri": "http://eurovoc.europa.eu/c_749f2ce9"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_749f2ce9",
+      "language": "fr",
+      "label": "\u00E9conomie verte",
+      "source_uri": "http://eurovoc.europa.eu/c_749f2ce9"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "02f717fa4baa4c8331ab26a3999a5af2a84b496c058cd93a28827568a0e7c019"
 }

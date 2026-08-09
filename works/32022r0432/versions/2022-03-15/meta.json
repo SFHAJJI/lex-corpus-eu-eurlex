@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,179 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "5746e5f3b3ce65a8f35b121941ce985d1f5125df676d604a18fd96f2f57d099b"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020",
+      "language": "en",
+      "label": "Excise duties",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020",
+      "language": "fr",
+      "label": "Droit d\u0027accise",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1015",
+      "language": "en",
+      "label": "excise duty",
+      "source_uri": "http://eurovoc.europa.eu/1015"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1015",
+      "language": "fr",
+      "label": "accise",
+      "source_uri": "http://eurovoc.europa.eu/1015"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2200",
+      "language": "en",
+      "label": "NATO countries",
+      "source_uri": "http://eurovoc.europa.eu/2200"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2200",
+      "language": "fr",
+      "label": "pays de l\u0027OTAN",
+      "source_uri": "http://eurovoc.europa.eu/2200"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2628",
+      "language": "en",
+      "label": "armed forces",
+      "source_uri": "http://eurovoc.europa.eu/2628"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2628",
+      "language": "fr",
+      "label": "arm\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2628"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "en",
+      "label": "European Commission",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4038",
+      "language": "fr",
+      "label": "Commission europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/4038"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "en",
+      "label": "EU office or agency",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "fr",
+      "label": "organisme de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6709",
+      "language": "en",
+      "label": "common security and defence policy",
+      "source_uri": "http://eurovoc.europa.eu/6709"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6709",
+      "language": "fr",
+      "label": "politique de s\u00E9curit\u00E9 et de d\u00E9fense commune",
+      "source_uri": "http://eurovoc.europa.eu/6709"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/837",
+      "language": "en",
+      "label": "epidemic",
+      "source_uri": "http://eurovoc.europa.eu/837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/837",
+      "language": "fr",
+      "label": "\u00E9pid\u00E9mie",
+      "source_uri": "http://eurovoc.europa.eu/837"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "en",
+      "label": "tax exemption",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exon\u00E9ration fiscale",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_814bb9e4",
+      "language": "en",
+      "label": "coronavirus disease",
+      "source_uri": "http://eurovoc.europa.eu/c_814bb9e4"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_814bb9e4",
+      "language": "fr",
+      "label": "maladie \u00E0 coronavirus",
+      "source_uri": "http://eurovoc.europa.eu/c_814bb9e4"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "implementing"
+  ],
+  "record_sha256": "7cde2fc82c8788d1a837bbc0b1098904ad1405c7d3bca8d6aa9ccb12dc149e53"
 }

@@ -11,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -104,5 +110,165 @@
     "domains": "wave-1-existing-instruments",
     "scope_reasons": "domain:wave-1-existing-instruments:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "f392f67e8ee825c74fcbaba9fb89f5ce106df325e89bd3e1d1dab38343c74fd7"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074020",
+      "language": "en",
+      "label": "Market operation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074020",
+      "language": "fr",
+      "label": "Fonctionnement du march\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074030",
+      "language": "en",
+      "label": "Air safety",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074030",
+      "language": "fr",
+      "label": "S\u00E9curit\u00E9 a\u00E9rienne",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/074030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/195",
+      "language": "en",
+      "label": "airport",
+      "source_uri": "http://eurovoc.europa.eu/195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/195",
+      "language": "fr",
+      "label": "a\u00E9roport",
+      "source_uri": "http://eurovoc.europa.eu/195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2039",
+      "language": "en",
+      "label": "air traffic",
+      "source_uri": "http://eurovoc.europa.eu/2039"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2039",
+      "language": "fr",
+      "label": "circulation a\u00E9rienne",
+      "source_uri": "http://eurovoc.europa.eu/2039"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2352",
+      "language": "en",
+      "label": "crew",
+      "source_uri": "http://eurovoc.europa.eu/2352"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2352",
+      "language": "fr",
+      "label": "personnel navigant",
+      "source_uri": "http://eurovoc.europa.eu/2352"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "environmental protection",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "protection de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4408",
+      "language": "en",
+      "label": "civil aviation",
+      "source_uri": "http://eurovoc.europa.eu/4408"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4408",
+      "language": "fr",
+      "label": "aviation civile",
+      "source_uri": "http://eurovoc.europa.eu/4408"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4438",
+      "language": "en",
+      "label": "aircraft",
+      "source_uri": "http://eurovoc.europa.eu/4438"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4438",
+      "language": "fr",
+      "label": "avion",
+      "source_uri": "http://eurovoc.europa.eu/4438"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "en",
+      "label": "operation of the Institutions",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5640",
+      "language": "fr",
+      "label": "fonctionnement institutionnel",
+      "source_uri": "http://eurovoc.europa.eu/5640"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5887",
+      "language": "en",
+      "label": "air safety",
+      "source_uri": "http://eurovoc.europa.eu/5887"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5887",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 a\u00E9rienne",
+      "source_uri": "http://eurovoc.europa.eu/5887"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7937",
+      "language": "en",
+      "label": "European Aviation Safety Agency",
+      "source_uri": "http://eurovoc.europa.eu/7937"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7937",
+      "language": "fr",
+      "label": "Agence europ\u00E9enne de la s\u00E9curit\u00E9 a\u00E9rienne",
+      "source_uri": "http://eurovoc.europa.eu/7937"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "3305b1bd6825036360163f702adee4023f2f42863e11e494e580c802a26ba5dd"
 }

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,8 @@
     "domains": "tax",
     "scope_reasons": "domain:tax:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "dfa704312f5ae9b6f43b4a99e15743a29004800d76dbc7c7f13e5af9261d054c"
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "79b4eaf0b04a712556f4eee872d95973d86ec3a05eb9a03bd4effa3b18df7889"
 }

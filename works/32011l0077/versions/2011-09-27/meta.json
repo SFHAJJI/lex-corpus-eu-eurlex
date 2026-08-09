@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,122 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,relationship:resource_legal_amends_resource_legal"
   },
-  "record_sha256": "3f16a35dc505c7c7feeda7c7929024fed2db960988c1774d0e47e22f4f7e96e2"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2023",
+      "language": "en",
+      "label": "music",
+      "source_uri": "http://eurovoc.europa.eu/2023"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2023",
+      "language": "fr",
+      "label": "musique",
+      "source_uri": "http://eurovoc.europa.eu/2023"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/283",
+      "language": "en",
+      "label": "artistic creation",
+      "source_uri": "http://eurovoc.europa.eu/283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/283",
+      "language": "fr",
+      "label": "cr\u00E9ation artistique",
+      "source_uri": "http://eurovoc.europa.eu/283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "artistic profession",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "profession artistique",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "record",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "disque",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4105",
+      "language": "en",
+      "label": "literary and artistic property",
+      "source_uri": "http://eurovoc.europa.eu/4105"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4105",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 litt\u00E9raire et artistique",
+      "source_uri": "http://eurovoc.europa.eu/4105"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "en",
+      "label": "copyright",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "fr",
+      "label": "droit d\u0027auteur",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1a7c64b856a7a9bd5b8826dfe903a381d987461e926f7ac9c1e5f3dbb291bf16"
 }

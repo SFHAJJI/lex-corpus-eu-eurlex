@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T19:54:54Z",
       "scope": "version",
       "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
     }
   ],
   "expressions": [
@@ -73,5 +79,165 @@
     "domains": "procurement-and-ip",
     "scope_reasons": "domain:procurement-and-ip:relationship:resource_legal_amends_resource_legal,domain:procurement-and-ip:relationship:resource_legal_based_on_resource_legal,relationship:resource_legal_amends_resource_legal,relationship:resource_legal_based_on_resource_legal"
   },
-  "record_sha256": "e13d81afc4122f5d14587e92313d8dc7b914b1607b154f86cb441d3baacf0bca"
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "en",
+      "label": "supplies contract",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1796",
+      "language": "fr",
+      "label": "march\u00E9 de fournitures",
+      "source_uri": "http://eurovoc.europa.eu/1796"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "en",
+      "label": "works contract",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1798",
+      "language": "fr",
+      "label": "march\u00E9 de travaux",
+      "source_uri": "http://eurovoc.europa.eu/1798"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3428",
+      "language": "en",
+      "label": "transport network",
+      "source_uri": "http://eurovoc.europa.eu/3428"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3428",
+      "language": "fr",
+      "label": "r\u00E9seau de transport",
+      "source_uri": "http://eurovoc.europa.eu/3428"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3663",
+      "language": "en",
+      "label": "designs and models",
+      "source_uri": "http://eurovoc.europa.eu/3663"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3663",
+      "language": "fr",
+      "label": "dessin et mod\u00E8le",
+      "source_uri": "http://eurovoc.europa.eu/3663"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3737",
+      "language": "en",
+      "label": "energy industry",
+      "source_uri": "http://eurovoc.europa.eu/3737"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3737",
+      "language": "fr",
+      "label": "industrie \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/3737"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4133",
+      "language": "en",
+      "label": "postal service",
+      "source_uri": "http://eurovoc.europa.eu/4133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4133",
+      "language": "fr",
+      "label": "service postal",
+      "source_uri": "http://eurovoc.europa.eu/4133"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/476",
+      "language": "en",
+      "label": "water supply",
+      "source_uri": "http://eurovoc.europa.eu/476"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/476",
+      "language": "fr",
+      "label": "distribution de l\u0027eau",
+      "source_uri": "http://eurovoc.europa.eu/476"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "en",
+      "label": "services contract",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5725",
+      "language": "fr",
+      "label": "march\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5725"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_4c7717f3",
+      "language": "en",
+      "label": "public procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_4c7717f3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_4c7717f3",
+      "language": "fr",
+      "label": "march\u00E9 public",
+      "source_uri": "http://eurovoc.europa.eu/c_4c7717f3"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8150867f",
+      "language": "en",
+      "label": "agreement on government procurement",
+      "source_uri": "http://eurovoc.europa.eu/c_8150867f"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_8150867f",
+      "language": "fr",
+      "label": "accord sur les march\u00E9s publics",
+      "source_uri": "http://eurovoc.europa.eu/c_8150867f"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "delegated"
+  ],
+  "record_sha256": "9e30444a030d35edc3cf2ae6d343412d170d122c8c9a69c27b4544fec47f80e8"
 }
