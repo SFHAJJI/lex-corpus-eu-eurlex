@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32020r1783r(02):2024-03-07",
   "work_identifier": "http://publications.europa.eu/resource/celex/32020R1783R(02)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "REG",
   "valid_from": "2024-03-07",
   "valid_time_source": "publisher",
   "publication_date": "2024-03-07",
@@ -38,6 +38,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-10T03:05:11Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-11T03:02:27Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -89,7 +95,7 @@
   "relations": [],
   "raw": {
     "celex": "32020R1783R(02)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "REG",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
@@ -185,5 +191,5 @@
   "document_roles": [
     "corrigendum"
   ],
-  "record_sha256": "0bc5cc72676fbc864c364423767562da6d1f592fd1404a5d3fb1b54f6b2b189a"
+  "record_sha256": "79cad1c77d15a9b1bc70cdc532b1c147343507598a90924688bbfd61b89c8593"
 }
