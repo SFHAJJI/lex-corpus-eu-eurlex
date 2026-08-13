@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32013r0575r(08):2025-11-27",
   "work_identifier": "http://publications.europa.eu/resource/celex/32013R0575R(08)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "REG",
   "valid_from": "2025-11-27",
   "valid_time_source": "publisher",
   "publication_date": "2025-11-27",
@@ -50,6 +50,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-11T07:12:45Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-13T12:19:07Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -101,7 +107,7 @@
   "relations": [],
   "raw": {
     "celex": "32013R0575R(08)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "REG",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
@@ -225,5 +231,5 @@
   "document_roles": [
     "corrigendum"
   ],
-  "record_sha256": "0801b0f542b9c3cbf7ab3d992636aa8cfa9e4f3e07b98bb7519f6677389f33cd"
+  "record_sha256": "c235fba83a3f0334a3d41ed1a6aec5157a273829fd33695870b5594cbc927879"
 }
