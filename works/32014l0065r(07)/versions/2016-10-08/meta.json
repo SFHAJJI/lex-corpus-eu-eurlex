@@ -2,7 +2,7 @@
   "lex_id": "eu-eurlex:32014l0065r(07):2016-10-08",
   "work_identifier": "http://publications.europa.eu/resource/celex/32014L0065R(07)",
   "publisher": "eu-eurlex",
-  "document_type": "DIR",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2016-10-08",
   "valid_time_source": "publisher",
   "publication_date": "2016-10-08",
@@ -38,6 +38,12 @@
     {
       "event": "metadata_revised",
       "observed_from": "2026-08-11T07:12:45Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-13T07:20:50Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
     }
@@ -89,7 +95,7 @@
   "relations": [],
   "raw": {
     "celex": "32014L0065R(07)",
-    "legal_form": "DIR",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression",
@@ -185,5 +191,5 @@
   "document_roles": [
     "corrigendum"
   ],
-  "record_sha256": "567d180b199cc7719d55b478ebab9b05af795aa12ba73f7bd9324a8e49634be3"
+  "record_sha256": "f476bfe9d58c4a59f8179bedcbd40866c780f9ef9db93684dc98ac5ff592780e"
 }
