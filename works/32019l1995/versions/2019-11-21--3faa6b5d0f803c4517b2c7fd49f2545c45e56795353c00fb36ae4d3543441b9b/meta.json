@@ -1,0 +1,649 @@
+{
+  "lex_id": "eu-eurlex:32019l1995:2019-11-21--3faa6b5d0f803c4517b2c7fd49f2545c45e56795353c00fb36ae4d3543441b9b",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32019L1995",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L1995",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2019-11-21",
+  "valid_to": "2020-08-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2019-11-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2019-11-21",
+      "valid_to": "2020-08-17",
+      "valid_time_source": "publisher",
+      "title": "Council Directive (EU) 2019/1995 of 21 November 2019 amending Directive 2006/112/EC as regards provisions relating to distance sales of goods and certain domestic supplies of goods",
+      "title_short": "Council Directive (EU) 2019/1995 of 21 November 2019 amending Directive 2006/112/EC as reg\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1995",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "86941e83dea1294ffd80bc03dfed52c941314a08216208aa6c11fe100a0bb810",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1995",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1995"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2019-11-21",
+      "valid_to": "2020-08-17",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/1995 du Conseil du 21 novembre 2019 modifiant la directive 2006/112/CE en ce qui concerne les dispositions relatives aux ventes \u00E0 distance de biens et \u00E0 certaines livraisons int\u00E9rieures de biens",
+      "title_short": "Directive (UE) 2019/1995 du Conseil du 21 novembre 2019 modifiant la directive 2006/112/CE\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1995",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d1f7c83cbc34880b49888ec9a7ae609e4816fec578b416b5be3fe126c5325365",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1995",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1995"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32019L1995",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/170",
+      "language": "en",
+      "label": "taxpayer",
+      "source_uri": "http://eurovoc.europa.eu/170"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/170",
+      "language": "fr",
+      "label": "contribuable",
+      "source_uri": "http://eurovoc.europa.eu/170"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "en",
+      "label": "third country",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "fr",
+      "label": "pays tiers",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "en",
+      "label": "import (EU)",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "fr",
+      "label": "importation (UE)",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "en",
+      "label": "goods and services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "fr",
+      "label": "biens et services",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "en",
+      "label": "tax collection",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "fr",
+      "label": "collecte de l\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "electronic commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/871",
+      "language": "en",
+      "label": "establishment",
+      "source_uri": "http://eurovoc.europa.eu/871"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/871",
+      "language": "fr",
+      "label": "\u00E9tablissement",
+      "source_uri": "http://eurovoc.europa.eu/871"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "en",
+      "label": "tax exemption",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exon\u00E9ration fiscale",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "en",
+      "label": "Community import",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3191",
+      "language": "fr",
+      "label": "importation communautaire",
+      "source_uri": "http://eurovoc.europa.eu/3191"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3193",
+      "language": "fr",
+      "label": "bien \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/3193"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "turnover tax",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "value added tax",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "taxe sur la valeur ajout\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "taxe sur le chiffre d\u0027affaires",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "en",
+      "label": "tax revenue",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "fr",
+      "label": "perception de l\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "fr",
+      "label": "recette fiscale",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6029",
+      "language": "fr",
+      "label": "recouvrement de l\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/6029"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "Internet commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "cybercommerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "e-commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "online commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "en",
+      "label": "virtual commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce en ligne",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce sur Internet",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "commerce virtuel",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "cybercommerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6089",
+      "language": "fr",
+      "label": "e-commerce",
+      "source_uri": "http://eurovoc.europa.eu/6089"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exemption fiscale",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/935",
+      "language": "fr",
+      "label": "exon\u00E9ration d\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/935"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "en",
+      "label": "tax system",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "fr",
+      "label": "fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1309",
+      "language": "en",
+      "label": "import",
+      "source_uri": "http://eurovoc.europa.eu/1309"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1309",
+      "language": "fr",
+      "label": "importation",
+      "source_uri": "http://eurovoc.europa.eu/1309"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1321",
+      "language": "en",
+      "label": "tax on consumption",
+      "source_uri": "http://eurovoc.europa.eu/1321"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1321",
+      "language": "fr",
+      "label": "imp\u00F4t sur la consommation",
+      "source_uri": "http://eurovoc.europa.eu/1321"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2504",
+      "language": "en",
+      "label": "fiscal policy",
+      "source_uri": "http://eurovoc.europa.eu/2504"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2504",
+      "language": "fr",
+      "label": "politique fiscale",
+      "source_uri": "http://eurovoc.europa.eu/2504"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "en",
+      "label": "cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "fr",
+      "label": "politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4300",
+      "language": "en",
+      "label": "company structure",
+      "source_uri": "http://eurovoc.europa.eu/4300"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4300",
+      "language": "fr",
+      "label": "structure de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/4300"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4673",
+      "language": "en",
+      "label": "distance selling",
+      "source_uri": "http://eurovoc.europa.eu/4673"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4673",
+      "language": "fr",
+      "label": "vente \u00E0 distance",
+      "source_uri": "http://eurovoc.europa.eu/4673"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "en",
+      "label": "08 INTERNATIONAL RELATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "fr",
+      "label": "08 RELATIONS INTERNATIONALES",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "en",
+      "label": "40 BUSINESS AND COMPETITION",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "fr",
+      "label": "40 ENTREPRISE ET CONCURRENCE",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "en",
+      "label": "0811 cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "fr",
+      "label": "0811 politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "en",
+      "label": "2016 trade",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "fr",
+      "label": "2016 \u00E9changes \u00E9conomiques",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "en",
+      "label": "2026 consumption",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "fr",
+      "label": "2026 consommation",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "en",
+      "label": "2031 marketing",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "fr",
+      "label": "2031 commercialisation",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "en",
+      "label": "2446 taxation",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "fr",
+      "label": "2446 fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "en",
+      "label": "4006 business organisation",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "fr",
+      "label": "4006 organisation de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "54fd167c9f164c0b96c79b5ee65a0f0df40ec418411632e74ef23d0260aa19f8"
+}

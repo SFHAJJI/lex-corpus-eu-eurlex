@@ -1,0 +1,516 @@
+{
+  "lex_id": "eu-eurlex:32014l0107:2014-12-09--59d92cda84d9f2c044b023c335d044607f3c0c6d123488cd6040e8743334c85f",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32014L0107",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32014L0107",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2014-12-09",
+  "valid_to": "2014-12-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2014-12-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2014-12-09",
+      "valid_to": "2014-12-15",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2014/107/EU of 9 December 2014 amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation",
+      "title_short": "Council Directive 2014/107/EU of 9 December 2014 amending Directive 2011/16/EU as regards \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0107",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "875c183f4cd0d80a3ff40f8e94d6d1e40c861443f3539320004ae288fad966cf",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0107",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0107"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2014-12-09",
+      "valid_to": "2014-12-15",
+      "valid_time_source": "publisher",
+      "title": "Directive 2014/107/UE du Conseil du 9 d\u00E9cembre 2014 modifiant la directive 2011/16/UE en ce qui concerne l\u0027\u00E9change automatique et obligatoire d\u0027informations dans le domaine fiscal",
+      "title_short": "Directive 2014/107/UE du Conseil du 9 d\u00E9cembre 2014 modifiant la directive 2011/16/UE en c\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0107",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e2017b6bdc572af3a6c9ed9a82bc993b83efcceebe056924fdc888243590edde",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0107",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0107"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32014L0107",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "en",
+      "label": "Prevention of tax evasion and avoidance",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950",
+      "language": "fr",
+      "label": "Lutte contre l\u0027\u00E9vasion et la fraude fiscales",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0950"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "en",
+      "label": "fraud",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "fr",
+      "label": "fraude",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1095",
+      "language": "en",
+      "label": "tax evasion",
+      "source_uri": "http://eurovoc.europa.eu/1095"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1095",
+      "language": "fr",
+      "label": "fraude fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1095"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3262",
+      "language": "en",
+      "label": "tax inspection",
+      "source_uri": "http://eurovoc.europa.eu/3262"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3262",
+      "language": "fr",
+      "label": "contr\u00F4le fiscal",
+      "source_uri": "http://eurovoc.europa.eu/3262"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6342",
+      "language": "en",
+      "label": "European tax cooperation",
+      "source_uri": "http://eurovoc.europa.eu/6342"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6342",
+      "language": "fr",
+      "label": "coop\u00E9ration fiscale europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/6342"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "en",
+      "label": "tax avoidance",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "fr",
+      "label": "\u00E9vasion fiscale",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "en",
+      "label": "elimination of fraud",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "en",
+      "label": "fight against fraud",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "en",
+      "label": "fraud prevention",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "fr",
+      "label": "lutte contre la fraude",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "fr",
+      "label": "pr\u00E9vention des fraudes",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1092",
+      "language": "fr",
+      "label": "r\u00E9pression des fraudes",
+      "source_uri": "http://eurovoc.europa.eu/1092"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "automatic information system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "en",
+      "label": "on-line system",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me d\u0027information automatis\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4359",
+      "language": "fr",
+      "label": "syst\u00E8me en ligne",
+      "source_uri": "http://eurovoc.europa.eu/4359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information exchange",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information transfer",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "transfert d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "en",
+      "label": "tax haven",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "fr",
+      "label": "lutte contre l\u0027\u00E9vasion fiscale",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/924",
+      "language": "fr",
+      "label": "paradis fiscal",
+      "source_uri": "http://eurovoc.europa.eu/924"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "en",
+      "label": "tax system",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1021",
+      "language": "fr",
+      "label": "fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1021"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "en",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "fr",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2504",
+      "language": "en",
+      "label": "fiscal policy",
+      "source_uri": "http://eurovoc.europa.eu/2504"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2504",
+      "language": "fr",
+      "label": "politique fiscale",
+      "source_uri": "http://eurovoc.europa.eu/2504"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3944",
+      "language": "en",
+      "label": "crime against property",
+      "source_uri": "http://eurovoc.europa.eu/3944"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3944",
+      "language": "fr",
+      "label": "crime contre les biens",
+      "source_uri": "http://eurovoc.europa.eu/3944"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3951",
+      "language": "en",
+      "label": "tax offence",
+      "source_uri": "http://eurovoc.europa.eu/3951"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3951",
+      "language": "fr",
+      "label": "d\u00E9lit fiscal",
+      "source_uri": "http://eurovoc.europa.eu/3951"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "en",
+      "label": "data transmission",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "fr",
+      "label": "transmission de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "en",
+      "label": "12 LAW",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "fr",
+      "label": "12 DROIT",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100180",
+      "language": "en",
+      "label": "1216 criminal law",
+      "source_uri": "http://eurovoc.europa.eu/100180"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100180",
+      "language": "fr",
+      "label": "1216 droit p\u00E9nal",
+      "source_uri": "http://eurovoc.europa.eu/100180"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "en",
+      "label": "2446 taxation",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "fr",
+      "label": "2446 fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "en",
+      "label": "3226 communications",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "fr",
+      "label": "3226 communication",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "en",
+      "label": "3231 information and information processing",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "fr",
+      "label": "3231 information et traitement de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "411f3e9e51422fbaae31a60c581003dd226eea5fb624101af428388709bf0291"
+}

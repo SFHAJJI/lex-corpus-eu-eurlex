@@ -1,0 +1,789 @@
+{
+  "lex_id": "eu-eurlex:32022l2041:2022-10-19--757b7770f5b2cba7df146c1e793fcb7f043683a4a8bdc8ad2248a76706f673c9",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32022L2041",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32022L2041",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2022-10-19",
+  "valid_to": "2022-10-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2022-10-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "field=valid_to;new=2022-10-24"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:en:2022-10-19",
+      "detail": "field=valid_to;new=2022-10-24"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:fr:2022-10-19",
+      "detail": "field=valid_to;new=2022-10-24"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2022-10-19",
+      "valid_to": "2022-10-24",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2022/2041 of the European Parliament and of the Council of 19\u00A0October 2022 on adequate minimum wages in the European Union",
+      "title_short": "Directive (EU) 2022/2041",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2041",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "98753837a060e4d25f20612d90284d2cfe0ae0ef64ed18f3ef6142042dbe454f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2041",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2041"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2022-10-19",
+      "valid_to": "2022-10-24",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2022/2041 du Parlement europ\u00E9en et du Conseil du 19\u00A0octobre 2022 relative \u00E0 des salaires minimaux ad\u00E9quats dans l\u2019Union europ\u00E9enne",
+      "title_short": "Directive (UE) 2022/2041 du Parlement europ\u00E9en et du Conseil du 19\u00A0octobre 2022 relative \u00E0\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2041",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d3c8e9f320b939ee6143c01dfd4f4c5c2418f85ed2b927f5dbe853861066733a",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2041",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2041"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32022L2041",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "en",
+      "label": "Wages, income and working hours",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020",
+      "language": "fr",
+      "label": "Salaires, revenus et dur\u00E9e du travail",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/05202020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "wage determination",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "fr",
+      "label": "fixation du salaire",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "en",
+      "label": "collective agreement",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "fr",
+      "label": "convention collective",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2046",
+      "language": "en",
+      "label": "collective bargaining",
+      "source_uri": "http://eurovoc.europa.eu/2046"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2046",
+      "language": "fr",
+      "label": "n\u00E9gociation collective",
+      "source_uri": "http://eurovoc.europa.eu/2046"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2062",
+      "language": "en",
+      "label": "standard of living",
+      "source_uri": "http://eurovoc.europa.eu/2062"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2062",
+      "language": "fr",
+      "label": "niveau de vie",
+      "source_uri": "http://eurovoc.europa.eu/2062"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "EU employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique de l\u0027emploi de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "en",
+      "label": "minimum pay",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "fr",
+      "label": "salaire minimal",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "en",
+      "label": "working conditions",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/82",
+      "language": "fr",
+      "label": "condition de travail",
+      "source_uri": "http://eurovoc.europa.eu/82"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "en",
+      "label": "living conditions",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "condition de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "adjustment to remuneration",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "fixing of pay",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "wage adjustment",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "wage fixing",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "en",
+      "label": "wage rate",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "fr",
+      "label": "adaptation des r\u00E9mun\u00E9rations",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "fr",
+      "label": "adaptation des salaires",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1026",
+      "language": "fr",
+      "label": "taux de salaire",
+      "source_uri": "http://eurovoc.europa.eu/1026"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "en",
+      "label": "industry-wide collective agreement",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/194",
+      "language": "fr",
+      "label": "accord collectif",
+      "source_uri": "http://eurovoc.europa.eu/194"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "Community employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "en",
+      "label": "European Union employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique communautaire de l\u0027emploi",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2454",
+      "language": "fr",
+      "label": "politique de l\u0027emploi de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/2454"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "en",
+      "label": "guaranteed wage",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "en",
+      "label": "minimum wage",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "fr",
+      "label": "SMIC",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "fr",
+      "label": "salaire garanti",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "fr",
+      "label": "salaire minimum",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3850",
+      "language": "fr",
+      "label": "salaire minimum interprofessionnel de croissance",
+      "source_uri": "http://eurovoc.europa.eu/3850"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EC country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "European Community country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "European Union country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays CE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays de la Communaut\u00E9 europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "employment law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour legislation",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "workers\u0027 rights",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droits du travailleur",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "l\u00E9gislation du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "en",
+      "label": "improvement of living conditions",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "en",
+      "label": "lifestyle",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "en",
+      "label": "pace of life",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "en",
+      "label": "way of life",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "am\u00E9lioration des conditions de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "genre de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "mode de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "rythme de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/83",
+      "language": "fr",
+      "label": "style de vie",
+      "source_uri": "http://eurovoc.europa.eu/83"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2468",
+      "language": "en",
+      "label": "employment policy",
+      "source_uri": "http://eurovoc.europa.eu/2468"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2468",
+      "language": "fr",
+      "label": "politique de l\u0027emploi",
+      "source_uri": "http://eurovoc.europa.eu/2468"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2491",
+      "language": "en",
+      "label": "pay policy",
+      "source_uri": "http://eurovoc.europa.eu/2491"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2491",
+      "language": "fr",
+      "label": "politique des salaires",
+      "source_uri": "http://eurovoc.europa.eu/2491"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3209",
+      "language": "en",
+      "label": "labour relations",
+      "source_uri": "http://eurovoc.europa.eu/3209"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3209",
+      "language": "fr",
+      "label": "relation du travail",
+      "source_uri": "http://eurovoc.europa.eu/3209"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3659",
+      "language": "en",
+      "label": "income",
+      "source_uri": "http://eurovoc.europa.eu/3659"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3659",
+      "language": "fr",
+      "label": "revenu",
+      "source_uri": "http://eurovoc.europa.eu/3659"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/86",
+      "language": "en",
+      "label": "socioeconomic conditions",
+      "source_uri": "http://eurovoc.europa.eu/86"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/86",
+      "language": "fr",
+      "label": "condition socio-\u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/86"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100146",
+      "language": "en",
+      "label": "16 ECONOMICS",
+      "source_uri": "http://eurovoc.europa.eu/100146"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100146",
+      "language": "fr",
+      "label": "16 \u00C9CONOMIE",
+      "source_uri": "http://eurovoc.europa.eu/100146"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "en",
+      "label": "28 SOCIAL QUESTIONS",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "fr",
+      "label": "28 QUESTIONS SOCIALES",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100153",
+      "language": "en",
+      "label": "44 EMPLOYMENT AND WORKING CONDITIONS",
+      "source_uri": "http://eurovoc.europa.eu/100153"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100153",
+      "language": "fr",
+      "label": "44 EMPLOI ET TRAVAIL",
+      "source_uri": "http://eurovoc.europa.eu/100153"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100161",
+      "language": "en",
+      "label": "72 GEOGRAPHY",
+      "source_uri": "http://eurovoc.europa.eu/100161"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100161",
+      "language": "fr",
+      "label": "72 G\u00C9OGRAPHIE",
+      "source_uri": "http://eurovoc.europa.eu/100161"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100189",
+      "language": "en",
+      "label": "1626 national accounts",
+      "source_uri": "http://eurovoc.europa.eu/100189"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100189",
+      "language": "fr",
+      "label": "1626 comptabilit\u00E9 nationale",
+      "source_uri": "http://eurovoc.europa.eu/100189"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100211",
+      "language": "en",
+      "label": "2821 social framework",
+      "source_uri": "http://eurovoc.europa.eu/100211"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100211",
+      "language": "fr",
+      "label": "2821 cadre social",
+      "source_uri": "http://eurovoc.europa.eu/100211"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100232",
+      "language": "en",
+      "label": "4406 employment",
+      "source_uri": "http://eurovoc.europa.eu/100232"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100232",
+      "language": "fr",
+      "label": "4406 emploi",
+      "source_uri": "http://eurovoc.europa.eu/100232"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100234",
+      "language": "en",
+      "label": "4416 organisation of work and working conditions",
+      "source_uri": "http://eurovoc.europa.eu/100234"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100234",
+      "language": "fr",
+      "label": "4416 conditions et organisation du travail",
+      "source_uri": "http://eurovoc.europa.eu/100234"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100235",
+      "language": "en",
+      "label": "4421 personnel management and staff remuneration",
+      "source_uri": "http://eurovoc.europa.eu/100235"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100235",
+      "language": "fr",
+      "label": "4421 administration et r\u00E9mun\u00E9ration du personnel",
+      "source_uri": "http://eurovoc.europa.eu/100235"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100236",
+      "language": "en",
+      "label": "4426 labour law and labour relations",
+      "source_uri": "http://eurovoc.europa.eu/100236"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100236",
+      "language": "fr",
+      "label": "4426 relation et droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/100236"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100282",
+      "language": "en",
+      "label": "7231 economic geography",
+      "source_uri": "http://eurovoc.europa.eu/100282"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100282",
+      "language": "fr",
+      "label": "7231 g\u00E9ographie \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/100282"
+    }
+  ],
+  "record_sha256": "1c097e88cadfbdc0141f80ed23e03f97a571b351c86d841969c178c91100f05c"
+}

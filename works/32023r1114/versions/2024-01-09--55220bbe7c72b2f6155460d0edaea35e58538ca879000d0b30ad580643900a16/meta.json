@@ -1,0 +1,864 @@
+{
+  "lex_id": "eu-eurlex:32023r1114:2024-01-09--55220bbe7c72b2f6155460d0edaea35e58538ca879000d0b30ad580643900a16",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/02023R1114-20240109",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32023R1114",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2024-01-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-01-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T03:28:03Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T16:31:02Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status,raw.consolidation_status,raw.domains,raw.hierarchy,raw.legal_form,raw.scope_reasons"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "fr",
+      "detail": "language=fr"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2024-01-09",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31\u00A0May 2023 on markets in crypto-assets, and amending Regulations (EU) No\u00A01093/2010 and (EU) No\u00A01095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (Text with EEA relevance)",
+      "title_short": "Regulation (EU) 2023/1114",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R1114-20240109",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "078da6ed766fe117be60ff63536f25101ec21f2dec175394eef7bf82c02ffe19",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R1114-20240109",
+          "retrieved_at": "2026-08-06T03:28:03Z",
+          "observed_from": "2026-08-06T03:28:03Z"
+        },
+        {
+          "file": "en.fmx4/CL2023R1114EN0010030.0001.doc.xml",
+          "sha256": "dc472bab7e1d3b01538ef11cc2f66b995a605200c0878bfa7d09bc400527157f",
+          "source_uri": "https://publications.europa.eu/resource/cellar/92d9c8a8-b47a-11ee-b164-01aa75ed71a1.0006.01/zip",
+          "retrieved_at": "2026-08-06T03:28:03Z",
+          "observed_from": "2026-08-06T03:28:03Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "en.fmx4/CL2023R1114EN0010030.0001.xml",
+          "sha256": "c3622782e76f8fe4612909a9b77a071ca8a34af9912881f739900d1cbfeac145",
+          "source_uri": "https://publications.europa.eu/resource/cellar/92d9c8a8-b47a-11ee-b164-01aa75ed71a1.0006.01/zip",
+          "retrieved_at": "2026-08-06T03:28:03Z",
+          "observed_from": "2026-08-06T03:28:03Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R1114-20240109"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2024-01-09",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2023/1114 du Parlement europ\u00E9en et du Conseil du 31\u00A0mai 2023 sur les march\u00E9s de crypto-actifs, et modifiant les r\u00E8glements (UE) no\u00A01093/2010 et (UE) no\u00A01095/2010 et les directives 2013/36/UE et (UE) 2019/1937 (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement (UE) 2023/1114 du Parlement europ\u00E9en et du Conseil du 31\u00A0mai 2023 sur les march\u00E9\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02023R1114-20240109",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "2c25299826a85ec42e4c0e82b9cd55b40e5bd3c4c7d9e3e2ccf3d63ed36815db",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02023R1114-20240109",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        },
+        {
+          "file": "fr.fmx4/CL2023R1114FR0010030.0001.doc.xml",
+          "sha256": "cd53b09be2a7d2a26d5aeab2957aa95e1d61e26b46667f90cddc5f437ad4c700",
+          "source_uri": "https://publications.europa.eu/resource/cellar/92d9c8a8-b47a-11ee-b164-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2023R1114FR0010030.0001.xml",
+          "sha256": "f108458c868d242ad6ab5a6330253c3a707b15dddd8e0caafe6b56bda20c400d",
+          "source_uri": "https://publications.europa.eu/resource/cellar/92d9c8a8-b47a-11ee-b164-01aa75ed71a1.0010.01/zip",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02023R1114-20240109"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32023R1114"
+    }
+  ],
+  "raw": {
+    "celex": "02023R1114-20240109",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "en",
+      "label": "Free movement of capital",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040",
+      "language": "fr",
+      "label": "Libre circulation des capitaux",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1040"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "electronic money",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "monnaie \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market supervision",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "fr",
+      "label": "surveillance du march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/729",
+      "language": "en",
+      "label": "issuing of currency",
+      "source_uri": "http://eurovoc.europa.eu/729"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/729",
+      "language": "fr",
+      "label": "\u00E9mission mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/729"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "virtual currency",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "monnaie virtuelle",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_ab84e157",
+      "language": "en",
+      "label": "blockchain",
+      "source_uri": "http://eurovoc.europa.eu/c_ab84e157"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_ab84e157",
+      "language": "fr",
+      "label": "cha\u00EEne de blocs",
+      "source_uri": "http://eurovoc.europa.eu/c_ab84e157"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "auto-bank card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "cash card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "charge card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "credit card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "debit card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "defered debit card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "delayed debit card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "e-money",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "e-money payment",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "electronic purse",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "multiservices card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "en",
+      "label": "payment card",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "argent \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "carte accr\u00E9ditive",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "carte bancaire",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "carte de cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "carte de paiement",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "carte multiservices",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "carte \u00E0 d\u00E9bit diff\u00E9r\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "mon\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "paiement en monnaie \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "paiement \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1971",
+      "language": "fr",
+      "label": "porte-monnaie \u00E9lectronique",
+      "source_uri": "http://eurovoc.europa.eu/1971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer policy action plan",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumerism",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumers\u0027 rights",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "consommatisme",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "consumeurisme",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "droits du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "d\u00E9fense du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "plan d\u0027action en faveur des consommateurs",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4347",
+      "language": "en",
+      "label": "market surveillance",
+      "source_uri": "http://eurovoc.europa.eu/4347"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "transaction regulations",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "droit financier",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "l\u00E9gislation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation des transactions",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/729",
+      "language": "fr",
+      "label": "\u00E9mission de monnaie",
+      "source_uri": "http://eurovoc.europa.eu/729"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "VC",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "VCS",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "bitcoin",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "cryptocurrency",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "cyber currency",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "en",
+      "label": "virtual currency scheme",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "MV",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "SMV",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "bitcoin",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "crypto-monnaie",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "cyber-monnaie",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_2ffe4574",
+      "language": "fr",
+      "label": "syst\u00E8me de monnaie virtuelle",
+      "source_uri": "http://eurovoc.europa.eu/c_2ffe4574"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_ab84e157",
+      "language": "fr",
+      "label": "blockchain",
+      "source_uri": "http://eurovoc.europa.eu/c_ab84e157"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "en",
+      "label": "consumer",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "fr",
+      "label": "consommateur",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1486",
+      "language": "en",
+      "label": "market intervention",
+      "source_uri": "http://eurovoc.europa.eu/1486"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1486",
+      "language": "fr",
+      "label": "intervention sur le march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/1486"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1630",
+      "language": "en",
+      "label": "free movement of capital",
+      "source_uri": "http://eurovoc.europa.eu/1630"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1630",
+      "language": "fr",
+      "label": "libre circulation des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/1630"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1969",
+      "language": "en",
+      "label": "money",
+      "source_uri": "http://eurovoc.europa.eu/1969"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1969",
+      "language": "fr",
+      "label": "monnaie",
+      "source_uri": "http://eurovoc.europa.eu/1969"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1975",
+      "language": "en",
+      "label": "deposit money",
+      "source_uri": "http://eurovoc.europa.eu/1975"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1975",
+      "language": "fr",
+      "label": "monnaie scripturale",
+      "source_uri": "http://eurovoc.europa.eu/1975"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2510",
+      "language": "en",
+      "label": "monetary policy",
+      "source_uri": "http://eurovoc.europa.eu/2510"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2510",
+      "language": "fr",
+      "label": "politique mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/2510"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5268",
+      "language": "en",
+      "label": "commercial transaction",
+      "source_uri": "http://eurovoc.europa.eu/5268"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5268",
+      "language": "fr",
+      "label": "acte de commerce",
+      "source_uri": "http://eurovoc.europa.eu/5268"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "en",
+      "label": "digital technology",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "fr",
+      "label": "technologie num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "en",
+      "label": "64 PRODUCTION, TECHNOLOGY AND RESEARCH",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "fr",
+      "label": "64 PRODUCTION, TECHNOLOGIE ET RECHERCHE",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100191",
+      "language": "en",
+      "label": "2006 trade policy",
+      "source_uri": "http://eurovoc.europa.eu/100191"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100191",
+      "language": "fr",
+      "label": "2006 politique commerciale",
+      "source_uri": "http://eurovoc.europa.eu/100191"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "en",
+      "label": "2026 consumption",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "fr",
+      "label": "2026 consommation",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "en",
+      "label": "2031 marketing",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "fr",
+      "label": "2031 commercialisation",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100199",
+      "language": "en",
+      "label": "2411 monetary economics",
+      "source_uri": "http://eurovoc.europa.eu/100199"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100199",
+      "language": "fr",
+      "label": "2411 \u00E9conomie mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/100199"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100201",
+      "language": "en",
+      "label": "2421 free movement of capital",
+      "source_uri": "http://eurovoc.europa.eu/100201"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100201",
+      "language": "fr",
+      "label": "2421 libre circulation des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/100201"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100261",
+      "language": "en",
+      "label": "6411 technology and technical regulations",
+      "source_uri": "http://eurovoc.europa.eu/100261"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100261",
+      "language": "fr",
+      "label": "6411 technologie et r\u00E9glementation technique",
+      "source_uri": "http://eurovoc.europa.eu/100261"
+    },
+    {
+      "kind": "publisher_short_title",
+      "identifier": "http://publications.europa.eu/ontology/cdm#expression_title_short",
+      "language": "en",
+      "label": "MiCA, MiCA Regulation",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated"
+  ],
+  "record_sha256": "44dae5b8fdeb350bf440e47a7f53d60fbed0ed8f66cfc342c97d5ebe3bc69b1b"
+}

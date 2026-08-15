@@ -1,0 +1,871 @@
+{
+  "lex_id": "eu-eurlex:32026r0881:2026-04-20--e2d6107af8851fba8a6450a47b50fd0b6a790c847dbc8a6e5eada820042bbdaa",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/02026R0881-20260420",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0881",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_DEL",
+  "valid_from": "2026-04-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2026-04-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-15T04:50:52Z"
+    }
+  ],
+  "expressions": [],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32026R0881"
+    }
+  ],
+  "raw": {
+    "celex": "02026R0881-20260420",
+    "legal_form": "REG_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "software",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "logiciel",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "criminalit\u00E9 informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5234",
+      "language": "en",
+      "label": "safety standard",
+      "source_uri": "http://eurovoc.europa.eu/5234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5234",
+      "language": "fr",
+      "label": "norme de s\u00E9curit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "en",
+      "label": "digital technology",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7219",
+      "language": "fr",
+      "label": "technologie num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/7219"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7938",
+      "language": "en",
+      "label": "European Union Agency for Cybersecurity",
+      "source_uri": "http://eurovoc.europa.eu/7938"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7938",
+      "language": "fr",
+      "label": "Agence de l\u0027Union europ\u00E9enne pour la cybers\u00E9curit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/7938"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "en",
+      "label": "confidentiality",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "fr",
+      "label": "confidentialit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "information security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des syst\u00E8mes d\u2019information",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_7e60137b",
+      "language": "en",
+      "label": "data governance",
+      "source_uri": "http://eurovoc.europa.eu/c_7e60137b"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_7e60137b",
+      "language": "fr",
+      "label": "gouvernance des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/c_7e60137b"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "computer programme",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "computer programming",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "software development",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "software engineering",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "software industry",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "en",
+      "label": "software package",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "d\u00E9veloppement informatique",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "d\u00E9veloppement logiciel",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "g\u00E9nie logiciel",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "industrie du logiciel",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "progiciel",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "programmation informatique",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "programme d\u0027ordinateur",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1696",
+      "language": "fr",
+      "label": "software",
+      "source_uri": "http://eurovoc.europa.eu/1696"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer offence",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "computer-related crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "cyber-vandalism",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "cybercrime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "en",
+      "label": "digital crime",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "crime informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "criminalit\u00E9 num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "cybercriminalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "cybervandalisme",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "d\u00E9lit informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3027",
+      "language": "fr",
+      "label": "fraude informatique",
+      "source_uri": "http://eurovoc.europa.eu/3027"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "Community internal market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "EC internal market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "EU single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur CE",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur communautaire",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information exchange",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information transfer",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "transfert d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7938",
+      "language": "en",
+      "label": "ENISA",
+      "source_uri": "http://eurovoc.europa.eu/7938"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7938",
+      "language": "en",
+      "label": "European Network and Information Security Agency",
+      "source_uri": "http://eurovoc.europa.eu/7938"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7938",
+      "language": "fr",
+      "label": "Agence europ\u00E9enne charg\u00E9e de la s\u00E9curit\u00E9 des r\u00E9seaux et de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/7938"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7938",
+      "language": "fr",
+      "label": "ENISA",
+      "source_uri": "http://eurovoc.europa.eu/7938"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "en",
+      "label": "confidential information",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/92",
+      "language": "fr",
+      "label": "information confidentielle",
+      "source_uri": "http://eurovoc.europa.eu/92"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "Internet safety",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "Internet security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "breach of information security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "cyber-safety",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "cyber-security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "cybersafety",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "cybersecurity",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "digital safety",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "information assurance",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "information security incident",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "infosec",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "en",
+      "label": "network and Internet security",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "assurance de l\u2019information",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "cyber-securit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "cybers\u00E9curit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "infosec",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 internet",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_04ae3ba8",
+      "language": "fr",
+      "label": "vuln\u00E9rabilit\u00E9 des syst\u00E8mes d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/c_04ae3ba8"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_7e60137b",
+      "language": "en",
+      "label": "data management",
+      "source_uri": "http://eurovoc.europa.eu/c_7e60137b"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_7e60137b",
+      "language": "fr",
+      "label": "gestion des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/c_7e60137b"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1405",
+      "language": "en",
+      "label": "information technology industry",
+      "source_uri": "http://eurovoc.europa.eu/1405"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1405",
+      "language": "fr",
+      "label": "industrie informatique",
+      "source_uri": "http://eurovoc.europa.eu/1405"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "en",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "fr",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2077",
+      "language": "en",
+      "label": "standard",
+      "source_uri": "http://eurovoc.europa.eu/2077"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2077",
+      "language": "fr",
+      "label": "norme",
+      "source_uri": "http://eurovoc.europa.eu/2077"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "en",
+      "label": "information policy",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "fr",
+      "label": "politique de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3028",
+      "language": "en",
+      "label": "data-processing law",
+      "source_uri": "http://eurovoc.europa.eu/3028"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3028",
+      "language": "fr",
+      "label": "droit de l\u0027informatique",
+      "source_uri": "http://eurovoc.europa.eu/3028"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4415",
+      "language": "en",
+      "label": "technology",
+      "source_uri": "http://eurovoc.europa.eu/4415"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4415",
+      "language": "fr",
+      "label": "technologie",
+      "source_uri": "http://eurovoc.europa.eu/4415"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5442",
+      "language": "en",
+      "label": "deepening of the European Union",
+      "source_uri": "http://eurovoc.europa.eu/5442"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5442",
+      "language": "fr",
+      "label": "approfondissement de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5442"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "en",
+      "label": "EU office or agency",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "fr",
+      "label": "organisme de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5922",
+      "language": "en",
+      "label": "computer system",
+      "source_uri": "http://eurovoc.europa.eu/5922"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5922",
+      "language": "fr",
+      "label": "syst\u00E8me informatique",
+      "source_uri": "http://eurovoc.europa.eu/5922"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "en",
+      "label": "64 PRODUCTION, TECHNOLOGY AND RESEARCH",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "fr",
+      "label": "64 PRODUCTION, TECHNOLOGIE ET RECHERCHE",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100174",
+      "language": "en",
+      "label": "1006 EU institutions and European civil service",
+      "source_uri": "http://eurovoc.europa.eu/100174"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100174",
+      "language": "fr",
+      "label": "1006 institutions de l\u0027Union europ\u00E9enne et fonction publique europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100174"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "en",
+      "label": "1016 European construction",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "fr",
+      "label": "1016 construction europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "en",
+      "label": "3231 information and information processing",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "fr",
+      "label": "3231 information et traitement de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "en",
+      "label": "3236 information technology and data processing",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "fr",
+      "label": "3236 informatique et traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100261",
+      "language": "en",
+      "label": "6411 technology and technical regulations",
+      "source_uri": "http://eurovoc.europa.eu/100261"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100261",
+      "language": "fr",
+      "label": "6411 technologie et r\u00E9glementation technique",
+      "source_uri": "http://eurovoc.europa.eu/100261"
+    }
+  ],
+  "document_roles": [
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "6fa85f7491ea68666ce1327559793c9db70818fd4c8608dbd86a08f7f7894814"
+}

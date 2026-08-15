@@ -1,0 +1,575 @@
+{
+  "lex_id": "eu-eurlex:32013l0018:2013-05-13--5aedcfca31ac743d571fbdffd405a2686afbcf2cedc279c8e696cb4d73e48760",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32013L0018",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32013L0018",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2013-05-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2013-05-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2013-05-13",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2013/18/EU of 13\u00A0May 2013 adapting Directive 2009/28/EC of the European Parliament and of the Council on the promotion of the use of energy from renewable sources, by reason of the accession of the Republic of Croatia",
+      "title_short": "Council Directive 2013/18/EU of 13\u00A0May 2013 adapting Directive 2009/28/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0018",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "5cdcc97ea176d05f153aa2dcf1d1040b3651e02056b7b0b19ed2b37a89729a7e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0018",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0018"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2013-05-13",
+      "valid_time_source": "publisher",
+      "title": "Directive 2013/18/UE du Conseil du 13\u00A0mai 2013 portant adaptation de la directive 2009/28/CE du Parlement europ\u00E9en et du Conseil relative \u00E0 la promotion de l\u0027utilisation de l\u0027\u00E9nergie produite \u00E0 partir de sources renouvelables, du fait de l\u0027adh\u00E9sion de la R\u00E9publique de Croatie",
+      "title_short": "Directive 2013/18/UE du Conseil du 13\u00A0mai 2013 portant adaptation de la directive 2009/28/\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0018",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "51ba7f6bfcb0f28ba265199d7310750b2608405a723e26f3a0c1d95c5d3876be",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0018",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013L0018"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32013L0018",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260",
+      "language": "en",
+      "label": "Other sources of energy",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260",
+      "language": "fr",
+      "label": "Autres sources d\u0027\u00E9nergie",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1260"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "accession to the European Union",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "adh\u00E9sion \u00E0 l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5563",
+      "language": "en",
+      "label": "Croatia",
+      "source_uri": "http://eurovoc.europa.eu/5563"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5563",
+      "language": "fr",
+      "label": "Croatie",
+      "source_uri": "http://eurovoc.europa.eu/5563"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "EU accession",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "accession to the Community",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "act of accession",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "application for accession",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "consequence of accession",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "en",
+      "label": "request for accession",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "acte d\u0027adh\u00E9sion",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "adh\u00E9sion \u00E0 la Communaut\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "candidature \u00E0 l\u0027adh\u00E9sion",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "cons\u00E9quence de l\u0027adh\u00E9sion",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/12",
+      "language": "fr",
+      "label": "demande d\u0027adh\u00E9sion",
+      "source_uri": "http://eurovoc.europa.eu/12"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "legislative harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "harmonisation des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5563",
+      "language": "en",
+      "label": "Republic of Croatia",
+      "source_uri": "http://eurovoc.europa.eu/5563"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5563",
+      "language": "fr",
+      "label": "R\u00E9publique de Croatie",
+      "source_uri": "http://eurovoc.europa.eu/5563"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "low-carbon energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "non-renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy source",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "source d\u0027\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie non renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/122",
+      "language": "en",
+      "label": "Council of Europe countries",
+      "source_uri": "http://eurovoc.europa.eu/122"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/122",
+      "language": "fr",
+      "label": "pays du Conseil de l\u0027Europe",
+      "source_uri": "http://eurovoc.europa.eu/122"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2200",
+      "language": "en",
+      "label": "NATO countries",
+      "source_uri": "http://eurovoc.europa.eu/2200"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2200",
+      "language": "fr",
+      "label": "pays de l\u0027OTAN",
+      "source_uri": "http://eurovoc.europa.eu/2200"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/35615",
+      "language": "en",
+      "label": "euro area countries",
+      "source_uri": "http://eurovoc.europa.eu/35615"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/35615",
+      "language": "fr",
+      "label": "pays de la zone euro",
+      "source_uri": "http://eurovoc.europa.eu/35615"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4057",
+      "language": "en",
+      "label": "enlargement of the Union",
+      "source_uri": "http://eurovoc.europa.eu/4057"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4057",
+      "language": "fr",
+      "label": "\u00E9largissement de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/4057"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4690",
+      "language": "en",
+      "label": "Western Balkans",
+      "source_uri": "http://eurovoc.europa.eu/4690"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4690",
+      "language": "fr",
+      "label": "Balkans occidentaux",
+      "source_uri": "http://eurovoc.europa.eu/4690"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "en",
+      "label": "EU law",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "fr",
+      "label": "droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5781",
+      "language": "en",
+      "label": "Central and Eastern European countries",
+      "source_uri": "http://eurovoc.europa.eu/5781"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5781",
+      "language": "fr",
+      "label": "pays d\u2019Europe centrale et orientale",
+      "source_uri": "http://eurovoc.europa.eu/5781"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/744",
+      "language": "en",
+      "label": "soft energy",
+      "source_uri": "http://eurovoc.europa.eu/744"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/744",
+      "language": "fr",
+      "label": "\u00E9nergie douce",
+      "source_uri": "http://eurovoc.europa.eu/744"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/914",
+      "language": "en",
+      "label": "Central and Eastern Europe",
+      "source_uri": "http://eurovoc.europa.eu/914"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/914",
+      "language": "fr",
+      "label": "Europe centrale et orientale",
+      "source_uri": "http://eurovoc.europa.eu/914"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100161",
+      "language": "en",
+      "label": "72 GEOGRAPHY",
+      "source_uri": "http://eurovoc.europa.eu/100161"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100161",
+      "language": "fr",
+      "label": "72 G\u00C9OGRAPHIE",
+      "source_uri": "http://eurovoc.europa.eu/100161"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "en",
+      "label": "1011 European Union law",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "fr",
+      "label": "1011 droit de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "en",
+      "label": "1016 European construction",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "fr",
+      "label": "1016 construction europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100267",
+      "language": "en",
+      "label": "6626 soft energy",
+      "source_uri": "http://eurovoc.europa.eu/100267"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100267",
+      "language": "fr",
+      "label": "6626 \u00E9nergie douce",
+      "source_uri": "http://eurovoc.europa.eu/100267"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100277",
+      "language": "en",
+      "label": "7206 Europe",
+      "source_uri": "http://eurovoc.europa.eu/100277"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100277",
+      "language": "fr",
+      "label": "7206 Europe",
+      "source_uri": "http://eurovoc.europa.eu/100277"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100282",
+      "language": "en",
+      "label": "7231 economic geography",
+      "source_uri": "http://eurovoc.europa.eu/100282"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100282",
+      "language": "fr",
+      "label": "7231 g\u00E9ographie \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/100282"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100283",
+      "language": "en",
+      "label": "7236 political geography",
+      "source_uri": "http://eurovoc.europa.eu/100283"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100283",
+      "language": "fr",
+      "label": "7236 g\u00E9ographie politique",
+      "source_uri": "http://eurovoc.europa.eu/100283"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "9a127175865ba5c2ed23305f7505bf0c9c602bff52b708a51068ed283119207e"
+}

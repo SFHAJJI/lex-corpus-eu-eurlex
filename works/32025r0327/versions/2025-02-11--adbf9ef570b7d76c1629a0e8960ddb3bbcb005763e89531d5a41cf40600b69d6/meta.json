@@ -1,0 +1,729 @@
+{
+  "lex_id": "eu-eurlex:32025r0327:2025-02-11--adbf9ef570b7d76c1629a0e8960ddb3bbcb005763e89531d5a41cf40600b69d6",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32025R0327",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32025R0327",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2025-02-11",
+  "valid_to": "2025-03-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2025-02-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "field=valid_to;new=2025-03-04"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:en:2025-02-11",
+      "detail": "field=valid_to;new=2025-03-04"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:fr:2025-02-11",
+      "detail": "field=valid_to;new=2025-03-04"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2025-02-11",
+      "valid_to": "2025-03-04",
+      "valid_time_source": "publisher",
+      "title": "Regulation (EU) 2025/327 of the European Parliament and of the Council of 11 February 2025 on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847 (Text with EEA relevance)",
+      "title_short": "Regulation (EU) 2025/327",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "bf331ac48264118fb0461f793123a2726da88195a11d4bccb2075fd6326909da",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0327"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2025-02-11",
+      "valid_to": "2025-03-04",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (UE) 2025/327 du Parlement europ\u00E9en et du Conseil du 11 f\u00E9vrier 2025 relatif \u00E0 l\u2019espace europ\u00E9en des donn\u00E9es de sant\u00E9 et modifiant la directive 2011/24/UE et le r\u00E8glement (UE) 2024/2847 (Texte pr\u00E9sentant de l\u2019int\u00E9r\u00EAt pour l\u2019EEE)",
+      "title_short": "R\u00E8glement (UE) 2025/327 du Parlement europ\u00E9en et du Conseil du 11 f\u00E9vrier 2025 relatif \u00E0 l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0327",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aeb85de11998a491030cc28efbc1904b0798e007da26e4de0fb3798dc61a2ac1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0327",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0327"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32025R0327",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "en",
+      "label": "Information technology, telecommunications and data-processing",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060",
+      "language": "fr",
+      "label": "Technologie de l\u0027information, t\u00E9l\u00E9communications et informatique",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/132060"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1530",
+      "language": "en",
+      "label": "Health protection",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1530"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1530",
+      "language": "fr",
+      "label": "Protection de la sant\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1530"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "en",
+      "label": "cross-border cooperation",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "fr",
+      "label": "coop\u00E9ration transfrontali\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "en",
+      "label": "protection of privacy",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "fr",
+      "label": "protection de la vie priv\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "en",
+      "label": "cross-frontier data flow",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3011",
+      "language": "fr",
+      "label": "flux transfronti\u00E8re de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3011"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "en",
+      "label": "patient\u0027s rights",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "fr",
+      "label": "droits du malade",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3885",
+      "language": "en",
+      "label": "public health",
+      "source_uri": "http://eurovoc.europa.eu/3885"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3885",
+      "language": "fr",
+      "label": "sant\u00E9 publique",
+      "source_uri": "http://eurovoc.europa.eu/3885"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5921",
+      "language": "en",
+      "label": "health care system",
+      "source_uri": "http://eurovoc.europa.eu/5921"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5921",
+      "language": "fr",
+      "label": "syst\u00E8me de sant\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5921"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_31da5694",
+      "language": "en",
+      "label": "e-Health",
+      "source_uri": "http://eurovoc.europa.eu/c_31da5694"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_31da5694",
+      "language": "fr",
+      "label": "sant\u00E9 en ligne",
+      "source_uri": "http://eurovoc.europa.eu/c_31da5694"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "en",
+      "label": "trans-border cooperation",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/226",
+      "language": "fr",
+      "label": "int\u00E9gration frontali\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/226"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "en",
+      "label": "right to privacy",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "fr",
+      "label": "droit au respect de la vie priv\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "en",
+      "label": "dignity of patients",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "en",
+      "label": "patient dignity",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "en",
+      "label": "rights of patients",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "en",
+      "label": "rights of the dying",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "en",
+      "label": "sick person\u0027s rights",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "fr",
+      "label": "dignit\u00E9 du malade",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "fr",
+      "label": "droits du mourant",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3370",
+      "language": "fr",
+      "label": "droits du patient",
+      "source_uri": "http://eurovoc.europa.eu/3370"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3885",
+      "language": "en",
+      "label": "health of the population",
+      "source_uri": "http://eurovoc.europa.eu/3885"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3885",
+      "language": "fr",
+      "label": "sant\u00E9 de la population",
+      "source_uri": "http://eurovoc.europa.eu/3885"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data breach",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data security",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "violation de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information exchange",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information transfer",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "transfert d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_31da5694",
+      "language": "en",
+      "label": "eHealth",
+      "source_uri": "http://eurovoc.europa.eu/c_31da5694"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_31da5694",
+      "language": "en",
+      "label": "on-line health",
+      "source_uri": "http://eurovoc.europa.eu/c_31da5694"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_31da5694",
+      "language": "en",
+      "label": "online health",
+      "source_uri": "http://eurovoc.europa.eu/c_31da5694"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_31da5694",
+      "language": "fr",
+      "label": "service de sant\u00E9 en ligne",
+      "source_uri": "http://eurovoc.europa.eu/c_31da5694"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "en",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "fr",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "en",
+      "label": "information policy",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "fr",
+      "label": "politique de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2479",
+      "language": "en",
+      "label": "health policy",
+      "source_uri": "http://eurovoc.europa.eu/2479"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2479",
+      "language": "fr",
+      "label": "politique de la sant\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/2479"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "en",
+      "label": "cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "fr",
+      "label": "politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4488",
+      "language": "en",
+      "label": "data processing",
+      "source_uri": "http://eurovoc.europa.eu/4488"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4488",
+      "language": "fr",
+      "label": "traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4488"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "en",
+      "label": "data transmission",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "fr",
+      "label": "transmission de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/538",
+      "language": "en",
+      "label": "fundamental rights",
+      "source_uri": "http://eurovoc.europa.eu/538"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/538",
+      "language": "fr",
+      "label": "droits fondamentaux",
+      "source_uri": "http://eurovoc.europa.eu/538"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5764",
+      "language": "en",
+      "label": "organisation of health care",
+      "source_uri": "http://eurovoc.europa.eu/5764"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5764",
+      "language": "fr",
+      "label": "organisation de la sant\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5764"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6565",
+      "language": "en",
+      "label": "medical law",
+      "source_uri": "http://eurovoc.europa.eu/6565"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6565",
+      "language": "fr",
+      "label": "droit m\u00E9dical",
+      "source_uri": "http://eurovoc.europa.eu/6565"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "en",
+      "label": "08 INTERNATIONAL RELATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "fr",
+      "label": "08 RELATIONS INTERNATIONALES",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "en",
+      "label": "12 LAW",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "fr",
+      "label": "12 DROIT",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "en",
+      "label": "28 SOCIAL QUESTIONS",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "fr",
+      "label": "28 QUESTIONS SOCIALES",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "en",
+      "label": "0811 cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "fr",
+      "label": "0811 politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100184",
+      "language": "en",
+      "label": "1236 rights and freedoms",
+      "source_uri": "http://eurovoc.europa.eu/100184"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100184",
+      "language": "fr",
+      "label": "1236 droits et libert\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/100184"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100215",
+      "language": "en",
+      "label": "2841 health",
+      "source_uri": "http://eurovoc.europa.eu/100215"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100215",
+      "language": "fr",
+      "label": "2841 sant\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/100215"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "en",
+      "label": "3226 communications",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "fr",
+      "label": "3226 communication",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "en",
+      "label": "3231 information and information processing",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "fr",
+      "label": "3231 information et traitement de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "en",
+      "label": "3236 information technology and data processing",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "fr",
+      "label": "3236 informatique et traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "d249c0aca13b8853519184c2fd3756b41b409b08c9fb621cdb8b9c1c1ca3b7cb"
+}

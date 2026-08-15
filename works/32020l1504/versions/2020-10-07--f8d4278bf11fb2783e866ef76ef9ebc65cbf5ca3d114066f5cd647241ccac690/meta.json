@@ -1,0 +1,974 @@
+{
+  "lex_id": "eu-eurlex:32020l1504:2020-10-07--f8d4278bf11fb2783e866ef76ef9ebc65cbf5ca3d114066f5cd647241ccac690",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32020L1504",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32020L1504",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2020-10-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2020-10-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2020-10-07",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2020/1504 of the European Parliament and of the Council of 7 October 2020 amending Directive 2014/65/EU on markets in financial instruments (Text with EEA relevance)",
+      "title_short": "Directive (EU) 2020/1504",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L1504",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "571b758ded42a1c25574006527d78034024d96c0e38200c547ae6d158ff575b3",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L1504",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L1504"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2020-10-07",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2020/1504 du Parlement europ\u00E9en et du Conseil du 7 octobre 2020 modifiant la directive 2014/65/UE concernant les march\u00E9s d\u2019instruments financiers (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive (UE) 2020/1504 du Parlement europ\u00E9en et du Conseil du 7 octobre 2020 modifiant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020L1504",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2e7aab043a21479606df80452601a27ae06ef9678a98a708a43c3c21a12c2046",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020L1504",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020L1504"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32020L1504",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "en",
+      "label": "Stock exchanges and other securities markets",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025",
+      "language": "fr",
+      "label": "Bourses et autres march\u00E9s de valeurs mobili\u00E8res",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06202025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "investment",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "small and medium-sized enterprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "petites et moyennes entreprises",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6755",
+      "language": "en",
+      "label": "start-up",
+      "source_uri": "http://eurovoc.europa.eu/6755"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6755",
+      "language": "fr",
+      "label": "jeune pousse",
+      "source_uri": "http://eurovoc.europa.eu/6755"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8469",
+      "language": "en",
+      "label": "financial services",
+      "source_uri": "http://eurovoc.europa.eu/8469"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8469",
+      "language": "fr",
+      "label": "services financiers",
+      "source_uri": "http://eurovoc.europa.eu/8469"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_39d242fc",
+      "language": "en",
+      "label": "crowdfunding",
+      "source_uri": "http://eurovoc.europa.eu/c_39d242fc"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/c_39d242fc",
+      "language": "fr",
+      "label": "financement participatif",
+      "source_uri": "http://eurovoc.europa.eu/c_39d242fc"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "digital innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "green innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "industrial innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "en",
+      "label": "technological innovation",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation industrielle",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation num\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation technologique",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1439",
+      "language": "fr",
+      "label": "innovation verte",
+      "source_uri": "http://eurovoc.europa.eu/1439"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "capital expenditure",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "en",
+      "label": "capital investment requirement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "besoin d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1488",
+      "language": "fr",
+      "label": "investissement de capitaux",
+      "source_uri": "http://eurovoc.europa.eu/1488"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "EBIC",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "European Business and Innovation Centre",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "European Observatory for SMEs",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "SMEs",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "SMUs",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "small and medium-sized businesses",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "en",
+      "label": "small and medium-sized undertakings",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "CEEI",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "Centre europ\u00E9en d\u0027entreprise et d\u0027innovation",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "Observatoire europ\u00E9en des PME",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2359",
+      "language": "fr",
+      "label": "PME",
+      "source_uri": "http://eurovoc.europa.eu/2359"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "legislative harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "harmonisation des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "OEIC",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "asset management company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "asset manager",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "closed-end investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "fund manager",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment firm",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment fund",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "investment trust",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "mutual fund",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "open-ended investment company",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "open-ended investment trust",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "pooled fund",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "en",
+      "label": "unit trust",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "Sicav",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "Sicomi",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "compagnie d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "d\u00E9p\u00F4t collectif",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "fonds commun de placement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "fonds d\u0027investissement",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "fonds de placement \u00E0 capital fixe",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "gestionnaire d\u0027actifs",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "gestionnaire de fonds",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027investissement \u00E0 capital variable",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de gestion d\u0027actifs",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de placement collectif",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u2019investissement ferm\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u2019investissement \u00E0 capital fixe",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4195",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 immobili\u00E8re pour le commerce et l\u0027industrie",
+      "source_uri": "http://eurovoc.europa.eu/4195"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "transaction regulations",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "droit financier",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "l\u00E9gislation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation des transactions",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6755",
+      "language": "en",
+      "label": "startup enterprise",
+      "source_uri": "http://eurovoc.europa.eu/6755"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6755",
+      "language": "en",
+      "label": "unicorn",
+      "source_uri": "http://eurovoc.europa.eu/6755"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6755",
+      "language": "fr",
+      "label": "licorne",
+      "source_uri": "http://eurovoc.europa.eu/6755"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6755",
+      "language": "fr",
+      "label": "start-up",
+      "source_uri": "http://eurovoc.europa.eu/6755"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_39d242fc",
+      "language": "en",
+      "label": "crowd financing",
+      "source_uri": "http://eurovoc.europa.eu/c_39d242fc"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/c_39d242fc",
+      "language": "en",
+      "label": "participatory financing",
+      "source_uri": "http://eurovoc.europa.eu/c_39d242fc"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1000",
+      "language": "en",
+      "label": "financing",
+      "source_uri": "http://eurovoc.europa.eu/1000"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1000",
+      "language": "fr",
+      "label": "financement",
+      "source_uri": "http://eurovoc.europa.eu/1000"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "en",
+      "label": "financial institution",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1452",
+      "language": "fr",
+      "label": "institution financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1452"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1630",
+      "language": "en",
+      "label": "free movement of capital",
+      "source_uri": "http://eurovoc.europa.eu/1630"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1630",
+      "language": "fr",
+      "label": "libre circulation des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/1630"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2914",
+      "language": "en",
+      "label": "research",
+      "source_uri": "http://eurovoc.europa.eu/2914"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2914",
+      "language": "fr",
+      "label": "recherche",
+      "source_uri": "http://eurovoc.europa.eu/2914"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/445",
+      "language": "en",
+      "label": "size of business",
+      "source_uri": "http://eurovoc.europa.eu/445"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/445",
+      "language": "fr",
+      "label": "dimension de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/445"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5206",
+      "language": "en",
+      "label": "services company",
+      "source_uri": "http://eurovoc.europa.eu/5206"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5206",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 de services",
+      "source_uri": "http://eurovoc.europa.eu/5206"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "en",
+      "label": "EU law",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "fr",
+      "label": "droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5268",
+      "language": "en",
+      "label": "commercial transaction",
+      "source_uri": "http://eurovoc.europa.eu/5268"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5268",
+      "language": "fr",
+      "label": "acte de commerce",
+      "source_uri": "http://eurovoc.europa.eu/5268"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "en",
+      "label": "40 BUSINESS AND COMPETITION",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "fr",
+      "label": "40 ENTREPRISE ET CONCURRENCE",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "en",
+      "label": "64 PRODUCTION, TECHNOLOGY AND RESEARCH",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "fr",
+      "label": "64 PRODUCTION, TECHNOLOGIE ET RECHERCHE",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "en",
+      "label": "1011 European Union law",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "fr",
+      "label": "1011 droit de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "en",
+      "label": "2031 marketing",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "fr",
+      "label": "2031 commercialisation",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100200",
+      "language": "en",
+      "label": "2416 financial institutions and credit",
+      "source_uri": "http://eurovoc.europa.eu/100200"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100200",
+      "language": "fr",
+      "label": "2416 institutions financi\u00E8res et cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/100200"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100201",
+      "language": "en",
+      "label": "2421 free movement of capital",
+      "source_uri": "http://eurovoc.europa.eu/100201"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100201",
+      "language": "fr",
+      "label": "2421 libre circulation des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/100201"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100202",
+      "language": "en",
+      "label": "2426 financing and investment",
+      "source_uri": "http://eurovoc.europa.eu/100202"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100202",
+      "language": "fr",
+      "label": "2426 investissement et financement",
+      "source_uri": "http://eurovoc.europa.eu/100202"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100227",
+      "language": "en",
+      "label": "4011 business classification",
+      "source_uri": "http://eurovoc.europa.eu/100227"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100227",
+      "language": "fr",
+      "label": "4011 type d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/100227"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100262",
+      "language": "en",
+      "label": "6416 research and intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/100262"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100262",
+      "language": "fr",
+      "label": "6416 recherche et propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/100262"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "388f55f9d0d9a512b8844e31ad36b520fa6c5a4a909bf4d76fe5df2fa8adc203"
+}

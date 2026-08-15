@@ -1,0 +1,449 @@
+{
+  "lex_id": "eu-eurlex:32005l0051:2005-09-07--e3995f55bc23a048f58e2b9879c48f78fe84a37021eccb02ae362454b55dd2ae",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32005L0051",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32005L0051",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2005-09-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2005-09-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2005-09-07",
+      "valid_time_source": "publisher",
+      "title": "Commission Directive 2005/51/EC of 7 September 2005 amending Annex XX to Directive 2004/17/EC and Annex VIII to Directive 2004/18/EC of the European Parliament and the Council on public procurement   (Text with EEA relevance)",
+      "title_short": "Commission Directive 2005/51/EC of 7 September 2005 amending Annex XX to Directive 2004/17/EC and Annex VIII to Directive 2004/18/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0051",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "82a4370686afcff768ae4a1c087d90ae690bc1cdd685491d5a9c300b8a59f7da",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0051",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0051"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2005-09-07",
+      "valid_time_source": "publisher",
+      "title": "Directive 2005/51/CE de la Commission du 7 septembre 2005 modifiant l\u0027annexe XX de la directive 2004/17/CE et l\u0027annexe VIII de la directive 2004/18/CE du Parlement europ\u00E9en et du Conseil sur les march\u00E9s publics   (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "Directive 2005/51/CE de la Commission du 7 septembre 2005 modifiant l\u0027annexe XX de la dire\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32005L0051",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e70be37b6aae368c08139c3e7d0d395a41469319f2aa02f73c26984ac09c8626",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32005L0051",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32005L0051"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32005L0051",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "en",
+      "label": "General",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010",
+      "language": "fr",
+      "label": "G\u00E9n\u00E9ralit\u00E9s",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/063010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1810",
+      "language": "en",
+      "label": "public contract",
+      "source_uri": "http://eurovoc.europa.eu/1810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1810",
+      "language": "fr",
+      "label": "contrat public",
+      "source_uri": "http://eurovoc.europa.eu/1810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award of contract",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "en",
+      "label": "Publications Office of the European Union",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "fr",
+      "label": "Office des publications de l\u2019Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "en",
+      "label": "dissemination of information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "fr",
+      "label": "diffusion de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "automatic public tendering",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award notice",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "en",
+      "label": "award procedure",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de fournitures",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication de travaux publics",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "adjudication permanente",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "avis d\u0027adjudication",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "ouverture d\u0027adjudication",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/20",
+      "language": "fr",
+      "label": "proc\u00E9dure d\u0027adjudication",
+      "source_uri": "http://eurovoc.europa.eu/20"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "en",
+      "label": "Euroffice",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "en",
+      "label": "OP",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "en",
+      "label": "OPOCE",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "en",
+      "label": "Office for Official Publications of the European Communities",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "en",
+      "label": "Publications Office",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "fr",
+      "label": "Euroffice",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "fr",
+      "label": "OP",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "fr",
+      "label": "OPOCE",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "fr",
+      "label": "Office des publications",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2153",
+      "language": "fr",
+      "label": "Office des publications officielles des Communaut\u00E9s europ\u00E9ennes",
+      "source_uri": "http://eurovoc.europa.eu/2153"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "en",
+      "label": "information request",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/441",
+      "language": "fr",
+      "label": "demande d\u0027informations",
+      "source_uri": "http://eurovoc.europa.eu/441"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1810",
+      "language": "en",
+      "label": "public contract",
+      "source_uri": "http://eurovoc.europa.eu/1810"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1810",
+      "language": "fr",
+      "label": "contrat public",
+      "source_uri": "http://eurovoc.europa.eu/1810"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/494",
+      "language": "en",
+      "label": "documentation",
+      "source_uri": "http://eurovoc.europa.eu/494"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/494",
+      "language": "fr",
+      "label": "documentation",
+      "source_uri": "http://eurovoc.europa.eu/494"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "en",
+      "label": "EU office or agency",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5769",
+      "language": "fr",
+      "label": "organisme de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5769"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100174",
+      "language": "en",
+      "label": "1006 EU institutions and European civil service",
+      "source_uri": "http://eurovoc.europa.eu/100174"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100174",
+      "language": "fr",
+      "label": "1006 institutions de l\u0027Union europ\u00E9enne et fonction publique europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100174"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100191",
+      "language": "en",
+      "label": "2006 trade policy",
+      "source_uri": "http://eurovoc.europa.eu/100191"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100191",
+      "language": "fr",
+      "label": "2006 politique commerciale",
+      "source_uri": "http://eurovoc.europa.eu/100191"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100220",
+      "language": "en",
+      "label": "3221 documentation",
+      "source_uri": "http://eurovoc.europa.eu/100220"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100220",
+      "language": "fr",
+      "label": "3221 documentation",
+      "source_uri": "http://eurovoc.europa.eu/100220"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "fb99a640067382c4c4a2ac19aa0a641d8745509e1f86e37f6995c5e81b7f7954"
+}

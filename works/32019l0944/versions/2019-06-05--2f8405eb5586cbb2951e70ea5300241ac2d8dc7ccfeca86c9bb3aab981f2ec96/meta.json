@@ -1,0 +1,716 @@
+{
+  "lex_id": "eu-eurlex:32019l0944:2019-06-05--2f8405eb5586cbb2951e70ea5300241ac2d8dc7ccfeca86c9bb3aab981f2ec96",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32019L0944",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32019L0944",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2019-06-05",
+  "valid_to": "2019-06-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2019-06-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles,expressions.en.title_short,expressions.fr.title_short"
+    },
+    {
+      "event": "validity_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "field=valid_to;old=2022-06-22;new=2019-06-13"
+    },
+    {
+      "event": "validity_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:en:2019-06-05",
+      "detail": "field=valid_to;old=2022-06-22;new=2019-06-13"
+    },
+    {
+      "event": "validity_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:fr:2019-06-05",
+      "detail": "field=valid_to;old=2022-06-22;new=2019-06-13"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2019-06-05",
+      "valid_to": "2019-06-13",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (recast) (Text with EEA relevance.)",
+      "title_short": "Directive (EU) 2019/944",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "68355ebfd4f4fe90c9e73bcdd1b44cc2b343d930d790e45f50d1118e54f254de",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2019-06-05",
+      "valid_to": "2019-06-13",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2019/944 du Parlement europ\u00E9en et du Conseil du 5 juin 2019 concernant des r\u00E8gles communes pour le march\u00E9 int\u00E9rieur de l\u0027\u00E9lectricit\u00E9 et modifiant la directive 2012/27/UE (refonte) (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE.)",
+      "title_short": "Directive (UE) 2019/944 du Parlement europ\u00E9en et du Conseil du 5 juin 2019 concernant des \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0944",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3f553355b04f2bbed77f4fa5a7890b92c0788300c7831b088399d166989f4503",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0944",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0944"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32019L0944",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "en",
+      "label": "Electricity",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "fr",
+      "label": "\u00C9lectricit\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "en",
+      "label": "consumer",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "fr",
+      "label": "consommateur",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2654",
+      "language": "en",
+      "label": "price of energy",
+      "source_uri": "http://eurovoc.europa.eu/2654"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2654",
+      "language": "fr",
+      "label": "prix de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/2654"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity supply",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "fr",
+      "label": "distribution de l\u0027\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU Member State",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "\u00C9tat membre UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "en",
+      "label": "energy efficiency",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6700",
+      "language": "fr",
+      "label": "rendement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/6700"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2654",
+      "language": "en",
+      "label": "cost of energy",
+      "source_uri": "http://eurovoc.europa.eu/2654"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2654",
+      "language": "fr",
+      "label": "co\u00FBt de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/2654"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "Community internal market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "EC internal market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "en",
+      "label": "EU single market",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur CE",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 int\u00E9rieur communautaire",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3299",
+      "language": "fr",
+      "label": "march\u00E9 unique de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/3299"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "availability of supplies",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "problems of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "supply difficulties",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "difficult\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity distribution",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EC country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "EU country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "European Community country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "en",
+      "label": "European Union country",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays CE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays UE",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5283",
+      "language": "fr",
+      "label": "pays de la Communaut\u00E9 europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5283"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electricity",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "low-carbon energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "non-renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy source",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "source d\u0027\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie non renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3377",
+      "language": "en",
+      "label": "urban infrastructure",
+      "source_uri": "http://eurovoc.europa.eu/3377"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3377",
+      "language": "fr",
+      "label": "infrastructure urbaine",
+      "source_uri": "http://eurovoc.europa.eu/3377"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "en",
+      "label": "electrical industry",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "fr",
+      "label": "industrie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "energy market",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "fr",
+      "label": "march\u00E9 de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5442",
+      "language": "en",
+      "label": "deepening of the European Union",
+      "source_uri": "http://eurovoc.europa.eu/5442"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5442",
+      "language": "fr",
+      "label": "approfondissement de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5442"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/744",
+      "language": "en",
+      "label": "soft energy",
+      "source_uri": "http://eurovoc.europa.eu/744"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/744",
+      "language": "fr",
+      "label": "\u00E9nergie douce",
+      "source_uri": "http://eurovoc.europa.eu/744"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "en",
+      "label": "28 SOCIAL QUESTIONS",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "fr",
+      "label": "28 QUESTIONS SOCIALES",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100161",
+      "language": "en",
+      "label": "72 GEOGRAPHY",
+      "source_uri": "http://eurovoc.europa.eu/100161"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100161",
+      "language": "fr",
+      "label": "72 G\u00C9OGRAPHIE",
+      "source_uri": "http://eurovoc.europa.eu/100161"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "en",
+      "label": "1016 European construction",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "fr",
+      "label": "1016 construction europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "en",
+      "label": "2016 trade",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "fr",
+      "label": "2016 \u00E9changes \u00E9conomiques",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "en",
+      "label": "2026 consumption",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "fr",
+      "label": "2026 consommation",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100216",
+      "language": "en",
+      "label": "2846 construction and town planning",
+      "source_uri": "http://eurovoc.europa.eu/100216"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100216",
+      "language": "fr",
+      "label": "2846 urbanisme et construction",
+      "source_uri": "http://eurovoc.europa.eu/100216"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "en",
+      "label": "6606 energy policy",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "fr",
+      "label": "6606 politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "en",
+      "label": "6621 electrical and nuclear industries",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "fr",
+      "label": "6621 industries nucl\u00E9aire et \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100267",
+      "language": "en",
+      "label": "6626 soft energy",
+      "source_uri": "http://eurovoc.europa.eu/100267"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100267",
+      "language": "fr",
+      "label": "6626 \u00E9nergie douce",
+      "source_uri": "http://eurovoc.europa.eu/100267"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100282",
+      "language": "en",
+      "label": "7231 economic geography",
+      "source_uri": "http://eurovoc.europa.eu/100282"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100282",
+      "language": "fr",
+      "label": "7231 g\u00E9ographie \u00E9conomique",
+      "source_uri": "http://eurovoc.europa.eu/100282"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "9aa971f4071807fa2d52e6c5a9ce1cdb6644251d6709d8a76c9f48eed55ad0c5"
+}

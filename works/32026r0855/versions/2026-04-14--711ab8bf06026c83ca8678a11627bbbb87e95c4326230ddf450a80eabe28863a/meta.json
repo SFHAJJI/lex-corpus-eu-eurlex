@@ -1,0 +1,778 @@
+{
+  "lex_id": "eu-eurlex:32026r0855:2026-04-14--711ab8bf06026c83ca8678a11627bbbb87e95c4326230ddf450a80eabe28863a",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32026R0855",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0855",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2026-04-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2026-04-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-04-14",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2026/855 of 14\u00A0April 2026 on interoperability requirements and non-discriminatory and transparent procedures for access to data required for customer switching",
+      "title_short": "Commission Implementing Regulation (EU) 2026/855 of 14\u00A0April 2026 on interoperability requ\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0855",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "9fe33d559d9fe1cef0d70a8dc1924555e2e8cbfb3843413fab3b835596ccef0e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0855",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0855"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-04-14",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/855 de la Commission du 14\u00A0avril 2026 relatif aux exigences d\u2019interop\u00E9rabilit\u00E9 et aux proc\u00E9dures non discriminatoires et transparentes pour l\u2019acc\u00E8s aux donn\u00E9es n\u00E9cessaires pour le changement de fournisseur",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/855 de la Commission du 14\u00A0avril 2026 relatif aux exigence\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0855",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "778b35afd03f9e543c21ae4d1275c59c3cc9ed3e1cd2f7dea044141405e6efbb",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0855",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0855"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R0855",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "en",
+      "label": "Electricity",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230",
+      "language": "fr",
+      "label": "\u00C9lectricit\u00E9",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1230"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "en",
+      "label": "Consumer information, education and representation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020",
+      "language": "fr",
+      "label": "Information, \u00E9ducation et repr\u00E9sentation des consommateurs",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/152020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "en",
+      "label": "consumer",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "fr",
+      "label": "consommateur",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "en",
+      "label": "energy cooperation",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/435164",
+      "language": "fr",
+      "label": "coop\u00E9ration \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/435164"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "access to information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "acc\u00E8s \u00E0 l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity supply",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "fr",
+      "label": "distribution de l\u0027\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "energy market",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "fr",
+      "label": "march\u00E9 de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "systems interconnection",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "fr",
+      "label": "interconnexion de syst\u00E8mes",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "en",
+      "label": "administrative transparency",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5936",
+      "language": "fr",
+      "label": "transparence administrative",
+      "source_uri": "http://eurovoc.europa.eu/5936"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "exchange of information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "\u00E9change d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "availability of supplies",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "problems of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "supply difficulties",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "difficult\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "free movement of information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "en",
+      "label": "public information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/453",
+      "language": "fr",
+      "label": "circulation de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/453"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity distribution",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "energy sector",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "power sector",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "fr",
+      "label": "secteur de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "OSI",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "compatibility",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "computer compatibility",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "interoperability",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "en",
+      "label": "open systems interconnection",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "fr",
+      "label": "OSI",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "fr",
+      "label": "compatibilit\u00E9 informatique",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "fr",
+      "label": "interconnexion de syst\u00E8mes ouverts",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5684",
+      "language": "fr",
+      "label": "interop\u00E9rabilit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information exchange",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "en",
+      "label": "information transfer",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/616",
+      "language": "fr",
+      "label": "transfert d\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/616"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electricity",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "en",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1422",
+      "language": "fr",
+      "label": "information",
+      "source_uri": "http://eurovoc.europa.eu/1422"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "en",
+      "label": "information policy",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "fr",
+      "label": "politique de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "en",
+      "label": "energy policy",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3377",
+      "language": "en",
+      "label": "urban infrastructure",
+      "source_uri": "http://eurovoc.europa.eu/3377"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3377",
+      "language": "fr",
+      "label": "infrastructure urbaine",
+      "source_uri": "http://eurovoc.europa.eu/3377"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "en",
+      "label": "cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "fr",
+      "label": "politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "en",
+      "label": "electrical industry",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "fr",
+      "label": "industrie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5852",
+      "language": "en",
+      "label": "citizen-authority relations",
+      "source_uri": "http://eurovoc.europa.eu/5852"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5852",
+      "language": "fr",
+      "label": "relation administration-administr\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5852"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5922",
+      "language": "en",
+      "label": "computer system",
+      "source_uri": "http://eurovoc.europa.eu/5922"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5922",
+      "language": "fr",
+      "label": "syst\u00E8me informatique",
+      "source_uri": "http://eurovoc.europa.eu/5922"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100142",
+      "language": "en",
+      "label": "04 POLITICS",
+      "source_uri": "http://eurovoc.europa.eu/100142"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100142",
+      "language": "fr",
+      "label": "04 VIE POLITIQUE",
+      "source_uri": "http://eurovoc.europa.eu/100142"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "en",
+      "label": "08 INTERNATIONAL RELATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "fr",
+      "label": "08 RELATIONS INTERNATIONALES",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "en",
+      "label": "28 SOCIAL QUESTIONS",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "fr",
+      "label": "28 QUESTIONS SOCIALES",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100169",
+      "language": "en",
+      "label": "0436 executive power and public service",
+      "source_uri": "http://eurovoc.europa.eu/100169"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100169",
+      "language": "fr",
+      "label": "0436 pouvoir ex\u00E9cutif et administration publique",
+      "source_uri": "http://eurovoc.europa.eu/100169"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "en",
+      "label": "0811 cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "fr",
+      "label": "0811 politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "en",
+      "label": "2016 trade",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "fr",
+      "label": "2016 \u00E9changes \u00E9conomiques",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "en",
+      "label": "2026 consumption",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "fr",
+      "label": "2026 consommation",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100216",
+      "language": "en",
+      "label": "2846 construction and town planning",
+      "source_uri": "http://eurovoc.europa.eu/100216"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100216",
+      "language": "fr",
+      "label": "2846 urbanisme et construction",
+      "source_uri": "http://eurovoc.europa.eu/100216"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "en",
+      "label": "3231 information and information processing",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "fr",
+      "label": "3231 information et traitement de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "en",
+      "label": "3236 information technology and data processing",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "fr",
+      "label": "3236 informatique et traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "en",
+      "label": "6606 energy policy",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "fr",
+      "label": "6606 politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "en",
+      "label": "6621 electrical and nuclear industries",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "fr",
+      "label": "6621 industries nucl\u00E9aire et \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "804a733a460bc9ab7db38a38bfc1c29ac6f7c8e90f6f75bdda622d3059e14c85"
+}

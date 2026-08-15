@@ -1,0 +1,694 @@
+{
+  "lex_id": "eu-eurlex:32022l0228:2022-02-16--4026f291cac5c64ec71f0270e2e4e2f6563529a9d1558913c6e3f4faeb3614cb",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32022L0228",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32022L0228",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2022-02-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2022-02-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2022-02-16",
+      "valid_time_source": "publisher",
+      "title": "Directive (EU) 2022/228 of the European Parliament and of the Council of 16\u00A0February 2022 amending Directive 2014/41/EU, as regards its alignment with Union rules on the protection of personal data",
+      "title_short": "Directive (EU) 2022/228",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L0228",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "e9d630b189263a9583f2d860b6fcf22e7552dd0e5c36c7275fb11e50045d301c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L0228",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L0228"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2022-02-16",
+      "valid_time_source": "publisher",
+      "title": "Directive (UE) 2022/228 du Parlement europ\u00E9en et du Conseil du 16\u00A0f\u00E9vrier 2022 modifiant la directive 2014/41/UE en ce qui concerne sa mise en conformit\u00E9 avec les r\u00E8gles de l\u2019Union relatives \u00E0 la protection des donn\u00E9es \u00E0 caract\u00E8re personnel",
+      "title_short": "Directive (UE) 2022/228 du Parlement europ\u00E9en et du Conseil du 16\u00A0f\u00E9vrier 2022 modifiant l\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L0228",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2ef626cfc8bcd7eb54f6006972476355ccdc73b6dc8835c665eff30e273ac1b1",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L0228",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L0228"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32022L0228",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "en",
+      "label": "Judicial cooperation in criminal matters",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020",
+      "language": "fr",
+      "label": "Coop\u00E9ration judiciaire en mati\u00E8re p\u00E9nale",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/193020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "en",
+      "label": "offence",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "fr",
+      "label": "infraction",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "en",
+      "label": "ruling",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "fr",
+      "label": "jugement",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "en",
+      "label": "protection of privacy",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "fr",
+      "label": "protection de la vie priv\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "en",
+      "label": "judicial inquiry",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "fr",
+      "label": "enqu\u00EAte judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data protection",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "protection des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "disclosure of information",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "judicial cooperation in criminal matters in the EU",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "en",
+      "label": "personal data",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5595",
+      "language": "fr",
+      "label": "donn\u00E9es personnelles",
+      "source_uri": "http://eurovoc.europa.eu/5595"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "en",
+      "label": "proof",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "fr",
+      "label": "preuve",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "en",
+      "label": "a crime",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "en",
+      "label": "breach of the law",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "en",
+      "label": "misdemeanour",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "en",
+      "label": "petty offence",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "fr",
+      "label": "contravention",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "fr",
+      "label": "crime",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "fr",
+      "label": "d\u00E9lit",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1432",
+      "language": "fr",
+      "label": "violation de la loi",
+      "source_uri": "http://eurovoc.europa.eu/1432"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "en",
+      "label": "court decision",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "en",
+      "label": "court judgment",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "en",
+      "label": "court ruling",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "fr",
+      "label": "arr\u00EAt",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "fr",
+      "label": "arr\u00EAt de la Cour",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1538",
+      "language": "fr",
+      "label": "sentence",
+      "source_uri": "http://eurovoc.europa.eu/1538"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "en",
+      "label": "right to privacy",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2828",
+      "language": "fr",
+      "label": "droit au respect de la vie priv\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/2828"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "en",
+      "label": "police inquiry",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3971",
+      "language": "fr",
+      "label": "enqu\u00EAte de police",
+      "source_uri": "http://eurovoc.europa.eu/3971"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data breach",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "en",
+      "label": "data security",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5181",
+      "language": "fr",
+      "label": "violation de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5181"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "en",
+      "label": "information disclosure",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication d\u0027informations",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "communication de renseignements",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "divulgation d\u0027informations",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5334",
+      "language": "fr",
+      "label": "divulgation de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/5334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "European Judicial Network in criminal matters",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "judicial cooperation in criminal matters",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "en",
+      "label": "mutual assistance in criminal matters",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "coop\u00E9ration judiciaire en mati\u00E8re p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "entraide judiciaire p\u00E9nale (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5550",
+      "language": "fr",
+      "label": "r\u00E9seau judiciaire europ\u00E9en en mati\u00E8re p\u00E9nale",
+      "source_uri": "http://eurovoc.europa.eu/5550"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "en",
+      "label": "onus of proof",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5809",
+      "language": "fr",
+      "label": "charge de la preuve",
+      "source_uri": "http://eurovoc.europa.eu/5809"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "en",
+      "label": "information policy",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2472",
+      "language": "fr",
+      "label": "politique de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/2472"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2701",
+      "language": "en",
+      "label": "judicial proceedings",
+      "source_uri": "http://eurovoc.europa.eu/2701"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2701",
+      "language": "fr",
+      "label": "proc\u00E9dure judiciaire",
+      "source_uri": "http://eurovoc.europa.eu/2701"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2704",
+      "language": "en",
+      "label": "criminal procedure",
+      "source_uri": "http://eurovoc.europa.eu/2704"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2704",
+      "language": "fr",
+      "label": "proc\u00E9dure p\u00E9nale",
+      "source_uri": "http://eurovoc.europa.eu/2704"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4488",
+      "language": "en",
+      "label": "data processing",
+      "source_uri": "http://eurovoc.europa.eu/4488"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4488",
+      "language": "fr",
+      "label": "traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4488"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/538",
+      "language": "en",
+      "label": "fundamental rights",
+      "source_uri": "http://eurovoc.europa.eu/538"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/538",
+      "language": "fr",
+      "label": "droits fondamentaux",
+      "source_uri": "http://eurovoc.europa.eu/538"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6222",
+      "language": "en",
+      "label": "area of freedom, security and justice",
+      "source_uri": "http://eurovoc.europa.eu/6222"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6222",
+      "language": "fr",
+      "label": "espace de libert\u00E9, s\u00E9curit\u00E9 et justice",
+      "source_uri": "http://eurovoc.europa.eu/6222"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "en",
+      "label": "12 LAW",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "fr",
+      "label": "12 DROIT",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "en",
+      "label": "1016 European construction",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "fr",
+      "label": "1016 construction europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100180",
+      "language": "en",
+      "label": "1216 criminal law",
+      "source_uri": "http://eurovoc.europa.eu/100180"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100180",
+      "language": "fr",
+      "label": "1216 droit p\u00E9nal",
+      "source_uri": "http://eurovoc.europa.eu/100180"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100181",
+      "language": "en",
+      "label": "1221 justice",
+      "source_uri": "http://eurovoc.europa.eu/100181"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100181",
+      "language": "fr",
+      "label": "1221 justice",
+      "source_uri": "http://eurovoc.europa.eu/100181"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100184",
+      "language": "en",
+      "label": "1236 rights and freedoms",
+      "source_uri": "http://eurovoc.europa.eu/100184"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100184",
+      "language": "fr",
+      "label": "1236 droits et libert\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/100184"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "en",
+      "label": "3231 information and information processing",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100222",
+      "language": "fr",
+      "label": "3231 information et traitement de l\u0027information",
+      "source_uri": "http://eurovoc.europa.eu/100222"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "en",
+      "label": "3236 information technology and data processing",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100223",
+      "language": "fr",
+      "label": "3236 informatique et traitement des donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/100223"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "8b23a475066c041c696ad7c443cfb7305efbf741c50fe20fd65a03a1e1856de3"
+}

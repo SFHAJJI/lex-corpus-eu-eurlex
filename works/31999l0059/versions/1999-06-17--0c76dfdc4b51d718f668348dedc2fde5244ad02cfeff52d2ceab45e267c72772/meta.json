@@ -1,0 +1,463 @@
+{
+  "lex_id": "eu-eurlex:31999l0059:1999-06-17--0c76dfdc4b51d718f668348dedc2fde5244ad02cfeff52d2ceab45e267c72772",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/31999L0059",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31999L0059",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1999-06-17",
+  "valid_to": "1999-06-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "1999-06-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "field=valid_to;new=1999-06-25"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:en:1999-06-17",
+      "detail": "field=valid_to;new=1999-06-25"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:fr:1999-06-17",
+      "detail": "field=valid_to;new=1999-06-25"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1999-06-17",
+      "valid_to": "1999-06-25",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 1999/59/EC of 17 June 1999 amending Directive 77/388/EEC as regards the value added tax arrangements applicable to telecommunications services",
+      "title_short": "Council Directive 1999/59/EC of 17 June 1999 amending Directive 77/388/EEC as regards the \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0059",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "f004a4759f5ad7bcd5abff31db6f53fcaa4cf48b71a04e8b01e42ec4fb38847d",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0059",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0059"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1999-06-17",
+      "valid_to": "1999-06-25",
+      "valid_time_source": "publisher",
+      "title": "Directive 1999/59/CE du Conseil, du 17 juin 1999, modifiant la directive 77/388/CEE en ce qui concerne le r\u00E9gime de taxe sur la valeur ajout\u00E9e applicable aux services de t\u00E9l\u00E9communications",
+      "title_short": "Directive 1999/59/CE du Conseil, du 17 juin 1999, modifiant la directive 77/388/CEE en ce \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31999L0059",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "1c940844ae741a721ccf831e9435105a9a3823743b1201c6a8f260462388da0f",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31999L0059",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31999L0059"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31999L0059",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "en",
+      "label": "provision of services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2602",
+      "language": "fr",
+      "label": "prestation de services",
+      "source_uri": "http://eurovoc.europa.eu/2602"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "transmission network",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "r\u00E9seau de transmission",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4424",
+      "language": "en",
+      "label": "telecommunications",
+      "source_uri": "http://eurovoc.europa.eu/4424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4424",
+      "language": "fr",
+      "label": "t\u00E9l\u00E9communication",
+      "source_uri": "http://eurovoc.europa.eu/4424"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "Euronet",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "Transpac",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "broadband",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "broadcasting network",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "data-transmission network",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "en",
+      "label": "telecommunications network",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "Euronet-Diane",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "Transpac",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "bande large",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "r\u00E9seau de diffusion",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "r\u00E9seau de transmission de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "r\u00E9seau de t\u00E9l\u00E9communication",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3017",
+      "language": "fr",
+      "label": "r\u00E9seau \u00E0 bande large",
+      "source_uri": "http://eurovoc.europa.eu/3017"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4424",
+      "language": "en",
+      "label": "telecommunications technology",
+      "source_uri": "http://eurovoc.europa.eu/4424"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4424",
+      "language": "fr",
+      "label": "technologie des t\u00E9l\u00E9communications",
+      "source_uri": "http://eurovoc.europa.eu/4424"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "turnover tax",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "value added tax",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "taxe sur la valeur ajout\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "taxe sur le chiffre d\u0027affaires",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1321",
+      "language": "en",
+      "label": "tax on consumption",
+      "source_uri": "http://eurovoc.europa.eu/1321"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1321",
+      "language": "fr",
+      "label": "imp\u00F4t sur la consommation",
+      "source_uri": "http://eurovoc.europa.eu/1321"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4361",
+      "language": "en",
+      "label": "communications systems",
+      "source_uri": "http://eurovoc.europa.eu/4361"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4361",
+      "language": "fr",
+      "label": "syst\u00E8me de communication",
+      "source_uri": "http://eurovoc.europa.eu/4361"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "en",
+      "label": "data transmission",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4502",
+      "language": "fr",
+      "label": "transmission de donn\u00E9es",
+      "source_uri": "http://eurovoc.europa.eu/4502"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5268",
+      "language": "en",
+      "label": "commercial transaction",
+      "source_uri": "http://eurovoc.europa.eu/5268"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5268",
+      "language": "fr",
+      "label": "acte de commerce",
+      "source_uri": "http://eurovoc.europa.eu/5268"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "en",
+      "label": "2031 marketing",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100196",
+      "language": "fr",
+      "label": "2031 commercialisation",
+      "source_uri": "http://eurovoc.europa.eu/100196"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "en",
+      "label": "2446 taxation",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "fr",
+      "label": "2446 fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "en",
+      "label": "3226 communications",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "fr",
+      "label": "3226 communication",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "f4975aefe706560727cb0e8d67af6ef04df8f6f8d9deec0c5a457697dcfc1f56"
+}

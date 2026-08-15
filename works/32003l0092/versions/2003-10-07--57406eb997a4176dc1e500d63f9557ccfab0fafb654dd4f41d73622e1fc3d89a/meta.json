@@ -1,0 +1,540 @@
+{
+  "lex_id": "eu-eurlex:32003l0092:2003-10-07--57406eb997a4176dc1e500d63f9557ccfab0fafb654dd4f41d73622e1fc3d89a",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32003L0092",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32003L0092",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2003-10-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2003-10-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2003-10-07",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2003/92/EC of 7 October 2003 amending Directive 77/388/EEC as regards the rules on the place of supply of gas and electricity",
+      "title_short": "Council Directive 2003/92/EC of 7 October 2003 amending Directive 77/388/EEC as regards th\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0092",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "a58aba36a22fafdded7e0fb89fccfd47216e0034c94fe5de7f96b29fd439ed15",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0092",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0092"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2003-10-07",
+      "valid_time_source": "publisher",
+      "title": "Directive 2003/92/CE du Conseil du 7 octobre 2003 modifiant la directive 77/388/CEE en ce qui concerne les r\u00E8gles relatives au lieu de livraison du gaz et de l\u0027\u00E9lectricit\u00E9",
+      "title_short": "Directive 2003/92/CE du Conseil du 7 octobre 2003 modifiant la directive 77/388/CEE en ce \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0092",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "f60895cdc6a02579789ba6ce2e451548977625370ff5ce593ed512f5d79b116e",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0092",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32003L0092"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32003L0092",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "en",
+      "label": "gas",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "fr",
+      "label": "gaz",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "en",
+      "label": "delivery",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "fr",
+      "label": "livraison",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/475",
+      "language": "en",
+      "label": "energy distribution",
+      "source_uri": "http://eurovoc.europa.eu/475"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/475",
+      "language": "fr",
+      "label": "distribution d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/475"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity supply",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "fr",
+      "label": "distribution de l\u0027\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "en",
+      "label": "blast-furnace gas",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "en",
+      "label": "coke-oven gas",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "en",
+      "label": "gaseous fuel",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "fr",
+      "label": "combustible gazeux",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "fr",
+      "label": "gaz de cokerie",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1139",
+      "language": "fr",
+      "label": "gaz de haut fourneau",
+      "source_uri": "http://eurovoc.europa.eu/1139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "en",
+      "label": "consignment",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "en",
+      "label": "delivery costs",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "en",
+      "label": "means of delivery",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "en",
+      "label": "shipment",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "fr",
+      "label": "exp\u00E9dition",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1684",
+      "language": "fr",
+      "label": "modalit\u00E9 de livraison",
+      "source_uri": "http://eurovoc.europa.eu/1684"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "turnover tax",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "value added tax",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "taxe sur la valeur ajout\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "taxe sur le chiffre d\u0027affaires",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/477",
+      "language": "en",
+      "label": "electricity distribution",
+      "source_uri": "http://eurovoc.europa.eu/477"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electricity",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1321",
+      "language": "en",
+      "label": "tax on consumption",
+      "source_uri": "http://eurovoc.europa.eu/1321"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1321",
+      "language": "fr",
+      "label": "imp\u00F4t sur la consommation",
+      "source_uri": "http://eurovoc.europa.eu/1321"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "en",
+      "label": "energy policy",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3377",
+      "language": "en",
+      "label": "urban infrastructure",
+      "source_uri": "http://eurovoc.europa.eu/3377"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3377",
+      "language": "fr",
+      "label": "infrastructure urbaine",
+      "source_uri": "http://eurovoc.europa.eu/3377"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "en",
+      "label": "electrical industry",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "fr",
+      "label": "industrie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/474",
+      "language": "en",
+      "label": "distributive trades",
+      "source_uri": "http://eurovoc.europa.eu/474"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/474",
+      "language": "fr",
+      "label": "distribution commerciale",
+      "source_uri": "http://eurovoc.europa.eu/474"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6043",
+      "language": "en",
+      "label": "fuel",
+      "source_uri": "http://eurovoc.europa.eu/6043"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6043",
+      "language": "fr",
+      "label": "combustible",
+      "source_uri": "http://eurovoc.europa.eu/6043"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "en",
+      "label": "28 SOCIAL QUESTIONS",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "fr",
+      "label": "28 QUESTIONS SOCIALES",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100197",
+      "language": "en",
+      "label": "2036 distributive trades",
+      "source_uri": "http://eurovoc.europa.eu/100197"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100197",
+      "language": "fr",
+      "label": "2036 distribution commerciale",
+      "source_uri": "http://eurovoc.europa.eu/100197"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "en",
+      "label": "2446 taxation",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "fr",
+      "label": "2446 fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100216",
+      "language": "en",
+      "label": "2846 construction and town planning",
+      "source_uri": "http://eurovoc.europa.eu/100216"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100216",
+      "language": "fr",
+      "label": "2846 urbanisme et construction",
+      "source_uri": "http://eurovoc.europa.eu/100216"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "en",
+      "label": "6606 energy policy",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "fr",
+      "label": "6606 politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "en",
+      "label": "6621 electrical and nuclear industries",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "fr",
+      "label": "6621 industries nucl\u00E9aire et \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "96a78dafbf5881189bc998fc2b38c11d3175f9c005b649965ed836ff2da44bd5"
+}

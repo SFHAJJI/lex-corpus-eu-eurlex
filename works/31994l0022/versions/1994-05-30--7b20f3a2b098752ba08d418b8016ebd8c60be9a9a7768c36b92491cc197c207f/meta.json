@@ -1,0 +1,628 @@
+{
+  "lex_id": "eu-eurlex:31994l0022:1994-05-30--7b20f3a2b098752ba08d418b8016ebd8c60be9a9a7768c36b92491cc197c207f",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/31994L0022",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31994L0022",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "1994-05-30",
+  "valid_to": "2018-12-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "1994-05-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:54:54Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1994-05-30",
+      "valid_to": "2018-12-23",
+      "valid_time_source": "publisher",
+      "title": "Directive 94/22/EC of the European Parliament and of the Council of 30 May 1994 on the conditions for granting and using authorizations for the prospection, exploration and production of hydrocarbons",
+      "title_short": "Directive 94/22/EC",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994L0022",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "90dfa599ba02e7666a6679ac27c8bcaf179c84b3d16f113979bd372d46c9a698",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994L0022",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994L0022"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1994-05-30",
+      "valid_to": "2018-12-23",
+      "valid_time_source": "publisher",
+      "title": "Directive 94/22/CE du Parlement europ\u00E9en et du Conseil, du 30 mai 1994, sur les conditions d\u0027octroi et d\u0027exercice des autorisations de prospecter, d\u0027exploiter et d\u0027extraire des hydrocarbures",
+      "title_short": "Directive 94/22/CE du Parlement europ\u00E9en et du Conseil, du 30 mai 1994, sur les conditions\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31994L0022",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9f5ada25e8ae6bec7d05360099124837df993d03e20a80edc97d8db8e1b8d390",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31994L0022",
+          "retrieved_at": "2026-08-06T19:54:54Z",
+          "observed_from": "2026-08-06T19:54:54Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31994L0022"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "31994L0022",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020",
+      "language": "en",
+      "label": "Other production and processing activities",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020",
+      "language": "fr",
+      "label": "Autres activit\u00E9s de production et de transformation",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/06201020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "en",
+      "label": "Other measures relating to oil or gas",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030",
+      "language": "fr",
+      "label": "Autres mesures relatives aux hydrocarbures",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/125030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1160",
+      "language": "en",
+      "label": "management of resources",
+      "source_uri": "http://eurovoc.europa.eu/1160"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1160",
+      "language": "fr",
+      "label": "gestion des ressources",
+      "source_uri": "http://eurovoc.europa.eu/1160"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "hydrocarbon",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "hydrocarbure",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1685",
+      "language": "en",
+      "label": "energy site",
+      "source_uri": "http://eurovoc.europa.eu/1685"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1685",
+      "language": "fr",
+      "label": "localisation de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/1685"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2312",
+      "language": "en",
+      "label": "energy supply",
+      "source_uri": "http://eurovoc.europa.eu/2312"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2312",
+      "language": "fr",
+      "label": "approvisionnement \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2312"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "security of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "s\u00E9curit\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/941",
+      "language": "en",
+      "label": "exploitation of resources",
+      "source_uri": "http://eurovoc.europa.eu/941"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/941",
+      "language": "fr",
+      "label": "exploitation des ressources",
+      "source_uri": "http://eurovoc.europa.eu/941"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "acetylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "benzene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "butylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "ethylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "hydrogen carbide",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "isoprene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "methane",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "olefin",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "orthoxylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "paraxylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "phenol",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "propylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "styrene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "toluene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "xylene",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "ac\u00E9tyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "benz\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "butyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "carbure d\u0027hydrog\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "isopr\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "m\u00E9thane",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "ol\u00E9fine",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "orthoxyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "paraxyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "ph\u00E9nol",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "propyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "styr\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "tolu\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "xyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "\u00E9thyl\u00E8ne",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1685",
+      "language": "en",
+      "label": "geographical source of energy",
+      "source_uri": "http://eurovoc.europa.eu/1685"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1685",
+      "language": "fr",
+      "label": "source g\u00E9ographique de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/1685"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "availability of supplies",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "problems of supply",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "en",
+      "label": "supply difficulties",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4025",
+      "language": "fr",
+      "label": "difficult\u00E9 d\u0027approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/4025"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1160",
+      "language": "en",
+      "label": "management of resources",
+      "source_uri": "http://eurovoc.europa.eu/1160"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1160",
+      "language": "fr",
+      "label": "gestion des ressources",
+      "source_uri": "http://eurovoc.europa.eu/1160"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "en",
+      "label": "supply",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2292",
+      "language": "fr",
+      "label": "approvisionnement",
+      "source_uri": "http://eurovoc.europa.eu/2292"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2470",
+      "language": "en",
+      "label": "environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/2470"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2470",
+      "language": "fr",
+      "label": "politique de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2470"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "en",
+      "label": "energy policy",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "energy market",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "fr",
+      "label": "march\u00E9 de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100155",
+      "language": "en",
+      "label": "52 ENVIRONMENT",
+      "source_uri": "http://eurovoc.europa.eu/100155"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100155",
+      "language": "fr",
+      "label": "52 ENVIRONNEMENT",
+      "source_uri": "http://eurovoc.europa.eu/100155"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "en",
+      "label": "2016 trade",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100193",
+      "language": "fr",
+      "label": "2016 \u00E9changes \u00E9conomiques",
+      "source_uri": "http://eurovoc.europa.eu/100193"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100242",
+      "language": "en",
+      "label": "5206 environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/100242"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100242",
+      "language": "fr",
+      "label": "5206 politique de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/100242"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "en",
+      "label": "6606 energy policy",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "fr",
+      "label": "6606 politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100265",
+      "language": "en",
+      "label": "6616 oil industry",
+      "source_uri": "http://eurovoc.europa.eu/100265"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100265",
+      "language": "fr",
+      "label": "6616 industrie p\u00E9troli\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/100265"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "1a63e538f4dc4e9e0f09a1f808d437ef58fe40ecec5efe64698e749c8ae80ff1"
+}

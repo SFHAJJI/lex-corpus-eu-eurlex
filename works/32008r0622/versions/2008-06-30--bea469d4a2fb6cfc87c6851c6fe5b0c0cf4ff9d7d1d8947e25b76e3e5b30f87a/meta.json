@@ -1,0 +1,337 @@
+{
+  "lex_id": "eu-eurlex:32008r0622:2008-06-30--bea469d4a2fb6cfc87c6851c6fe5b0c0cf4ff9d7d1d8947e25b76e3e5b30f87a",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32008R0622",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32008R0622",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2008-06-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2008-06-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2008-06-30",
+      "valid_time_source": "publisher",
+      "title": "Commission Regulation (EC) No 622/2008 of 30 June 2008 amending Regulation (EC) No 773/2004, as regards the conduct of settlement procedures in cartel cases (Text with EEA relevance)",
+      "title_short": "Commission Regulation (EC) No 622/2008 of 30 June 2008 amending Regulation (EC) No 773/200\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0622",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c9179c4f5d2e0fe8ca4170d1161d0e915ebcf7b5ba6ff77bc81d7daa7d932f94",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0622",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0622"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2008-06-30",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (CE) n o  622/2008 de la Commission du 30 juin 2008 modifiant le r\u00E8glement (CE) n o  773/2004 en ce qui concerne les proc\u00E9dures de transaction engag\u00E9es dans les affaires d\u2019entente (Texte pr\u00E9sentant de l\u0027int\u00E9r\u00EAt pour l\u0027EEE)",
+      "title_short": "R\u00E8glement (CE) n o  622/2008 de la Commission du 30 juin 2008 modifiant le r\u00E8glement (CE) \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R0622",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1fffc56480d94096bf994757add91d45c34ad857549aacdbdd0f1f6d2267bddc",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R0622",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R0622"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32008R0622",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition law",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "droit de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "en",
+      "label": "complaint to the Commission",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "fr",
+      "label": "plainte \u00E0 la Commission",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "infringement procedure (EU)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "fr",
+      "label": "proc\u00E9dure d\u0027infraction (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "en",
+      "label": "competition regulations",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/539",
+      "language": "fr",
+      "label": "r\u00E9glementation de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/539"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "en",
+      "label": "complaint about failure to take action",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "fr",
+      "label": "plainte antidumping",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5790",
+      "language": "fr",
+      "label": "plainte en manquement",
+      "source_uri": "http://eurovoc.europa.eu/5790"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "EC infringement procedure",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "EC infringement proceedings",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "declaration of an EC failure to fulfil an obligation",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "en",
+      "label": "declaration of an EC failure to take action",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "fr",
+      "label": "constatation du manquement",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "fr",
+      "label": "proc\u00E9dure CE d\u0027infraction",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5814",
+      "language": "fr",
+      "label": "proc\u00E9dure pr\u00E9-contentieuse (UE)",
+      "source_uri": "http://eurovoc.europa.eu/5814"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente entre producteurs",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entreprise associ\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5953",
+      "language": "en",
+      "label": "infringement of EU law",
+      "source_uri": "http://eurovoc.europa.eu/5953"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5953",
+      "language": "fr",
+      "label": "violation du droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5953"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "en",
+      "label": "40 BUSINESS AND COMPETITION",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "fr",
+      "label": "40 ENTREPRISE ET CONCURRENCE",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "en",
+      "label": "1011 European Union law",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "fr",
+      "label": "1011 droit de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100231",
+      "language": "en",
+      "label": "4031 competition",
+      "source_uri": "http://eurovoc.europa.eu/100231"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100231",
+      "language": "fr",
+      "label": "4031 concurrence",
+      "source_uri": "http://eurovoc.europa.eu/100231"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "c2bd13ad18dd7d1f2110c8d928e2638579ab449709efbcce33025ce2e59ed6f4"
+}

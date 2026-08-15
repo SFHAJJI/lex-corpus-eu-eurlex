@@ -1,0 +1,680 @@
+{
+  "lex_id": "eu-eurlex:32011l0077:2011-09-27--1bb06ff908b8c56ed89c6bc90c644790e611b04faef02c5214d923d042aa55c1",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32011L0077",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32011L0077",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2011-09-27",
+  "valid_to": "2011-10-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2011-09-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "field=valid_to;new=2011-10-30"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:en:2011-09-27",
+      "detail": "field=valid_to;new=2011-10-30"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "expression:fr:2011-09-27",
+      "detail": "field=valid_to;new=2011-10-30"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2011-09-27",
+      "valid_to": "2011-10-30",
+      "valid_time_source": "publisher",
+      "title": "Directive 2011/77/EU of the European Parliament and of the Council of 27\u00A0September 2011 amending Directive 2006/116/EC on the term of protection of copyright and certain related rights",
+      "title_short": "Directive 2011/77/EU",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0077",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "de27b9706ab0d729952182d11ec4b2a5ea51ea4d9837b8b4138b741756fb7ae6",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0077",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0077"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2011-09-27",
+      "valid_to": "2011-10-30",
+      "valid_time_source": "publisher",
+      "title": "Directive 2011/77/UE du Parlement europ\u00E9en et du Conseil du 27\u00A0septembre 2011 modifiant la directive 2006/116/CE relative \u00E0 la dur\u00E9e de protection du droit d\u2019auteur et de certains droits voisins",
+      "title_short": "Directive 2011/77/UE du Parlement europ\u00E9en et du Conseil du 27\u00A0septembre 2011 modifiant la\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0077",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "03994e00c1e778364badda53e5af1deab564a9d122cb7f6a56e6bd05f2eac70c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0077",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0077"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32011L0077",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "en",
+      "label": "Intellectual property law",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720",
+      "language": "fr",
+      "label": "Droit de la propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/1720"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2023",
+      "language": "en",
+      "label": "music",
+      "source_uri": "http://eurovoc.europa.eu/2023"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2023",
+      "language": "fr",
+      "label": "musique",
+      "source_uri": "http://eurovoc.europa.eu/2023"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/283",
+      "language": "en",
+      "label": "artistic creation",
+      "source_uri": "http://eurovoc.europa.eu/283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/283",
+      "language": "fr",
+      "label": "cr\u00E9ation artistique",
+      "source_uri": "http://eurovoc.europa.eu/283"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "approximation of laws",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "rapprochement des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "artistic profession",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "profession artistique",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "record",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "disque",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4105",
+      "language": "en",
+      "label": "literary and artistic property",
+      "source_uri": "http://eurovoc.europa.eu/4105"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4105",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 litt\u00E9raire et artistique",
+      "source_uri": "http://eurovoc.europa.eu/4105"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "en",
+      "label": "copyright",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "fr",
+      "label": "droit d\u0027auteur",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "en",
+      "label": "legislative harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2897",
+      "language": "fr",
+      "label": "harmonisation des l\u00E9gislations",
+      "source_uri": "http://eurovoc.europa.eu/2897"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "actor",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "artist",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "composer",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "cultural worker",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "dancer",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "film-maker",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "musician",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "painter",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "photographer",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "sculptor",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "en",
+      "label": "singer",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "acteur",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "artiste",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "artiste interpr\u00E8te",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "chanteur",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "cin\u00E9aste",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "danseur",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "musicien",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "peintre",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "photographe",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "sculpteur",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3598",
+      "language": "fr",
+      "label": "travailleur culturel",
+      "source_uri": "http://eurovoc.europa.eu/3598"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "CD",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "DVD-audio",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "audio DVD",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "compact disc",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "en",
+      "label": "disc",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "CD",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "DVD-audio",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "compact disque",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "disque audionum\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3871",
+      "language": "fr",
+      "label": "disque compact",
+      "source_uri": "http://eurovoc.europa.eu/3871"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4105",
+      "language": "en",
+      "label": "artistic and literary property",
+      "source_uri": "http://eurovoc.europa.eu/4105"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4105",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 artistique et litt\u00E9raire",
+      "source_uri": "http://eurovoc.europa.eu/4105"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "en",
+      "label": "accessory right",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/529",
+      "language": "fr",
+      "label": "droits voisins",
+      "source_uri": "http://eurovoc.europa.eu/529"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2459",
+      "language": "en",
+      "label": "cultural policy",
+      "source_uri": "http://eurovoc.europa.eu/2459"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2459",
+      "language": "fr",
+      "label": "politique culturelle",
+      "source_uri": "http://eurovoc.europa.eu/2459"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2688",
+      "language": "en",
+      "label": "arts",
+      "source_uri": "http://eurovoc.europa.eu/2688"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2688",
+      "language": "fr",
+      "label": "arts",
+      "source_uri": "http://eurovoc.europa.eu/2688"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "en",
+      "label": "intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3873",
+      "language": "en",
+      "label": "recording",
+      "source_uri": "http://eurovoc.europa.eu/3873"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3873",
+      "language": "fr",
+      "label": "support enregistr\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/3873"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "en",
+      "label": "EU law",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/525",
+      "language": "fr",
+      "label": "droit de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/525"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "en",
+      "label": "28 SOCIAL QUESTIONS",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100149",
+      "language": "fr",
+      "label": "28 QUESTIONS SOCIALES",
+      "source_uri": "http://eurovoc.europa.eu/100149"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "en",
+      "label": "32 EDUCATION AND COMMUNICATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100150",
+      "language": "fr",
+      "label": "32 \u00C9DUCATION ET COMMUNICATION",
+      "source_uri": "http://eurovoc.europa.eu/100150"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "en",
+      "label": "64 PRODUCTION, TECHNOLOGY AND RESEARCH",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "fr",
+      "label": "64 PRODUCTION, TECHNOLOGIE ET RECHERCHE",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "en",
+      "label": "1011 European Union law",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100175",
+      "language": "fr",
+      "label": "1011 droit de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100175"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100213",
+      "language": "en",
+      "label": "2831 culture and religion",
+      "source_uri": "http://eurovoc.europa.eu/100213"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100213",
+      "language": "fr",
+      "label": "2831 culture et religion",
+      "source_uri": "http://eurovoc.europa.eu/100213"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "en",
+      "label": "3226 communications",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100221",
+      "language": "fr",
+      "label": "3226 communication",
+      "source_uri": "http://eurovoc.europa.eu/100221"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100262",
+      "language": "en",
+      "label": "6416 research and intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/100262"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100262",
+      "language": "fr",
+      "label": "6416 recherche et propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/100262"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "78180d7510b34eeb3058de067f451370d98d510f5ae46c518b07ed8006e8b600"
+}

@@ -1,0 +1,617 @@
+{
+  "lex_id": "eu-eurlex:32006l0018:2006-02-14--238d429cb1a7d6fb361af404a14465a64b99c6c700b364905338b3db84f92745",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32006L0018",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32006L0018",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2006-02-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "0",
+  "publication_date": "2006-02-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2006-02-14",
+      "valid_time_source": "publisher",
+      "title": "Council Directive 2006/18/EC of  14 February 2006  amending Directive 77/388/EEC with regard to reduced rates of value added tax",
+      "title_short": "Council Directive 2006/18/EC of  14 February 2006  amending Directive 77/388/EEC with rega\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0018",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "d46c1e773d99920c3d04b265eab24eb6927fc691c19dd441ff1abd2e8df7c16c",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0018",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0018"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2006-02-14",
+      "valid_time_source": "publisher",
+      "title": "Directive 2006/18/CE du Conseil du  14 f\u00E9vrier 2006  modifiant la directive 77/388/CEE en ce qui concerne les taux r\u00E9duits de taxe sur la valeur ajout\u00E9e",
+      "title_short": "Directive 2006/18/CE du Conseil du  14 f\u00E9vrier 2006  modifiant la directive 77/388/CEE en \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0018",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "575a9f71092443d611078e4fe056ced68559e124bc23491e6b186aefd47630e9",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0018",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0018"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32006L0018",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "not_in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "en",
+      "label": "Turnover tax/VAT",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010",
+      "language": "fr",
+      "label": "Taxe sur le chiffre d\u0027affaires/TVA",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/093010"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "en",
+      "label": "natural gas",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1141",
+      "language": "fr",
+      "label": "gaz naturel",
+      "source_uri": "http://eurovoc.europa.eu/1141"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonisation",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax relief",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "d\u00E9duction fiscale",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4392",
+      "language": "en",
+      "label": "VAT rate",
+      "source_uri": "http://eurovoc.europa.eu/4392"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4392",
+      "language": "fr",
+      "label": "taux de TVA",
+      "source_uri": "http://eurovoc.europa.eu/4392"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heating",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "chauffage",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electrical energy",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9nergie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "harmonisation of tax systems",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "en",
+      "label": "tax harmonization",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "harmonisation des fiscalit\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1234",
+      "language": "fr",
+      "label": "lutte contre la concurrence fiscale",
+      "source_uri": "http://eurovoc.europa.eu/1234"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "relief from taxes",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax abatement",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax advantage",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax allowance",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax concession",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax credit",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax deduction",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "en",
+      "label": "tax reduction",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "abattement fiscal",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "all\u00E9gement d\u0027imp\u00F4ts",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "all\u00E9gement fiscal",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "avantage fiscal",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "avoir fiscal",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "cr\u00E9dit d\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "d\u00E9gr\u00E8vement fiscal",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "r\u00E9duction d\u0027imp\u00F4t",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/365",
+      "language": "fr",
+      "label": "r\u00E9duction fiscale",
+      "source_uri": "http://eurovoc.europa.eu/365"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "district heating",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "domestic heating",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heater",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heating apparatus",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heating installation",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "heating plant",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "en",
+      "label": "industrial heat",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "appareil de chauffage",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "chaleur industrielle",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "chauffage domestique",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "chauffage urbain",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "installation de chauffage",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5503",
+      "language": "fr",
+      "label": "mat\u00E9riel de chauffage",
+      "source_uri": "http://eurovoc.europa.eu/5503"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "en",
+      "label": "electricity",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/747",
+      "language": "fr",
+      "label": "\u00E9lectricit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/747"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "en",
+      "label": "hydrocarbon",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1274",
+      "language": "fr",
+      "label": "hydrocarbure",
+      "source_uri": "http://eurovoc.europa.eu/1274"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2504",
+      "language": "en",
+      "label": "fiscal policy",
+      "source_uri": "http://eurovoc.europa.eu/2504"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2504",
+      "language": "fr",
+      "label": "politique fiscale",
+      "source_uri": "http://eurovoc.europa.eu/2504"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "en",
+      "label": "electrical industry",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3783",
+      "language": "fr",
+      "label": "industrie \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/3783"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4414",
+      "language": "en",
+      "label": "building services",
+      "source_uri": "http://eurovoc.europa.eu/4414"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4414",
+      "language": "fr",
+      "label": "\u00E9quipement du b\u00E2timent",
+      "source_uri": "http://eurovoc.europa.eu/4414"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "en",
+      "label": "VAT",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4585",
+      "language": "fr",
+      "label": "TVA",
+      "source_uri": "http://eurovoc.europa.eu/4585"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100160",
+      "language": "en",
+      "label": "68 INDUSTRY",
+      "source_uri": "http://eurovoc.europa.eu/100160"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100160",
+      "language": "fr",
+      "label": "68 INDUSTRIE",
+      "source_uri": "http://eurovoc.europa.eu/100160"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "en",
+      "label": "2446 taxation",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100206",
+      "language": "fr",
+      "label": "2446 fiscalit\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/100206"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100265",
+      "language": "en",
+      "label": "6616 oil industry",
+      "source_uri": "http://eurovoc.europa.eu/100265"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100265",
+      "language": "fr",
+      "label": "6616 industrie p\u00E9troli\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/100265"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "en",
+      "label": "6621 electrical and nuclear industries",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100266",
+      "language": "fr",
+      "label": "6621 industries nucl\u00E9aire et \u00E9lectrique",
+      "source_uri": "http://eurovoc.europa.eu/100266"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100273",
+      "language": "en",
+      "label": "6831 building and public works",
+      "source_uri": "http://eurovoc.europa.eu/100273"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100273",
+      "language": "fr",
+      "label": "6831 b\u00E2timent et travaux publics",
+      "source_uri": "http://eurovoc.europa.eu/100273"
+    }
+  ],
+  "document_roles": [
+    "amending"
+  ],
+  "record_sha256": "ae038606ce3ac07c26523612f800467d1f19418a5f0a3daf75df9c83c0dea78f"
+}

@@ -1,0 +1,82 @@
+{
+  "lex_id": "eu-eurlex:12012p-txt:2012-10-26--2bb9eef03fffad775c7a64f1416a9564b150849b7dac7b17ae2c36f292424f09",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/12012P/TXT",
+  "work_identifier": "http://publications.europa.eu/resource/celex/12012P/TXT",
+  "publisher": "eu-eurlex",
+  "document_type": "TREATY",
+  "valid_from": "2012-10-26",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2012-10-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:07:08Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2012-10-26",
+      "valid_time_source": "publisher",
+      "title": "Charter of Fundamental Rights of the European Union",
+      "title_short": "Charter of Fundamental Rights of the European Union",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P%2FTXT",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "3457b2dde9d11ac25bdea22e015556e6e499f01f5821f47d2ad10f11a56af685",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P%2FTXT",
+          "retrieved_at": "2026-08-06T19:07:08Z",
+          "observed_from": "2026-08-06T19:07:08Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P%2FTXT"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2012-10-26",
+      "valid_time_source": "publisher",
+      "title": "Charte des droits fondamentaux de l\u0027Union europ\u00E9enne",
+      "title_short": "Charte des droits fondamentaux de l\u0027Union europ\u00E9enne",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012P%2FTXT",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b8301dd021ca9bebdf71744cfb4e7f8a13d145a43a597c1e797ec32092de37af",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012P%2FTXT",
+          "retrieved_at": "2026-08-06T19:07:08Z",
+          "observed_from": "2026-08-06T19:07:08Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012P%2FTXT"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "12012P/TXT",
+    "legal_form": "TREATY",
+    "hierarchy": "primary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "record_sha256": "78477bf7424c4abb990cb73cd155e0f35f5b61ccf29a6dd86136bf80b5067826"
+}

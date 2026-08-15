@@ -1,0 +1,785 @@
+{
+  "lex_id": "eu-eurlex:32026r0905:2026-04-24--5b270db7f4eba2c821a80286090352578dce92b1b7ac2ec967c7252fb1b58af2",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32026R0905",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32026R0905",
+  "publisher": "eu-eurlex",
+  "document_type": "REG_IMPL",
+  "valid_from": "2026-04-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2026-04-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2026-04-24",
+      "valid_time_source": "publisher",
+      "title": "Commission Implementing Regulation (EU) 2026/905 of 24\u00A0April 2026 supplementing Regulation (EU)\u00A02016/1011 of the European Parliament and of the Council by establishing a list of spot foreign exchange benchmarks exempt from its application",
+      "title_short": "Commission Implementing Regulation (EU) 2026/905 of 24\u00A0April 2026 supplementing Regulation (EU)\u00A02016/1011",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c16f8efb3086b922c8fbb5b55afe994f91bb925668823b0d45bc926b45eab572",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2026-04-24",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/905 de la Commission du 24\u00A0avril 2026 compl\u00E9tant le r\u00E8glement (UE)\u00A02016/1011 du Parlement europ\u00E9en et du Conseil en \u00E9tablissant une liste des indices de r\u00E9f\u00E9rence de taux de change au comptant exempt\u00E9s de son application",
+      "title_short": "R\u00E8glement d\u2019ex\u00E9cution (UE) 2026/905 de la Commission du 24\u00A0avril 2026 compl\u00E9tant le r\u00E8glem\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1264a1ee2cd74a36b5346a5cc9289713d077c4897a27175a58bbde0ebe65774b",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32026R0905",
+    "legal_form": "REG_IMPL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "en",
+      "label": "Service activities",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020",
+      "language": "fr",
+      "label": "Activit\u00E9s de service",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/062020"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "price index",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "fr",
+      "label": "indice des prix",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1799",
+      "language": "en",
+      "label": "foreign exchange market",
+      "source_uri": "http://eurovoc.europa.eu/1799"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1799",
+      "language": "fr",
+      "label": "march\u00E9 des changes",
+      "source_uri": "http://eurovoc.europa.eu/1799"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "en",
+      "label": "financial market",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "fr",
+      "label": "march\u00E9 financier",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "en",
+      "label": "financial control",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/189",
+      "language": "fr",
+      "label": "contr\u00F4le financier",
+      "source_uri": "http://eurovoc.europa.eu/189"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2151",
+      "language": "en",
+      "label": "exchange transaction",
+      "source_uri": "http://eurovoc.europa.eu/2151"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2151",
+      "language": "fr",
+      "label": "op\u00E9ration de change",
+      "source_uri": "http://eurovoc.europa.eu/2151"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "en",
+      "label": "third country",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2300",
+      "language": "fr",
+      "label": "pays tiers",
+      "source_uri": "http://eurovoc.europa.eu/2300"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer protection",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "protection du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4390",
+      "language": "en",
+      "label": "exchange rate",
+      "source_uri": "http://eurovoc.europa.eu/4390"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4390",
+      "language": "fr",
+      "label": "taux de change",
+      "source_uri": "http://eurovoc.europa.eu/4390"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "financial legislation",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6334",
+      "language": "en",
+      "label": "Euribor",
+      "source_uri": "http://eurovoc.europa.eu/6334"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6334",
+      "language": "fr",
+      "label": "Euribor",
+      "source_uri": "http://eurovoc.europa.eu/6334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "price indicator",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "price level",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "table of prices",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "threshold index",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "en",
+      "label": "trigger index",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "fr",
+      "label": "indicateur de prix",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "fr",
+      "label": "indice pivot",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "fr",
+      "label": "niveau de prix",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1354",
+      "language": "fr",
+      "label": "relev\u00E9 des prix",
+      "source_uri": "http://eurovoc.europa.eu/1354"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1799",
+      "language": "en",
+      "label": "FX market",
+      "source_uri": "http://eurovoc.europa.eu/1799"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1799",
+      "language": "en",
+      "label": "Forex market",
+      "source_uri": "http://eurovoc.europa.eu/1799"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1799",
+      "language": "en",
+      "label": "foreign currency market",
+      "source_uri": "http://eurovoc.europa.eu/1799"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1799",
+      "language": "fr",
+      "label": "march\u00E9 des devises",
+      "source_uri": "http://eurovoc.europa.eu/1799"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "en",
+      "label": "financial activity",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "en",
+      "label": "international financial market",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "en",
+      "label": "securities market",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "fr",
+      "label": "activit\u00E9 financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1804",
+      "language": "fr",
+      "label": "march\u00E9 financier international",
+      "source_uri": "http://eurovoc.europa.eu/1804"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2151",
+      "language": "en",
+      "label": "exchange of currency",
+      "source_uri": "http://eurovoc.europa.eu/2151"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2151",
+      "language": "fr",
+      "label": "change",
+      "source_uri": "http://eurovoc.europa.eu/2151"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2151",
+      "language": "fr",
+      "label": "m\u00E9canisme de change",
+      "source_uri": "http://eurovoc.europa.eu/2151"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumer policy action plan",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumerism",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "en",
+      "label": "consumers\u0027 rights",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "consommatisme",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "consumeurisme",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "droits du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "d\u00E9fense du consommateur",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2836",
+      "language": "fr",
+      "label": "plan d\u0027action en faveur des consommateurs",
+      "source_uri": "http://eurovoc.europa.eu/2836"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4390",
+      "language": "en",
+      "label": "dual exchange rate",
+      "source_uri": "http://eurovoc.europa.eu/4390"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4390",
+      "language": "fr",
+      "label": "cours de change",
+      "source_uri": "http://eurovoc.europa.eu/4390"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4390",
+      "language": "fr",
+      "label": "double taux de change",
+      "source_uri": "http://eurovoc.europa.eu/4390"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "en",
+      "label": "transaction regulations",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "droit financier",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "l\u00E9gislation financi\u00E8re",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/560",
+      "language": "fr",
+      "label": "r\u00E9glementation des transactions",
+      "source_uri": "http://eurovoc.europa.eu/560"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6334",
+      "language": "en",
+      "label": "European Interbank Offered Rate",
+      "source_uri": "http://eurovoc.europa.eu/6334"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6334",
+      "language": "fr",
+      "label": "taux interbancaire offert en euros",
+      "source_uri": "http://eurovoc.europa.eu/6334"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "en",
+      "label": "consumer",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/138",
+      "language": "fr",
+      "label": "consommateur",
+      "source_uri": "http://eurovoc.europa.eu/138"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1630",
+      "language": "en",
+      "label": "free movement of capital",
+      "source_uri": "http://eurovoc.europa.eu/1630"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/1630",
+      "language": "fr",
+      "label": "libre circulation des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/1630"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2149",
+      "language": "en",
+      "label": "banking",
+      "source_uri": "http://eurovoc.europa.eu/2149"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2149",
+      "language": "fr",
+      "label": "activit\u00E9 bancaire",
+      "source_uri": "http://eurovoc.europa.eu/2149"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2486",
+      "language": "en",
+      "label": "exchange policy",
+      "source_uri": "http://eurovoc.europa.eu/2486"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2486",
+      "language": "fr",
+      "label": "politique des changes",
+      "source_uri": "http://eurovoc.europa.eu/2486"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2489",
+      "language": "en",
+      "label": "prices policy",
+      "source_uri": "http://eurovoc.europa.eu/2489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2489",
+      "language": "fr",
+      "label": "politique des prix",
+      "source_uri": "http://eurovoc.europa.eu/2489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "en",
+      "label": "cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "fr",
+      "label": "politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6151",
+      "language": "en",
+      "label": "euro area",
+      "source_uri": "http://eurovoc.europa.eu/6151"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/6151",
+      "language": "fr",
+      "label": "zone euro",
+      "source_uri": "http://eurovoc.europa.eu/6151"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/929",
+      "language": "en",
+      "label": "implementation of the budget",
+      "source_uri": "http://eurovoc.europa.eu/929"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/929",
+      "language": "fr",
+      "label": "ex\u00E9cution du budget",
+      "source_uri": "http://eurovoc.europa.eu/929"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "en",
+      "label": "08 INTERNATIONAL RELATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "fr",
+      "label": "08 RELATIONS INTERNATIONALES",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "en",
+      "label": "20 TRADE",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100147",
+      "language": "fr",
+      "label": "20 \u00C9CHANGES \u00C9CONOMIQUES ET COMMERCIAUX",
+      "source_uri": "http://eurovoc.europa.eu/100147"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "en",
+      "label": "0811 cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "fr",
+      "label": "0811 politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "en",
+      "label": "2026 consumption",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100195",
+      "language": "fr",
+      "label": "2026 consommation",
+      "source_uri": "http://eurovoc.europa.eu/100195"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100198",
+      "language": "en",
+      "label": "2406 monetary relations",
+      "source_uri": "http://eurovoc.europa.eu/100198"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100198",
+      "language": "fr",
+      "label": "2406 relations mon\u00E9taires",
+      "source_uri": "http://eurovoc.europa.eu/100198"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100199",
+      "language": "en",
+      "label": "2411 monetary economics",
+      "source_uri": "http://eurovoc.europa.eu/100199"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100199",
+      "language": "fr",
+      "label": "2411 \u00E9conomie mon\u00E9taire",
+      "source_uri": "http://eurovoc.europa.eu/100199"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100200",
+      "language": "en",
+      "label": "2416 financial institutions and credit",
+      "source_uri": "http://eurovoc.europa.eu/100200"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100200",
+      "language": "fr",
+      "label": "2416 institutions financi\u00E8res et cr\u00E9dit",
+      "source_uri": "http://eurovoc.europa.eu/100200"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100201",
+      "language": "en",
+      "label": "2421 free movement of capital",
+      "source_uri": "http://eurovoc.europa.eu/100201"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100201",
+      "language": "fr",
+      "label": "2421 libre circulation des capitaux",
+      "source_uri": "http://eurovoc.europa.eu/100201"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100205",
+      "language": "en",
+      "label": "2441 budget",
+      "source_uri": "http://eurovoc.europa.eu/100205"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100205",
+      "language": "fr",
+      "label": "2441 budget",
+      "source_uri": "http://eurovoc.europa.eu/100205"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100207",
+      "language": "en",
+      "label": "2451 prices",
+      "source_uri": "http://eurovoc.europa.eu/100207"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100207",
+      "language": "fr",
+      "label": "2451 prix",
+      "source_uri": "http://eurovoc.europa.eu/100207"
+    }
+  ],
+  "document_roles": [
+    "implementing"
+  ],
+  "record_sha256": "317d32315cd17739b2832b6fcbdb06f83c532c7943c4cd6ed0f4a17dd3d28af4"
+}

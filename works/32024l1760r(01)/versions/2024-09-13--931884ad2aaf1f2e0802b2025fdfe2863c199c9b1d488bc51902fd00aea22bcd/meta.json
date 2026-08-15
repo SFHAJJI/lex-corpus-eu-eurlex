@@ -1,0 +1,811 @@
+{
+  "lex_id": "eu-eurlex:32024l1760r(01):2024-09-13--931884ad2aaf1f2e0802b2025fdfe2863c199c9b1d488bc51902fd00aea22bcd",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32024L1760R(01)",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024L1760R(01)",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR",
+  "valid_from": "2024-09-13",
+  "valid_time_source": "publisher",
+  "publication_date": "2024-09-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T19:22:43Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T19:54:54Z",
+      "scope": "version",
+      "detail": "fields=raw.consolidation_status"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-12T03:10:54Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier,expressions"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-09-13",
+      "valid_time_source": "publisher",
+      "title": "Rectificatif \u00E0 la directive (UE) 2024/1760 du Parlement europ\u00E9en et du Conseil du 13 juin 2024 sur le devoir de vigilance des entreprises en mati\u00E8re de durabilit\u00E9 et modifiant la directive (UE) 2019/1937 et le r\u00E8glement (UE) 2023/2859 (JO L, 2024/1760, 5.7.2024)",
+      "title_short": "Rectificatif \u00E0 la directive (UE) 2024/1760 du Parlement europ\u00E9en et du Conseil du 13 juin \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1760R%2801%29",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3fd2f880722e9b41c8358025657199c069a0a2d793c441b410dde431dbfdc183",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1760R%2801%29",
+          "retrieved_at": "2026-08-06T19:22:43Z",
+          "observed_from": "2026-08-06T19:22:43Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1760R%2801%29"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {
+    "celex": "32024L1760R(01)",
+    "legal_form": "DIR",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "unknown",
+    "consolidation_status": "original_official_expression"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "environmental protection",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "protection de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental impact",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "impact sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate change policy",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "fr",
+      "label": "politique en mati\u00E8re de changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "en",
+      "label": "company law",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des soci\u00E9t\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "economic instrument for the environment",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "fr",
+      "label": "instrument \u00E9conomique pour l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "en",
+      "label": "human rights",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "fr",
+      "label": "droits de l\u0027homme",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "environmental liability",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "fr",
+      "label": "responsabilit\u00E9 des dommages environnementaux",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "en",
+      "label": "corporate governance",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "fr",
+      "label": "gouvernement d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "en",
+      "label": "corporate social responsibility",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "responsabilit\u00E9 sociale de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "conservation of nature",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "nature protection",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "preservation of the environment",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "en",
+      "label": "protection of nature",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "conservation de la nature",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "protection de la nature",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/2825",
+      "language": "fr",
+      "label": "sauvegarde de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2825"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "eco-balance",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "ecological assessment",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "ecological balance sheet",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "effect on the environment",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental assessment",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental effect",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "en",
+      "label": "environmental footprint",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "bilan \u00E9cologique",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "cons\u00E9quence environnementale",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "cons\u00E9quence sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "effet environnemental",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "effet sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "empreinte environnementale",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "incidence environnementale",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "incidence sur l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "\u00E9cobilan",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3139",
+      "language": "fr",
+      "label": "\u00E9valuation environnementale",
+      "source_uri": "http://eurovoc.europa.eu/3139"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate action",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate policy",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "policy for responding to climate change",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "fr",
+      "label": "action face au changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/554",
+      "language": "fr",
+      "label": "droit des entreprises",
+      "source_uri": "http://eurovoc.europa.eu/554"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "employment law",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "labour legislation",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "en",
+      "label": "workers\u0027 rights",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "droits du travailleur",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/557",
+      "language": "fr",
+      "label": "l\u00E9gislation du travail",
+      "source_uri": "http://eurovoc.europa.eu/557"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "economic instrument for environmental protection",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "market-based environmental policy instrument",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "market-based instrument",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "en",
+      "label": "market-based instrument for environmental policymaking",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "fr",
+      "label": "instrument de politique environnementale fond\u00E9 sur le march\u00E9",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "fr",
+      "label": "instrument fond\u00E9 sur le march\u00E9 pour l\u0027\u00E9laboration de la politique environnementale",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5682",
+      "language": "fr",
+      "label": "instrument \u00E9conomique de protection de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/5682"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "en",
+      "label": "attack on human rights",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "en",
+      "label": "human rights violation",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "en",
+      "label": "protection of human rights",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "fr",
+      "label": "atteinte aux droits de l\u0027homme",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "fr",
+      "label": "protection des droits de l\u0027homme",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/584",
+      "language": "fr",
+      "label": "violation des droits de l\u0027homme",
+      "source_uri": "http://eurovoc.europa.eu/584"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "liability for ecological damage",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "liability for environmental damage",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "liability for environmental harm",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "en",
+      "label": "responsibility for environmental damage",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "fr",
+      "label": "responsabilit\u00E9 pour les dommages \u00E9cologiques",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6401",
+      "language": "fr",
+      "label": "responsabilit\u00E9 pour les d\u00E9g\u00E2ts \u00E9cologiques",
+      "source_uri": "http://eurovoc.europa.eu/6401"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6751",
+      "language": "fr",
+      "label": "gouvernance d\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/6751"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "en",
+      "label": "CSR",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "en",
+      "label": "company environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "en",
+      "label": "corporate environmental responsibility",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "RSE",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "politique d\u0027entreprise environnementale",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "responsabilit\u00E9 environnementale de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "responsabilit\u00E9 soci\u00E9tale de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/7942",
+      "language": "fr",
+      "label": "responsabilit\u00E9 \u00E9cologique de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/7942"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2469",
+      "language": "en",
+      "label": "business policy",
+      "source_uri": "http://eurovoc.europa.eu/2469"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2469",
+      "language": "fr",
+      "label": "politique de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/2469"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2470",
+      "language": "en",
+      "label": "environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/2470"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2470",
+      "language": "fr",
+      "label": "politique de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/2470"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/535",
+      "language": "en",
+      "label": "environmental law",
+      "source_uri": "http://eurovoc.europa.eu/535"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/535",
+      "language": "fr",
+      "label": "droit de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/535"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "en",
+      "label": "12 LAW",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100145",
+      "language": "fr",
+      "label": "12 DROIT",
+      "source_uri": "http://eurovoc.europa.eu/100145"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "en",
+      "label": "40 BUSINESS AND COMPETITION",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "fr",
+      "label": "40 ENTREPRISE ET CONCURRENCE",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100153",
+      "language": "en",
+      "label": "44 EMPLOYMENT AND WORKING CONDITIONS",
+      "source_uri": "http://eurovoc.europa.eu/100153"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100153",
+      "language": "fr",
+      "label": "44 EMPLOI ET TRAVAIL",
+      "source_uri": "http://eurovoc.europa.eu/100153"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100155",
+      "language": "en",
+      "label": "52 ENVIRONMENT",
+      "source_uri": "http://eurovoc.europa.eu/100155"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100155",
+      "language": "fr",
+      "label": "52 ENVIRONNEMENT",
+      "source_uri": "http://eurovoc.europa.eu/100155"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100184",
+      "language": "en",
+      "label": "1236 rights and freedoms",
+      "source_uri": "http://eurovoc.europa.eu/100184"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100184",
+      "language": "fr",
+      "label": "1236 droits et libert\u00E9s",
+      "source_uri": "http://eurovoc.europa.eu/100184"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "en",
+      "label": "4006 business organisation",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "fr",
+      "label": "4006 organisation de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100236",
+      "language": "en",
+      "label": "4426 labour law and labour relations",
+      "source_uri": "http://eurovoc.europa.eu/100236"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100236",
+      "language": "fr",
+      "label": "4426 relation et droit du travail",
+      "source_uri": "http://eurovoc.europa.eu/100236"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100242",
+      "language": "en",
+      "label": "5206 environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/100242"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100242",
+      "language": "fr",
+      "label": "5206 politique de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/100242"
+    }
+  ],
+  "document_roles": [
+    "corrigendum"
+  ],
+  "record_sha256": "21039afde1402b9c710077a71805da2cbb81c75d651341ac84bd884b7a32916a"
+}

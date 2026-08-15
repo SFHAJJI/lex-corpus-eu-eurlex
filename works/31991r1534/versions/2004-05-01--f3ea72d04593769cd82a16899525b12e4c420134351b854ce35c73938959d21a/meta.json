@@ -1,0 +1,483 @@
+{
+  "lex_id": "eu-eurlex:31991r1534:2004-05-01--f3ea72d04593769cd82a16899525b12e4c420134351b854ce35c73938959d21a",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/01991R1534-20040501",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31991R1534",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "2004-05-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2004-05-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "2004-05-01",
+      "valid_time_source": "publisher",
+      "title": "Council Regulation (EEC) No\u00A01534/91 of 31 May 1991 on the application of Article 85 (3) of the Treaty to certain categories of agreements, decisions and concerted practices in the insurance sector",
+      "title_short": "Council Regulation (EEC) No\u00A01534/91 of 31 May 1991 on the application of Article 85 (3) of\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991R1534-20040501",
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "c7a06dee60b2f1ad76b892263a0097c5d08e181a6757788030ca269ce025acf5",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991R1534-20040501",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991R1534-20040501"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "2004-05-01",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement (CEE) n\u00B0\u00A01534/91 du Conseil du 31 mai 1991 concernant l\u0027application de l\u0027article 85 paragraphe 3 du trait\u00E9 \u00E0 certaines cat\u00E9gories d\u0027accords, de d\u00E9cisions et de pratiques concert\u00E9es dans le domaine des assurances",
+      "title_short": "R\u00E8glement (CEE) n\u00B0\u00A01534/91 du Conseil du 31 mai 1991 concernant l\u0027application de l\u0027article\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991R1534-20040501",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0cb507974c50261f878b32ac5132746c360c78ad4d19dfd02c698bc55b78b299",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991R1534-20040501",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991R1534-20040501"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31991R1534"
+    }
+  ],
+  "raw": {
+    "celex": "01991R1534-20040501",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "inter-company cooperation",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "coop\u00E9ration interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "en",
+      "label": "insurance company",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "fr",
+      "label": "compagnie d\u0027assurances",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "Business Cooperation Centre",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "European Cooperation Grouping",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "business cooperation",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "business network",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "cooperation between undertakings",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "Bureau de rapprochement des entreprises",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "Groupement europ\u00E9en de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "association d\u0027entreprises",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "rapprochement des entreprises",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "r\u00E9seau d\u0027entreprises",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "en",
+      "label": "insurance enterprise",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "en",
+      "label": "insurance firm",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "en",
+      "label": "insurance undertaking",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "fr",
+      "label": "caisse d\u0027assurances",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "fr",
+      "label": "entreprise d\u0027assurances",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/34",
+      "language": "fr",
+      "label": "soci\u00E9t\u00E9 d\u0027assurances",
+      "source_uri": "http://eurovoc.europa.eu/34"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "discriminatory trading practice",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "distortion of competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "illegal trade practice",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "unfair competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "unfair trade practice",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "concurrence d\u00E9loyale",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "concurrence illicite",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "concurrence imparfaite",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "distorsion de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale abusive",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale discriminatoire",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale d\u00E9loyale",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale restrictive",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente entre producteurs",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entreprise associ\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2469",
+      "language": "en",
+      "label": "business policy",
+      "source_uri": "http://eurovoc.europa.eu/2469"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2469",
+      "language": "fr",
+      "label": "politique de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/2469"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3151",
+      "language": "en",
+      "label": "insurance",
+      "source_uri": "http://eurovoc.europa.eu/3151"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3151",
+      "language": "fr",
+      "label": "assurance",
+      "source_uri": "http://eurovoc.europa.eu/3151"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "en",
+      "label": "24 FINANCE",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100148",
+      "language": "fr",
+      "label": "24 FINANCES",
+      "source_uri": "http://eurovoc.europa.eu/100148"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "en",
+      "label": "40 BUSINESS AND COMPETITION",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "fr",
+      "label": "40 ENTREPRISE ET CONCURRENCE",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100203",
+      "language": "en",
+      "label": "2431 insurance",
+      "source_uri": "http://eurovoc.europa.eu/100203"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100203",
+      "language": "fr",
+      "label": "2431 assurance",
+      "source_uri": "http://eurovoc.europa.eu/100203"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "en",
+      "label": "4006 business organisation",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "fr",
+      "label": "4006 organisation de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100231",
+      "language": "en",
+      "label": "4031 competition",
+      "source_uri": "http://eurovoc.europa.eu/100231"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100231",
+      "language": "fr",
+      "label": "4031 concurrence",
+      "source_uri": "http://eurovoc.europa.eu/100231"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "2f593cc1e186924dbd35622d96a3a10c89bf8bf1ee6ceac97a5ec1bf4e762451"
+}

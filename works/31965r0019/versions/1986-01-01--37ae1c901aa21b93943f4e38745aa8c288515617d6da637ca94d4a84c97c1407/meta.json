@@ -1,0 +1,437 @@
+{
+  "lex_id": "eu-eurlex:31965r0019:1986-01-01--37ae1c901aa21b93943f4e38745aa8c288515617d6da637ca94d4a84c97c1407",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/01965R0019-19860101",
+  "work_identifier": "http://publications.europa.eu/resource/celex/31965R0019",
+  "publisher": "eu-eurlex",
+  "document_type": "REG",
+  "valid_from": "1986-01-01",
+  "valid_to": "1994-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "1986-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "en",
+      "valid_from": "1986-01-01",
+      "valid_to": "1994-12-31",
+      "valid_time_source": "publisher",
+      "title": "Regulation No 19/65/EEC of the Council of 2 March 1965 on application of Article 85 (3) of the Treaty to certain categories of agreements and concerted practices",
+      "title_short": "Regulation No 19/65/EEC of the Council of 2 March 1965 on application of Article 85 (3) of\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01965R0019-19860101",
+      "observations": [
+        {
+          "file": "en.html",
+          "sha256": "b6479c3108a732d3ce0d13fc869a556dafe964b23ba865ec38868912f99321e8",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01965R0019-19860101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01965R0019-19860101"
+      }
+    },
+    {
+      "language": "fr",
+      "valid_from": "1986-01-01",
+      "valid_to": "1994-12-31",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement N\u00B0 19/65/CEE du Conseil du 2 mars 1965 concernant l\u0027application de l\u0027article 85 paragraphe 3 du trait\u00E9 \u00E0 des cat\u00E9gories d\u0027accords et de pratiques concert\u00E9es",
+      "title_short": "R\u00E8glement N\u00B0 19/65/CEE du Conseil du 2 mars 1965 concernant l\u0027application de l\u0027article 85 \u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01965R0019-19860101",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "7feb1579ed141c3de9f29cd74840034e6aee17e73592648f18185f7ec8b90d28",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01965R0019-19860101",
+          "retrieved_at": "2026-08-07T00:17:15Z",
+          "observed_from": "2026-08-07T00:17:15Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01965R0019-19860101"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/31965R0019"
+    }
+  ],
+  "raw": {
+    "celex": "01965R0019-19860101",
+    "legal_form": "REG",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "en",
+      "label": "Competition principles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810",
+      "language": "fr",
+      "label": "Principes de concurrence",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/0810"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1635",
+      "language": "en",
+      "label": "free competition",
+      "source_uri": "http://eurovoc.europa.eu/1635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/1635",
+      "language": "fr",
+      "label": "libre concurrence",
+      "source_uri": "http://eurovoc.europa.eu/1635"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "en",
+      "label": "industrial property",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/2816",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 industrielle",
+      "source_uri": "http://eurovoc.europa.eu/2816"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "restriction on competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "restriction \u00E0 la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "inter-company agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "en",
+      "label": "restrictive trade practice",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/1635",
+      "language": "en",
+      "label": "free market",
+      "source_uri": "http://eurovoc.europa.eu/1635"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "discriminatory trading practice",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "distortion of competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "illegal trade practice",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "unfair competition",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "en",
+      "label": "unfair trade practice",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "concurrence d\u00E9loyale",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "concurrence illicite",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "concurrence imparfaite",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "distorsion de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale abusive",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale discriminatoire",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale d\u00E9loyale",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3581",
+      "language": "fr",
+      "label": "pratique commerciale restrictive",
+      "source_uri": "http://eurovoc.europa.eu/3581"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "agreement between undertakings",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "en",
+      "label": "producer\u0027s agreement",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord entre entreprises",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3821",
+      "language": "fr",
+      "label": "accord entre producteurs",
+      "source_uri": "http://eurovoc.europa.eu/3821"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entente entre producteurs",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/802",
+      "language": "fr",
+      "label": "entreprise associ\u00E9e",
+      "source_uri": "http://eurovoc.europa.eu/802"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "en",
+      "label": "inter-company cooperation",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/215",
+      "language": "fr",
+      "label": "coop\u00E9ration interentreprises",
+      "source_uri": "http://eurovoc.europa.eu/215"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "en",
+      "label": "competition policy",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2474",
+      "language": "fr",
+      "label": "politique de la concurrence",
+      "source_uri": "http://eurovoc.europa.eu/2474"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "en",
+      "label": "intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2817",
+      "language": "fr",
+      "label": "propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/2817"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "en",
+      "label": "40 BUSINESS AND COMPETITION",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100152",
+      "language": "fr",
+      "label": "40 ENTREPRISE ET CONCURRENCE",
+      "source_uri": "http://eurovoc.europa.eu/100152"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "en",
+      "label": "64 PRODUCTION, TECHNOLOGY AND RESEARCH",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100158",
+      "language": "fr",
+      "label": "64 PRODUCTION, TECHNOLOGIE ET RECHERCHE",
+      "source_uri": "http://eurovoc.europa.eu/100158"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "en",
+      "label": "4006 business organisation",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100226",
+      "language": "fr",
+      "label": "4006 organisation de l\u0027entreprise",
+      "source_uri": "http://eurovoc.europa.eu/100226"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100231",
+      "language": "en",
+      "label": "4031 competition",
+      "source_uri": "http://eurovoc.europa.eu/100231"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100231",
+      "language": "fr",
+      "label": "4031 concurrence",
+      "source_uri": "http://eurovoc.europa.eu/100231"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100262",
+      "language": "en",
+      "label": "6416 research and intellectual property",
+      "source_uri": "http://eurovoc.europa.eu/100262"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100262",
+      "language": "fr",
+      "label": "6416 recherche et propri\u00E9t\u00E9 intellectuelle",
+      "source_uri": "http://eurovoc.europa.eu/100262"
+    }
+  ],
+  "document_roles": [
+    "consolidated"
+  ],
+  "record_sha256": "4e2ff7aa58f34d557be3ac5af0f9d86d03cc7a6ec9af4cf5219be5f394359356"
+}

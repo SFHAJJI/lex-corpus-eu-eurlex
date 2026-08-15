@@ -1,0 +1,865 @@
+{
+  "lex_id": "eu-eurlex:32024l1405:2024-05-17--1eef94dbc65e99548580e400e838f77c3002b5d37b1097ae3347238d102e992c",
+  "publisher_version_identifier": "http://publications.europa.eu/resource/celex/02024L1405-20240517",
+  "work_identifier": "http://publications.europa.eu/resource/celex/32024L1405",
+  "publisher": "eu-eurlex",
+  "document_type": "DIR_DEL",
+  "valid_from": "2024-05-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "1",
+  "publication_date": "2024-05-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-06T16:31:02Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-09T00:10:14Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata,document_roles"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=raw,lex_id,publisher_version_identifier,expressions"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-15T04:50:52Z",
+      "scope": "version",
+      "detail": "fields=publisher_metadata"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-05-17",
+      "valid_time_source": "publisher",
+      "title": "Directive d\u00E9l\u00E9gu\u00E9e (UE) 2024/1405 de la Commission du 14\u00A0mars 2024 modifiant l\u2019annexe\u00A0IX de la directive (UE)\u00A02018/2001 du Parlement europ\u00E9en et du Conseil en ce qui concerne l\u2019ajout de mati\u00E8res premi\u00E8res pour la production de biocarburants et de biogaz",
+      "title_short": "Directive d\u00E9l\u00E9gu\u00E9e (UE) 2024/1405 de la Commission du 14\u00A0mars 2024 modifiant l\u2019annexe\u00A0IX d\u2026",
+      "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024L1405-20240517",
+      "observations": [
+        {
+          "file": "fr.html",
+          "sha256": "43e70bf455e5223e7f83a1a3e912597a9ae5d7d3e543960ec8af4e2d7497f699",
+          "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024L1405-20240517",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z"
+        },
+        {
+          "file": "fr.fmx4/CL2024L1405FR0000010.0001.doc.xml",
+          "sha256": "a52c8870df9f33d2fe6d0a1ac33a88d6d0c4ac4221a656ac262b2a398828cd33",
+          "source_uri": "https://publications.europa.eu/resource/cellar/72ba71c0-492a-11ef-acbc-01aa75ed71a1.0009.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        },
+        {
+          "file": "fr.fmx4/CL2024L1405FR0000010.0001.xml",
+          "sha256": "d92f8cb908252ca52ad05db16e588b8ee464938075aa19fcc5b4a1493f5913f4",
+          "source_uri": "https://publications.europa.eu/resource/cellar/72ba71c0-492a-11ef-acbc-01aa75ed71a1.0009.01/zip",
+          "retrieved_at": "2026-08-06T16:31:02Z",
+          "observed_from": "2026-08-06T16:31:02Z",
+          "format": "fmx4"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024L1405-20240517"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "consolidates",
+      "target": "http://publications.europa.eu/resource/celex/32024L1405"
+    }
+  ],
+  "raw": {
+    "celex": "02024L1405-20240517",
+    "legal_form": "DIR_DEL",
+    "hierarchy": "secondary_eu_law",
+    "binding_status": "in_force",
+    "consolidation_status": "published"
+  },
+  "publisher_metadata": [
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "en",
+      "label": "Space, environment and natural resources",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "directory",
+      "identifier": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030",
+      "language": "fr",
+      "label": "Espace, environnement et ressources naturelles",
+      "source_uri": "http://publications.europa.eu/resource/authority/dir-eu-legal-act/151030"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/142",
+      "language": "en",
+      "label": "energy consumption",
+      "source_uri": "http://eurovoc.europa.eu/142"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/142",
+      "language": "fr",
+      "label": "consommation d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/142"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "en",
+      "label": "renewable resources",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "fr",
+      "label": "ressource renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "en",
+      "label": "biogas",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "fr",
+      "label": "biogaz",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "en",
+      "label": "EU programme",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "fr",
+      "label": "programme de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5546",
+      "language": "en",
+      "label": "environmental cooperation",
+      "source_uri": "http://eurovoc.europa.eu/5546"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5546",
+      "language": "fr",
+      "label": "coop\u00E9ration environnementale",
+      "source_uri": "http://eurovoc.europa.eu/5546"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "greenhouse gas",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "gaz \u00E0 effet de serre",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "reduction of gas emissions",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction des \u00E9missions de gaz",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "energy saving",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "\u00E9conomie d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "en",
+      "label": "biofuel",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "biocarburant",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/142",
+      "language": "en",
+      "label": "use of energy",
+      "source_uri": "http://eurovoc.europa.eu/142"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "en",
+      "label": "non-renewable resources",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/3551",
+      "language": "fr",
+      "label": "ressource non renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/3551"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "en",
+      "label": "biomethane",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "en",
+      "label": "green energy",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "en",
+      "label": "manure gas",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "fr",
+      "label": "biom\u00E9thane",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "fr",
+      "label": "gaz de fumier",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/4900",
+      "language": "fr",
+      "label": "\u00E9nergie verte",
+      "source_uri": "http://eurovoc.europa.eu/4900"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "en",
+      "label": "Community framework programme",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "en",
+      "label": "Community programme",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "en",
+      "label": "EC framework programme",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "en",
+      "label": "European Union programme",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "fr",
+      "label": "programme communautaire",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "fr",
+      "label": "programme de l\u0027Union europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "fr",
+      "label": "programme-cadre CE",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5315",
+      "language": "fr",
+      "label": "programme-cadre communautaire",
+      "source_uri": "http://eurovoc.europa.eu/5315"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "en",
+      "label": "carbon dioxide",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/5650",
+      "language": "fr",
+      "label": "dioxyde de carbone",
+      "source_uri": "http://eurovoc.europa.eu/5650"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "climate change mitigation",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "decarbonization",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "gas emission reduction",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "mitigation measure",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "mitigation of climate change",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "en",
+      "label": "mitigation policy",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "att\u00E9nuation du changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "d\u00E9carbonation",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "mesure d\u0027att\u00E9nuation du changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "politique d\u0027att\u00E9nuation du changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/6400",
+      "language": "fr",
+      "label": "r\u00E9duction d\u0027\u00E9mission",
+      "source_uri": "http://eurovoc.europa.eu/6400"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "rational use of energy",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "en",
+      "label": "waste of energy",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "gaspillage d\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/642",
+      "language": "fr",
+      "label": "utilisation rationnelle de l\u0027\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/642"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "low-carbon energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "non-renewable energy",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "en",
+      "label": "renewable energy source",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "source d\u0027\u00E9nergie renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/754",
+      "language": "fr",
+      "label": "\u00E9nergie non renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/754"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "en",
+      "label": "biodiesel",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "en",
+      "label": "bioethanol",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "en",
+      "label": "biomass fuel",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "en",
+      "label": "green fuel",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "biocombustible",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "biodiesel",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "bio\u00E9thanol",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "carburant vert",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_alt_label",
+      "identifier": "http://eurovoc.europa.eu/8412",
+      "language": "fr",
+      "label": "p\u00E9trole vert",
+      "source_uri": "http://eurovoc.europa.eu/8412"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "en",
+      "label": "energy policy",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2498",
+      "language": "fr",
+      "label": "politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/2498"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2522",
+      "language": "en",
+      "label": "atmospheric pollutant",
+      "source_uri": "http://eurovoc.europa.eu/2522"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/2522",
+      "language": "fr",
+      "label": "polluant atmosph\u00E9rique",
+      "source_uri": "http://eurovoc.europa.eu/2522"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "en",
+      "label": "cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3489",
+      "language": "fr",
+      "label": "politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/3489"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3549",
+      "language": "en",
+      "label": "natural resources",
+      "source_uri": "http://eurovoc.europa.eu/3549"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/3549",
+      "language": "fr",
+      "label": "ressource naturelle",
+      "source_uri": "http://eurovoc.europa.eu/3549"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "en",
+      "label": "climate change policy",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/434743",
+      "language": "fr",
+      "label": "politique en mati\u00E8re de changement climatique",
+      "source_uri": "http://eurovoc.europa.eu/434743"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/44590",
+      "language": "en",
+      "label": "renewable fuel",
+      "source_uri": "http://eurovoc.europa.eu/44590"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/44590",
+      "language": "fr",
+      "label": "carburant renouvelable",
+      "source_uri": "http://eurovoc.europa.eu/44590"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "en",
+      "label": "energy market",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/4886",
+      "language": "fr",
+      "label": "march\u00E9 de l\u2019\u00E9nergie",
+      "source_uri": "http://eurovoc.europa.eu/4886"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5413",
+      "language": "en",
+      "label": "EU action",
+      "source_uri": "http://eurovoc.europa.eu/5413"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/5413",
+      "language": "fr",
+      "label": "action de l\u0027UE",
+      "source_uri": "http://eurovoc.europa.eu/5413"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/744",
+      "language": "en",
+      "label": "soft energy",
+      "source_uri": "http://eurovoc.europa.eu/744"
+    },
+    {
+      "kind": "eurovoc_broader",
+      "identifier": "http://eurovoc.europa.eu/744",
+      "language": "fr",
+      "label": "\u00E9nergie douce",
+      "source_uri": "http://eurovoc.europa.eu/744"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "en",
+      "label": "08 INTERNATIONAL RELATIONS",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100143",
+      "language": "fr",
+      "label": "08 RELATIONS INTERNATIONALES",
+      "source_uri": "http://eurovoc.europa.eu/100143"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "en",
+      "label": "10 EUROPEAN UNION",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100144",
+      "language": "fr",
+      "label": "10 UNION EUROP\u00C9ENNE",
+      "source_uri": "http://eurovoc.europa.eu/100144"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100155",
+      "language": "en",
+      "label": "52 ENVIRONMENT",
+      "source_uri": "http://eurovoc.europa.eu/100155"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100155",
+      "language": "fr",
+      "label": "52 ENVIRONNEMENT",
+      "source_uri": "http://eurovoc.europa.eu/100155"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "en",
+      "label": "66 ENERGY",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_domain",
+      "identifier": "http://eurovoc.europa.eu/100159",
+      "language": "fr",
+      "label": "66 \u00C9NERGIE",
+      "source_uri": "http://eurovoc.europa.eu/100159"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "en",
+      "label": "0811 cooperation policy",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100171",
+      "language": "fr",
+      "label": "0811 politique de coop\u00E9ration",
+      "source_uri": "http://eurovoc.europa.eu/100171"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "en",
+      "label": "1016 European construction",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100176",
+      "language": "fr",
+      "label": "1016 construction europ\u00E9enne",
+      "source_uri": "http://eurovoc.europa.eu/100176"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100242",
+      "language": "en",
+      "label": "5206 environmental policy",
+      "source_uri": "http://eurovoc.europa.eu/100242"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100242",
+      "language": "fr",
+      "label": "5206 politique de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/100242"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100243",
+      "language": "en",
+      "label": "5211 natural environment",
+      "source_uri": "http://eurovoc.europa.eu/100243"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100243",
+      "language": "fr",
+      "label": "5211 milieu naturel",
+      "source_uri": "http://eurovoc.europa.eu/100243"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100244",
+      "language": "en",
+      "label": "5216 deterioration of the environment",
+      "source_uri": "http://eurovoc.europa.eu/100244"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100244",
+      "language": "fr",
+      "label": "5216 d\u00E9t\u00E9rioration de l\u0027environnement",
+      "source_uri": "http://eurovoc.europa.eu/100244"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "en",
+      "label": "6606 energy policy",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100263",
+      "language": "fr",
+      "label": "6606 politique \u00E9nerg\u00E9tique",
+      "source_uri": "http://eurovoc.europa.eu/100263"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100267",
+      "language": "en",
+      "label": "6626 soft energy",
+      "source_uri": "http://eurovoc.europa.eu/100267"
+    },
+    {
+      "kind": "eurovoc_subdomain",
+      "identifier": "http://eurovoc.europa.eu/100267",
+      "language": "fr",
+      "label": "6626 \u00E9nergie douce",
+      "source_uri": "http://eurovoc.europa.eu/100267"
+    }
+  ],
+  "document_roles": [
+    "amending",
+    "consolidated",
+    "delegated"
+  ],
+  "record_sha256": "871efa00a8fae18c8cfc66f3bfc932c88533c350dfb9577c2c8671fa7277c117"
+}

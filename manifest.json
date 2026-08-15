@@ -1,5 +1,5 @@
 {
-  "schema": "lex-corpus/3",
+  "schema": "lex-corpus/4",
   "publisher": {
     "id": "eu-eurlex",
     "name": "Publications Office of the EU (EUR-Lex / Cellar)",
@@ -15,19 +15,19 @@
   "document_types": [
     {
       "code": "DIR",
-      "versions": 764
+      "versions": 846
     },
     {
       "code": "REG",
-      "versions": 649
+      "versions": 696
     },
     {
       "code": "REG_DEL",
-      "versions": 457
+      "versions": 496
     },
     {
       "code": "REG_IMPL",
-      "versions": 383
+      "versions": 413
     },
     {
       "code": "TREATY",
@@ -35,7 +35,11 @@
     },
     {
       "code": "CORRIGENDUM",
-      "versions": 33
+      "versions": 26
+    },
+    {
+      "code": "DEC",
+      "versions": 8
     },
     {
       "code": "DIR_DEL",
@@ -43,10 +47,6 @@
     },
     {
       "code": "DEC_IMPL",
-      "versions": 7
-    },
-    {
-      "code": "DEC",
       "versions": 7
     },
     {
@@ -67,9 +67,9 @@
     "fr"
   ],
   "works": 1250,
-  "versions": 2366,
-  "expressions": 4732,
-  "expressions_with_text": 4732,
+  "versions": 2558,
+  "expressions": 4652,
+  "expressions_with_text": 4652,
   "expressions_without_text": 0,
   "scope_expected_works": 1250,
   "acquisition_retry_maximum_attempts": 4,
@@ -78,5 +78,8 @@
   "valid_to_latest": "2029-03-29",
   "history_begins": "publisher",
   "ingester_version": "0.1.0",
-  "publisher_discovery_schema": "publisher-discovery/1"
+  "ingester_code_commit": "744549f4656090f00b5b3008a94589bf726e6ed1",
+  "source_configuration_kind": "engineering_scope",
+  "source_configuration_sha256": "04a490e489c40568ccee5a17de3f6d2988e2ba153d3a98ad72aa529f45e08d72",
+  "migration_baseline_works": 1250
 }
