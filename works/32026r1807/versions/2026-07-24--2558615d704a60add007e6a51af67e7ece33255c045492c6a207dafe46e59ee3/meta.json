@@ -6,7 +6,7 @@
   "document_type": "REG_IMPL",
   "valid_from": "2026-07-24",
   "valid_time_source": "publisher",
-  "in_force_status": "0",
+  "in_force_status": "1",
   "publication_date": "2026-07-24",
   "events": [
     {
@@ -36,6 +36,12 @@
       "observed_from": "2026-08-15T04:50:52Z",
       "scope": "version",
       "detail": "fields=publisher_metadata"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-18T03:22:42Z",
+      "scope": "version",
+      "detail": "fields=in_force_status,raw.binding_status"
     }
   ],
   "expressions": [
@@ -87,7 +93,7 @@
     "celex": "32026R1807",
     "legal_form": "REG_IMPL",
     "hierarchy": "secondary_eu_law",
-    "binding_status": "not_in_force",
+    "binding_status": "in_force",
     "consolidation_status": "original_official_expression"
   },
   "publisher_metadata": [
@@ -859,5 +865,5 @@
     "amending",
     "implementing"
   ],
-  "record_sha256": "e35bac53bcf59a0ce4f21c6d2011917e7a2dc1f3455015604723cca331731611"
+  "record_sha256": "360eadf9d769111fcc77f0bfca56f0df0569d81145a2af4aecf59f9421c90172"
 }
