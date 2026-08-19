@@ -5,6 +5,7 @@
   "publisher": "eu-eurlex",
   "document_type": "REG_IMPL",
   "valid_from": "2024-12-04",
+  "valid_to": "2026-08-10",
   "valid_time_source": "publisher",
   "in_force_status": "1",
   "publication_date": "2024-12-04",
@@ -12,6 +13,11 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-15T04:50:52Z"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-19T03:25:06Z",
+      "detail": "valid_to=2026-08-10"
     }
   ],
   "expressions": [],
@@ -748,5 +754,5 @@
     "consolidated",
     "implementing"
   ],
-  "record_sha256": "8dc1a7229d409e9138e1ae832faf4a6d67f52e319079a78318a35d8454e1bc63"
+  "record_sha256": "639726a4cf3931792eba32ebc3c7b55cca9bba028084e63a9127275fa1ff4e53"
 }
