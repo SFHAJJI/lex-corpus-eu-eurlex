@@ -3,7 +3,7 @@
   "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32006L0112R(12)",
   "work_identifier": "http://publications.europa.eu/resource/celex/32006L0112R(12)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "DIR",
   "valid_from": "2015-12-09",
   "valid_time_source": "publisher",
   "publication_date": "2015-12-09",
@@ -53,6 +53,12 @@
       "observed_from": "2026-08-15T04:50:52Z",
       "scope": "version",
       "detail": "fields=document_type,publisher_metadata"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-22T03:21:40Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
     }
   ],
   "expressions": [
@@ -81,7 +87,7 @@
   "relations": [],
   "raw": {
     "celex": "32006L0112R(12)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "DIR",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression"
@@ -665,5 +671,5 @@
   "document_roles": [
     "corrigendum"
   ],
-  "record_sha256": "05c47c21e06b5146912d7fa6017fe8fb806c50641ca635576bbc04e5b09a8e99"
+  "record_sha256": "d3e8104d798d5596457fb9a68f18b3c0105d5d342de6de75d7d43b0342c96d99"
 }

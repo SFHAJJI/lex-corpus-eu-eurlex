@@ -3,7 +3,7 @@
   "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32013L0036R(06)",
   "work_identifier": "http://publications.europa.eu/resource/celex/32013L0036R(06)",
   "publisher": "eu-eurlex",
-  "document_type": "CORRIGENDUM",
+  "document_type": "DIR",
   "valid_from": "2020-06-26",
   "valid_time_source": "publisher",
   "publication_date": "2020-06-26",
@@ -53,6 +53,12 @@
       "observed_from": "2026-08-21T03:30:04Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-22T03:21:40Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
     }
   ],
   "expressions": [
@@ -81,7 +87,7 @@
   "relations": [],
   "raw": {
     "celex": "32013L0036R(06)",
-    "legal_form": "CORRIGENDUM",
+    "legal_form": "DIR",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression"
@@ -553,5 +559,5 @@
   "document_roles": [
     "corrigendum"
   ],
-  "record_sha256": "de5ce1039f9ca6547d6f4c44e0a9bdb93efeff4c8fd682390ed6168311e938f2"
+  "record_sha256": "432b6fb77c4d2ac7797990d892bbf8f21dfebc4fa190550ca39556e1f3c5608c"
 }

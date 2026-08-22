@@ -3,7 +3,7 @@
   "publisher_version_identifier": "http://publications.europa.eu/resource/celex/32020R1783R(01)",
   "work_identifier": "http://publications.europa.eu/resource/celex/32020R1783R(01)",
   "publisher": "eu-eurlex",
-  "document_type": "REG",
+  "document_type": "CORRIGENDUM",
   "valid_from": "2023-10-26",
   "valid_time_source": "publisher",
   "publication_date": "2023-10-26",
@@ -65,6 +65,12 @@
       "observed_from": "2026-08-21T03:30:04Z",
       "scope": "version",
       "detail": "fields=document_type,raw.legal_form"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-22T03:21:40Z",
+      "scope": "version",
+      "detail": "fields=document_type,raw.legal_form"
     }
   ],
   "expressions": [
@@ -114,7 +120,7 @@
   "relations": [],
   "raw": {
     "celex": "32020R1783R(01)",
-    "legal_form": "REG",
+    "legal_form": "CORRIGENDUM",
     "hierarchy": "secondary_eu_law",
     "binding_status": "unknown",
     "consolidation_status": "original_official_expression"
@@ -642,5 +648,5 @@
   "document_roles": [
     "corrigendum"
   ],
-  "record_sha256": "6d13f0cf4c8eb160e5ade95777bf97ef757fed692147982dbfbc97cbfe17975d"
+  "record_sha256": "26f274fd4e223528b929160edd599997cba6cec35c483ccad184700b217e3181"
 }
